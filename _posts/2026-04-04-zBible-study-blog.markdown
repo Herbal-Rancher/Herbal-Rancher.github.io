@@ -50,7 +50,7 @@ I am using structured inductive study resources to guide my process. You can exp
 </p>
 <p>
 🔗 <strong><a href="https://www.precept.org/" target="_blank">Precept Bible Study Resources</a><br>
-📄 <a href="/assets/Precept-Bible-Study-Method.pdf" target="_blank">Precept Bible Study Method (PDF)</a></strong>
+📄 <a href="/assets/Precept-Bible-Study-Method_Discovery-Study.pdf" target="_blank">Precept Bible Study Method (PDF)</a></strong>
 </p>
 <hr>
 <h3><strong>What to Expect</strong></h3>
