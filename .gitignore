@@ -1,0 +1,19 @@
+# Ignore Personal backup files
+_documents
+
+# Ignore Visual Studio files
+.vs/
+_first-site/.vs/
+
+# Ignore system files
+*.vsidx
+
+# Ignore Jekyll build files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata/
+
+# Ignore Ruby/Bundler
+.bundle/
+vendor/
