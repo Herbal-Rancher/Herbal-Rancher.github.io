@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Lab Walkthroughs
-permalink: /Lab-Walkthroughs/
+permalink: portfolio/formative-lessons/Network-Portfolio/
 ---
 
-<h1>Welcome to My Lab Walkthroughs</h1>
+<h1>Welcome to My Network+ Portfolio</h1>
 
-{% for post in site.categories.labs %}
+{% for post in site.categories.network %}
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <p>{{ post.date | date: "%B %d, %Y" }}</p>
   <p>{{ post.excerpt }}</p>

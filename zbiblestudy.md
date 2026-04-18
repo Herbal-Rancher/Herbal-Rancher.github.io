@@ -14,3 +14,11 @@ permalink: /zBible-Study/
   <a href="{{ post.url }}">Read More →</a>
   <div style="height:1px; background:#ddd; margin:30px 0;"></div>
 {% endfor %}
+
+## 🔗 Navigation
+
+* **[Refresh zBible Study](/zBible-study/)**
+* **[Home](/)**
+* **[Network+ Portfolio](/portfolio/)**
+
+---

@@ -1,9 +1,68 @@
 ---
 layout: post
-title:  "Creating structure for personal zBible Study!"
+title:  "My Study Approach: Observation, Interpretation, Application!"
 date:   2026-04-04 15:15:15 -0700
-categories: zbible
+categories: [zbible, genesis, observation]
+tags: [genesis, inductive-study, observation, creation, patterns, word, holy-spirit]
 ---
+
+## My Study Approach: Observation, Interpretation, Application
+
+---
+
+Alongside my technical studies in networking, I am committed to a structured and intentional approach to studying the First Testament. I am beginning in Genesis and working through each book systematically using the **[Precept Bible Study Method](https://www.precept.org/study/precept-bible-study-method/)**.
+
+This approach emphasizes understanding the text through careful observation, thoughtful interpretation, and practical application. Rather than relying solely on external commentary, I engage directly with the text to build a deeper and more personal understanding.
+
+<!--more-->
+
+---
+
+## What Is Inductive Study?
+
+The inductive method is built on three key steps:
+
+- **Observation** – Identifying what the text says by noting key words, themes, and structure  
+- **Interpretation** – Understanding what the text means in its proper context  
+- **Application** – Applying the insights to personal growth and daily life  
+
+This process encourages active learning, critical thinking, and consistency—skills that also directly support my development in technical fields like networking.
+
+---
+
+## How This Fits Into My Learning Journey
+
+Just as I document my progress in networking through structured lab work and portfolio development, I approach my Bible study with the same level of discipline and reflection.
+
+Both areas of study reinforce:
+
+- Analytical thinking  
+- Attention to detail  
+- Structured problem-solving  
+- Consistency in learning  
+
+This dual approach reflects my commitment to both **technical and personal growth**.
+
+---
+
+## Resources I’m Using
+
+I am using structured inductive study resources to guide my process:
+
+- 🔗 **[Precept Bible Study Resources](https://www.precept.org/)**
+- 📄 **[Precept Bible Study Method (PDF)](/assets/docs/Precept-Bible-Study-Method_Discovery-Study.pdf)**
+
+---
+
+## What to Expect
+
+As I move through Genesis and beyond, I will document key insights, observations, and reflections from my study. Each entry will build on the last, creating a structured record of my progress through the First Testament.
+
+---
+
+## Closing
+
+This study is an ongoing journey. By applying a consistent and thoughtful method, I aim to grow in understanding over time while documenting that growth along the way.
 <div style="max-width: 800px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6;">
 <h3><strong>My Study Approach: Observation, Interpretation, Application</strong></h3>
 <hr>
@@ -50,7 +109,7 @@ I am using structured inductive study resources to guide my process. You can exp
 </p>
 <p>
 🔗 <strong><a href="https://www.precept.org/" target="_blank">Precept Bible Study Resources</a><br>
-📄 <a href="/assets/Precept-Bible-Study-Method_Discovery-Study.pdf" target="_blank">Precept Bible Study Method (PDF)</a></strong>
+📄 <a href="/assets/docs/Precept-Bible-Study-Method_Discovery-Study.pdf" target="_blank">Precept Bible Study Method (PDF)</a></strong>
 </p>
 <hr>
 <h3><strong>What to Expect</strong></h3>
@@ -63,3 +122,11 @@ As I move through Genesis and beyond, I will document key insights, observations
 This study is an ongoing journey. By applying a consistent and thoughtful method, I aim to grow in understanding over time while documenting that growth along the way.
 </p>
 </div>
+---
+
+## 🔗 Navigation
+
+* **[zBible Study](/portfolio/zBible-study/)**
+* **[Home](/)**
+
+---

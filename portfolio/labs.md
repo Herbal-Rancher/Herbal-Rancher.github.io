@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Network+ Portfolio
-permalink: /Network-Portfolio/
+permalink: /Lab-Walkthroughs/
 ---
 
-<h1>Welcome to My Network+ Portfolio</h1>
+<h1>Welcome to My Lab Walkthroughs</h1>
 
-{% for post in site.categories.network %}
+{% for post in site.categories.labs %}
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <p>{{ post.date | date: "%B %d, %Y" }}</p>
   <p>{{ post.excerpt }}</p>

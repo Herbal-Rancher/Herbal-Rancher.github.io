@@ -1,20 +1,25 @@
 ---
 layout: page
 permalink: /
+title: ""
+tags: [home, overview, navigation]
 ---
-<h2>Home</h2>
+# Home
 
-<p>
-Welcome to my blogs. I’m an IT student at CalBright College focused on building practical networking skills through my Network+ studies and hands-on assignments at Calbright College.
-</p>
-<p>
-Explore my 
-<strong><a href="/Network-Portfolio/">Network+ Portfolio</a></strong> where I showcase my learning, projects, and growth, or dive into my 
-<strong><a href="/Lab-Walkthroughs/">Lab Walkthroughs</a></strong>, where I document step-by-step processes and problem-solving in real networking labs.
-</p>
-<p>
-Alongside my technical journey, I’m also engaged in a deep, personal study of the First Testament. You can follow my progress in my 
-<strong><a href="/zBible-Study/">zBible Study</a></strong>, beginning with Genesis and continuing book by book.
-</p>
-<p><b>Shall we journey together!</b></p>
-<strong><a href="/Network-Portfolio/">Network Technology Portfolio</a> | <a href="/Lab-Walkthroughs/">Lab Walkthroughs</a> | <a href="/zBible-Study/">zBible Study</a></strong>
+Welcome to my blog and portfolio. I am an IT student at Calbright College focused on building practical networking skills through Network+ studies and hands-on coursework.
+
+Explore my **[Network+ Portfolio](/portfolio/)**, where I share my networking development journey through structured lessons, projects, lab walkthroughs, and applied problem-solving.
+
+Alongside my technical journey, I am also engaged in a personal study of the First Testament. You can follow that progress in my **[zBible Study](/zbible-study/)** posts, beginning with Genesis and continuing book by book.
+
+**Shall we journey together?**
+
+---
+
+## 🔗 Navigation
+
+* **[Home](/)**
+* **[Network+ Portfolio](/portfolio/)**
+* **[zBible Study](/zBible-study/)**
+
+---
