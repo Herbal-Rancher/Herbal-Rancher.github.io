@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Initial GitHub Site Setup"
+title: "1.1 Initial GitHub Site Setup"
 lesson: 1.0
 order: 1.1
 categories: [portfolio, blog, walkthroughs]

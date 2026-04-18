@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Update Local Project With GitHub Latest Repository"
+title: "1.4 Update Local Project With GitHub Latest Repository"
 lesson: 1.0
 order: 1.4
 categories: [portfolio, blog, walkthroughs]

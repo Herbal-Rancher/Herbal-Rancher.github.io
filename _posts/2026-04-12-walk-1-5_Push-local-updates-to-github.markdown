@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Push Latest Updates to GitHub Repository"
+title: "1.5 Push Latest Updates to GitHub Repository"
 lesson: 1.0
 order: 1.5
 categories: [portfolio, blog, walkthroughs]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git Branching and Workflow"
+title: "1.3 Git Branching and Workflow"
 lesson: 1.0
 order: 1.3
 categories: [portfolio, blog, walkthroughs]

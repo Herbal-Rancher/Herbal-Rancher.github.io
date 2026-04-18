@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating a Local Project From My Remote GitHub Repository"
+title: "1.2 Creating a Local Project From My Remote GitHub Repository"
 lesson: 1.0
 order: 1.2
 categories: [portfolio, blog, walkthroughs]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quick Reference Guide: Git Commands"
+title: "1.9 Quick Reference Guide: Git Commands"
 lesson: 1.0
 order: 1.9
 categories: [portfolio, walkthroughs, network]
