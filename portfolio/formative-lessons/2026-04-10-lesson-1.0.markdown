@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Lesson 01"
 lesson: 1.0
 categories: [lessons]
 date: 2026-04-11 11:11:11 -0100
