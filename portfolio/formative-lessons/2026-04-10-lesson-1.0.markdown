@@ -1,11 +1,14 @@
 ---
 layout: page
+title: ""
 lesson: 1.0
 categories: [lessons]
 date: 2026-04-11 11:11:11 -0100
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/formative-lessons/lesson-1-0/
 ---
+
+## Lesson 01
 
 This lesson introduces the foundational concepts of Git and GitHub, focusing on version control, repository management, and workflow best practices.
 

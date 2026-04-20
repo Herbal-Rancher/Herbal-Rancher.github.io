@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+title: ""
 lesson: 2.0
 categories: [lessons]
 date: 2026-04-17 11:11:11 -0100
@@ -7,6 +8,7 @@ tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/formative-lessons/lesson-2-0/
 ---
 
+## Lesson 02
 TBD
 <!--more-->
 ---
@@ -30,8 +32,8 @@ In this lesson, I developed an understanding of:
 
 This section documents .... :
 
-- [2.1 TBD 2.1]( /portfolio/walkthroughs/lesson-2-0/walkthroughs-2-1/)
-- [2.2 TBD 2.2]( /portfolio/walkthroughs/lesson-2-0/walkthroughs-2-2/)
+- [2.1 TBD 2.1]( /tbd.html)
+- [2.2 TBD 2.2]( /tbd.html)
 
 📎 Supporting materials and submissions will be linked here as they are finalized.
 
