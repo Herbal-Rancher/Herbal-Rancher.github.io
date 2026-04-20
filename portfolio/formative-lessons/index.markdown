@@ -22,18 +22,50 @@ Each lesson represents a key learning milestone and is supported by related hand
 ---
 ## [Lesson 01]({{ '/portfolio/formative-lessons/lesson-1-0/' | relative_url }})
 
-- [1.1 Initial GitHub Site Setup]({{ '/portfolio/walkthroughs/lesson-1-0/walkthroughs-1-1/' | relative_url }})
-- [1.2 Creating a Local Project From My Remote GitHub Repository]({{ '/portfolio/walkthroughs/lesson-1-0/walkthroughs-1-2/' | relative_url }})
-- [1.3 Git Branching and Workflow]({{ '/portfolio/walkthroughs/lesson-1-0/walkthroughs-1-3/' | relative_url }})
-- [1.4 Update Local Project With GitHub Latest Repository]({{ '/portfolio/walkthroughs/lesson-1-0/walkthroughs-1-4/' | relative_url }})
-- [1.5 Push Latest Updates to GitHub Repository]({{ '/portfolio/walkthroughs/lesson-1-0/walkthroughs-1-5/' | relative_url }})
-- [1.9 Quick Reference Guide: Git Commands]({{ '/portfolio/walkthroughs/lesson-1-0/walkthroughs-1-9/' | relative_url }})
+{% assign walkthroughs = site.posts
+  | where: "lesson", "1.0"
+  | where_exp: "post", "post.categories contains 'walkthroughs'"
+  | sort: "order" %}
+
+{% if walkthroughs.size > 0 %}
+  <ul>
+  {% for post in walkthroughs %}
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+{% else %}
+  <p><b><em><a href="/tbd.html">2.1 TBD 2.1</a></em></b></p>
+{% endif %}
 
 ---
 
 ## [Lesson 02]({{ '/portfolio/formative-lessons/lesson-2-0/' | relative_url }})
 
-* TBD
+{% assign walkthroughs = site.posts
+  | where: "lesson", "2.0"
+  | where_exp: "post", "post.categories contains 'walkthroughs'"
+  | sort: "order" %}
+
+{% if walkthroughs.size > 0 %}
+  <ul>
+  {% for post in walkthroughs %}
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+{% else %}
+  <ul>
+    <li><p><b><em><a href="/tbd.html">2.1 TBD 2.1</a></em></b></p></li>
+  </ul>
+{% endif %}
+
 
 ---
 

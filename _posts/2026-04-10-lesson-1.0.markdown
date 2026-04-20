@@ -44,14 +44,25 @@ This section documents creation of my GitHub Pages site and serves as the founda
 Each Lesson builds on the previous one, culminating in a fully functional GitHub Pages site. Below are the 
 Lesson 01 blog pages that I have created so far:
 
-- [1.1 Initial GitHub Site Setup]( /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-1/)
-- [1.2 Creating a Local Project From My Remote GitHub Repository]( /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-2/)
-- [1.3 Git Branching and Workflow]( /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-3/)
-- [1.4 Update Local Project With GitHub Latest Repository]( /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-4/)
-- [1.5 Push Latest Updates to GitHub Repository]( /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-5/)
-- [1.9 Quick Reference Guide: Git Commands]( /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-9/)
+{% assign walkthroughs = site.posts
+  | where: "lesson", "1.0"
+  | where_exp: "post", "post.categories contains 'walkthroughs'"
+  | sort: "order" %}
 
-📎 Supporting materials and submissions will be linked here as they are finalized.
+{% if walkthroughs.size > 0 %}
+  <ul>
+  {% for post in walkthroughs %}
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+{% else %}
+  <p><em>TBD</em></p>
+{% endif %}
+📎 Supporting materials and submissions will be linked here as they are finalized
 
 ---
 
