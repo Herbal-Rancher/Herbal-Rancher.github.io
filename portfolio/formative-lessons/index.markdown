@@ -45,6 +45,9 @@ Each lesson represents a key learning milestone and is supported by related hand
 
 ## [Lesson 02]({{ '/portfolio/formative-lessons/lesson-2-0/' | relative_url }})
 
+*  https://herbal-rancher.github.io/assets/docs/2-0-Milestone-Assessment_Network-Systems.pdf
+*  https://herbal-rancher.github.io/assets/docs/2-0-Summative-Assessment_Network-Systems.pdf
+
 {% assign walkthroughs = site.posts
   | where: "lesson", "2.0"
   | where_exp: "post", "post.categories contains 'walkthroughs'"
