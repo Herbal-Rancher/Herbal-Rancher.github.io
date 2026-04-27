@@ -3,7 +3,7 @@ layout: post
 title: "1.3 Git Branching and Workflow"
 lesson: 1.0
 order: 1.3
-categories: [portfolio, blog, walkthroughs]
+categories: [portfolio, blog, walkthroughs, lab]
 date: 2026-04-11 11:13:14 -0200
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-3/

@@ -22,6 +22,23 @@ Each lesson represents a key learning milestone and is supported by related hand
 ---
 ## [Lesson 01]({{ '/portfolio/formative-lessons/lesson-1-0/' | relative_url }})
 
+#### Milestone and Summative Assessments
+
+<UL><li>
+  <a href="/assets/docs/1-0-Summative-Assessment_Lesson-1-1-7-Network-Topology-Design.JPG"
+   target="_blank"
+   rel="noopener noreferrer">
+    1.0 Milestone Assessment - Network Topology Design (JPG)
+  </a></li><li>
+   <a href="/assets/docs/1-0-Summative-Assessment_Networking-OSI-model.pdf"
+   target="_blank"
+   rel="noopener noreferrer">
+    1.0 Summative Assessment - Network OSI Open Systems Interconnect Model (PDF)
+  </a>
+</li></UL>
+
+#### Labs and Walkthroughs
+
 {% assign walkthroughs = site.posts
   | where: "lesson", "1.0"
   | where_exp: "post", "post.categories contains 'walkthroughs'"
@@ -31,22 +48,34 @@ Each lesson represents a key learning milestone and is supported by related hand
   <ul>
   {% for post in walkthroughs %}
     <li>
-      <a href="{{ post.url | relative_url }}">
+      <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
         {{ post.title }}
       </a>
     </li>
   {% endfor %}
   </ul>
 {% else %}
-  <p><b><em><a href="/tbd.html">2.1 TBD 2.1</a></em></b></p>
 {% endif %}
 
 ---
 
 ## [Lesson 02]({{ '/portfolio/formative-lessons/lesson-2-0/' | relative_url }})
 
-*  https://herbal-rancher.github.io/assets/docs/2-0-Milestone-Assessment_Network-Systems.pdf
-*  https://herbal-rancher.github.io/assets/docs/2-0-Summative-Assessment_Network-Systems.pdf
+#### Milestone and Summative Assessments
+<UL><li>
+  <a href="/assets/docs/2-0-Milestone-Assessment_Network-Systems.pdf"
+   target="_blank"
+   rel="noopener noreferrer">
+    2.0 Milestone Assessment - Network Systems (PDF)
+  </a></li><li>
+   <a href="/assets/docs/2-0-Summative-Assessment_Network-Systems.pdf"
+   target="_blank"
+   rel="noopener noreferrer">
+    2.0 Summative Assessment - Network Systems (PDF)
+  </a>
+</li></UL>
+
+#### Labs and Walkthroughs
 
 {% assign walkthroughs = site.posts
   | where: "lesson", "2.0"
@@ -57,18 +86,14 @@ Each lesson represents a key learning milestone and is supported by related hand
   <ul>
   {% for post in walkthroughs %}
     <li>
-      <a href="{{ post.url | relative_url }}">
+      <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
         {{ post.title }}
       </a>
     </li>
   {% endfor %}
-  </ul>
+   </ul>
 {% else %}
-  <ul>
-    <li><p><b><em><a href="/tbd.html">2.1 TBD 2.1</a></em></b></p></li>
-  </ul>
 {% endif %}
-
 
 ---
 

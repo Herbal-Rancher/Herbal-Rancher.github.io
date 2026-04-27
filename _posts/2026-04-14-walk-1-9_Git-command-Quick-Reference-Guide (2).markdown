@@ -3,7 +3,7 @@ layout: post
 title: "1.9 Quick Reference Guide: Git Commands"
 lesson: 1.0
 order: 1.9
-categories: [portfolio, walkthroughs, network]
+categories: [portfolio, blog, walkthroughs, lab]
 date: 2026-04-14 11:14:11 -0700
 tags: [github-pages, jekyll, git, troubleshooting, setup, reference-guide]
 permalink: /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-9/

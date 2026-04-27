@@ -8,7 +8,7 @@ tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/formative-lessons/lesson-2-0/
 ---
 
-## Lesson 02 (TBD)
+## Lesson 02 - Network Systems
 
 <!--more-->
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "1.1 Initial GitHub Site Setup"
 lesson: 1.0
 order: 1.1
-categories: [portfolio, blog, walkthroughs]
+categories: [portfolio, blog, walkthroughs, lab]
 date: 2026-04-10 11:11:14 -0700
 tags: [github-pages, jekyll, git, troubleshooting, setup]
 permalink: /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-1/

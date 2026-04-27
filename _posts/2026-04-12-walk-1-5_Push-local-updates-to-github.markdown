@@ -3,13 +3,13 @@ layout: post
 title: "1.5 Push Latest Updates to GitHub Repository"
 lesson: 1.0
 order: 1.5
-categories: [portfolio, blog, walkthroughs]
+categories: [portfolio, blog, walkthroughs, lab]
 date: 2026-04-12 11:12:12 -0200
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-5/
 ---
 
-definitely need something better than this title, but for now, this is the walkthrough for how to update your local repository with the latest changes from GitHub before you start working on your next blog post. This is an important step to ensure that you are working with the most up-to-date version of your project and to avoid any potential conflicts when you push your changes back to GitHub.	
+This is the walkthrough on how to update your local repository with the latest changes from GitHub before you start working on your next blog post. This is an important step to ensure that you are working with the most up-to-date version of your project and to avoid any potential conflicts when you push your changes back to GitHub.	
 
 ---
 <!--more-->
