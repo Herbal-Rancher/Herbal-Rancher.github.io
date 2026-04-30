@@ -139,7 +139,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 
 ---
 
-## [Lesson 11]({{ '/portfolio/formative-lessons/lesson-11-0/' | relative_url }})
+## Lesson 11
 
 #### Milestone and Summative Assessments
 <UL><li>
