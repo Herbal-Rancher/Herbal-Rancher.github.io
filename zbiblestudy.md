@@ -1,10 +1,12 @@
 ---
 layout: default
-title: zBible Study
+title: "zBible Study"
 permalink: /zBible-Study/
 ---
 
-<h1>Howdy and Welcome to zBible Study Posts</h1>
+# zBible Study
+This page serves as a dedicated space for my zBible study notes, reflections, and insights. It is designed to document my journey through 
+the Bible, capturing key learnings, personal reflections, and applications of biblical principles in my life.
 
 {% for post in site.categories.zbible %}
 

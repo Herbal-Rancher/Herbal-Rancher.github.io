@@ -4,7 +4,6 @@ title: "Network+ Portfolio"
 permalink: /portfolio/
 tags: [portfolio, index, navigation, projects]
 ---
-<br>
 
 This portfolio documents my learning, hands-on labs, and technical walkthroughs as I progress through my IT coursework.
 
@@ -32,7 +31,6 @@ Each section is designed to connect theory with practice, ensuring a balanced an
 
 * **[Lab Walkthroughs](/portfolio/walkthroughs/)**  
   * Step-by-step documentation of lab activities, configurations, and troubleshooting processes that demonstrate the application of concepts in real-world scenarios.
-
 
 ---
 

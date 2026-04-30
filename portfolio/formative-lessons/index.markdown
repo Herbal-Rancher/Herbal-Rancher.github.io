@@ -18,7 +18,6 @@ Each lesson represents a key learning milestone and is supported by related hand
 * Connect theory to practical application
 * Track learning progression over time
 
-
 ---
 ## [Lesson 01]({{ '/portfolio/formative-lessons/lesson-1-0/' | relative_url }})
 

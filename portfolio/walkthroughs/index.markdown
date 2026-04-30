@@ -17,7 +17,6 @@ Each walkthrough provides step-by-step actions, commands, and real-world problem
 * Document repeatable workflows
 * Capture troubleshooting and debugging processes
 
-
 ---
 
 {% for post in site.categories.walkthroughs %}
