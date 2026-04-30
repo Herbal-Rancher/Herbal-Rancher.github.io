@@ -18,7 +18,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 * Connect theory to practical application
 * Track learning progression over time
 
----
+<hr style="border: 2px solid #ccc;">
 ## Lesson 01
 
 #### Milestone and Summative Assessments
@@ -56,7 +56,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 {% else %}
 {% endif %}
 
----
+<hr style="border: 2px solid #ccc;">
 
 ## Lesson 02
 
@@ -94,7 +94,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 {% else %}
 {% endif %}
 
----
+<hr style="border: 2px solid #ccc;">
 
 ## Lesson 03
 
@@ -137,7 +137,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 {% else %}
 {% endif %}
 
----
+<hr style="border: 2px solid #ccc;">
 
 ## Lesson 11
 
@@ -171,7 +171,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 {% else %}
 {% endif %}
 
----
+<hr style="border: 2px solid #ccc;">
 
 ## 🔗 Navigation
 
