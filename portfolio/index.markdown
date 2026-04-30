@@ -8,7 +8,7 @@ tags: [portfolio, index, navigation, projects]
 
 This portfolio documents my learning, hands-on labs, and technical walkthroughs as I progress through my IT coursework.
 
-## 🎯 Purpose
+## Purpose
 
 This portfolio is designed to:
 
@@ -19,7 +19,7 @@ This portfolio is designed to:
 
 ---
 
-## 🧭 Learning Structure
+## Learning Structure
 
 This portfolio supports both conceptual learning and practical application by providing a structured framework to plan, document, store, and review the use of network technologies. 
 
@@ -36,7 +36,7 @@ Each section is designed to connect theory with practice, ensuring a balanced an
 
 ---
 
-## 📘 Calbright SiteMap Organization
+## Calbright SiteMap Organization
 
 This portfolio is structured in alignment with the [CalBright Network Technology Course IT532 & IT533: Introduction to Networks/Virtual Labs  - SiteMap (PDF)](/assets/docs/IT532 & IT533_ Introduction to Networks_Virtual Labs - SiteMap_01.25.pdf). The site map provides a clear progression through course competencies and serves as a framework for organizing both conceptual learning and hands-on lab work.
 

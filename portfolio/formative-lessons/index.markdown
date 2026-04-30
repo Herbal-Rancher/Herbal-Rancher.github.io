@@ -12,7 +12,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 * Reinforce conceptual understanding
 * Connect theory to practical application
@@ -25,12 +25,12 @@ Each lesson represents a key learning milestone and is supported by related hand
 #### Milestone and Summative Assessments
 
 <UL><li>
-  <a href="/assets/docs/1-0-Summative-Assessment_Lesson-1-1-7-Network-Topology-Design.JPG"
+  <a href="/assets/docs/01-0-Milestone_Assessment_Network-OSI-model.pdf"
    target="_blank"
    rel="noopener noreferrer">
-    1.0 Milestone Assessment - Network Topology Design (JPG)
+    1.0 Milestone Assessment - Network OSI Model (PDF)
   </a></li><li>
-   <a href="/assets/docs/1-0-Summative-Assessment_Networking-OSI-model.pdf"
+   <a href="/assets/docs/01-0-Summative-Assessment_Network-OSI-model.pdf"
    target="_blank"
    rel="noopener noreferrer">
     1.0 Summative Assessment - Network OSI Open Systems Interconnect Model (PDF)
@@ -63,12 +63,12 @@ Each lesson represents a key learning milestone and is supported by related hand
 
 #### Milestone and Summative Assessments
 <UL><li>
-  <a href="/assets/docs/2-0-Milestone-Assessment_Network-Systems.pdf"
+  <a href="/assets/docs/02-0-Milestone-Assessment_Network-Systems.pdf"
    target="_blank"
    rel="noopener noreferrer">
     2.0 Milestone Assessment - Network Systems (PDF)
   </a></li><li>
-   <a href="/assets/docs/2-0-Summative-Assessment_Network-Systems.pdf"
+   <a href="/assets/docs/02-0-Summative-Assessment_Network-Systems.pdf"
    target="_blank"
    rel="noopener noreferrer">
     2.0 Summative Assessment - Network Systems (PDF)
@@ -84,6 +84,40 @@ Each lesson represents a key learning milestone and is supported by related hand
 
 {% if walkthroughs.size > 0 %}
   <ul>
+  {% for post in walkthroughs %}
+    <li>
+      <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
+        {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+   </ul>
+{% else %}
+{% endif %}
+
+---
+
+## [Lesson 11]({{ '/portfolio/formative-lessons/lesson-11-0/' | relative_url }})
+
+#### Milestone and Summative Assessments
+<UL><li>
+ 
+   <a href="/assets/docs/11-0-Milestone_Assessment_Network_Topologies.pdf"
+   target="_blank"
+   rel="noopener noreferrer">
+    11.0 Milestone Assessment - Network Topologies (PDF)
+  </a>
+</li></UL>
+
+#### Labs and Walkthroughs
+
+{% assign walkthroughs = site.posts
+  | where: "lesson", "11.0"
+  | where_exp: "post", "post.categories contains 'walkthroughs'"
+  | sort: "order" %}
+
+{% if walkthroughs.size > 0 %}
+ <ul>
   {% for post in walkthroughs %}
     <li>
       <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">

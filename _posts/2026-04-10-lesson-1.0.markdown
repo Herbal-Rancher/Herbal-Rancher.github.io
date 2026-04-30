@@ -16,7 +16,7 @@ It aligns with the Calbright College Network Technology Program structure and se
 
 ---
 <!--more-->
-### 📘 Overview
+### Overview
 
 In this lesson, I developed an understanding of:
 
@@ -28,7 +28,7 @@ In this lesson, I developed an understanding of:
 
 ---
 
-### 🧠 Key Concepts
+### Key Concepts
 
 - **Git** as a version control system  
 - **Repositories** (local and remote)  
@@ -38,7 +38,7 @@ In this lesson, I developed an understanding of:
 
 ---
 
-### 📂 Walkthroughs & Submissions
+### Walkthroughs & Submissions
 
 This section documents creation of my GitHub Pages site and serves as the foundation for all future work. 
 Each Lesson builds on the previous one, culminating in a fully functional GitHub Pages site. Below are the 
@@ -66,7 +66,7 @@ Lesson 01 blog pages that I have created so far:
 
 ---
 
-### 🎯 Learning Outcomes
+### Learning Outcomes
 
 By completing this lesson, I:
 
