@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "12.7 Packet Tracer Lab 7: Network Cabling and Physical Topology Reference"
-lesson: 2.0
-order: 2.7
+title: "11.7 Packet Tracer Lab 7: Network Cabling and Physical Topology Reference"
+lesson: 11.0
+order: 11.7
 categories: [portfolio, blog, walkthroughs, lab, network]
 tags: [packet-tracer, cabling, topology, networking-basics]
-permalink: /portfolio/walkthroughs/lesson-2-0/lab-7-cabling-topology-reference/
+permalink: /portfolio/walkthroughs/lesson-11-0/cabling-topology-reference/
 ---
 
-## Module 12 Packet Tracer Lab 7:  Network Cabling and Physical Topology Reference
+## Module 11 Packet Tracer Lab 7:  Network Cabling and Physical Topology Reference
 
 This lab was more exploratory than configuration-focused, but it helped reinforce foundational networking concepts related to cable selection, physical topology, and device connectivity.
 

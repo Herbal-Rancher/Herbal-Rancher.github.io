@@ -19,7 +19,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 * Track learning progression over time
 
 ---
-## [Lesson 01]({{ '/portfolio/formative-lessons/lesson-1-0/' | relative_url }})
+## Lesson 01
 
 #### Milestone and Summative Assessments
 
@@ -58,7 +58,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 
 ---
 
-## [Lesson 02]({{ '/portfolio/formative-lessons/lesson-2-0/' | relative_url }})
+## Lesson 02
 
 #### Milestone and Summative Assessments
 <UL><li>
@@ -78,6 +78,49 @@ Each lesson represents a key learning milestone and is supported by related hand
 
 {% assign walkthroughs = site.posts
   | where: "lesson", "2.0"
+  | where_exp: "post", "post.categories contains 'walkthroughs'"
+  | sort: "order" %}
+
+{% if walkthroughs.size > 0 %}
+  <ul>
+  {% for post in walkthroughs %}
+    <li>
+      <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
+        {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+   </ul>
+{% else %}
+{% endif %}
+
+---
+
+## Lesson 03
+
+#### Milestone and Summative Assessments
+<UL><li>
+ <a href="/assets/docs/03-0-Discussion-IP-Address-Subclasses"
+   target="_blank"
+   rel="noopener noreferrer">
+    3.0 Discussion: IP Address Subclasses (PDF)
+  </a></li><li>
+  <a href="/assets/docs/TBD.HTML"
+   target="_blank"
+   rel="noopener noreferrer">
+    3.0 Milestone Assessment - TBD (PDF)
+  </a></li><li>
+   <a href="/assets/docs/TBD.HTML"
+   target="_blank"
+   rel="noopener noreferrer">
+    3.0 Summative Assessment - TBD (PDF)
+  </a>
+</li></UL>
+
+#### Labs and Walkthroughs
+
+{% assign walkthroughs = site.posts
+  | where: "lesson", "3.0"
   | where_exp: "post", "post.categories contains 'walkthroughs'"
   | sort: "order" %}
 

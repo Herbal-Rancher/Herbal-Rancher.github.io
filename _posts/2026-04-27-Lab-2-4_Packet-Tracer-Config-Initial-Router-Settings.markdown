@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "12.4 Packet Tracer Lab 4: Configure Initial Router Settings"
-lesson: 2.0
-order: 2.4
+title: "11.4 Packet Tracer Lab 4: Configure Initial Router Settings"
+lesson: 11.0
+order: 11.4
 categories: [portfolio, blog, walkthroughs, lab, network]
 tags: [packet-tracer, router, cisco-ios, security, configuration]
-permalink: /portfolio/walkthroughs/lesson-2-0/lab-4-configure-initial-router-settings/
+permalink: /portfolio/walkthroughs/lesson-11-0/configure-initial-router-settings/
 ---
 
-## Module 12 Packet Tracer Lab 4: Configure Initial Router Settings
+## Module 11 Packet Tracer Lab 4: Configure Initial Router Settings
 
 In this lab, I configured basic administrative and security settings on a Cisco router using Cisco IOS.
 

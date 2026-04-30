@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "12.8 Packet Tracer Lab 8: Connect a Router to a LAN"
-lesson: 2.0
-order: 2.8
+title: "11.8 Packet Tracer Lab 8: Connect a Router to a LAN"
+lesson: 11.0
+order: 11.8
 categories: [portfolio, blog, walkthroughs, lab, network]
 tags: [packet-tracer, cabling, topology, networking-basics]
-permalink: /portfolio/walkthroughs/lesson-2-0/lab-8-connect-router-to-lan/
+permalink: /portfolio/walkthroughs/lesson-211-0/connect-router-to-lan/
 ---
 
-## Module 12 Packet Tracer Lab 8: Connect a Router to a LAN
+## Module 11 Packet Tracer Lab 8: Connect a Router to a LAN
 
 In this lab, I configured multiple router interfaces across several LANs and a WAN connection. I used verification commands to inspect interfaces, review routing tables, and test end-to-end connectivity across the network.
 
