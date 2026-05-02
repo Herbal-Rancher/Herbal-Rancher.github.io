@@ -22,5 +22,6 @@ the Bible, capturing key learnings, personal reflections, and applications of bi
 * **[Refresh zBible Study](/zBible-study/)**
 * **[Home](/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 
 ---
