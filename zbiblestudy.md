@@ -18,7 +18,7 @@ the Bible, capturing key learnings, personal reflections, and applications of bi
 
 ## 🔗 Navigation
 
-* **[Refresh zBible Study](/zBible-study/)**
+* **[Refresh zBible Study](/zBible-Study/)**
 * **[Home](/)**
 * **[Network+ Portfolio](/portfolio/)**
 * **[Detailed Study Diagrams](/study-diagrams/)**

@@ -38,7 +38,7 @@ Each walkthrough provides step-by-step actions, commands, and real-world problem
 * **[Formative Modules](/portfolio/formative-modules/)**
 * **[Network+ Portfolio](/portfolio/)**
 * **[Detailed Study Diagrams](/study-diagrams/)**
-* **[zBible Study](/zBible-study/)**
+* **[zBible Study](/zBible-Study/)**
 * **[Home](/)**
 
 ---

@@ -21,6 +21,6 @@ Alongside my technical journey, I am also engaged in a personal study of the Fir
 * **[Home](/)**
 * **[Network+ Portfolio](/portfolio/)**
 * **[Detailed Study Diagrams](/study-diagrams/)**
-* **[zBible Study](/zBible-study/)**
+* **[zBible Study](/zBible-Study/)**
 
 ---

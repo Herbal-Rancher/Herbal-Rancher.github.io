@@ -179,7 +179,7 @@ Each module represents a key learning milestone and is supported by related hand
 * **[Walkthroughs](/portfolio/walkthroughs/)**
 * **[Network+ Portfolio](/portfolio/)**
 * **[Detailed Study Diagrams](/study-diagrams/)**
-* **[zBible Study](/zBible-study/)**
+* **[zBible Study](/zBible-Study/)**
 * **[Home](/)**
 
 ---

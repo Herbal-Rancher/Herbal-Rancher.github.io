@@ -126,7 +126,7 @@ This study is an ongoing journey. By applying a consistent and thoughtful method
 
 ## 🔗 Navigation
 
-* **[zBible Study](/portfolio/zBible-study/)**
+* **[zBible Study](/portfolio/zBible-Study/)**
 * **[Home](/)**
 
 ---

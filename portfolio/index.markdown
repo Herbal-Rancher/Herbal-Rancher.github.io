@@ -61,7 +61,7 @@ The [Calbright IT532 and IT533 SiteMap (PDF)](/assets/docs/IT532 & IT533_ Introd
 
 * **[Refresh Network+ Portfolio](/portfolio/)**
 * **[Detailed Study Diagrams](/study-diagrams/)**
-* **[zBible Study](/zBible-study/)**
+* **[zBible Study](/zBible-Study/)**
 * **[Home](/)**
 
 ---

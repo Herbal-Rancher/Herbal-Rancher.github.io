@@ -122,7 +122,7 @@ It’s how you begin to truly see.
 
 ## 🔗 Navigation
 
-* **[zBible Study](/portfolio/zBible-study/)**
+* **[zBible Study](/portfolio/zBible-Study/)**
 * **[Home](/)**
 
 ---
