@@ -100,6 +100,14 @@ These images are not meant to replace official course material, vendor documenta
 * **[View Distance Vector vs Link State Study Diagram](/assets/images/study-diagrams/distance-vector-vs-link-state-diagram.png)**
 
 ---
+### Structured Cabling Systems
+
+**Topic:** Structured cabling, network infrastructure, standards  
+**Reason for diagram:** I wanted to understand the different components and standards involved in structured cabling systems.
+
+* **[View Structured Cabling Systems Study Diagram](/assets/images/study-diagrams/structured-cabling-systems-diagram.png)**
+
+---
 
 ## Reflection
 
