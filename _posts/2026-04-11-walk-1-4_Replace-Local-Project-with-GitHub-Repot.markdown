@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "1.4 Update Local Project With GitHub Latest Repository"
-lesson: 1.0
+module: 1.0
 order: 1.4
 categories: [portfolio, blog, walkthroughs, lab]
 date: 2026-04-11 11:14:14 -0200
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
-permalink: /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-4/
+permalink: /portfolio/walkthroughs/module-1-0/update-local-project-with-github-latest-repository/
 ---
 
 Before starting a new blog post or walkthrough, it’s important to ensure your **local repository matches the latest version on GitHub**.
@@ -82,9 +82,10 @@ git push origin main
 
 ### 🔗 Navigation
 
-* **[Formative Lessons](/portfolio/formative-lessons/)**
+* **[Formative Modules](/portfolio/formative-modules/)**
 * **[Walkthroughs](/portfolio/walkthroughs/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[Home](/)**
 
 ---

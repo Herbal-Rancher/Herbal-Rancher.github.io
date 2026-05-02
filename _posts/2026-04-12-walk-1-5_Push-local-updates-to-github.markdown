@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "1.5 Push Latest Updates to GitHub Repository"
-lesson: 1.0
+module: 1.0
 order: 1.5
 categories: [portfolio, blog, walkthroughs, lab]
 date: 2026-04-12 11:12:12 -0200
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
-permalink: /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-5/
+permalink: /portfolio/walkthroughs/module-1-0/push-local-updates-to-github/
 ---
 
 This is the walkthrough on how to update your local repository with the latest changes from GitHub before you start working on your next blog post. This is an important step to ensure that you are working with the most up-to-date version of your project and to avoid any potential conflicts when you push your changes back to GitHub.	
@@ -43,7 +43,7 @@ This avoids overwrite conflicts.
 
 ```bash
 git add .
-git commit -m "updated lesson and walkthrough format, added content for all areas"
+git commit -m "updated module and walkthrough format, added content for all areas"
 git push origin main
 ```
 ---
@@ -59,9 +59,10 @@ git push origin main
 
 ### 🔗 Navigation
 
-* **[Formative Lessons](/portfolio/formative-lessons/)**
+* **[Formative Modules](/portfolio/formative-modules/)**
 * **[Walkthroughs](/portfolio/walkthroughs/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[Home](/)**
 
 ---

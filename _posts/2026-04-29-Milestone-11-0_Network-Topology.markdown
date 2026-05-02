@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "11.0 Milestone Walkthrough - Enterprise Network Redesign"
-lesson: 11.0
+module: 11.0
 order: 11.1
 categories: [portfolio, blog, walkthroughs, lab, network]
 tags: [network-design, vlan, switching, wireless, redundancy, troubleshooting, enterprise]
-permalink: /portfolio/walkthroughs/lesson-11-0/milestone-network-topologies-redesign/
+permalink: /portfolio/walkthroughs/module-11-0/milestone-network-topologies-redesign/
 ---
 
 ## Enterprise Network Redesign Walkthrough
@@ -293,11 +293,12 @@ These principles are foundational not only for networking, but also for **cybers
 
 ---
 
-## 🔗 Navigation
+### 🔗 Navigation
 
-* **[Formative Lessons](/portfolio/formative-lessons/)**
+* **[Formative Modules](/portfolio/formative-modules/)**
 * **[Walkthroughs](/portfolio/walkthroughs/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[Home](/)**
 
 ---

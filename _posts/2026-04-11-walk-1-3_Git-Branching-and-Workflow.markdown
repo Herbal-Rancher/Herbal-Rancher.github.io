@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "1.3 Git Branching and Workflow"
-lesson: 1.0
+module: 1.0
 order: 1.3
 categories: [portfolio, blog, walkthroughs, lab]
 date: 2026-04-11 11:13:14 -0200
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
-permalink: /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-3/
+permalink: /portfolio/walkthroughs/module-1-0/git-branching-and-workflow/
 ---
 
 This walkthrough documents the transition from a **basic Git workflow** to a more **structured, industry-standard branching workflow**.
@@ -50,7 +50,7 @@ This project uses a **feature branching model**:
 Example:
 
 ```
-feature/formative-lessons-index
+feature/formative-modules-index
 feature/walkthrough-2-update
 ```
 
@@ -80,7 +80,7 @@ git checkout -b feature/<feature-name>
 Example:
 
 ```bash
-git checkout -b feature/formative-lessons-index
+git checkout -b feature/formative-modules-index
 ```
 
 ---
@@ -95,7 +95,7 @@ Update files, create pages, or modify content.
 
 ```bash
 git add .
-git commit -m "added formative lessons index page"
+git commit -m "added formative modules index page"
 ```
 
 ---
@@ -163,7 +163,7 @@ Direct commits to `main` are acceptable for:
 
 ---
 
-### Lessons Learned
+### Modules Learned
 
 * Branching reduces risk during development
 * Keeping `main` stable ensures consistent deployments
@@ -228,9 +228,10 @@ git branch -d feature/<name>
 
 ### 🔗 Navigation
 
-* **[Formative Lessons](/portfolio/formative-lessons/)**
+* **[Formative Modules](/portfolio/formative-modules/)**
 * **[Walkthroughs](/portfolio/walkthroughs/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[Home](/)**
 
 ---

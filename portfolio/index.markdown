@@ -22,12 +22,12 @@ This portfolio is designed to:
 
 This portfolio supports both conceptual learning and practical application by providing a structured framework to plan, document, store, and review the use of network technologies. 
 
-It is organized into two main sections: **[Formative Lessons](/portfolio/formative-lessons/)** and **[Lab Walkthroughs](/portfolio/walkthroughs/)**. 
+It is organized into two main sections: **[Formative Modules](/portfolio/formative-modules/)** and **[Lab Walkthroughs](/portfolio/walkthroughs/)**. 
 Each section is designed to connect theory with practice, ensuring a balanced and progressive learning experience.
 
-* **[Formative Lessons](/portfolio/formative-lessons/)**  
+* **[Formative Modules](/portfolio/formative-modules/)**  
   * Core concept-based learning that captures key ideas, definitions, theories, foundational knowledge, and insights developed throughout my studies.  
-  * Each lesson is supported by related hands-on lab walkthroughs to reinforce understanding.
+  * Each module is supported by related hands-on lab walkthroughs to reinforce understanding.
 
 * **[Lab Walkthroughs](/portfolio/walkthroughs/)**  
   * Step-by-step documentation of lab activities, configurations, and troubleshooting processes that demonstrate the application of concepts in real-world scenarios.
@@ -47,10 +47,10 @@ The [Calbright IT532 and IT533 SiteMap (PDF)](/assets/docs/IT532 & IT533_ Introd
 
 * **Follow the Sections in Order**
   * The site map is organized by competencies (topics), starting with the Open Systems Interconnection (OSI) Model and ending with Network Monitoring.
-  * Each section contains lessons, labs, discussions, and assessments.
+  * Each section contains modules, labs, discussions, and assessments.
 
 * **Check Off Tasks as You Go**
-  * As you move through the lessons, use the site map to check off completed activities to stay organized.
+  * As you move through the modules, use the site map to check off completed activities to stay organized.
 
 * **Prepare for Certification & Next Steps**
   * Once you complete IT532 & IT533, you’ll be ready to take the [CompTIA Network+ certification exam](https://www.comptia.org/en-us/certifications/network/).
@@ -60,6 +60,7 @@ The [Calbright IT532 and IT533 SiteMap (PDF)](/assets/docs/IT532 & IT533_ Introd
 ## 🔗 Navigation
 
 * **[Refresh Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[zBible Study](/zBible-study/)**
 * **[Home](/)**
 

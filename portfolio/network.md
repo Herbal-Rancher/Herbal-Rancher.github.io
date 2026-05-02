@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: portfolio/formative-lessons/Network-Portfolio/
+permalink: portfolio/formative-modules/Network-Portfolio/
 ---
 
 <h1>Welcome to My Network+ Portfolio</h1>

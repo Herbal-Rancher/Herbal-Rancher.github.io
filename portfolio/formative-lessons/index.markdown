@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ""
-permalink: /portfolio/formative-lessons/
+permalink: /portfolio/formative-modules/
 ---
 
-# Formative Lessons
+# Formative Modules
 
 This section captures the **core concepts, theories, and foundational knowledge** I am developing throughout my IT coursework.
 
-Each lesson represents a key learning milestone and is supported by related hands-on walkthroughs.
+Each module represents a key learning milestone and is supported by related hands-on walkthroughs.
 
 ---
 
@@ -19,7 +19,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 * Track learning progression over time
 
 <hr style="border: 2px solid #ccc;">
-## Lesson 01
+## Module 01
 
 #### Milestone and Summative Assessments
 
@@ -39,7 +39,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 #### Labs and Walkthroughs
 
 {% assign walkthroughs = site.posts
-  | where: "lesson", "1.0"
+  | where: "module", "1.0"
   | where_exp: "post", "post.categories contains 'walkthroughs'"
   | sort: "order" %}
 
@@ -58,7 +58,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 
 <hr style="border: 2px solid #ccc;">
 
-## Lesson 02
+## Module 02
 
 #### Milestone and Summative Assessments
 <UL><li>
@@ -77,7 +77,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 #### Labs and Walkthroughs
 
 {% assign walkthroughs = site.posts
-  | where: "lesson", "2.0"
+  | where: "module", "2.0"
   | where_exp: "post", "post.categories contains 'walkthroughs'"
   | sort: "order" %}
 
@@ -96,21 +96,21 @@ Each lesson represents a key learning milestone and is supported by related hand
 
 <hr style="border: 2px solid #ccc;">
 
-## Lesson 03
+## Module 03
 
 #### Milestone and Summative Assessments
 <UL><li>
- <a href="/assets/docs/03-0-Discussion-IP-Address-Subclasses"
+ <a href="/assets/docs/03-0-Discussion-IP-Address-Subclasses.pdf"
    target="_blank"
    rel="noopener noreferrer">
     3.0 Discussion: IP Address Subclasses (PDF)
   </a></li><li>
-  <a href="/assets/docs/TBD.HTML"
+  <a href="/TBD.HTML"
    target="_blank"
    rel="noopener noreferrer">
     3.0 Milestone Assessment - TBD (PDF)
   </a></li><li>
-   <a href="/assets/docs/TBD.HTML"
+   <a href="/TBD.HTML"
    target="_blank"
    rel="noopener noreferrer">
     3.0 Summative Assessment - TBD (PDF)
@@ -120,7 +120,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 #### Labs and Walkthroughs
 
 {% assign walkthroughs = site.posts
-  | where: "lesson", "3.0"
+  | where: "module", "3.0"
   | where_exp: "post", "post.categories contains 'walkthroughs'"
   | sort: "order" %}
 
@@ -139,7 +139,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 
 <hr style="border: 2px solid #ccc;">
 
-## Lesson 11
+## Module 11
 
 #### Milestone and Summative Assessments
 <UL><li>
@@ -154,7 +154,7 @@ Each lesson represents a key learning milestone and is supported by related hand
 #### Labs and Walkthroughs
 
 {% assign walkthroughs = site.posts
-  | where: "lesson", "11.0"
+  | where: "module", "11.0"
   | where_exp: "post", "post.categories contains 'walkthroughs'"
   | sort: "order" %}
 
@@ -175,9 +175,10 @@ Each lesson represents a key learning milestone and is supported by related hand
 
 ## 🔗 Navigation
 
-* **[Refresh Formative Lessons](/portfolio/formative-lessons/)**
+* **[Refresh Formative Modules](/portfolio/formative-modules/)**
 * **[Walkthroughs](/portfolio/walkthroughs/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[zBible Study](/zBible-study/)**
 * **[Home](/)**
 

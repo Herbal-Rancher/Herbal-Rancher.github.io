@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ""
-lesson: 11.0
+module: 11.0
 order: 11.0
-categories: [lessons]
+categories: [modules]
 date: 2026-04-29 11:11:11 -0100
 tags: [network-topologies, vlan, switching, wireless, redundancy, design]
-permalink: /portfolio/formative-lessons/lesson-11-0/
+permalink: /portfolio/formative-modules/module-11-0/
 ---
 
-## Lesson 11 - Network Topologies
+## Module 11 - Network Topologies
 
-In this lesson, I developed an understanding of how network topology design impacts performance, reliability, scalability, and security. I explored both physical and logical topologies, and how modern enterprise networks use a combination of structured switching, segmentation, and wireless design to support growing organizational needs.
+In this module, I developed an understanding of how network topology design impacts performance, reliability, scalability, and security. I explored both physical and logical topologies, and how modern enterprise networks use a combination of structured switching, segmentation, and wireless design to support growing organizational needs.
 <!--more-->
 
 ---
@@ -44,10 +44,10 @@ In this lesson, I developed an understanding of how network topology design impa
 
 ### Walkthroughs & Submissions
 
-This section documents the hands-on application of Lesson 11 concepts, including network redesign, VLAN implementation, redundancy configuration, and wireless optimization.
+This section documents the hands-on application of Module 11 concepts, including network redesign, VLAN implementation, redundancy configuration, and wireless optimization.
 
 {% assign walkthroughs = site.posts
-  | where: "lesson", "11.0"
+  | where: "module", "11.0"
   | where_exp: "post", "post.categories contains 'walkthroughs'"
   | sort: "order" %}
 
@@ -72,7 +72,7 @@ Supporting materials and submissions will be linked here as they are completed.
 
 ### Learning Outcomes
 
-By completing this lesson, I:
+By completing this module, I:
 
 - Analyzed the impact of network topology on performance and reliability  
 - Designed a segmented network using VLANs to improve efficiency and security  
@@ -87,9 +87,10 @@ By completing this lesson, I:
 
 ### 🔗 Navigation
 
-* **[Formative Lessons](/portfolio/formative-lessons/)**
+* **[Formative Modules](/portfolio/formative-modules/)**
 * **[Walkthroughs](/portfolio/walkthroughs/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[Home](/)**
 
 ---

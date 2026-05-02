@@ -1,16 +1,16 @@
 ---
 layout: page
 title: ""
-lesson: 1.0
-categories: [lessons]
+module: 1.0
+categories: [modules]
 date: 2026-04-11 11:11:11 -0100
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
-permalink: /portfolio/formative-lessons/lesson-1-0/
+permalink: /portfolio/formative-modules/module-1-0/
 ---
 
-## Lesson 01
+## Module 01
 
-This lesson introduces the foundational concepts of Git and GitHub, focusing on version control, repository management, and workflow best practices.
+This module introduces the foundational concepts of Git and GitHub, focusing on version control, repository management, and workflow best practices.
 
 It aligns with the Calbright College Network Technology Program structure and serves as the starting point for managing and documenting technical work.
 
@@ -18,7 +18,7 @@ It aligns with the Calbright College Network Technology Program structure and se
 <!--more-->
 ### Overview
 
-In this lesson, I developed an understanding of:
+In this module, I developed an understanding of:
 
 - Version control concepts  
 - Local vs remote repositories  
@@ -41,11 +41,11 @@ In this lesson, I developed an understanding of:
 ### Walkthroughs & Submissions
 
 This section documents creation of my GitHub Pages site and serves as the foundation for all future work. 
-Each Lesson builds on the previous one, culminating in a fully functional GitHub Pages site. Below are the 
-Lesson 01 blog pages that I have created so far:
+Each Module builds on the previous one, culminating in a fully functional GitHub Pages site. Below are the 
+Module 01 blog pages that I have created so far:
 
 {% assign walkthroughs = site.posts
-  | where: "lesson", "1.0"
+  | where: "module", "1.0"
   | where_exp: "post", "post.categories contains 'walkthroughs'"
   | sort: "order" %}
 
@@ -68,7 +68,7 @@ Lesson 01 blog pages that I have created so far:
 
 ### Learning Outcomes
 
-By completing this lesson, I:
+By completing this module, I:
 
 - Established a functional GitHub Pages site  
 - Learned to manage repositories locally and remotely  
@@ -80,9 +80,10 @@ By completing this lesson, I:
 
 ### 🔗 Navigation
 
-* **[Formative Lessons](/portfolio/formative-lessons/)**
+* **[Formative Modules](/portfolio/formative-modules/)**
 * **[Walkthroughs](/portfolio/walkthroughs/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[Home](/)**
 
 ---

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "1.2 Creating a Local Project From My Remote GitHub Repository"
-lesson: 1.0
+module: 1.0
 order: 1.2
 categories: [portfolio, blog, walkthroughs, lab]
 date: 2026-04-11 11:12:14 -0200
 tags: [github-pages, jekyll, git, troubleshooting, setup]
-permalink: /portfolio/walkthroughs/lesson-1-0/walkthroughs-1-2/
+permalink: /portfolio/walkthroughs/module-1-0/create-local-project-from-github-repo/
 ---
 
 In this walkthrough, I document the process of configuring and deploying my GitHub Pages blog for the first time. While the initial setup seemed straightforward, I encountered several real-world issues involving Git, branching, authentication, and dependency management.
@@ -147,7 +147,7 @@ git push origin main --force
 
 ---
 
-### Key Lessons Learned
+### Key Modules Learned
 
 * GitHub Pages manages its own dependencies—avoid overriding them
 * Branch selection matters (`main` vs others)
@@ -180,9 +180,10 @@ This experience reinforced the importance of understanding both development and 
 
 ### 🔗 Navigation
 
-* **[Formative Lessons](/portfolio/formative-lessons/)**
+* **[Formative Modules](/portfolio/formative-modules/)**
 * **[Walkthroughs](/portfolio/walkthroughs/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[Home](/)**
 
 ---

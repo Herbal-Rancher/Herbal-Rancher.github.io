@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "11.7 Packet Tracer Lab 7: Network Cabling and Physical Topology Reference"
-lesson: 11.0
+module: 11.0
 order: 11.7
 categories: [portfolio, blog, walkthroughs, lab, network]
 tags: [packet-tracer, cabling, topology, networking-basics]
-permalink: /portfolio/walkthroughs/lesson-11-0/cabling-topology-reference/
+permalink: /portfolio/walkthroughs/module-11-0/cabling-topology-reference/
 ---
 
 ## Module 11 Packet Tracer Lab 7:  Network Cabling and Physical Topology Reference
@@ -205,9 +205,10 @@ Even perfect configurations fail if devices are connected incorrectly.
 
 ## 🔗 Navigation
 
-* **[Formative Lessons](/portfolio/formative-lessons/)**
+* **[Formative Modules](/portfolio/formative-modules/)**
 * **[Walkthroughs](/portfolio/walkthroughs/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[Home](/)**
 
 ---

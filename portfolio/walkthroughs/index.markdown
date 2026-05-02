@@ -34,9 +34,10 @@ Each walkthrough provides step-by-step actions, commands, and real-world problem
 ## 🔗 Navigation
 
 
-* **[Refresh Walkthroughs](/portfolio/Walkthroughs/)**
-* **[Formative Lessons](/portfolio/formative-lessons/)**
+* **[Refresh Walkthroughs](/portfolio/walkthroughs/)**
+* **[Formative Modules](/portfolio/formative-modules/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[zBible Study](/zBible-study/)**
 * **[Home](/)**
 

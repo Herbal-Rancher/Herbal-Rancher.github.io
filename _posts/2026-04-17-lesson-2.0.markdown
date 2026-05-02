@@ -2,16 +2,16 @@
 
 layout: page
 title: ""
-lesson: 2.0
-categories: [lessons]
+module: 2.0
+categories: [modules]
 date: 2026-04-17 11:11:11 -0100
 tags: [network-systems, osi-model, protocols, wired, wireless, wifi, bluetooth]
-permalink: /portfolio/formative-lessons/lesson-2-0/
+permalink: /portfolio/formative-modules/module-2-0/
 ---
 
-## Lesson 02 - Network Systems
+## Module 02 - Network Systems
 
-In this lesson, I developed an understanding of foundational network systems, including how devices communicate, how data is transmitted across networks, and the role of both wired and wireless technologies. This included exploring network models, communication protocols, and common wireless technologies such as Wi-Fi and Bluetooth.
+In this module, I developed an understanding of foundational network systems, including how devices communicate, how data is transmitted across networks, and the role of both wired and wireless technologies. This included exploring network models, communication protocols, and common wireless technologies such as Wi-Fi and Bluetooth.
 <!--more-->
 ---
 
@@ -39,10 +39,10 @@ In this lesson, I developed an understanding of foundational network systems, in
 
 ### Walkthroughs & Submissions
 
-This section documents the hands-on application of Lesson 2 concepts, including foundational networking configuration, protocol analysis, and wireless technology implementation.
+This section documents the hands-on application of Module 2 concepts, including foundational networking configuration, protocol analysis, and wireless technology implementation.
 
 {% assign walkthroughs = site.posts
-  | where: "lesson", "2.0"
+  | where: "module", "2.0"
   | where_exp: "post", "post.categories contains 'walkthroughs'"
   | sort: "order" %}
 
@@ -68,7 +68,7 @@ Supporting materials and submissions will be linked here as they are completed.
 
 ### Learning Outcomes
 
-By completing this lesson, I:
+By completing this module, I:
 
 - Explained how network systems enable communication between devices  
 - Identified and described the layers of the OSI model and their functions  
@@ -81,9 +81,10 @@ By completing this lesson, I:
 
 ### 🔗 Navigation
 
-* **[Formative Lessons](/portfolio/formative-lessons/)**
+* **[Formative Modules](/portfolio/formative-modules/)**
 * **[Walkthroughs](/portfolio/walkthroughs/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[Home](/)**
 
 ---

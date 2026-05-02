@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "11.6 Packet Tracer Lab 6: Build a Switch and Router Network"
-lesson: 11.0
+module: 11.0
 order: 11.6
 categories: [portfolio, blog, walkthroughs, lab, network]
 tags: [packet-tracer, cabling, topology, networking-basics]
-permalink: /portfolio/walkthroughs/lesson-11-0/build-switch-router-network/
+permalink: /portfolio/walkthroughs/module-11-0/build-switch-router-network/
 ---
 
 ## Module 11 Packet Tracer Lab 6: Build a Switch and Router Network
@@ -17,7 +17,7 @@ In this lab, I built a small network by connecting a router, switch, and two PCs
 
 # Network Topology
 
-<img src="{{ '/assets/images/Packet-Tracer-Build-Switch-Router-Network-table-image.jpg' | relative_url }}" sizes="medium">
+<img src="{{ '/assets/images/Build-Switch-Router-Network-table-image.jpg' | relative_url }}" sizes="medium">
 
 ---
 
@@ -453,9 +453,10 @@ This was one of my first full network builds that included both infrastructure c
 
 ## 🔗 Navigation
 
-* **[Formative Lessons](/portfolio/formative-lessons/)**
+* **[Formative Modules](/portfolio/formative-modules/)**
 * **[Walkthroughs](/portfolio/walkthroughs/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[Home](/)**
 
 ---

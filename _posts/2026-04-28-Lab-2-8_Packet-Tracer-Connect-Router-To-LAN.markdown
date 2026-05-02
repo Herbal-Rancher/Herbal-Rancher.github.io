@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "11.8 Packet Tracer Lab 8: Connect a Router to a LAN"
-lesson: 11.0
+module: 11.0
 order: 11.8
 categories: [portfolio, blog, walkthroughs, lab, network]
 tags: [packet-tracer, cabling, topology, networking-basics]
-permalink: /portfolio/walkthroughs/lesson-211-0/connect-router-to-lan/
+permalink: /portfolio/walkthroughs/module-11-0/connect-router-to-lan/
 ---
 
 ## Module 11 Packet Tracer Lab 8: Connect a Router to a LAN
@@ -19,11 +19,11 @@ This lab helped reinforce how routers connect multiple networks and how routing 
 
 # Network Topology
 
-<img src="{{ '/assets/images/Packet-Tracer-Lab-8-Connect-Router-To-LAN-topology-image.jpg' | relative_url }}" sizes="medium">
+<img src="{{ '/assets/images/Connect-Router-To-LAN-topology-image.jpg' | relative_url }}" sizes="medium">
 
 ---
 
-<img src="{{ '/assets/images/Packet-Tracer-Lab-8-Connect-Router-To-LAN-table-image.jpg' | relative_url }}" sizes="medium">
+<img src="{{ '/assets/images/Connect-Router-To-LAN-table-image.jpg' | relative_url }}" sizes="medium">
 
 ---
 
@@ -327,9 +327,10 @@ This felt like one of my first true multi-network routing labs where everything 
 
 ## 🔗 Navigation
 
-* **[Formative Lessons](/portfolio/formative-lessons/)**
+* **[Formative Modules](/portfolio/formative-modules/)**
 * **[Walkthroughs](/portfolio/walkthroughs/)**
 * **[Network+ Portfolio](/portfolio/)**
+* **[Detailed Study Diagrams](/study-diagrams/)**
 * **[Home](/)**
 
 ---
