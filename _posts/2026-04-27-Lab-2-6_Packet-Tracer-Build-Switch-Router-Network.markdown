@@ -3,9 +3,9 @@ layout: post
 title: "11.6 Packet Tracer Lab 6: Build a Switch and Router Network"
 module: 11.0
 order: 11.6
-categories: [portfolio, blog, walkthroughs, lab, network]
+categories: [portfolio, blog, labs, lab, network]
 tags: [packet-tracer, cabling, topology, networking-basics]
-permalink: /portfolio/walkthroughs/module-11-0/build-switch-router-network/
+permalink: /portfolio/labs/module-11-0/build-switch-router-network/
 ---
 
 ## Module 11 Packet Tracer Lab 6: Build a Switch and Router Network
@@ -449,14 +449,16 @@ This lab combined:
 
 This was one of my first full network builds that included both infrastructure configuration and SSH security implementation.
 
---- 
+
+---
 
 ## 🔗 Navigation
 
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[Home](/)**
+* **[HOME](/)**
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---

@@ -118,12 +118,17 @@ I’m learning that slowing down isn’t falling behind.
 
 It’s how you begin to truly see.
 
+
 ---
 
 ## 🔗 Navigation
 
-* **[zBible Study](/portfolio/zBible-Study/)**
-* **[Home](/)**
+* [HOME](/)
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* **[zBIBLE STUDY](/zBible-Study/)**
 
 ---
 

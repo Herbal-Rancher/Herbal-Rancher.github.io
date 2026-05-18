@@ -1,25 +1,25 @@
 ---
 layout: post
-title: "1.1 Initial GitHub Site Setup"
+title: "1.1 GitHub Lab: Initial GitHub Site Setup"
 module: 1.0
 order: 1.1
-categories: [portfolio, blog, walkthroughs, lab]
+categories: [portfolio, blog, labs, lab]
 date: 2026-04-10 11:11:14 -0700
 tags: [github-pages, jekyll, git, troubleshooting, setup]
-permalink: /portfolio/walkthroughs/module-1-0/initial-github-site-setup/
+permalink: /portfolio/labs/module-1-0/initial-github-site-setup/
 ---
 
 In this lab, I demonstrate how to resolve a common issue where local changes are not reflected on GitHub. The goal is to ensure that the contents of a local project folder completely replace the remote repository and successfully publish to GitHub Pages.
-
----
 <!--more-->
+---
+
 ### Problem Scenario
 
 * Local files were updated successfully
 * `git add` and `git commit` were run
 * Changes did **not appear on GitHub**
 * GitHub Pages build showed an error:
-<!--more-->
+
   > "The log was not found. It may have been deleted based on retention settings."
 
 ---
@@ -175,15 +175,17 @@ git push origin main --force
 
 This lab demonstrates a real-world GitHub issue and its resolution. Understanding how to properly sync local and remote repositories is essential for developers, especially when deploying live web content using GitHub Pages.
 
+
 ---
 
-### 🔗 Navigation
+## 🔗 Navigation
 
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[Home](/)**
+* **[HOME](/)**
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---
 

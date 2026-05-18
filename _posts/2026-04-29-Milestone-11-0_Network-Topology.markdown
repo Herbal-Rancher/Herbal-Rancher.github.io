@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "11.0 Milestone Walkthrough - Enterprise Network Redesign"
+title: "11.0 Milestone Lab - Enterprise Network Redesign"
 module: 11.0
 order: 11.1
-categories: [portfolio, blog, walkthroughs, lab, network]
+categories: [portfolio, blog, labs, lab, network]
 tags: [network-design, vlan, switching, wireless, redundancy, troubleshooting, enterprise]
-permalink: /portfolio/walkthroughs/module-11-0/milestone-network-topologies-redesign/
+permalink: /portfolio/labs/module-11-0/milestone-network-topologies-redesign/
 ---
 
-## Enterprise Network Redesign Walkthrough
+## Enterprise Network Redesign Lab
 
-In this walkthrough, I redesign a growing company’s network after expansion into a second building. The 
+In this lab, I redesign a growing company’s network after expansion into a second building. The 
 goal is to improve **performance, reliability, scalability, and security** using structured network 
-engineering practices. In this walkthrough, I will address VLANs, Redundancy, and Wireless Optimization.
+engineering practices. In this lab, I will address VLANs, Redundancy, and Wireless Optimization.
 
 <!--more-->
 ---
@@ -291,14 +291,16 @@ These principles are foundational not only for networking, but also for **cybers
 - WPA3 → Wireless security  
 - SNMP → Monitoring  
 
+
 ---
 
-### 🔗 Navigation
+## 🔗 Navigation
 
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[Home](/)**
+* **[HOME](/)**
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---

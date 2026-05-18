@@ -1,14 +1,15 @@
 ---
 layout: page
-title: ""
 permalink: /portfolio/formative-modules/
+---
+
 ---
 
 # Formative Modules
 
 This section captures the **core concepts, theories, and foundational knowledge** I am developing throughout my IT coursework.
 
-Each module represents a key learning milestone and is supported by related hands-on walkthroughs.
+Each module represents a key learning milestone and is supported by related hands-on labs.
 
 ---
 
@@ -24,7 +25,7 @@ Each module represents a key learning milestone and is supported by related hand
 #### Milestone and Summative Assessments
 
 <UL><li>
-  <a href="/assets/docs/01-0-Milestone_Assessment_Network-OSI-model.pdf"
+  <a href="/assets/docs/01-0-Milestone-Assessment_Network-OSI-model.pdf"
    target="_blank"
    rel="noopener noreferrer">
     1.0 Milestone Assessment - Network OSI Model (PDF)
@@ -38,14 +39,14 @@ Each module represents a key learning milestone and is supported by related hand
 
 #### Labs and Walkthroughs
 
-{% assign walkthroughs = site.posts
+{% assign labs = site.posts
   | where: "module", "1.0"
-  | where_exp: "post", "post.categories contains 'walkthroughs'"
+  | where_exp: "post", "post.categories contains 'labs'"
   | sort: "order" %}
 
-{% if walkthroughs.size > 0 %}
+{% if labs.size > 0 %}
   <ul>
-  {% for post in walkthroughs %}
+  {% for post in labs %}
     <li>
       <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
         {{ post.title }}
@@ -76,14 +77,14 @@ Each module represents a key learning milestone and is supported by related hand
 
 #### Labs and Walkthroughs
 
-{% assign walkthroughs = site.posts
+{% assign labs = site.posts
   | where: "module", "2.0"
-  | where_exp: "post", "post.categories contains 'walkthroughs'"
+  | where_exp: "post", "post.categories contains 'labs'"
   | sort: "order" %}
 
-{% if walkthroughs.size > 0 %}
+{% if labs.size > 0 %}
   <ul>
-  {% for post in walkthroughs %}
+  {% for post in labs %}
     <li>
       <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
         {{ post.title }}
@@ -100,33 +101,33 @@ Each module represents a key learning milestone and is supported by related hand
 
 #### Milestone and Summative Assessments
 <UL><li>
- <a href="/assets/docs/03-0-Discussion-IP-Address-Subclasses.pdf"
+ <a href="/assets/docs/03-0-Discussion_IP-Address-Subclasses.pdf"
    target="_blank"
    rel="noopener noreferrer">
     3.0 Discussion: IP Address Subclasses (PDF)
   </a></li><li>
-  <a href="/TBD.HTML"
+  <a href="/assets/docs/03-0-Milestone-Assessment_Network-Monitoring.pdf"
    target="_blank"
    rel="noopener noreferrer">
-    3.0 Milestone Assessment - TBD (PDF)
+    3.0 Milestone Assessment - Network Addressing (PDF)
   </a></li><li>
-   <a href="/TBD.HTML"
+   <a href="/assets/docs/03-0-Summative-Assessment_Network-Monitoring.pdf"
    target="_blank"
    rel="noopener noreferrer">
-    3.0 Summative Assessment - TBD (PDF)
+    3.0 Summative Assessment - Network Addressing (PDF)
   </a>
 </li></UL>
 
 #### Labs and Walkthroughs
 
-{% assign walkthroughs = site.posts
+{% assign labs = site.posts
   | where: "module", "3.0"
-  | where_exp: "post", "post.categories contains 'walkthroughs'"
+  | where_exp: "post", "post.categories contains 'labs'"
   | sort: "order" %}
 
-{% if walkthroughs.size > 0 %}
+{% if labs.size > 0 %}
   <ul>
-  {% for post in walkthroughs %}
+  {% for post in labs %}
     <li>
       <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
         {{ post.title }}
@@ -142,25 +143,29 @@ Each module represents a key learning milestone and is supported by related hand
 ## Module 11
 
 #### Milestone and Summative Assessments
+
 <UL><li>
- 
-   <a href="/assets/docs/11-0-Milestone_Assessment_Network_Topologies.pdf"
+  <a href="/assets/docs/11-0-Milestone-Assessment_Network-Topologies.pdf"
    target="_blank"
    rel="noopener noreferrer">
     11.0 Milestone Assessment - Network Topologies (PDF)
+  </a></li><li>
+   <a href="/assets/docs/11-0-Summative-Assessment_Network-Topologies.pdf"
+   target="_blank"
+   rel="noopener noreferrer">
+    11.0 Summative Assessment - Network Topologies (PDF)
   </a>
 </li></UL>
-
 #### Labs and Walkthroughs
 
-{% assign walkthroughs = site.posts
+{% assign labs = site.posts
   | where: "module", "11.0"
-  | where_exp: "post", "post.categories contains 'walkthroughs'"
+  | where_exp: "post", "post.categories contains 'labs'"
   | sort: "order" %}
 
-{% if walkthroughs.size > 0 %}
+{% if labs.size > 0 %}
  <ul>
-  {% for post in walkthroughs %}
+  {% for post in labs %}
     <li>
       <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
         {{ post.title }}
@@ -173,13 +178,53 @@ Each module represents a key learning milestone and is supported by related hand
 
 <hr style="border: 2px solid #ccc;">
 
+## Module 12
+
+#### Milestone and Summative Assessments
+
+<UL><li>
+  <a href="/assets/docs/12-0-Milestone-Assessment_Network-Cabling.pdf"
+   target="_blank"
+   rel="noopener noreferrer">
+    12.0 Milestone Assessment - Network Cabling (PDF)
+  </a></li><li>
+   <a href="/assets/docs/12-0-Summative-Assessment_Network-Cabling.pdf"
+   target="_blank"
+   rel="noopener noreferrer">
+    12.0 Summative Assessment - TBD (PDF)
+  </a>
+</li></UL>
+#### Labs and Walkthroughs
+
+{% assign labs = site.posts
+  | where: "module", "12.0"
+  | where_exp: "post", "post.categories contains 'labs'"
+  | sort: "order" %}
+
+{% if labs.size > 0 %}
+ <ul>
+  {% for post in labs %}
+    <li>
+      <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
+        {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+   </ul>
+{% else %}
+{% endif %}
+
+<hr style="border: 2px solid #ccc;">
+
+---
+
 ## 🔗 Navigation
 
-* **[Refresh Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[zBible Study](/zBible-Study/)**
-* **[Home](/)**
+* [Home](/)
+* [Network+ Portfolio](/portfolio/)
+  * **[FORMATIVE MODULES](/portfolio/formative-modules/)**
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---

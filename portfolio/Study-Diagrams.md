@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Detailed Study Diagrams"
-permalink: /study-diagrams/
+permalink: /portfolio/study-diagrams/
 ---
+
+---
+# Study Diagrams
 
 This page is a collection of study diagrams created during my Network Technology learning journey.
 
@@ -123,13 +125,15 @@ This process helps me build stronger technical knowledge, prepare for certificat
 
 This page will continue to grow as I study new topics, complete labs, and prepare for Network+ and cybersecurity concepts.
 
-### 🔗 Navigation
-
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[Home](/)**
-
 ---
 
+## 🔗 Navigation
+
+* [Home](/)
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * **[Study Diagrams](/portfolio/study-diagrams/)**
+* [zBible Study](/zBible-Study/)
+
+---

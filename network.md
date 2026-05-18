@@ -1,17 +1,14 @@
 ---
-layout: page
-title: "zBible Study"
-permalink: /zBible-Study/
+layout: default
+permalink: /portfolio/formative-modules/Network-Portfolio/
 ---
 
-This page serves as a dedicated space for my zBible study notes, reflections, and insights. It is designed to document my journey through 
-the Bible, capturing key learnings, personal reflections, and applications of biblical principles in my life.
+<h1>Welcome to My Formative Modules - Network+ Portfolio</h1>
 
-{% for post in site.categories.zbible %}
-
+{% for post in site.categories.network %}
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <p>{{ post.date | date: "%B %d, %Y" }}</p>
-  <p>{{ post.excerpt }}</p>  
+  <p>{{ post.excerpt }}</p>
   <a href="{{ post.url }}">Read More →</a>
   <div style="height:1px; background:#ddd; margin:30px 0;"></div>
 {% endfor %}
@@ -23,8 +20,9 @@ the Bible, capturing key learnings, personal reflections, and applications of bi
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
   * [Formative Modules](/portfolio/formative-modules/)
+    * **[FORMATIVE MODULES - NETWORK PORTFOLIO](/portfolio/formative-modules/Network-Portfolio/)**
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Study Diagrams](/portfolio/study-diagrams/)
-* **[Z-BIBLE STUDY](/zBible-Study/)**
+* [zBible Study](/zBible-Study/)
 
 ---

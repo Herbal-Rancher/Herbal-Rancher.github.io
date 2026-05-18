@@ -1,14 +1,15 @@
 ---
 layout: page
-title: ""
-permalink: /portfolio/walkthroughs/
+permalink: /portfolio/labs/
 ---
 
-# Walkthroughs
+---
+
+# Lab Walkthroughs
 
 This section documents **hands-on labs, configurations, and troubleshooting processes** completed throughout my IT coursework.
 
-Each walkthrough provides step-by-step actions, commands, and real-world problem-solving insights.
+Each lab walkthrough provides step-by-step actions, commands, and real-world problem-solving insights.
 
 
 ## 🎯 Purpose
@@ -19,7 +20,7 @@ Each walkthrough provides step-by-step actions, commands, and real-world problem
 
 ---
 
-{% for post in site.categories.walkthroughs %}
+{% for post in site.categories.labs %}
 
   <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
   <p>{{ post.date | date: "%B %d, %Y" }}</p>
@@ -33,12 +34,11 @@ Each walkthrough provides step-by-step actions, commands, and real-world problem
 
 ## 🔗 Navigation
 
-
-* **[Refresh Walkthroughs](/portfolio/walkthroughs/)**
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[zBible Study](/zBible-Study/)**
-* **[Home](/)**
+* [Home](/)
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * **[LAB WALKTHROUGHS](/portfolio/labs/)**
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---

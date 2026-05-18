@@ -1,26 +1,33 @@
 ---
 layout: page
 permalink: /
-title: ""
 tags: [home, overview, navigation]
 ---
+
+---
+
 # Home
 
 Welcome to my blog and portfolio. I am an IT student at Calbright College focused on building practical networking skills through Network+ studies and hands-on coursework.
 
-Explore my **[Network+ Portfolio](/portfolio/)**, where I share my networking development journey through structured modules, projects, lab walkthroughs, and applied problem-solving.
+Explore my **[NETWORK+ PORTFOLIO](/portfolio/)**, where I share my networking development journey through structured modules, projects, lab labs, and applied problem-solving.
 
-Alongside my technical journey, I am also engaged in a personal study of the First Testament. You can follow that progress in my **[zBible Study](/zbible-study/)** posts, beginning with Genesis and continuing book by book.
+Here I share my Artificial Intelligence (AI) driven, specifically ChatGPT and Visual Studio, network content deep dive diagrams in my **[STUDY DIAGRAMS](/study-diagrams/)** page, which visually break down complex concepts and workflows.
+
+Alongside my technical journey, I am also engaged in a personal study of the Bible (the Torah - 1st Testament and the New Testament - 2nd Testament). You can follow that progress in my **[zBIBLE STUDY](/zbible-study/)** posts, beginning with Genesis and continuing book by book.
 
 **Shall we journey together?**
+
 
 ---
 
 ## 🔗 Navigation
 
-* **[Home](/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[zBible Study](/zBible-Study/)**
+* **[HOME](/)**
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---

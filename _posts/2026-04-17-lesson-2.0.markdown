@@ -41,14 +41,14 @@ In this module, I developed an understanding of foundational network systems, in
 
 This section documents the hands-on application of Module 2 concepts, including foundational networking configuration, protocol analysis, and wireless technology implementation.
 
-{% assign walkthroughs = site.posts
+{% assign labs = site.posts
   | where: "module", "2.0"
-  | where_exp: "post", "post.categories contains 'walkthroughs'"
+  | where_exp: "post", "post.categories contains 'labs'"
   | sort: "order" %}
 
-{% if walkthroughs.size > 0 %}
+{% if labs.size > 0 %}
   <ul>
-  {% for post in walkthroughs %}
+  {% for post in labs %}
     <li>
       <a href="{{ post.url | relative_url }}">
         {{ post.title }}
@@ -77,14 +77,16 @@ By completing this module, I:
 - Described how Wi-Fi and Bluetooth enable wireless communication  
 - Evaluated network performance using concepts such as bandwidth and latency  
 
+
 ---
 
-### 🔗 Navigation
+## 🔗 Navigation
 
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[Home](/)**
+* **[HOME](/)**
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---

@@ -3,9 +3,9 @@ layout: post
 title: "11.2 Packet Tracer Lab 2: Basic Device Configuration"
 module: 11.0
 order: 11.2
-categories: [portfolio, blog, walkthroughs, lab, network]
+categories: [portfolio, blog, labs, lab, network]
 tags: [packet-tracer, cisco-ios, ipv4, ipv6, router, switch, troubleshooting]
-permalink: /portfolio/walkthroughs/module-11-0/configure-basic-device-config/
+permalink: /portfolio/labs/module-11-0/configure-basic-device-config/
 ---
 
 ## Module 11 Packet Tracer Lab 2: Basic Device Configuration
@@ -323,14 +323,15 @@ College(config)#ipv6 unicast-routing
 ```
 exists.
 
---- 
+---
 
 ## 🔗 Navigation
 
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[Home](/)**
+* **[HOME](/)**
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---

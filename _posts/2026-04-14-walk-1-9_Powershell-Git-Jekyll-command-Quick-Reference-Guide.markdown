@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "1.9 Quick Reference: PowerShell, Git, and Jekyll Commands"
+title: "1.9 GitHub Lab: Quick Reference: PowerShell, Git, and Jekyll Commands"
 module: 1.0
 order: 1.9
-categories: [portfolio, blog, walkthroughs, lab]
+categories: [portfolio, blog, labs, lab]
 date: 2026-04-14 11:14:11 -0700
 tags: [github-pages, jekyll, git, troubleshooting, setup, reference-guide]
-permalink: /portfolio/walkthroughs/module-1-0/quick-reference-guide/
+permalink: /portfolio/labs/module-1-0/quick-reference-guide/
 ---
 
 This page provides a structured command reference for managing a local Jekyll site, validating changes, and publishing updates to GitHub Pages.
-
+<!--more-->
 ---
 
 ## Navigate to Project
@@ -187,14 +187,16 @@ bundle exec jekyll serve --baseurl ""
 
 Pull → Serve → Edit → Validate → Commit → Push
 
+
 ---
 
-### 🔗 Navigation
+## 🔗 Navigation
 
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[Home](/)**
+* **[HOME](/)**
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---

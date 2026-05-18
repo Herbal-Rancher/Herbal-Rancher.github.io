@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "1.3 Git Branching and Workflow"
+title: "1.3 GitHub Lab: Git Branching and Workflow"
 module: 1.0
 order: 1.3
-categories: [portfolio, blog, walkthroughs, lab]
+categories: [portfolio, blog, labs, lab]
 date: 2026-04-11 11:13:14 -0200
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
-permalink: /portfolio/walkthroughs/module-1-0/git-branching-and-workflow/
+permalink: /portfolio/labs/module-1-0/git-branching-and-workflow/
 ---
 
 This walkthrough documents the transition from a **basic Git workflow** to a more **structured, industry-standard branching workflow**.
 
-It builds on previous walkthroughs and establishes a repeatable process for safely updating and deploying changes to a GitHub Pages site.
-
----
+It builds on previous labs and establishes a repeatable process for safely updating and deploying changes to a GitHub Pages site.
 <!--more-->
+---
+
 ## Overview
 
 In earlier work, changes were committed directly to the `main` branch. While effective for quick updates, this approach carries risk as projects grow.
@@ -224,15 +224,17 @@ git branch -d feature/<name>
 * Use branching for Wireshark lab documentation
 * Expand into advanced Git workflows (rebasing, tagging, CI/CD)
 
+
 ---
 
-### 🔗 Navigation
+## 🔗 Navigation
 
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[Home](/)**
+* **[HOME](/)**
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---
 

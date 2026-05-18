@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "1.4 Update Local Project With GitHub Latest Repository"
+title: "1.4 GitHub Lab: Update Local Project With GitHub Latest Repository"
 module: 1.0
 order: 1.4
-categories: [portfolio, blog, walkthroughs, lab]
+categories: [portfolio, blog, labs, lab]
 date: 2026-04-11 11:14:14 -0200
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
-permalink: /portfolio/walkthroughs/module-1-0/update-local-project-with-github-latest-repository/
+permalink: /portfolio/labs/module-1-0/update-local-project-with-github-latest-repository/
 ---
 
 Before starting a new blog post or walkthrough, it’s important to ensure your **local repository matches the latest version on GitHub**.
 
 This prevents conflicts, missing updates, or accidental overwrites.
-
----
 <!--more-->
+---
+
 ### Step 1: Check Current Branch
 ```bash
 git branch
@@ -76,16 +76,18 @@ git push origin main
 * Prevents overwriting remote changes
 * Keeps your workflow consistent
 * Ensures accurate version control
-* Aligns with **GitHub Flow best practices**
+* Aligns with **[GitHub Flow best practices](https://guides.github.com/introduction/flow/)**
+
 
 ---
 
-### 🔗 Navigation
+## 🔗 Navigation
 
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[Home](/)**
+* **[HOME](/)**
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---

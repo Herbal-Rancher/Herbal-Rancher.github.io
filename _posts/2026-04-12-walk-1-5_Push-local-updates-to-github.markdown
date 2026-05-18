@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "1.5 Push Latest Updates to GitHub Repository"
+title: "1.5 GitHub Lab: Push Latest Updates to GitHub Repository"
 module: 1.0
 order: 1.5
-categories: [portfolio, blog, walkthroughs, lab]
+categories: [portfolio, blog, labs, lab]
 date: 2026-04-12 11:12:12 -0200
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
-permalink: /portfolio/walkthroughs/module-1-0/push-local-updates-to-github/
+permalink: /portfolio/labs/module-1-0/push-local-updates-to-github/
 ---
 
 This is the walkthrough on how to update your local repository with the latest changes from GitHub before you start working on your next blog post. This is an important step to ensure that you are working with the most up-to-date version of your project and to avoid any potential conflicts when you push your changes back to GitHub.	
-
----
 <!--more-->
+---
+
 ### Step 1 — Make sure you're in your project folder
 ```bash
 cd path/to/your/repo
@@ -55,14 +55,16 @@ git push origin main
 * Ensures accurate version control
 * Aligns with **GitHub Flow best practices**
 
+
 ---
 
-### 🔗 Navigation
+## 🔗 Navigation
 
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[Home](/)**
+* **[HOME](/)**
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---

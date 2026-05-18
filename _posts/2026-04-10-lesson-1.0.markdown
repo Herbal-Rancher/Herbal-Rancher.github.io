@@ -14,8 +14,9 @@ This module introduces the foundational concepts of Git and GitHub, focusing on 
 
 It aligns with the Calbright College Network Technology Program structure and serves as the starting point for managing and documenting technical work.
 
----
 <!--more-->
+---
+
 ### Overview
 
 In this module, I developed an understanding of:
@@ -44,14 +45,14 @@ This section documents creation of my GitHub Pages site and serves as the founda
 Each Module builds on the previous one, culminating in a fully functional GitHub Pages site. Below are the 
 Module 01 blog pages that I have created so far:
 
-{% assign walkthroughs = site.posts
+{% assign labs = site.posts
   | where: "module", "1.0"
-  | where_exp: "post", "post.categories contains 'walkthroughs'"
+  | where_exp: "post", "post.categories contains 'labs'"
   | sort: "order" %}
 
-{% if walkthroughs.size > 0 %}
+{% if labs.size > 0 %}
   <ul>
-  {% for post in walkthroughs %}
+  {% for post in labs %}
     <li>
       <a href="{{ post.url | relative_url }}">
         {{ post.title }}
@@ -76,14 +77,16 @@ By completing this module, I:
 - Developed repeatable processes for future work  
 - Built a foundation for all future networking labs and documentation  
 
+
 ---
 
-### 🔗 Navigation
+## 🔗 Navigation
 
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[Home](/)**
+* **[HOME](/)**
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---

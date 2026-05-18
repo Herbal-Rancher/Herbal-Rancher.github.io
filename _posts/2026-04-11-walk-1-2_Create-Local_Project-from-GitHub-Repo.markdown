@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "1.2 Creating a Local Project From My Remote GitHub Repository"
+title: "1.2 GitHub Lab: Creating a Local Project From My Remote GitHub Repository"
 module: 1.0
 order: 1.2
-categories: [portfolio, blog, walkthroughs, lab]
+categories: [portfolio, blog, labs, lab]
 date: 2026-04-11 11:12:14 -0200
 tags: [github-pages, jekyll, git, troubleshooting, setup]
-permalink: /portfolio/walkthroughs/module-1-0/create-local-project-from-github-repo/
+permalink: /portfolio/labs/module-1-0/create-local-project-from-github-repo/
 ---
 
 In this walkthrough, I document the process of configuring and deploying my GitHub Pages blog for the first time. While the initial setup seemed straightforward, I encountered several real-world issues involving Git, branching, authentication, and dependency management.
 
 This post outlines both the setup process and the troubleshooting steps required to successfully publish my site.
-
----
 <!--more-->
+---
+
 ### Objective
 
 * Configure a local Jekyll-based project
@@ -176,14 +176,16 @@ After resolving these issues, my GitHub Pages site built successfully and publis
 
 This experience reinforced the importance of understanding both development and deployment workflows. Troubleshooting these issues improved my confidence in using Git, GitHub, and static site deployment tools.
 
+
 ---
 
-### 🔗 Navigation
+## 🔗 Navigation
 
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[Home](/)**
+* **[HOME](/)**
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---

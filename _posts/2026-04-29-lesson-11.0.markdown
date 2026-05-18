@@ -46,14 +46,14 @@ In this module, I developed an understanding of how network topology design impa
 
 This section documents the hands-on application of Module 11 concepts, including network redesign, VLAN implementation, redundancy configuration, and wireless optimization.
 
-{% assign walkthroughs = site.posts
+{% assign labs = site.posts
   | where: "module", "11.0"
-  | where_exp: "post", "post.categories contains 'walkthroughs'"
+  | where_exp: "post", "post.categories contains 'labs'"
   | sort: "order" %}
 
-{% if walkthroughs.size > 0 %}
+{% if labs.size > 0 %}
   <ul>
-  {% for post in walkthroughs %}
+  {% for post in labs %}
     <li>
       <a href="{{ post.url | relative_url }}">
         {{ post.title }}
@@ -83,14 +83,16 @@ By completing this module, I:
 - Designed a wireless network to provide consistent coverage and performance  
 - Implemented secure wireless configurations for both internal and guest access  
 
+
 ---
 
-### 🔗 Navigation
+## 🔗 Navigation
 
-* **[Formative Modules](/portfolio/formative-modules/)**
-* **[Walkthroughs](/portfolio/walkthroughs/)**
-* **[Network+ Portfolio](/portfolio/)**
-* **[Detailed Study Diagrams](/study-diagrams/)**
-* **[Home](/)**
+* **[HOME](/)**
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* [zBible Study](/zBible-Study/)
 
 ---

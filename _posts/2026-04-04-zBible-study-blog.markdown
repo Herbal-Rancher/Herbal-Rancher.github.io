@@ -122,11 +122,16 @@ As I move through Genesis and beyond, I will document key insights, observations
 This study is an ongoing journey. By applying a consistent and thoughtful method, I aim to grow in understanding over time while documenting that growth along the way.
 </p>
 </div>
+
 ---
 
 ## 🔗 Navigation
 
-* **[zBible Study](/portfolio/zBible-Study/)**
-* **[Home](/)**
+* [HOME](/)
+* [Network+ Portfolio](/portfolio/)
+  * [Formative Modules](/portfolio/formative-modules/)
+  * [Lab Walkthroughs](/portfolio/labs/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
+* **[zBIBLE STUDY](/zBible-Study/)**
 
 ---
