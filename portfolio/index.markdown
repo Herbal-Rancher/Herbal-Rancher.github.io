@@ -34,7 +34,7 @@ The portfolio is organized into four primary sections that connect theory, visua
 * **[Video Walkthroughs](/portfolio/videos/)**  
   * No-audio video demonstrations documenting lab execution, Wireshark analysis, PowerShell management, switch configuration, DHCP implementation, troubleshooting, and other networking activities completed throughout the learning process.
 
-* **[Study Diagrams](/study-diagrams/)**  
+* **[Study Diagrams](/portfolio/study-diagrams/)**  
   * AI-assisted visual study aids created to better understand networking concepts, protocols, troubleshooting processes, certification topics, security concepts, routing behavior, switching operations, and infrastructure design patterns.
   * Many diagrams were created in response to practice exam questions or knowledge gaps requiring deeper visualization and clarification.
 
