@@ -143,7 +143,7 @@ This page contains my no-audio video walkthroughs documenting networking labs, t
   * [Formative Modules](/portfolio/formative-modules/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/study-diagrams/)
+  * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
 ---
