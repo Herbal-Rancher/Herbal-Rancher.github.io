@@ -224,6 +224,7 @@ Each module represents a key learning milestone and is supported by related hand
 * [Network+ Portfolio](/portfolio/)
   * **[FORMATIVE MODULES](/portfolio/formative-modules/)**
   * [Lab Walkthroughs](/portfolio/labs/)
+  * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 

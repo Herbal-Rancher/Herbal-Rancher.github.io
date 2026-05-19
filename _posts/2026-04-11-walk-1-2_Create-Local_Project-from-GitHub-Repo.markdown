@@ -185,6 +185,7 @@ This experience reinforced the importance of understanding both development and 
 * [Network+ Portfolio](/portfolio/)
   * [Formative Modules](/portfolio/formative-modules/)
   * [Lab Walkthroughs](/portfolio/labs/)
+  * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 

@@ -20,17 +20,23 @@ This portfolio is designed to:
 
 ## Learning Structure
 
-This portfolio supports both conceptual learning and practical application by providing a structured framework to plan, document, store, and review the use of network technologies. 
+This portfolio supports both conceptual learning and practical application by providing a structured framework to document, organize, review, and demonstrate networking technologies and related technical skills.
 
-It is organized into two main sections: **[Formative Modules](/portfolio/formative-modules/)** and **[Lab Walkthroughs](/portfolio/labs/)**. 
-Each section is designed to connect theory with practice, ensuring a balanced and progressive learning experience.
+The portfolio is organized into four primary sections that connect theory, visualization, hands-on practice, troubleshooting, and technical reflection into a progressive learning system.
 
 * **[Formative Modules](/portfolio/formative-modules/)**  
-  * Core concept-based learning that captures key ideas, definitions, theories, foundational knowledge, and insights developed throughout my studies.  
-  * Each module is supported by related hands-on lab labs to reinforce understanding.
+  * Concept-focused learning that captures key ideas, definitions, foundational knowledge, networking theories, security principles, and infrastructure concepts developed throughout my studies.
+  * Each module is reinforced through related hands-on labs and walkthroughs to strengthen practical understanding and long-term retention.
 
 * **[Lab Walkthroughs](/portfolio/labs/)**  
-  * Step-by-step documentation of lab activities, configurations, and troubleshooting processes that demonstrate the application of concepts in real-world scenarios.
+  * Step-by-step documentation of lab activities, device configurations, command usage, troubleshooting methods, and implementation procedures demonstrating the practical application of networking concepts.
+
+* **[Video Walkthroughs](/portfolio/videos/)**  
+  * No-audio video demonstrations documenting lab execution, Wireshark analysis, PowerShell management, switch configuration, DHCP implementation, troubleshooting, and other networking activities completed throughout the learning process.
+
+* **[Study Diagrams](/study-diagrams/)**  
+  * AI-assisted visual study aids created to better understand networking concepts, protocols, troubleshooting processes, certification topics, security concepts, routing behavior, switching operations, and infrastructure design patterns.
+  * Many diagrams were created in response to practice exam questions or knowledge gaps requiring deeper visualization and clarification.
 
 ---
 
@@ -71,6 +77,7 @@ The [Calbright IT532 and IT533 SiteMap (PDF)](/assets/docs/IT532 & IT533_ Introd
 * **[NETWORK+ PORTFOLIO](/portfolio/)**
   * [Formative Modules](/portfolio/formative-modules/)
   * [Lab Walkthroughs](/portfolio/labs/)
+  * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 

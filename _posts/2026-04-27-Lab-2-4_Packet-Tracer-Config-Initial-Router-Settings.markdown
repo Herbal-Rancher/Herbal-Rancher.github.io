@@ -278,6 +278,7 @@ These are foundational skills for future Cisco labs and :contentReference[oaicit
 * [Network+ Portfolio](/portfolio/)
   * [Formative Modules](/portfolio/formative-modules/)
   * [Lab Walkthroughs](/portfolio/labs/)
+  * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 

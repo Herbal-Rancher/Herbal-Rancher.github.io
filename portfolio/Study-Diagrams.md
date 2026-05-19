@@ -133,6 +133,7 @@ This page will continue to grow as I study new topics, complete labs, and prepar
 * [Network+ Portfolio](/portfolio/)
   * [Formative Modules](/portfolio/formative-modules/)
   * [Lab Walkthroughs](/portfolio/labs/)
+  * [Video Walkthroughs](/portfolio/videos/)
   * **[Study Diagrams](/portfolio/study-diagrams/)**
 * [zBible Study](/zBible-Study/)
 

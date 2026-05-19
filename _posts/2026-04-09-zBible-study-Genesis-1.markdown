@@ -127,6 +127,7 @@ It’s how you begin to truly see.
 * [Network+ Portfolio](/portfolio/)
   * [Formative Modules](/portfolio/formative-modules/)
   * [Lab Walkthroughs](/portfolio/labs/)
+  * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * **[zBIBLE STUDY](/zBible-Study/)**
 

@@ -24,6 +24,7 @@ the Bible, capturing key learnings, personal reflections, and applications of bi
 * [Network+ Portfolio](/portfolio/)
   * [Formative Modules](/portfolio/formative-modules/)
   * [Lab Walkthroughs](/portfolio/labs/)
+  * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * **[Z-BIBLE STUDY](/zBible-Study/)**
 

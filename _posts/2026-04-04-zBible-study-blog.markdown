@@ -131,6 +131,7 @@ This study is an ongoing journey. By applying a consistent and thoughtful method
 * [Network+ Portfolio](/portfolio/)
   * [Formative Modules](/portfolio/formative-modules/)
   * [Lab Walkthroughs](/portfolio/labs/)
+  * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * **[zBIBLE STUDY](/zBible-Study/)**
 
