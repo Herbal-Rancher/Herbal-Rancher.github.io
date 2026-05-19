@@ -191,9 +191,10 @@ Each module represents a key learning milestone and is supported by related hand
    <a href="/assets/docs/12-0-Summative-Assessment_Network-Cabling.pdf"
    target="_blank"
    rel="noopener noreferrer">
-    12.0 Summative Assessment - TBD (PDF)
+    12.0 Summative Assessment - Network Cabling (PDF)
   </a>
 </li></UL>
+
 #### Labs and Walkthroughs
 
 {% assign labs = site.posts
@@ -214,10 +215,75 @@ Each module represents a key learning milestone and is supported by related hand
 {% else %}
 {% endif %}
 
+<UL><li>
+  <a href="https://youtu.be/9D_paJi_k20"
+   target="_blank"
+   rel="noopener noreferrer">
+    12.9 Packet Tracer Lab 9: Connect Devices at the Physical Layer | Walkthrough (Video)
+  </a></li><li>
+   <a href="https://youtu.be/L36QagIXgeI"
+   target="_blank"
+   rel="noopener noreferrer">
+    12.10 Packet Tracer Lab 10: Implement Basic Network Connectivity | Walkthrough (Video)
+  </a>
+</li></UL>
+
 <hr style="border: 2px solid #ccc;">
 
 ---
+## Module 13
 
+#### Milestone and Summative Assessments
+
+<UL><li>
+  <a href="/assets/docs/12-0-Milestone-Assessment_Network-Cabling.pdf"
+   target="_blank"
+   rel="noopener noreferrer">
+    12.0 Milestone Assessment - Network Cabling (PDF)
+  </a></li><li>
+   <a href="/assets/docs/12-0-Summative-Assessment_Network-Cabling.pdf"
+   target="_blank"
+   rel="noopener noreferrer">
+    12.0 Summative Assessment - TBD (PDF)
+  </a>
+</li></UL>
+
+#### Labs and Walkthroughs
+
+{% assign labs = site.posts
+  | where: "module", "12.0"
+  | where_exp: "post", "post.categories contains 'labs'"
+  | sort: "order" %}
+
+{% if labs.size > 0 %}
+ <ul>
+  {% for post in labs %}
+    <li>
+      <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
+        {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+   </ul>
+{% else %}
+{% endif %}
+
+<UL><li>
+  <a href="https://youtu.be/9D_paJi_k20"
+   target="_blank"
+   rel="noopener noreferrer">
+    12.9 Packet Tracer Lab 9: Connect Devices at the Physical Layer | Walkthrough (Video)
+  </a></li><li>
+   <a href="https://youtu.be/L36QagIXgeI"
+   target="_blank"
+   rel="noopener noreferrer">
+    12.10 Packet Tracer Lab 10: Implement Basic Network Connectivity | Walkthrough (Video)
+  </a>
+</li></UL>
+
+<hr style="border: 2px solid #ccc;">
+
+---
 ## 🔗 Navigation
 
 * [Home](/)
