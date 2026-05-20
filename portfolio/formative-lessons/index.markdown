@@ -236,22 +236,28 @@ Each module represents a key learning milestone and is supported by related hand
 #### Milestone and Summative Assessments
 
 <UL><li>
-  <a href="/assets/docs/12-0-Milestone-Assessment_Network-Cabling.pdf"
+ <a href="/assets/docs/13-0-Discussion_Network-IP-Addressing.pdf"
    target="_blank"
    rel="noopener noreferrer">
-    12.0 Milestone Assessment - Network Cabling (PDF)
+    13.0 Discussion: Network IP Addressing (PDF)
   </a></li><li>
-   <a href="/assets/docs/12-0-Summative-Assessment_Network-Cabling.pdf"
+  <a href="/assets/docs/13-0-Milestone-Assessment_Network-IP-Addressing.pdf"
    target="_blank"
    rel="noopener noreferrer">
-    12.0 Summative Assessment - TBD (PDF)
+    13.0 Milestone Assessment - Network IP Addressing (PDF)
+  </a></li><li>
+   <a href="/assets/docs/13-0-Summative-Assessment_Network-IP-Addressing.pdf"
+   target="_blank"
+   rel="noopener noreferrer">
+    13.0 Summative Assessment - Network IP Addressing (PDF)
   </a>
 </li></UL>
+
 
 #### Labs and Walkthroughs
 
 {% assign labs = site.posts
-  | where: "module", "12.0"
+  | where: "module", "13.0"
   | where_exp: "post", "post.categories contains 'labs'"
   | sort: "order" %}
 
@@ -272,12 +278,32 @@ Each module represents a key learning milestone and is supported by related hand
   <a href="https://youtu.be/9D_paJi_k20"
    target="_blank"
    rel="noopener noreferrer">
-    12.9 Packet Tracer Lab 9: Connect Devices at the Physical Layer | Walkthrough (Video)
+    13.11 Packet Tracer Lab 11: Identify MAC and IP Address | Walkthrough (Video)
+  </a></li><li>
+   <a href="https://youtu.be/9D_paJi_k20"
+   target="_blank"
+   rel="noopener noreferrer">
+    13.12 Packet Tracer Lab 12: Use the Ipconfig Command | Walkthrough (Video)
+  </a></li><li>
+   <a href="https://youtu.be/9D_paJi_k20"
+   target="_blank"
+   rel="noopener noreferrer">
+    13.13 Packet Tracer Lab 13: Verify IPv4 and IPv6 addressing | Walkthrough (Video)
+  </a></li><li>
+   <a href="https://youtu.be/9D_paJi_k20"
+   target="_blank"
+   rel="noopener noreferrer">
+    13.14 Packet Tracer Lab 14: Investigate the TCP-IP and OSI Models in Action | Walkthrough (Video)
+  </a></li><li>
+   <a href="https://youtu.be/9D_paJi_k20"
+   target="_blank"
+   rel="noopener noreferrer">
+    13.15 Packet Tracer Lab 15: Subnet an IPv4 Network | Walkthrough (Video)
   </a></li><li>
    <a href="https://youtu.be/L36QagIXgeI"
    target="_blank"
    rel="noopener noreferrer">
-    12.10 Packet Tracer Lab 10: Implement Basic Network Connectivity | Walkthrough (Video)
+    13.16 Packet Tracer Lab 16: Configure IPv6 Addressing | Walkthrough (Video)
   </a>
 </li></UL>
 
