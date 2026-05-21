@@ -1,12 +1,23 @@
 ---
 layout: post
 title: "11.2 Packet Tracer Lab 2: Basic Device Configuration"
-module: 11.0
+lesson: 11.0
 order: 11.2
-categories: [portfolio, blog, labs, lab, network]
+categories: [portfolio, labs]
 tags: [packet-tracer, cisco-ios, ipv4, ipv6, router, switch, troubleshooting]
 permalink: /portfolio/labs/module-11-0/configure-basic-device-config/
+status: complete
+
+date: 2026-04-25 11:34:11 -0700
+video: ""
+pdf: ""
+diagram: ""
+
+tools: []
+protocols: []
+topics: []
 ---
+
 
 ## Module 11 Packet Tracer Lab 2: Basic Device Configuration
 

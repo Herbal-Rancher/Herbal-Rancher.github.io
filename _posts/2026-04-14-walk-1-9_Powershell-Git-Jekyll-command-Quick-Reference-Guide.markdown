@@ -1,13 +1,23 @@
 ---
 layout: post
 title: "1.9 GitHub Lab: Quick Reference: PowerShell, Git, and Jekyll Commands"
-module: 1.0
+lesson: 1.0
 order: 1.9
-categories: [portfolio, blog, labs, lab]
-date: 2026-04-14 11:14:11 -0700
+categories: [portfolio, labs]
 tags: [github-pages, jekyll, git, troubleshooting, setup, reference-guide]
 permalink: /portfolio/labs/module-1-0/quick-reference-guide/
+status: complete
+
+date: 2026-04-14 11:14:11 -0700
+video: ""
+pdf: ""
+diagram: ""
+
+tools: []
+protocols: []
+topics: []
 ---
+
 
 This page provides a structured command reference for managing a local Jekyll site, validating changes, and publishing updates to GitHub Pages.
 <!--more-->

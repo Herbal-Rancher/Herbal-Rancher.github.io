@@ -1,13 +1,23 @@
 ---
 layout: post
 title: "1.1 GitHub Lab: Initial GitHub Site Setup"
-module: 1.0
+lesson: 1.0
 order: 1.1
-categories: [portfolio, blog, labs, lab]
-date: 2026-04-10 11:11:14 -0700
-tags: [github-pages, jekyll, git, troubleshooting, setup]
+categories: [portfolio, labs]
+tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/labs/module-1-0/initial-github-site-setup/
+status: complete
+
+date: 2026-04-10 11:11:11 -0100
+video: ""
+pdf: ""
+diagram: ""
+
+tools: []
+protocols: []
+topics: []
 ---
+
 
 In this lab, I demonstrate how to resolve a common issue where local changes are not reflected on GitHub. The goal is to ensure that the contents of a local project folder completely replace the remote repository and successfully publish to GitHub Pages.
 <!--more-->

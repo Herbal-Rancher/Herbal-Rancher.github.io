@@ -71,14 +71,14 @@ The videos are grouped by topic to make the page easier to scan and review. Each
     width="420"
     height="236"
     src="https://www.youtube.com/embed/0yol87jxOhs"
-    title="Security | Secure Access Configuration for Switch2 | Lab 10.4.3 Walkthrough"
+    title="Security | Secure Access Configuration for Switch | Lab 10.4.3 Walkthrough"
     frameborder="0"
     allowfullscreen>
   </iframe>
 
   <p style="margin-top:10px;">
     <strong>Lab 10.4.3</strong><br>
-    Secure Access Configuration for Switch2<br>
+    Secure Access Configuration for Switch<br>
     <a href="https://www.youtube.com/watch?v=0yol87jxOhs">Open video directly in YouTube</a>
   </p>
 </div>

@@ -1,11 +1,21 @@
 ---
 layout: post
 title: "11.8 Packet Tracer Lab 8: Connect a Router to a LAN"
-module: 11.0
+lesson: 11.0
 order: 11.8
-categories: [portfolio, blog, labs, lab, network]
+categories: [portfolio, labs]
 tags: [packet-tracer, cabling, topology, networking-basics]
 permalink: /portfolio/labs/module-11-0/connect-router-to-lan/
+status: complete
+
+date: 2026-04-28 11:34:11 -0700
+video: ""
+pdf: ""
+diagram: ""
+
+tools: []
+protocols: []
+topics: []
 ---
 
 ## Module 11 Packet Tracer Lab 8: Connect a Router to a LAN

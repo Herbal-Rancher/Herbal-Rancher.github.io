@@ -4,8 +4,8 @@ permalink: /portfolio/formative-modules/
 ---
 
 ---
-
 # Formative Modules
+
 
 This section captures the **core concepts, theories, and foundational knowledge** I am developing throughout my IT coursework.
 
@@ -19,298 +19,58 @@ Each module represents a key learning milestone and is supported by related hand
 * Connect theory to practical application
 * Track learning progression over time
 
-<hr style="border: 2px solid #ccc;">
-## Module 01
-
-#### Milestone and Summative Assessments
-
-<UL><li>
-  <a href="/assets/docs/01-0-Milestone-Assessment_Network-OSI-model.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    1.0 Milestone Assessment - Network OSI Model (PDF)
-  </a></li><li>
-   <a href="/assets/docs/01-0-Summative-Assessment_Network-OSI-model.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    1.0 Summative Assessment - Network OSI Open Systems Interconnect Model (PDF)
-  </a>
-</li></UL>
-
-#### Labs and Walkthroughs
-
-{% assign labs = site.posts
-  | where: "module", "1.0"
-  | where_exp: "post", "post.categories contains 'labs'"
-  | sort: "order" %}
-
-{% if labs.size > 0 %}
-  <ul>
-  {% for post in labs %}
-    <li>
-      <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
-        {{ post.title }}
-      </a>
-    </li>
-  {% endfor %}
-  </ul>
-{% else %}
-{% endif %}
-
-<hr style="border: 2px solid #ccc;">
-
-## Module 02
-
-#### Milestone and Summative Assessments
-<UL><li>
-  <a href="/assets/docs/02-0-Milestone-Assessment_Network-Systems.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    2.0 Milestone Assessment - Network Systems (PDF)
-  </a></li><li>
-   <a href="/assets/docs/02-0-Summative-Assessment_Network-Systems.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    2.0 Summative Assessment - Network Systems (PDF)
-  </a>
-</li></UL>
-
-#### Labs and Walkthroughs
-
-{% assign labs = site.posts
-  | where: "module", "2.0"
-  | where_exp: "post", "post.categories contains 'labs'"
-  | sort: "order" %}
-
-{% if labs.size > 0 %}
-  <ul>
-  {% for post in labs %}
-    <li>
-      <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
-        {{ post.title }}
-      </a>
-    </li>
-  {% endfor %}
-   </ul>
-{% else %}
-{% endif %}
-
-<hr style="border: 2px solid #ccc;">
-
-## Module 03
-
-#### Milestone and Summative Assessments
-<UL><li>
- <a href="/assets/docs/03-0-Discussion_IP-Address-Subclasses.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    3.0 Discussion: IP Address Subclasses (PDF)
-  </a></li><li>
-  <a href="/assets/docs/03-0-Milestone-Assessment_Network-Monitoring.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    3.0 Milestone Assessment - Network Addressing (PDF)
-  </a></li><li>
-   <a href="/assets/docs/03-0-Summative-Assessment_Network-Monitoring.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    3.0 Summative Assessment - Network Addressing (PDF)
-  </a>
-</li></UL>
-
-#### Labs and Walkthroughs
-
-{% assign labs = site.posts
-  | where: "module", "3.0"
-  | where_exp: "post", "post.categories contains 'labs'"
-  | sort: "order" %}
-
-{% if labs.size > 0 %}
-  <ul>
-  {% for post in labs %}
-    <li>
-      <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
-        {{ post.title }}
-      </a>
-    </li>
-  {% endfor %}
-   </ul>
-{% else %}
-{% endif %}
-
-<hr style="border: 2px solid #ccc;">
-
-## Module 11
-
-#### Milestone and Summative Assessments
-
-<UL><li>
-  <a href="/assets/docs/11-0-Milestone-Assessment_Network-Topologies.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    11.0 Milestone Assessment - Network Topologies (PDF)
-  </a></li><li>
-   <a href="/assets/docs/11-0-Summative-Assessment_Network-Topologies.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    11.0 Summative Assessment - Network Topologies (PDF)
-  </a>
-</li></UL>
-#### Labs and Walkthroughs
-
-{% assign labs = site.posts
-  | where: "module", "11.0"
-  | where_exp: "post", "post.categories contains 'labs'"
-  | sort: "order" %}
-
-{% if labs.size > 0 %}
- <ul>
-  {% for post in labs %}
-    <li>
-      <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
-        {{ post.title }}
-      </a>
-    </li>
-  {% endfor %}
-   </ul>
-{% else %}
-{% endif %}
-
-<hr style="border: 2px solid #ccc;">
-
-## Module 12
-
-#### Milestone and Summative Assessments
-
-<UL><li>
-  <a href="/assets/docs/12-0-Milestone-Assessment_Network-Cabling.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    12.0 Milestone Assessment - Network Cabling (PDF)
-  </a></li><li>
-   <a href="/assets/docs/12-0-Summative-Assessment_Network-Cabling.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    12.0 Summative Assessment - Network Cabling (PDF)
-  </a>
-</li></UL>
-
-#### Labs and Walkthroughs
-
-{% assign labs = site.posts
-  | where: "module", "12.0"
-  | where_exp: "post", "post.categories contains 'labs'"
-  | sort: "order" %}
-
-{% if labs.size > 0 %}
- <ul>
-  {% for post in labs %}
-    <li>
-      <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
-        {{ post.title }}
-      </a>
-    </li>
-  {% endfor %}
-   </ul>
-{% else %}
-{% endif %}
-
-<UL><li>
-  <a href="https://youtu.be/9D_paJi_k20"
-   target="_blank"
-   rel="noopener noreferrer">
-    12.9 Packet Tracer Lab 9: Connect Devices at the Physical Layer | Walkthrough (Video)
-  </a></li><li>
-   <a href="https://youtu.be/L36QagIXgeI"
-   target="_blank"
-   rel="noopener noreferrer">
-    12.10 Packet Tracer Lab 10: Implement Basic Network Connectivity | Walkthrough (Video)
-  </a>
-</li></UL>
-
-<hr style="border: 2px solid #ccc;">
-
 ---
-## Module 13
+{% assign module_numbers = "1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0" | split: "," %}
+
+{% for module in module_numbers %}
+
+{% assign module_posts = site.posts 
+| where: "lesson", module 
+| sort: "order" %}
+{% assign has_content = false %}
+{% for post in module_posts %}
+  {% if post.categories contains "assessment" or post.categories contains "milestone" or post.categories contains "summative" or post.categories contains "discussion" or post.categories contains "labs" or post.categories contains "lab" or post.categories contains "walkthroughs" %}
+    {% assign has_content = true %}
+  {% endif %}
+{% endfor %}
+{% if has_content %}
+<hr style="border: 2px solid #ccc;">
+
+## Module {{ module }}
 
 #### Milestone and Summative Assessments
-
-<UL><li>
- <a href="/assets/docs/13-0-Discussion_Network-IP-Addressing.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    13.0 Discussion: Network IP Addressing (PDF)
-  </a></li><li>
-  <a href="/assets/docs/13-0-Milestone-Assessment_Network-IP-Addressing.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    13.0 Milestone Assessment - Network IP Addressing (PDF)
-  </a></li><li>
-   <a href="/assets/docs/13-0-Summative-Assessment_Network-IP-Addressing.pdf"
-   target="_blank"
-   rel="noopener noreferrer">
-    13.0 Summative Assessment - Network IP Addressing (PDF)
-  </a>
-</li></UL>
-
+<ul style="margin-top: 0; margin-bottom: 12px;">
+{% assign has_assessments = false %}
+{% for post in module_posts %}
+{% if post.categories contains "assessment" or post.categories contains "milestone" or post.categories contains "summative" or post.categories contains "discussion" %}
+{% assign has_assessments = true %}
+<li style="margin-bottom: 4px;"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+{% endif %}
+{% endfor %}
+{% if has_assessments == false %}
+<li style="margin-bottom: 4px;"><p style="color: #666;"><em>Disccussion and Assessments will continue to expand as additional Modules are completed.</em></p></li>
+{% endif %}
+</ul>
 
 #### Labs and Walkthroughs
 
-{% assign labs = site.posts
-  | where: "module", "13.0"
-  | where_exp: "post", "post.categories contains 'labs'"
-  | sort: "order" %}
-
-{% if labs.size > 0 %}
- <ul>
-  {% for post in labs %}
-    <li>
-      <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener noreferrer">
-        {{ post.title }}
-      </a>
-    </li>
-  {% endfor %}
-   </ul>
-{% else %}
+<ul style="margin-top: 0; margin-bottom: 12px;">
+{% assign has_labs = false %}
+{% for post in module_posts %}
+{% if post.categories contains "labs" or post.categories contains "lab" or post.categories contains "walkthroughs" %}
+{% assign has_labs = true %}
+<li style="margin-bottom: 4px;"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endif %}
-
-<UL><li>
-  <a href="https://youtu.be/9D_paJi_k20"
-   target="_blank"
-   rel="noopener noreferrer">
-    13.11 Packet Tracer Lab 11: Identify MAC and IP Address | Walkthrough (Video)
-  </a></li><li>
-   <a href="https://youtu.be/9D_paJi_k20"
-   target="_blank"
-   rel="noopener noreferrer">
-    13.12 Packet Tracer Lab 12: Use the Ipconfig Command | Walkthrough (Video)
-  </a></li><li>
-   <a href="https://youtu.be/9D_paJi_k20"
-   target="_blank"
-   rel="noopener noreferrer">
-    13.13 Packet Tracer Lab 13: Verify IPv4 and IPv6 addressing | Walkthrough (Video)
-  </a></li><li>
-   <a href="https://youtu.be/9D_paJi_k20"
-   target="_blank"
-   rel="noopener noreferrer">
-    13.14 Packet Tracer Lab 14: Investigate the TCP-IP and OSI Models in Action | Walkthrough (Video)
-  </a></li><li>
-   <a href="https://youtu.be/9D_paJi_k20"
-   target="_blank"
-   rel="noopener noreferrer">
-    13.15 Packet Tracer Lab 15: Subnet an IPv4 Network | Walkthrough (Video)
-  </a></li><li>
-   <a href="https://youtu.be/L36QagIXgeI"
-   target="_blank"
-   rel="noopener noreferrer">
-    13.16 Packet Tracer Lab 16: Configure IPv6 Addressing | Walkthrough (Video)
-  </a>
-</li></UL>
-
+{% endfor %}
+{% if has_labs == false %}
+<li style="margin-bottom: 4px;"><p style="color: #666;"><em>Labs and walkthroughs will continue to expand as additional competencies are completed.</em></p></li>
+{% endif %}
+</ul>
+{% endif %}
+{% endfor %}
 <hr style="border: 2px solid #ccc;">
 
----
-## 🔗 Navigation
+## Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

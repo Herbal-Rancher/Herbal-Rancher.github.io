@@ -1,9 +1,28 @@
 ---
 layout: post
 title:  "My Study Approach: Observation, Interpretation, Application!"
-date:   2026-04-04 15:15:15 -0700
+
 categories: [zbible, genesis, observation]
 tags: [genesis, inductive-study, observation, creation, patterns, word, holy-spirit]
+---
+---
+layout: post
+title: "11.0 Milestone Lab - Enterprise Network Redesign"
+lesson: 11.0
+order: 11.1
+categories: [portfolio, milestones]
+tags: [network-design, vlan, switching, wireless, redundancy, troubleshooting, enterprise]
+permalink: /portfolio/labs/module-11-0/milestone-network-topologies-redesign/
+status: complete
+
+date:   2026-04-04 15:15:15 -0700
+video: ""
+pdf: ""
+diagram: ""
+
+tools: []
+protocols: []
+topics: []
 ---
 
 ## My Study Approach: Observation, Interpretation, Application

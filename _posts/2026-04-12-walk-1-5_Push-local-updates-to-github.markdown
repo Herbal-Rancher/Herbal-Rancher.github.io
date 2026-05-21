@@ -1,12 +1,21 @@
 ---
 layout: post
 title: "1.5 GitHub Lab: Push Latest Updates to GitHub Repository"
-module: 1.0
+lesson: 1.0
 order: 1.5
-categories: [portfolio, blog, labs, lab]
-date: 2026-04-12 11:12:12 -0200
+categories: [portfolio, labs]
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/labs/module-1-0/push-local-updates-to-github/
+status: complete
+
+date: 2026-04-12 11:12:12 -0200
+video: ""
+pdf: ""
+diagram: ""
+
+tools: []
+protocols: []
+topics: []
 ---
 
 This is the walkthrough on how to update your local repository with the latest changes from GitHub before you start working on your next blog post. This is an important step to ensure that you are working with the most up-to-date version of your project and to avoid any potential conflicts when you push your changes back to GitHub.	

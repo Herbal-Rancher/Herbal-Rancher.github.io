@@ -1,12 +1,21 @@
 ---
 layout: post
 title: "1.2 GitHub Lab: Creating a Local Project From My Remote GitHub Repository"
-module: 1.0
+lesson: 1.0
 order: 1.2
-categories: [portfolio, blog, labs, lab]
-date: 2026-04-11 11:12:14 -0200
-tags: [github-pages, jekyll, git, troubleshooting, setup]
+categories: [portfolio, labs] 
+tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/labs/module-1-0/create-local-project-from-github-repo/
+status: complete
+
+date: 2026-04-11 11:12:14 -0200
+video: ""
+pdf: ""
+diagram: ""
+
+tools: []
+protocols: []
+topics: []
 ---
 
 In this walkthrough, I document the process of configuring and deploying my GitHub Pages blog for the first time. While the initial setup seemed straightforward, I encountered several real-world issues involving Git, branching, authentication, and dependency management.
