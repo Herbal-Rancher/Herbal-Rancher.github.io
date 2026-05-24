@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "1.9 GitHub Lab: Quick Reference: PowerShell, Git, and Jekyll Commands"
-lesson: 1.0
-order: 1.9
+
+lesson: "1.0"
+lab: "1.9"
+sort_order: 01090
+
 categories: [portfolio, labs]
 tags: [github-pages, jekyll, git, troubleshooting, setup, reference-guide]
 permalink: /portfolio/labs/module-1-0/quick-reference-guide/
@@ -204,7 +207,7 @@ Pull → Serve → Edit → Validate → Commit → Push
 
 * **[HOME](/)**
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

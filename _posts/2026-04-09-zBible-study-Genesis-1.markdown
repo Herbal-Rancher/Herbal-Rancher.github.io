@@ -125,7 +125,7 @@ It’s how you begin to truly see.
 
 * [HOME](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "12.0 Summative Assessment - Cabling and Physical Network Infrastructure"
+
 lesson: "12.0"
-order: 12.2
+assessment: "12.2"
+sort_order: 012020	
+
 categories: [portfolio, summative, formative]
 tags: [packet-tracer, cabling, troubleshooting, cli, interfaces, connectivity]
-permalink: /portfolio/formative-modules/lesson-12-0/summative-network-cabling/
+permalink: /portfolio/formative-lessons/lesson-12-0/summative-network-cabling/
 status: complete
 
 pdf: "/assets/pdfs/12-0-Summative-Assessment_Network-Cabling.pdf"
@@ -69,7 +72,7 @@ Preparing recorded walkthroughs required repeating the lab multiple times, which
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

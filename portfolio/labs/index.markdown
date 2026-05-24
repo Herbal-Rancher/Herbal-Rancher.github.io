@@ -31,15 +31,19 @@ Each lab walkthrough provides step-by-step actions, commands, and real-world pro
 {% endfor %}
 
 ---
+---
+---
 
 ## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * **[LAB WALKTHROUGHS](/portfolio/labs/)**
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

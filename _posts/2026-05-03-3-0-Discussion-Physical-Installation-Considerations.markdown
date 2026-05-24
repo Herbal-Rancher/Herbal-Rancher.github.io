@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "3.0 Discussion - Physical Installation Considerations"
+
 lesson: "3.0"
-order: 3.1
+assessment: "3.1"
+sort_order: 03010
+
 categories: [portfolio, discussion, formative]
 tags: [physical-installation, cable-management, ups, security, environmental-controls]
-permalink: /portfolio/formative-modules/lesson-3-0/discussion-physical-installation-considerations/
+permalink: /portfolio/formative-lessons/lesson-3-0/discussion-physical-installation-considerations/
 status: complete
 
 pdf: "/assets/pdfs/03-0-Discussion_Physical-Installation-Considerations.pdf"
@@ -54,7 +57,7 @@ This discussion reinforced the importance of proper physical infrastructure plan
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

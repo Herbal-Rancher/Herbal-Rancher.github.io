@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "3.0 Milestone Assessment - Network Monitoring, SNMP, Ports, Protocols, and Services"
+
 lesson: "3.0"
-order: 3.2
+assessment: "3.2"
+sort_order: 03020
+
 categories: [portfolio, milestone, formative]
 tags: [snmp, monitoring, ports, protocols, services, tcp, udp]
-permalink: /portfolio/formative-modules/lesson-3-0/milestone-network-monitoring/
+permalink: /portfolio/formative-lessons/lesson-3-0/milestone-network-monitoring/
 status: complete
 
 pdf: "/assets/pdfs/03-0-Milestone-Assessment_Network-Monitoring.pdf"
@@ -63,7 +66,7 @@ This assessment strengthened my understanding of how monitoring technologies and
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

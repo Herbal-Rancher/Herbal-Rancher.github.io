@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "2.0 Summative Assessment - Network Systems"
+
 lesson: "2.0"
-order: 2.2
+assessment: "2.2"
+sort_order: 02020
+
 categories: [portfolio, summative, formative]
 tags: [bgp, ospf, routing, gateways, distance-vector]
-permalink: /portfolio/formative-modules/lesson-2-0/summative-network-systems/
+permalink: /portfolio/formative-lessons/lesson-2-0/summative-network-systems/
 status: complete
 
 pdf: "/assets/pdfs/02-0-Summative-Assessment_Network-Systems.pdf"
@@ -57,7 +60,7 @@ This assessment reinforced how routing protocols dynamically adapt to changing n
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

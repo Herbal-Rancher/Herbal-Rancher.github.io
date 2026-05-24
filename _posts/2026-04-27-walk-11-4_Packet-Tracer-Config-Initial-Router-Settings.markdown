@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "11.4 Packet Tracer Lab 4: Configure Initial Router Settings"
-lesson: 11.0
-order: 11.4
+
+lesson: "11.0"
+lab: "11.4"
+sort_order: 11040
+
 categories: [portfolio, labs]
 tags: [packet-tracer, router, cisco-ios, security, configuration]
 permalink: /portfolio/labs/module-11-0/configure-initial-router-settings/
@@ -286,7 +289,7 @@ These are foundational skills for future Cisco labs and :contentReference[oaicit
 
 * **[HOME](/)**
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

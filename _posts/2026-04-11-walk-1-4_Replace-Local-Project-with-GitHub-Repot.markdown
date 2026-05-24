@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "1.4 GitHub Lab: Update Local Project With GitHub Latest Repository"
-lesson: 1.0
-order: 1.4
+
+lesson: "1.0"
+lab: "1.4"
+sort_order: 01040
+
 categories: [portfolio, labs]
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/labs/module-1-0/update-local-project-with-github-latest-repository/
@@ -95,7 +98,7 @@ git push origin main
 
 * **[HOME](/)**
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

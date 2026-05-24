@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "11.0 Milestone Assessment - Network Topologies Enterprise Redesign"
+
 lesson: "11.0"
-order: 11.1
+assessment: "11.1"
+sort_order: 011010
+
 categories: [portfolio, milestone, formative]
 tags: [vlan, rstp, redundancy, wireless, layer3-switching, topology]
-permalink: /portfolio/formative-modules/lesson-11-0/milestone-network-topologies/
+permalink: /portfolio/formative-lessons/lesson-11-0/milestone-network-topologies/
 status: complete
 
 pdf: "/assets/pdfs/11-0-Milestone-Assessment_Network-Topologies.pdf"
@@ -67,7 +70,7 @@ This project strengthened my understanding of scalable enterprise network archit
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

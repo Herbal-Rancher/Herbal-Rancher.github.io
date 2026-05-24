@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "1.2 GitHub Lab: Creating a Local Project From My Remote GitHub Repository"
-lesson: 1.0
-order: 1.2
+
+lesson: "1.0"
+lab: "1.2"
+sort_order: 01020
+
 categories: [portfolio, labs] 
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/labs/module-1-0/create-local-project-from-github-repo/
@@ -192,7 +195,7 @@ This experience reinforced the importance of understanding both development and 
 
 * **[HOME](/)**
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

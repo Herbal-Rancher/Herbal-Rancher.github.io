@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "1.3 GitHub Lab: Git Branching and Workflow"
-lesson: 1.0
-order: 1.3
+
+lesson: "1.0"
+lab: "1.3"
+sort_order: 01030
+
 categories: [portfolio, labs]
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/labs/module-1-0/git-branching-and-workflow/
@@ -60,7 +63,7 @@ This project uses a **feature branching model**:
 Example:
 
 ```
-feature/formative-modules-index
+feature/formative-lessons-index
 feature/walkthrough-2-update
 ```
 
@@ -90,7 +93,7 @@ git checkout -b feature/<feature-name>
 Example:
 
 ```bash
-git checkout -b feature/formative-modules-index
+git checkout -b feature/formative-lessons-index
 ```
 
 ---
@@ -105,7 +108,7 @@ Update files, create pages, or modify content.
 
 ```bash
 git add .
-git commit -m "added formative modules index page"
+git commit -m "added formative lessons index page"
 ```
 
 ---
@@ -241,7 +244,7 @@ git branch -d feature/<name>
 
 * **[HOME](/)**
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

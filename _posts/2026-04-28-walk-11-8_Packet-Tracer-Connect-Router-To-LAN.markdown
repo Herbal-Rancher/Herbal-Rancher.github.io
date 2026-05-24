@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "11.8 Packet Tracer Lab 8: Connect a Router to a LAN"
-lesson: 11.0
-order: 11.8
+
+lesson: "11.0"
+lab: "11.8"
+sort_order: 11080
+
 categories: [portfolio, labs]
 tags: [packet-tracer, cabling, topology, networking-basics]
 permalink: /portfolio/labs/module-11-0/connect-router-to-lan/
@@ -340,7 +343,7 @@ This felt like one of my first true multi-network routing labs where everything 
 
 * **[HOME](/)**
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

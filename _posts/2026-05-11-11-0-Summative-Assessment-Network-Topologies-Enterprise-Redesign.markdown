@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "11.0 Summative Assessment - Packet Tracer Lab 8 Connect a Router to a LAN"
+
 lesson: "11.0"
-order: 11.2
+assessment: "11.2"
+sort_order: 011020	
+
 categories: [portfolio, summative, formative]
 tags: [routing, interfaces, wan, lan, ospf, troubleshooting, packet-tracer]
-permalink: /portfolio/formative-modules/lesson-11-0/summative-connect-router-to-lan/
+permalink: /portfolio/formative-lessons/lesson-11-0/summative-connect-router-to-lan/
 status: complete
 
 pdf: "/assets/pdfs/11-0-Summative-Assessment_Network-Topologies.pdf"
@@ -65,7 +68,7 @@ This lab reinforced how routers connect multiple networks and how routing tables
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

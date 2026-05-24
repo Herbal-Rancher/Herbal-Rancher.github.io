@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "3.0 Summative Assessment - Network Monitoring and Troubleshooting Scenario"
+
 lesson: "3.0"
-order: 3.3
+assessment: "3.2"
+sort_order: 03020
+
 categories: [portfolio, summative, formative]
 tags: [monitoring, troubleshooting, wireshark, snmp, syslog]
-permalink: /portfolio/formative-modules/lesson-3-0/summative-network-monitoring/
+permalink: /portfolio/formative-lessons/lesson-3-0/summative-network-monitoring/
 status: complete
 
 pdf: "/assets/pdfs/03-0-Summative-Assessment_Network-Monitoring.pdf"
@@ -62,7 +65,7 @@ This assessment reinforced the importance of combining monitoring tools, histori
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

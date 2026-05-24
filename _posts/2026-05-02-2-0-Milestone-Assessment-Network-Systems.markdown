@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "2.0 Milestone Assessment - Network Systems"
+
 lesson: "2.0"
-order: 2.1
+assessment: "2.1"
+sort_order: 02010
+
 categories: [portfolio, milestone, formative]
 tags: [routing, wireless, ospf, bgp, rip, vlan, routing-technologies]
-permalink: /portfolio/formative-modules/lesson-2-0/milestone-network-systems/
+permalink: /portfolio/formative-lessons/lesson-2-0/milestone-network-systems/
 status: complete
 
 pdf: "/assets/pdfs/02-0-Milestone-Assessment_Network-Systems.pdf"
@@ -62,7 +65,7 @@ This assessment improved my understanding of how physical infrastructure, wirele
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

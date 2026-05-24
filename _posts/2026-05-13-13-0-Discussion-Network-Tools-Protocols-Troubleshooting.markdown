@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "13.0 Discussion - Network IP Addressing and Troubleshooting"
+
 lesson: "13.0"
-order: 13.1
+assessment: "13.1"
+sort_order: 013010	
+
 categories: [portfolio, discussion, formative]
 tags: [troubleshooting, snmp, wireshark, osi-model, netflow, security]
-permalink: /portfolio/formative-modules/lesson-13-0/discussion-network-ip-addressing/
+permalink: /portfolio/formative-lessons/lesson-13-0/discussion-network-ip-addressing/
 status: complete
 
 pdf: "/assets/pdfs/13-0-Discussion_Network-IP-Addressing.pdf"
@@ -69,7 +72,7 @@ It also strengthened my understanding of how monitoring, security, and connectiv
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

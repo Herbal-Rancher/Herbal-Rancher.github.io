@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "1.0 Milestone Assessment - Open Systems Interconnection (OSI) Model"
+
 lesson: "1.0"
-order: 1.1
+assessment: "1.1"
+sort_order: 01010
+
 categories: [portfolio, milestone, formative]
 tags: [osi-model, networking, protocols, troubleshooting, interoperability]
-permalink: /portfolio/formative-modules/lesson-1-0/milestone-osi-model/
+permalink: /portfolio/formative-lessons/lesson-1-0/milestone-osi-model/
 status: complete
 
 pdf: "/assets/pdfs/01-0-Milestone-Assessment_Network-OSI-model.pdf"
@@ -64,7 +67,7 @@ This assessment strengthened my understanding of how network communication occur
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

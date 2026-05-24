@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "12.0 Milestone Assessment - Cabling and Physical Network Infrastructure"
+
 lesson: "12.0"
-order: 12.1
+assessment: "12.1"
+sort_order: 012010	
+
 categories: [portfolio, milestone, formative]
 tags: [cabling, fiber, twisted-pair, coaxial, connectors, infrastructure]
-permalink: /portfolio/formative-modules/lesson-12-0/milestone-network-cabling/
+permalink: /portfolio/formative-lessons/lesson-12-0/milestone-network-cabling/
 status: complete
 
 pdf: "/assets/pdfs/12-0-Milestone-Assessment_Network-Cabling.pdf"
@@ -64,7 +67,7 @@ This assessment strengthened my understanding of how physical cabling infrastruc
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

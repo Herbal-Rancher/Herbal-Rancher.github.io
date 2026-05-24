@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "1.1 GitHub Lab: Initial GitHub Site Setup"
-lesson: 1.0
-order: 1.1
+
+lesson: "1.0"
+lab: "1.1"
+sort_order: 01010
+
 categories: [portfolio, labs]
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/labs/module-1-0/initial-github-site-setup/
@@ -192,7 +195,7 @@ This lab demonstrates a real-world GitHub issue and its resolution. Understandin
 
 * **[HOME](/)**
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

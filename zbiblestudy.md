@@ -17,15 +17,19 @@ the Bible, capturing key learnings, personal reflections, and applications of bi
 {% endfor %}
 
 ---
+---
+---
 
 ## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * **[Z-BIBLE STUDY](/zBible-Study/)**
 
+---
+---
 ---

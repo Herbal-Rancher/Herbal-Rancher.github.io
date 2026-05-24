@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "11.6 Packet Tracer Lab 6: Build a Switch and Router Network"
-lesson: 11.0
-order: 11.6
+
+lesson: "11.0"
+lab: "11.6"
+sort_order: 11060
+
 categories: [portfolio, labs]
 tags: [packet-tracer, cabling, topology, networking-basics]
 permalink: /portfolio/labs/module-11-0/build-switch-router-network/
@@ -466,7 +469,7 @@ This was one of my first full network builds that included both infrastructure c
 
 * **[HOME](/)**
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)

@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /portfolio/formative-modules/
+permalink: /portfolio/formative-lessons/
 ---
 
 ---
-# Formative Modules
+# Formative Lessons
 
 
 This section captures the **core concepts, theories, and foundational knowledge** I am developing throughout my IT coursework.
@@ -70,14 +70,19 @@ Each module represents a key learning milestone and is supported by related hand
 {% endfor %}
 <hr style="border: 2px solid #ccc;">
 
+---
+---
+---
 ## Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * **[FORMATIVE MODULES](/portfolio/formative-modules/)**
+  * **[FORMATIVE LESSONS](/portfolio/formative-lessons/)**
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "1.0 Summative Assessment - Network OSI Model"
+
 lesson: "1.0"
-order: 1.2
+assessment: "1.2"
+sort_order: 01020
+
 categories: [portfolio, summative, formative]
 tags: [osi-model, topology, networking, protocols]
-permalink: /portfolio/formative-modules/lesson-1-0/summative-osi-model/
+permalink: /portfolio/formative-lessons/lesson-1-0/summative-osi-model/
 status: complete
 
 pdf: "/assets/pdfs/01-0-Summative-Assessment_Network-OSI-model.pdf"
@@ -59,7 +62,7 @@ This assessment helped reinforce the relationship between hardware devices, prot
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
-  * [Formative Modules](/portfolio/formative-modules/)
+  * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
