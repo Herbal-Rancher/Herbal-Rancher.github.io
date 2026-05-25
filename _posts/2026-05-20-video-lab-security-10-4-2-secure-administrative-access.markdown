@@ -55,7 +55,7 @@ This no-narration video walkthrough demonstrates methods used to secure administ
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

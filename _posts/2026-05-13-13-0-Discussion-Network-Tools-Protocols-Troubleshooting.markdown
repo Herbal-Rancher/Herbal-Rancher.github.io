@@ -67,8 +67,10 @@ This discussion reinforced the importance of structured troubleshooting, OSI lay
 It also strengthened my understanding of how monitoring, security, and connectivity tools work together to maintain reliable and secure enterprise network operations.
 
 ---
+---
+---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
@@ -78,4 +80,6 @@ It also strengthened my understanding of how monitoring, security, and connectiv
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

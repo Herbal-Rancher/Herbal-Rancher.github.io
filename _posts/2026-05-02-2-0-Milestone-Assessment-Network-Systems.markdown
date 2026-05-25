@@ -60,8 +60,10 @@ This milestone assessment explores how routing technologies, wireless configurat
 This assessment improved my understanding of how physical infrastructure, wireless communication, and routing technologies interact as an integrated networking system.
 
 ---
+---
+---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
@@ -71,4 +73,6 @@ This assessment improved my understanding of how physical infrastructure, wirele
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

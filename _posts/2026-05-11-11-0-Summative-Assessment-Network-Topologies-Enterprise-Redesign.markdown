@@ -63,8 +63,10 @@ This summative assessment documents a Packet Tracer lab involving router configu
 This lab reinforced how routers connect multiple networks and how routing tables, interface configuration, and verification commands work together to support reliable communication between LANs and WANs.
 
 ---
+---
+---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
@@ -74,4 +76,6 @@ This lab reinforced how routers connect multiple networks and how routing tables
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

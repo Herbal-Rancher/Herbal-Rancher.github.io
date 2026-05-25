@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /
-tags: [home, overview, navigation]
 ---
 
+---
+---
 ---
 
 # Home

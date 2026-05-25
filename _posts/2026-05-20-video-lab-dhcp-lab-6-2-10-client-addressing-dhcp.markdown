@@ -59,7 +59,7 @@ The video walkthrough focuses on automatic IP configuration, DHCP communication,
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

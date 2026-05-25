@@ -54,12 +54,11 @@ STP, TCN, switching loops, bridge protocol data units.
 I needed a clearer visual explanation of what happens when a topology change notification is received in a network using STP.
 
 
-
 ---
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

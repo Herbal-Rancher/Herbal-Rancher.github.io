@@ -4,6 +4,9 @@ permalink: /portfolio/formative-lessons/
 ---
 
 ---
+---
+---
+
 # Formative Lessons
 
 
@@ -73,7 +76,7 @@ Each module represents a key learning milestone and is supported by related hand
 ---
 ---
 ---
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

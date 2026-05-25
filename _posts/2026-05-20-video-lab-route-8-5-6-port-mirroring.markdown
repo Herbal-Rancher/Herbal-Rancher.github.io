@@ -54,21 +54,12 @@ This no-narration video walkthrough demonstrates switch port mirroring configura
        style="width: 420px; border-radius: 8px;">
 </a>
 
----
-
-## Navigation
-
-* [Video Walkthroughs](/portfolio/videos/)
-* [Lab Walkthroughs](/portfolio/labs/)
-* [Network+ Portfolio](/portfolio/)
-
----
 
 ---
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

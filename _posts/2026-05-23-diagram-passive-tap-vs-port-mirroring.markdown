@@ -58,7 +58,7 @@ I wanted to understand the differences between passive taps and port mirroring f
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

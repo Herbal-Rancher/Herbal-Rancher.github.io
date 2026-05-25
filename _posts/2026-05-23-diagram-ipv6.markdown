@@ -59,7 +59,7 @@ IPv6 has been difficult for me, so I requested a diagram to help organize the ma
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

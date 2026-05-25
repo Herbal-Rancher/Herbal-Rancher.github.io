@@ -53,13 +53,11 @@ Single-mode fiber, connectors, distance, use cases.
 
 I wanted to better understand how single-mode fiber differs from other cabling types and what a network or security administrator should know.
 
-
-
 ---
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

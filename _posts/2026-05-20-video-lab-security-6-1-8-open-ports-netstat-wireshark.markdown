@@ -58,7 +58,7 @@ This no-narration video walkthrough demonstrates how to identify open ports and 
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

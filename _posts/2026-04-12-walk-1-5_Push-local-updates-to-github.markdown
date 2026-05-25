@@ -69,6 +69,8 @@ git push origin main
 
 
 ---
+---
+---
 
 ## 🔗 Navigation
 
@@ -80,4 +82,6 @@ git push origin main
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

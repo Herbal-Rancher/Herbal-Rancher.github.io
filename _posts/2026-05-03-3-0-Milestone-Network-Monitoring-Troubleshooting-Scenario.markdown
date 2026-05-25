@@ -61,8 +61,10 @@ This milestone assessment explains how network monitoring technologies, ports, p
 This assessment strengthened my understanding of how monitoring technologies and communication protocols work together to maintain secure and reliable network operations.
 
 ---
+---
+---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
@@ -72,4 +74,6 @@ This assessment strengthened my understanding of how monitoring technologies and
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

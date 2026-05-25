@@ -59,7 +59,7 @@ The video walkthrough focuses on preventing specific IP addresses from being aut
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

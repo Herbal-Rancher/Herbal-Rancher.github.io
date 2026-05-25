@@ -2,7 +2,10 @@
 layout: page
 title: "Network+ Portfolio"
 permalink: /portfolio/
-tags: [portfolio, index, navigation, projects]
+---
+
+---
+---
 ---
 
 This portfolio documents my learning, hands-on labs, and technical labs as I progress through my IT coursework.

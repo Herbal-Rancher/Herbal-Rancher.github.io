@@ -62,8 +62,10 @@ The assessment examines how each OSI layer contributes to communication, trouble
 This assessment strengthened my understanding of how network communication occurs across layered architectures and how the OSI model supports troubleshooting and interoperability within enterprise environments.
 
 ---
+---
+---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
@@ -73,4 +75,6 @@ This assessment strengthened my understanding of how network communication occur
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

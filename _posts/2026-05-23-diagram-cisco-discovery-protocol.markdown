@@ -57,7 +57,7 @@ I was unsure what information CDP can and cannot report, so I used a visual expl
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

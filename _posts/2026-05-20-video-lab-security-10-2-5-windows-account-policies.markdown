@@ -52,7 +52,7 @@ This no-narration video walkthrough demonstrates Windows account policy manageme
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

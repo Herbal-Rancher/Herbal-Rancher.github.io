@@ -215,7 +215,8 @@ Physical infrastructure matters:
 Even perfect configurations fail if devices are connected incorrectly.
 
 
-
+---
+---
 ---
 
 ## 🔗 Navigation
@@ -228,4 +229,6 @@ Even perfect configurations fail if devices are connected incorrectly.
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

@@ -96,7 +96,7 @@ Below are my handwritten observation notes from Genesis 1. These capture pattern
 
 ## Next Step
 
-* Listen to [Genesis]() (2 full times)
+* Listen to [Genesis](https://www.bible.com/bible/59/GEN.1.ESV) (2 full times)
 * Return to Genesis 1:2 to continue observation with a wider lens
 * Begin identifying deeper connections between:
 
@@ -120,6 +120,8 @@ It’s how you begin to truly see.
 
 
 ---
+---
+---
 
 ## 🔗 Navigation
 
@@ -131,5 +133,7 @@ It’s how you begin to truly see.
   * [Study Diagrams](/portfolio/study-diagrams/)
 * **[zBIBLE STUDY](/zBible-Study/)**
 
+---
+---
 ---
 

@@ -57,8 +57,10 @@ This summative assessment demonstrates understanding of the OSI model, network t
 This assessment helped reinforce the relationship between hardware devices, protocols, addressing, and layered communication throughout modern networks.
 
 ---
+---
+---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
@@ -68,4 +70,6 @@ This assessment helped reinforce the relationship between hardware devices, prot
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

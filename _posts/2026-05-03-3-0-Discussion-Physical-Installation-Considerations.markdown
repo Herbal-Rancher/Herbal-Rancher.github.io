@@ -52,8 +52,10 @@ This discussion examines important physical installation factors that directly i
 This discussion reinforced the importance of proper physical infrastructure planning and how installation quality directly affects network performance and long-term stability.
 
 ---
+---
+---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
@@ -63,4 +65,6 @@ This discussion reinforced the importance of proper physical infrastructure plan
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

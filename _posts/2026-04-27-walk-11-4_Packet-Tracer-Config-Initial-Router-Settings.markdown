@@ -284,6 +284,8 @@ These are foundational skills for future Cisco labs and :contentReference[oaicit
 
 
 ---
+---
+---
 
 ## 🔗 Navigation
 
@@ -295,4 +297,6 @@ These are foundational skills for future Cisco labs and :contentReference[oaicit
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

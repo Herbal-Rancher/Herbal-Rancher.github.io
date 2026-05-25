@@ -55,8 +55,10 @@ This summative assessment demonstrates understanding of routing concepts, defaul
 This assessment reinforced how routing protocols dynamically adapt to changing network conditions while maintaining communication stability and efficient path selection.
 
 ---
+---
+---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
@@ -66,4 +68,6 @@ This assessment reinforced how routing protocols dynamically adapt to changing n
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

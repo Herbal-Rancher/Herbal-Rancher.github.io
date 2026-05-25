@@ -67,8 +67,10 @@ This lab significantly improved my confidence using the Cisco CLI environment an
 Preparing recorded walkthroughs required repeating the lab multiple times, which strengthened command familiarity, troubleshooting ability, and long-term retention of networking concepts.
 
 ---
+---
+---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
@@ -78,4 +80,6 @@ Preparing recorded walkthroughs required repeating the lab multiple times, which
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

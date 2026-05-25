@@ -60,7 +60,7 @@ The video walkthrough focuses on DHCP scope creation, automatic address assignme
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

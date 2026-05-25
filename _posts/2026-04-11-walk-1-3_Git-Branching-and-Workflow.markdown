@@ -239,6 +239,8 @@ git branch -d feature/<name>
 
 
 ---
+---
+---
 
 ## 🔗 Navigation
 
@@ -250,5 +252,7 @@ git branch -d feature/<name>
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---
 

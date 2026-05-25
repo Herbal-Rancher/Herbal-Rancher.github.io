@@ -202,6 +202,8 @@ Pull → Serve → Edit → Validate → Commit → Push
 
 
 ---
+---
+---
 
 ## 🔗 Navigation
 
@@ -213,4 +215,6 @@ Pull → Serve → Edit → Validate → Commit → Push
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

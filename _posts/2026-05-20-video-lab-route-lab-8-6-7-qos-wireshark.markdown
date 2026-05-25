@@ -56,20 +56,10 @@ This no-narration video walkthrough demonstrates Quality of Service (QoS) config
 </a>
 
 ---
-
-## Navigation
-
-* [Video Walkthroughs](/portfolio/videos/)
-* [Lab Walkthroughs](/portfolio/labs/)
-* [Network+ Portfolio](/portfolio/)
-
----
-
----
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

@@ -59,7 +59,7 @@ I wanted to better understand the differences between ST and FC fiber optic conn
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

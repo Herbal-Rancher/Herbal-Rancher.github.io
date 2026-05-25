@@ -1,7 +1,11 @@
 ---
 layout: page
-title: "zBible Study"
+title: "z-Bible Study"
 permalink: /zBible-Study/
+---
+
+---
+---
 ---
 
 This page serves as a dedicated space for my zBible study notes, reflections, and insights. It is designed to document my journey through 

@@ -464,6 +464,8 @@ This was one of my first full network builds that included both infrastructure c
 
 
 ---
+---
+---
 
 ## 🔗 Navigation
 
@@ -475,4 +477,6 @@ This was one of my first full network builds that included both infrastructure c
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

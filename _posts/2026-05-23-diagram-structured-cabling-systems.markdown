@@ -57,7 +57,7 @@ I wanted to understand the different components and standards involved in struct
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

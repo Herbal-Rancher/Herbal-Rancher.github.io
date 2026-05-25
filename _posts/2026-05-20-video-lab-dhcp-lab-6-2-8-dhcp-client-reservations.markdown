@@ -59,7 +59,7 @@ The video walkthrough focuses on assigning reserved IP addresses to specific net
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

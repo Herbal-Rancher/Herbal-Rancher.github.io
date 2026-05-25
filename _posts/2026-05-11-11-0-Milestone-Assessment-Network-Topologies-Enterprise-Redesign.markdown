@@ -65,8 +65,10 @@ This milestone assessment focuses on redesigning a growing enterprise network af
 This project strengthened my understanding of scalable enterprise network architecture and demonstrated how segmentation, redundancy, wireless planning, and layered security controls work together to improve network reliability and performance.
 
 ---
+---
+---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
@@ -76,4 +78,6 @@ This project strengthened my understanding of scalable enterprise network archit
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

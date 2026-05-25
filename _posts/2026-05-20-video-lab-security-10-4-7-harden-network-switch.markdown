@@ -36,7 +36,7 @@ This no-narration video walkthrough demonstrates switch hardening techniques use
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

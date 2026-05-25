@@ -35,7 +35,7 @@ This no-narration video walkthrough demonstrates PowerShell Remote Management co
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

@@ -62,7 +62,7 @@ The video walkthrough focuses on identifying connectivity issues, analyzing capt
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

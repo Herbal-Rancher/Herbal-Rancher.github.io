@@ -190,6 +190,8 @@ This experience reinforced the importance of understanding both development and 
 
 
 ---
+---
+---
 
 ## 🔗 Navigation
 
@@ -201,4 +203,6 @@ This experience reinforced the importance of understanding both development and 
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

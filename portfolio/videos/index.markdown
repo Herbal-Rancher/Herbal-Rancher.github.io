@@ -4,11 +4,18 @@ permalink: /portfolio/videos/
 ---
 
 ---
-## Video Walkthroughs
+---
+---
+
+# Video Walkthroughs
 
 This page contains no-narration video walkthroughs documenting networking labs, troubleshooting processes, Wireshark analysis, DHCP implementation, switch hardening, PowerShell management, and other hands-on activities completed throughout my Network Technology learning journey.
 
-The videos are grouped by topic to make the page easier to scan and review. Each video includes a thumbnail, a direct YouTube link, and metadata pulled from the related video post.
+The videos are grouped by topic to make the collection easier to review, navigate, and revisit over time. Each entry includes a thumbnail preview, a direct YouTube link, and metadata connected to the related lab or networking concept.
+
+Creating these walkthroughs is also part of my learning process. Preparing to record each video requires me to review the lab objectives, configure the environment, troubleshoot issues, and complete the activities multiple times before recording the final walkthrough. Repeating the process helps reinforce commands, procedures, troubleshooting methods, and overall networking concepts while improving long-term retention and practical understanding.
+
+These walkthroughs are intended to document both the technical implementation of networking tasks and the progression of my hands-on learning experience.
 
 ---
 

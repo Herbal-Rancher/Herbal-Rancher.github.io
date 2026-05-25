@@ -57,7 +57,7 @@ This no-narration video walkthrough demonstrates how to disable unused switch po
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

@@ -62,8 +62,10 @@ This milestone assessment examines cabling technologies, physical infrastructure
 This assessment strengthened my understanding of how physical cabling infrastructure directly affects network reliability, scalability, performance, and troubleshooting efficiency in enterprise networking environments.
 
 ---
+---
+---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
@@ -73,4 +75,6 @@ This assessment strengthened my understanding of how physical cabling infrastruc
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

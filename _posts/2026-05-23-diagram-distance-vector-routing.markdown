@@ -58,7 +58,7 @@ I wanted to understand distance vector routing more clearly before comparing it 
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

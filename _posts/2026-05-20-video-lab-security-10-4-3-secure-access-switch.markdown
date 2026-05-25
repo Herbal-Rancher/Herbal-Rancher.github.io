@@ -54,7 +54,7 @@ This no-narration video walkthrough demonstrates secure access configuration tec
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

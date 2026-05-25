@@ -54,13 +54,11 @@ Routing protocols, network topology, convergence.
 
 I wanted to understand the differences between distance vector and link state routing protocols and how they affect network performance.
 
-
-
 ---
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

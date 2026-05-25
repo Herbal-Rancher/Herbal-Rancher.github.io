@@ -58,7 +58,7 @@ I wanted a comparison-style visual to understand multimode fiber and how it diff
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

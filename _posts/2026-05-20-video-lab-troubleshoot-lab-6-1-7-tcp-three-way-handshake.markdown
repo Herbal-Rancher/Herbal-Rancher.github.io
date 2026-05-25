@@ -63,7 +63,7 @@ The video walkthrough visually examines how TCP establishes reliable communicati
 ---
 ---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)

@@ -60,8 +60,10 @@ This summative assessment presents a network monitoring and troubleshooting scen
 This assessment reinforced the importance of combining monitoring tools, historical analysis, physical infrastructure awareness, and structured troubleshooting methods to maintain stable enterprise network performance.
 
 ---
+---
+---
 
-## Navigation
+## 🔗 Navigation
 
 * [Home](/)
 * [Network+ Portfolio](/portfolio/)
@@ -71,4 +73,6 @@ This assessment reinforced the importance of combining monitoring tools, histori
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---

@@ -190,6 +190,8 @@ This lab demonstrates a real-world GitHub issue and its resolution. Understandin
 
 
 ---
+---
+---
 
 ## 🔗 Navigation
 
@@ -201,5 +203,7 @@ This lab demonstrates a real-world GitHub issue and its resolution. Understandin
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 
+---
+---
 ---
 
