@@ -20,7 +20,7 @@ tags:
 permalink: /portfolio/study-diagrams/distance-vector-vs-link-state/
 status: complete
 
-image: "/assets/images/study-diagrams/distance-vector-vs-link-state-diagram.png"
+image: "/assets/images/study-diagrams/distance-vector-vs-link-state-diagram-chatgpt-rendered-image.png"
 image_alt: "Study diagram comparing distance vector and link state routing protocols."
 ---
 

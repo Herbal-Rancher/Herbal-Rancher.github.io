@@ -19,7 +19,7 @@ tags:
 permalink: /portfolio/study-diagrams/single-mode-fiber/
 status: complete
 
-image: "/assets/images/study-diagrams/single-mode-fiber-diagram.png"
+image: "/assets/images/study-diagrams/single-mode-fiber-diagram-chatgpt-rendered-image.png"
 image_alt: "Study diagram explaining single-mode fiber cabling."
 ---
 

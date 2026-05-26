@@ -19,7 +19,7 @@ tags:
 permalink: /portfolio/study-diagrams/multimode-fiber/
 status: complete
 
-image: "/assets/images/study-diagrams/multimode-fiber-diagram.png"
+image: "/assets/images/study-diagrams/multimode-fiber-diagram-chatgpt-rendered-image.png"
 image_alt: "Study diagram explaining multimode fiber cabling."
 ---
 

@@ -19,7 +19,7 @@ tags:
 permalink: /portfolio/study-diagrams/distance-vector-routing/
 status: complete
 
-image: "/assets/images/study-diagrams/distance-vector-routing-version.png"
+image: "/assets/images/study-diagrams/distance-vector-routing-version-chatgpt-rendered-image.png"
 image_alt: "Study diagram explaining distance vector routing."
 ---
 

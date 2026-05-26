@@ -19,7 +19,7 @@ tags:
 permalink: /portfolio/study-diagrams/cisco-discovery-protocol/
 status: complete
 
-image: "/assets/images/study-diagrams/cdp-study-diagram.png"
+image: "/assets/images/study-diagrams/cdp-study-diagram-chatgpt-rendered-image.png"
 image_alt: "Study diagram explaining Cisco Discovery Protocol."
 ---
 

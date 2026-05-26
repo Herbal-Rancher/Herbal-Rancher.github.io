@@ -19,7 +19,7 @@ tags:
 permalink: /portfolio/study-diagrams/stp-tcn/
 status: complete
 
-image: "/assets/images/study-diagrams/stp-tcn-diagram.png"
+image: "/assets/images/study-diagrams/stp-tcn-diagram-chatgpt-rendered-image.png"
 image_alt: "Study diagram explaining Spanning Tree Protocol topology change notifications."
 ---
 

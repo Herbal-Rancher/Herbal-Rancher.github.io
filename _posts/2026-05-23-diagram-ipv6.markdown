@@ -19,7 +19,7 @@ tags:
 permalink: /portfolio/study-diagrams/ipv6/
 status: complete
 
-image: "/assets/images/study-diagrams/ipv6-study-diagram.png"
+image: "/assets/images/study-diagrams/ipv6-study-diagram-chatgpt-rendered-image.png"
 image_alt: "Study diagram explaining IPv6 addressing and structure."
 ---
 

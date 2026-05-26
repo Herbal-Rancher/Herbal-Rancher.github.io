@@ -20,7 +20,7 @@ tags:
 permalink: /portfolio/study-diagrams/passive-tap-vs-port-mirroring/
 status: complete
 
-image: "/assets/images/study-diagrams/passive-tap-vs-port-mirroring-diagram.png"
+image: "/assets/images/study-diagrams/passive-tap-vs-port-mirroring-diagram-chatgpt-rendered-image.png"
 image_alt: "Study diagram comparing passive taps and port mirroring."
 ---
 

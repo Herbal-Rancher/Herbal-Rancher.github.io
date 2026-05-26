@@ -20,7 +20,7 @@ tags:
 permalink: /portfolio/study-diagrams/fiber-optic-connectors-st-vs-fc/
 status: complete
 
-image: "/assets/images/study-diagrams/fiber-optic-connectors-ST-FC-chatgpt-rendered-image.png"
+image: "/assets/images/study-diagrams/fiber-optic-connectors-ST-FC-chatgpt-rendered-image-chatgpt-rendered-image.png"
 image_alt: "Study diagram comparing ST and FC fiber optic connectors."
 ---
 
