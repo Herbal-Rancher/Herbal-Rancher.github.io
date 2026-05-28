@@ -4,7 +4,7 @@ title: "Routing | Configure QoS and Analyze Traffic with Wireshark | Lab 8.6.7 W
 
 lesson: "8.0"
 assessment: "8.6.7"
-sort_order: 080607	
+sort_order: "080607"
 
 categories: [portfolio, videos]
 

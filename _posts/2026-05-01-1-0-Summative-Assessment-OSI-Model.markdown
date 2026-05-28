@@ -4,7 +4,7 @@ title: "1.0 Summative Assessment - Network OSI Model"
 
 lesson: "1.0"
 assessment: "1.2"
-sort_order: 01020
+sort_order: "010200"
 
 categories: [portfolio, summative, formative]
 tags: [osi-model, topology, networking, protocols]

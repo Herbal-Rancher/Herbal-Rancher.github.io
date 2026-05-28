@@ -3,7 +3,7 @@ layout: post
 title: "Top Network Ports — CompTIA Network+ Study Guide"
 lesson: "4.0"
 order: "4.1"
-sort_order: 4010
+sort_order: "040100"
 categories: [portfolio, diagrams]
 
 diagram_category: routing-network-communication

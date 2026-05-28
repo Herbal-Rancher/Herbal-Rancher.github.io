@@ -4,7 +4,7 @@ title: "Security | Harden a Network Switch | Lab 10.4.7 Walkthrough"
 
 lesson: "10.0"
 assessment: "10.4.7"
-sort_order: 100407	
+sort_order: "100407"	
 
 categories: [portfolio, videos]
 tags: [switch-hardening, security, cisco, administration]

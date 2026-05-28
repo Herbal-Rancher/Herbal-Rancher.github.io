@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "1.4 GitHub Lab: Update Local Project With GitHub Latest Repository"
+title: "Lab 4: Update Local Project With GitHub Latest Repository"
 
 lesson: "1.0"
 lab: "1.4"
-sort_order: 01040
+sort_order: "010400"
 
 categories: [portfolio, labs]
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
@@ -20,7 +20,6 @@ tools: []
 protocols: []
 topics: []
 ---
-
 
 Before starting a new blog post or walkthrough, it’s important to ensure your **local repository matches the latest version on GitHub**.
 

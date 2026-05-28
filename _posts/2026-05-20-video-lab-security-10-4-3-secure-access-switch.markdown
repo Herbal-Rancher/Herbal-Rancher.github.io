@@ -4,7 +4,7 @@ title: "Security | Secure Access Configuration for Switch | Lab 10.4.3 Walkthrou
 
 lesson: "10.0"
 assessment: "10.4.3"
-sort_order: 100403	
+sort_order: "100403"	
 
 categories: [portfolio, videos]
 

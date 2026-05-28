@@ -4,7 +4,7 @@ title: "Security | Viewing Open Ports with Netstat and Wireshark | Lab 6.1.8 Wal
 
 lesson: "6.0"
 assessment: "6.1.8"
-sort_order: 60108	
+sort_order: "060108"	
 
 categories: [portfolio, videos]
 

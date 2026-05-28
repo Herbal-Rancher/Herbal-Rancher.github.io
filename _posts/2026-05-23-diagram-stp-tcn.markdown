@@ -3,12 +3,10 @@ layout: post
 title: "Spanning Tree Protocol: Topology Change Notification"
 lesson: "8.0"
 order: "8.1"
-sort_order: 8010
+sort_order: "080100"
 categories: [portfolio, diagrams]
 
 diagram_category: switching-infrastructure
-diagram_topic: "Spanning Tree Protocol, topology change notifications, switching loops, bridge protocol data units"
-diagram_reason: "I needed a clearer visual explanation of what happens when a topology change notification is received in a network using STP."
 
 tags:
   - stp
@@ -16,6 +14,8 @@ tags:
   - switching
   - bpdu
 
+diagram_topic: "Spanning Tree Protocol, topology change notifications, switching loops, bridge protocol data units"
+diagram_reason: "I needed a clearer visual explanation of what happens when a topology change notification is received in a network using STP."
 permalink: /portfolio/study-diagrams/stp-tcn/
 status: complete
 

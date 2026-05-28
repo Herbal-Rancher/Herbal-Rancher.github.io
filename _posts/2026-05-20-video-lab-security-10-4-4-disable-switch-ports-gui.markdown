@@ -4,7 +4,7 @@ title: "Security | Disable Switch Ports Using GUI Management | Lab 10.4.4 Walkth
 
 lesson: "10.0"
 assessment: "10.4.4"
-sort_order: 100404	
+sort_order: "100404"
 
 categories: [portfolio, videos]
 

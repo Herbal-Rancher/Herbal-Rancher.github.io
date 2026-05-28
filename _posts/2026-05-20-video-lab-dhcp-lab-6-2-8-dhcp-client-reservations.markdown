@@ -4,7 +4,7 @@ title: "DHCP | Create DHCP Client Reservations | Lab 6.2.8 Walkthrough"
 
 lesson: "6.0"
 assessment: "6.2.8"
-sort_order: 060208	
+sort_order: "060208"
 
 categories: [portfolio, videos]
 

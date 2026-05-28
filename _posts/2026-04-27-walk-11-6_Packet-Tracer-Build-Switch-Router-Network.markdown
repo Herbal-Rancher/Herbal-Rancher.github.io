@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "11.6 Packet Tracer Lab 6: Build a Switch and Router Network"
+title: "Lab 6: Build a Switch and Router Network"
 
 lesson: "11.0"
 lab: "11.6"
-sort_order: 11060
+sort_order: "110600"
 
 categories: [portfolio, labs]
 tags: [packet-tracer, cabling, topology, networking-basics]
@@ -21,8 +21,6 @@ protocols: []
 topics: []
 ---
 
-## Module 11 Packet Tracer Lab 6: Build a Switch and Router Network
-
 In this lab, I built a small network by connecting a router, switch, and two PCs. I configured device security settings, assigned IP addresses, verified connectivity, reviewed device information, and implemented secure remote SSH access.
 
 <!--more-->
@@ -30,7 +28,7 @@ In this lab, I built a small network by connecting a router, switch, and two PCs
 
 # Network Topology
 
-<img src="{{ '/assets/images/Build-Switch-Router-Network-table-image.jpg' | relative_url }}" sizes="medium">
+<img src="{{ '/assets/images/packet-tracer/Build-Switch-Router-Network-table-image.jpg' | relative_url }}" sizes="medium">
 
 ---
 

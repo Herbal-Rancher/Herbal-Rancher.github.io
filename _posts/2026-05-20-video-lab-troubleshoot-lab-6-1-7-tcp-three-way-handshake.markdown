@@ -4,7 +4,7 @@ title: "TCP/IP | Exploring the TCP 3-Way Handshake with Wireshark | Lab 6.1.7 Wa
 
 lesson: "6.0"
 assessment: "6.1.7"
-sort_order: 60107	
+sort_order: "061070"
 
 categories: [portfolio, videos]
 

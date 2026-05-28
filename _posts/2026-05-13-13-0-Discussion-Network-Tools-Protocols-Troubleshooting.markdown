@@ -4,7 +4,7 @@ title: "13.0 Discussion - Network IP Addressing and Troubleshooting"
 
 lesson: "13.0"
 assessment: "13.1"
-sort_order: 013010	
+sort_order: 130100	
 
 categories: [portfolio, discussion, formative]
 tags: [troubleshooting, snmp, wireshark, osi-model, netflow, security]

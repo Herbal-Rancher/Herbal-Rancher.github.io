@@ -4,7 +4,7 @@ title: "Security | Manage Windows Account Policies | Lab 10.2.5 Walkthrough"
 
 lesson: "10.0"
 assessment: "10.2.5"
-sort_order: 100205	
+sort_order: 100205
 
 categories: [portfolio, videos]
 

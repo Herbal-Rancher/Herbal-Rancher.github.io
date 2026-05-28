@@ -4,7 +4,7 @@ title: "DHCP | Configure Client Addressing with DHCP | Lab 6.2.10 Walkthrough"
 
 lesson: "6.0"
 assessment: "6.2.10"
-sort_order: 060210	
+sort_order: "060210"	
 
 categories: [portfolio, videos]
 

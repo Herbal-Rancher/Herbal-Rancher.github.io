@@ -4,7 +4,7 @@ title: "Security | Secure Administrative Access to a Network Switch | Lab 10.4.2
 
 lesson: "10.0"
 assessment: "10.4.2"
-sort_order: 100402	
+sort_order: "100402"	
 
 categories: [portfolio, videos]
 

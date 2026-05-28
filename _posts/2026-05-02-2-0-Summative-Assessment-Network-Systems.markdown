@@ -4,7 +4,7 @@ title: "2.0 Summative Assessment - Network Systems"
 
 lesson: "2.0"
 assessment: "2.2"
-sort_order: 02020
+sort_order: "020200"
 
 categories: [portfolio, summative, formative]
 tags: [bgp, ospf, routing, gateways, distance-vector]

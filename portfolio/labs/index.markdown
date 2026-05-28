@@ -9,10 +9,11 @@ permalink: /portfolio/labs/
 
 # Lab Walkthroughs
 
-This section documents **hands-on labs, configurations, and troubleshooting processes** completed throughout my IT coursework.
+This section documents hands-on labs, configurations, troubleshooting processes, and technical implementation activities completed throughout my Network Technology coursework.
 
-Each lab walkthrough provides step-by-step actions, commands, and real-world problem-solving insights.
+Each walkthrough captures commands, workflows, configuration steps, troubleshooting methods, and practical networking concepts reinforced through lab-based learning.
 
+---
 
 ## 🎯 Purpose
 
@@ -21,16 +22,71 @@ Each lab walkthrough provides step-by-step actions, commands, and real-world pro
 * Capture troubleshooting and debugging processes
 
 ---
+---
+---
+---
 
-{% for post in site.categories.labs %}
+## IT532 — Introduction to Networking Concepts
+#### Lessons 1 – 9
+---
+---
+---
+---
 
-  <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-  <p>{{ post.date | date: "%B %d, %Y" }}</p>
-  <p>{{ post.excerpt }}</p>
-  <a href="{{ post.url | relative_url }}">Read More →</a>
-  <div style="height:1px; background:#ddd; margin:30px 0;"></div>
+{% assign it532_lessons = "1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0" | split: "," %}
 
+{% for lesson_number in it532_lessons %}
+{% assign lesson_labs = site.categories.labs | where: "lesson", lesson_number  %}
+
+{% for post in lesson_labs %}
+
+<h3>
+  Lesson {{ post.lesson }}: <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+</h3>
+
+<div style="margin-top: 6px; margin-bottom: 10px;">
+  {{ post.excerpt | strip_html | truncatewords: 45 }}
+</div>
+
+<a href="{{ post.url | relative_url }}">Read More →</a>
+
+<div style="height:1px; background:#ddd; margin:30px 0;"></div>
 {% endfor %}
+{% endfor %}
+
+---
+---
+---
+---
+
+## IT533 - Introduction to Networking Virtual Labs
+#### Lessons 10 – 18
+
+---
+---
+---
+---
+
+{% assign it533_lessons = "10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0" | split: "," %}
+
+{% for lesson_number in it533_lessons %}
+{% assign lesson_labs = site.categories.labs | where: "lesson", lesson_number %}
+
+{% for post in lesson_labs %}
+<h3>
+  Lesson {{ post.lesson }}: <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+</h3>
+
+<div style="margin-top: 6px; margin-bottom: 10px;">
+  {{ post.excerpt | strip_html | truncatewords: 45 }}
+</div>
+
+<a href="{{ post.url | relative_url }}">Read More →</a>
+
+<div style="height:1px; background:#ddd; margin:30px 0;"></div>
+{% endfor %}
+{% endfor %}
+
 
 ---
 ---

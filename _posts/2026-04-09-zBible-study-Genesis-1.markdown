@@ -4,6 +4,7 @@ title: "Genesis 1 — Observation Study (In the Beginning)"
 date:	2026-04-09 10:00:00 -0200
 categories: [zbible]
 tags: [genesis, inductive-study, observation, creation, patterns, word, holy-spirit]
+sort_order: "000002"
 ---
 
 ## Observation

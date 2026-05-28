@@ -3,18 +3,19 @@ layout: post
 title: "IPv6 Study Diagram"
 lesson: "13.0"
 order: "13.1"
-sort_order: 13010
+sort_order: "130100"
 categories: [portfolio, diagrams]
 
 diagram_category: routing-network-communication
-diagram_topic: "IPv6 addressing, structure, notation, network concepts"
-diagram_reason: "IPv6 has been difficult for me, so I requested a diagram to help organize the major ideas visually."
 
 tags:
   - ipv6
   - addressing
   - networking
   - subnetting
+
+diagram_topic: "IPv6 addressing, structure, notation, network concepts"
+diagram_reason: "IPv6 has been difficult for me, so I requested a diagram to help organize the major ideas visually."
 
 permalink: /portfolio/study-diagrams/ipv6/
 status: complete

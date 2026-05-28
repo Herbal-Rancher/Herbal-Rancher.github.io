@@ -4,7 +4,7 @@ title: "Security | Use PowerShell Remote Management | Lab 13.3.9 Walkthrough"
 
 lesson: "13.0"
 assessment: "13.3.9"
-sort_order: 130309	
+sort_order: "130309"
 
 categories: [portfolio, videos]
 tags: [powershell, remote-management, security, administration]

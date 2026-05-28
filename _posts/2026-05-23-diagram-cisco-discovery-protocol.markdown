@@ -3,12 +3,10 @@ layout: post
 title: "Cisco Discovery Protocol"
 lesson: "13.0"
 order: "13.2"
-sort_order: 13020
+sort_order: "130200"
 categories: [portfolio, diagrams]
 
 diagram_category: routing-network-communication
-diagram_topic: "CDP, neighbor discovery, reported device information"
-diagram_reason: "I was unsure what information CDP can and cannot report, so I used a visual explanation to clarify the concept."
 
 tags:
   - cdp
@@ -16,6 +14,8 @@ tags:
   - cisco
   - network-discovery
 
+diagram_topic: "CDP, neighbor discovery, reported device information"
+diagram_reason: "I was unsure what information CDP can and cannot report, so I used a visual explanation to clarify the concept."
 permalink: /portfolio/study-diagrams/cisco-discovery-protocol/
 status: complete
 

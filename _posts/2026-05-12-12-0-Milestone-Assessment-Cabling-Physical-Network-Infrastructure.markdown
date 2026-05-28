@@ -4,7 +4,7 @@ title: "12.0 Milestone Assessment - Cabling and Physical Network Infrastructure"
 
 lesson: "12.0"
 assessment: "12.1"
-sort_order: 012010	
+sort_order: "120100"	
 
 categories: [portfolio, milestone, formative]
 tags: [cabling, fiber, twisted-pair, coaxial, connectors, infrastructure]

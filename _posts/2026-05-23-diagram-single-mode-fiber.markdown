@@ -3,18 +3,19 @@ layout: post
 title: "Single-Mode Fiber Cabling"
 lesson: "12.0"
 order: "12.2"
-sort_order: 12020
+sort_order: "120200"
 categories: [portfolio, diagrams]
 
 diagram_category: fiber-physical-media
-diagram_topic: "Single-mode fiber, connectors, distance, use cases"
-diagram_reason: "I wanted to understand the characteristics and applications of single-mode fiber cabling."
 
 tags:
   - single-mode-fiber
   - fiber
   - cabling
   - connectors
+
+diagram_topic: "Single-mode fiber, connectors, distance, use cases"
+diagram_reason: "I wanted to understand the characteristics and applications of single-mode fiber cabling."
 
 permalink: /portfolio/study-diagrams/single-mode-fiber/
 status: complete

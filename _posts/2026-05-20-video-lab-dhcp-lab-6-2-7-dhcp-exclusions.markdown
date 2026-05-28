@@ -4,7 +4,7 @@ title: "DHCP | Create DHCP Exclusions | Lab 6.2.7 Walkthrough"
 
 lesson: "6.0"
 assessment: "6.2.7"
-sort_order: 060207	
+sort_order: "060207"
 
 categories: [portfolio, videos]
 

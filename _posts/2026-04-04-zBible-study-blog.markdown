@@ -4,7 +4,7 @@ title:  "My Study Approach: Observation, Interpretation, Application!"
 categories: [zbible, genesis, observation]
 tags: [genesis, inductive-study, observation, creation, patterns, word, holy-spirit]
 date:   2026-04-04 15:15:15 -0700
-
+sort_order: "000001"
 ---
 
 Alongside my technical studies in networking, I am committed to a structured and intentional approach to studying the First Testament. I am beginning in Genesis and working through each book systematically using the **[Precept Bible Study Method](https://www.precept.org/study/precept-bible-study-method/)**.

@@ -3,7 +3,7 @@ layout: post
 title: "Fiber Optic Connectors — Complete Reference Guide"
 lesson: "12.0"
 order: "12.5"
-sort_order: 12050
+sort_order: "120500"
 categories: [portfolio, diagrams]
 
 diagram_category: fiber-physical-media

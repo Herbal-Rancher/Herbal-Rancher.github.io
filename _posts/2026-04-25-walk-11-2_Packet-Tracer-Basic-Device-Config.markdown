@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "11.2 Packet Tracer Lab 2: Basic Device Configuration"
+title: "Lab 2: Basic Device Configuration"
 
 lesson: "11.0"
 lab: "11.2"
-sort_order: 11020
+sort_order: "110200"
 
 categories: [portfolio, labs]
 tags: [packet-tracer, cisco-ios, ipv4, ipv6, router, switch, troubleshooting]
@@ -20,9 +20,6 @@ tools: []
 protocols: []
 topics: []
 ---
-
-
-## Module 11 Packet Tracer Lab 2: Basic Device Configuration
 
 In this Lab, we present a guide to the "Basic Device Configuration" lab, to document easily repeatable steps for the foundation of assessing any network. This is configuring a Cisco router, 2 switches, and 4 hosts (2 hosts in each switched subnet. This lab uses Cisco Packet Tracer to simulate establishing a full IPv4 and IPv6 connectivity between two LANs.
 
@@ -79,7 +76,7 @@ This means:
   - Class-B switch
   - Student PCs
 
-<img src="{{ '/assets/images/Basic-Device-Config-imgage.jpg' | relative_url }}" sizes="medium">
+<img src="{{ '/assets/images/packet-tracer/Basic-Device-Config-imgage.jpg' | relative_url }}" sizes="medium">
 
 ---
 
@@ -106,7 +103,7 @@ Look for blanks in:
 | Network A Devices | `128.107.20.1` |
 | Network B Devices | `128.107.30.1` |
 
-<img src="{{ '/assets/images/Basic-Device-Config-router-addressing-table-imgage.jpg' | relative_url }}" sizes="small">
+<img src="{{ '/assets/images/packet-tracer/Basic-Device-Config-router-addressing-table-imgage.jpg' | relative_url }}" sizes="small">
 
 ---
 

@@ -4,7 +4,7 @@ title: "3.0 Discussion - Physical Installation Considerations"
 
 lesson: "3.0"
 assessment: "3.1"
-sort_order: 03010
+sort_order: "030100"
 
 categories: [portfolio, discussion, formative]
 tags: [physical-installation, cable-management, ups, security, environmental-controls]

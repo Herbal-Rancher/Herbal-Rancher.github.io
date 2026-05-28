@@ -4,7 +4,7 @@ title: "12.0 Summative Assessment - Cabling and Physical Network Infrastructure"
 
 lesson: "12.0"
 assessment: "12.2"
-sort_order: 012020	
+sort_order: "120200"
 
 categories: [portfolio, summative, formative]
 tags: [packet-tracer, cabling, troubleshooting, cli, interfaces, connectivity]

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "1.3 GitHub Lab: Git Branching and Workflow"
+title: "Lab 3: Git Branching and Workflow"
 
 lesson: "1.0"
 lab: "1.3"
-sort_order: 01030
+sort_order: "010300"
 
 categories: [portfolio, labs]
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
@@ -20,7 +20,6 @@ tools: []
 protocols: []
 topics: []
 ---
-
 
 This walkthrough documents the transition from a **basic Git workflow** to a more **structured, industry-standard branching workflow**.
 

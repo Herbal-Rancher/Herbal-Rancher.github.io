@@ -4,7 +4,7 @@ title: "DHCP | Configure a DHCP Server | Lab 6.2.5 Walkthrough"
 
 lesson: "6.0"
 assessment: "6.2.5"
-sort_order: 060205	
+sort_order: "060205"	
 
 categories: [portfolio, videos]
 

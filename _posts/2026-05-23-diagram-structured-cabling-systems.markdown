@@ -3,18 +3,19 @@ layout: post
 title: "Structured Cabling Systems"
 lesson: "12.0"
 order: "12.1"
-sort_order: 12010
+sort_order: "120100"
 categories: [portfolio, diagrams]
 
 diagram_category: switching-infrastructure
-diagram_topic: "Structured cabling systems, components, standards, network infrastructure"
-diagram_reason: "I wanted to understand the different components and standards involved in structured cabling systems."
+
 tags:
   - structured-cabling
   - cabling
   - network-infrastructure
   - standards
 
+diagram_topic: "Structured cabling systems, components, standards, network infrastructure"
+diagram_reason: "I wanted to understand the different components and standards involved in structured cabling systems."
 permalink: /portfolio/study-diagrams/structured-cabling-systems/
 status: complete
 

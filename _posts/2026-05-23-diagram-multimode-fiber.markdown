@@ -3,12 +3,10 @@ layout: post
 title: "Multimode Fiber Cabling"
 lesson: "12.0"
 order: "12.3"
-sort_order: 12030
+sort_order: "120300"
 categories: [portfolio, diagrams]
 
 diagram_category: fiber-physical-media
-diagram_topic: "Multimode fiber, connectors, distance, speed, use cases"
-diagram_reason: "I wanted to understand the characteristics and applications of multimode fiber cabling."
 
 tags:
   - multimode-fiber
@@ -16,6 +14,8 @@ tags:
   - cabling
   - connectors
 
+diagram_topic: "Multimode fiber, connectors, distance, speed, use cases"
+diagram_reason: "I wanted to understand the characteristics and applications of multimode fiber cabling."
 permalink: /portfolio/study-diagrams/multimode-fiber/
 status: complete
 

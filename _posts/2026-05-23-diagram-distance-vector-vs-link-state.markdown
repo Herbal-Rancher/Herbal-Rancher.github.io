@@ -3,12 +3,10 @@ layout: post
 title: "Distance Vector vs Link State Routing Protocols"
 lesson: "2.0"
 order: "2.4"
-sort_order: 2040
+sort_order: "200400"
 categories: [portfolio, diagrams]
 
 diagram_category: routing-network-communication
-diagram_topic: "Distance vector vs link state routing protocols, network topology, convergence"
-diagram_reason: "I wanted to understand the differences between distance vector and link state routing protocols and how they affect network performance."
 
 tags:
   - distance-vector
@@ -17,6 +15,8 @@ tags:
   - ospf
   - rip
 
+diagram_topic: "Distance vector vs link state routing protocols, network topology, convergence"
+diagram_reason: "I wanted to understand the differences between distance vector and link state routing protocols and how they affect network performance."
 permalink: /portfolio/study-diagrams/distance-vector-vs-link-state/
 status: complete
 

@@ -3,12 +3,10 @@ layout: post
 title: "Distance Vector Routing"
 lesson: "2.0"
 order: "2.3"
-sort_order: 2030
+sort_order: "020300"
 categories: [portfolio, diagrams]
 
 diagram_category: routing-network-communication
-diagram_topic: "Distance vector routing protocols, network topology, convergence"
-diagram_reason: "I wanted to understand the differences between distance vector and link state routing protocols and how they affect network performance."
 
 tags:
   - distance-vector
@@ -16,6 +14,8 @@ tags:
   - rip
   - routing-protocols
 
+diagram_topic: "Distance vector routing protocols, network topology, convergence"
+diagram_reason: "I wanted to understand the differences between distance vector and link state routing protocols and how they affect network performance."
 permalink: /portfolio/study-diagrams/distance-vector-routing/
 status: complete
 

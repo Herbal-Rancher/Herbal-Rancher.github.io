@@ -4,7 +4,7 @@ title: "Connectivity Issues | Wireshark Network Troubleshooting | Lab 8.5.5 Walk
 
 lesson: "8.0"
 assessment: "8.5.5"
-sort_order: 80505	
+sort_order: "080505"	
 
 categories: [portfolio, videos]
 

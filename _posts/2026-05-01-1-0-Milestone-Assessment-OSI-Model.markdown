@@ -4,7 +4,7 @@ title: "1.0 Milestone Assessment - Open Systems Interconnection (OSI) Model"
 
 lesson: "1.0"
 assessment: "1.1"
-sort_order: 01010
+sort_order: "010100"
 
 categories: [portfolio, milestone, formative]
 tags: [osi-model, networking, protocols, troubleshooting, interoperability]

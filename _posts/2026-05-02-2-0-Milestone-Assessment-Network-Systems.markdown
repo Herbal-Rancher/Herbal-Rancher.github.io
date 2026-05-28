@@ -4,7 +4,7 @@ title: "2.0 Milestone Assessment - Network Systems"
 
 lesson: "2.0"
 assessment: "2.1"
-sort_order: 02010
+sort_order: "020100"
 
 categories: [portfolio, milestone, formative]
 tags: [routing, wireless, ospf, bgp, rip, vlan, routing-technologies]

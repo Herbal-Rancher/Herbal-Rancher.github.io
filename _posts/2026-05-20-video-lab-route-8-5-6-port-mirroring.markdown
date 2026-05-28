@@ -4,7 +4,7 @@ title: "Switching | Configure Port Mirroring with Wireshark | Lab 8.5.6 Walkthro
 
 lesson: "8.0"
 assessment: "8.5.6"
-sort_order: 080506	
+sort_order: "080506"	
 
 categories: [portfolio, videos]
 

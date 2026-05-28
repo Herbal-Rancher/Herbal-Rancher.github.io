@@ -4,7 +4,7 @@ title: "11.0 Summative Assessment - Packet Tracer Lab 8 Connect a Router to a LA
 
 lesson: "11.0"
 assessment: "11.2"
-sort_order: 011020	
+sort_order: 110200
 
 categories: [portfolio, summative, formative]
 tags: [routing, interfaces, wan, lan, ospf, troubleshooting, packet-tracer]

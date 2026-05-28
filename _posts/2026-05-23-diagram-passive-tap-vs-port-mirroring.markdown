@@ -3,12 +3,10 @@ layout: post
 title: "Passive Tap vs Port Mirroring"
 lesson: "8.0"
 order: "8.2"
-sort_order: 8020
+sort_order: "080200"
 categories: [portfolio, diagrams]
 
 diagram_category: switching-infrastructure
-diagram_topic: "Passive taps vs port mirroring, network monitoring, traffic analysis"
-diagram_reason: "I wanted to understand the differences between passive taps and port mirroring for network monitoring purposes."
 
 tags:
   - passive-tap
@@ -17,6 +15,8 @@ tags:
   - monitoring
   - security
 
+diagram_topic: "Passive taps vs port mirroring, network monitoring, traffic analysis"
+diagram_reason: "I wanted to understand the differences between passive taps and port mirroring for network monitoring purposes."
 permalink: /portfolio/study-diagrams/passive-tap-vs-port-mirroring/
 status: complete
 

@@ -4,7 +4,7 @@ title: "3.0 Milestone Assessment - Network Monitoring, SNMP, Ports, Protocols, a
 
 lesson: "3.0"
 assessment: "3.2"
-sort_order: 03020
+sort_order: "030200"
 
 categories: [portfolio, milestone, formative]
 tags: [snmp, monitoring, ports, protocols, services, tcp, udp]

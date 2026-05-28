@@ -4,7 +4,7 @@ title: "11.0 Milestone Assessment - Network Topologies Enterprise Redesign"
 
 lesson: "11.0"
 assessment: "11.1"
-sort_order: 011010
+sort_order: "110100"
 
 categories: [portfolio, milestone, formative]
 tags: [vlan, rstp, redundancy, wireless, layer3-switching, topology]
