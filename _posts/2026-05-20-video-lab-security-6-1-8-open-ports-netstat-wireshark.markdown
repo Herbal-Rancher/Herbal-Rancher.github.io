@@ -67,6 +67,7 @@ This no-narration video walkthrough demonstrates how to identify open ports and 
   * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

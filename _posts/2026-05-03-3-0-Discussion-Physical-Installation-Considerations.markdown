@@ -64,6 +64,7 @@ This discussion reinforced the importance of proper physical infrastructure plan
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

@@ -85,6 +85,7 @@ The [Calbright IT532 and IT533 SiteMap (PDF)](/assets/docs/IT532 & IT533_ Introd
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

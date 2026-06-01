@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /portfolio/labs/
+nav_exclude: true
 ---
 
 ---
@@ -101,6 +102,7 @@ Each walkthrough captures commands, workflows, configuration steps, troubleshoot
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

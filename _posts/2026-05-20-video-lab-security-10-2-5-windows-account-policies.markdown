@@ -61,6 +61,7 @@ This no-narration video walkthrough demonstrates Windows account policy manageme
   * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

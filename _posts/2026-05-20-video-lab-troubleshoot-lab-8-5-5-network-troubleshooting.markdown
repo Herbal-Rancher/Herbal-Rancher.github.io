@@ -71,6 +71,7 @@ The video walkthrough focuses on identifying connectivity issues, analyzing capt
   * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

@@ -1,14 +1,15 @@
 ---
 layout: page
 permalink: /portfolio/formative-lessons/
+nav_exclude: true
 ---
+
 
 ---
 ---
 ---
 
 # Formative Lessons
-
 
 This section captures the **core concepts, theories, and foundational knowledge** I am developing throughout my IT coursework.
 
@@ -29,7 +30,7 @@ Each module represents a key learning milestone and is supported by related hand
 ___
 ___
 ---
-### IT532 — Introduction to Networking Concepts: Lessons 1 – 9
+### IT532 — Intro to Networking Concepts: Lessons 1 – 9
 ___
 ___
 ---
@@ -48,7 +49,7 @@ ___
 
 <hr style="border: 1px solid #ddd;">
 
-## Lesson {{ lesson_number }}
+### Lesson {{ lesson_number }}
 
 #### Discussions, Milestones, and Summative Assessments
 
@@ -108,7 +109,7 @@ ___
 
 <hr style="border: 1px solid #ddd;">
 
-## Lesson {{ lesson_number }}
+### Lesson {{ lesson_number }}
 
 #### Discussions, Milestones, and Summative Assessments
 
@@ -161,6 +162,7 @@ ___
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

@@ -75,6 +75,7 @@ This lab reinforced how routers connect multiple networks and how routing tables
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

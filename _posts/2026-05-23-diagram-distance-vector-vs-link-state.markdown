@@ -67,6 +67,7 @@ I wanted to understand the differences between distance vector and link state ro
   * [Video Walkthroughs](/portfolio/videos/)
   * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

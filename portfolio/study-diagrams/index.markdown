@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /portfolio/study-diagrams/
+nav_exclude: true
 ---
 
 ---
@@ -133,6 +134,7 @@ This page will continue to grow as I study new topics, complete labs, and prepar
   * [Video Walkthroughs](/portfolio/videos/)
   * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

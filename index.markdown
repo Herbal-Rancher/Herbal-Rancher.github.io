@@ -32,6 +32,7 @@ Alongside my technical journey, I am also engaged in a personal study of the Bib
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

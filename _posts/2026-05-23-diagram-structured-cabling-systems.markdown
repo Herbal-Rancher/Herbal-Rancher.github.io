@@ -67,6 +67,7 @@ I wanted to understand the different components and standards involved in struct
   * [Video Walkthroughs](/portfolio/videos/)
   * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

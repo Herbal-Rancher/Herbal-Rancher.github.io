@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /portfolio/videos/
+nav_exclude: true
 ---
 
 ---
@@ -84,6 +85,7 @@ These walkthroughs are intended to document both the technical implementation of
   * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

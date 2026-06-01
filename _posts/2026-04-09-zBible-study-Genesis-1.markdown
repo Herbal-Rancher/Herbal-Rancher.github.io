@@ -133,6 +133,7 @@ It’s how you begin to truly see.
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * **[zBIBLE STUDY](/zBible-Study/)**
+* [About Me](/about/)
 
 ---
 ---

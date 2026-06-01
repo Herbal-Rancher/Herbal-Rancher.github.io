@@ -77,6 +77,7 @@ The diagram helped reinforce connector identification, physical characteristics,
   * [Video Walkthroughs](/portfolio/videos/)
   * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

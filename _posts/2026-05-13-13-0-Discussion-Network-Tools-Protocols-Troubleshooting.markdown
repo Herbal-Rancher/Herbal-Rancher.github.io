@@ -79,6 +79,7 @@ It also strengthened my understanding of how monitoring, security, and connectiv
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

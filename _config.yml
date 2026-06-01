@@ -28,6 +28,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HerbalRancher
 github_username:  Herbal-Rancher
 
+# Header features
+header_pages:
+  - index.markdown
+  - portfolio/index.markdown
+  - portfolio/about/index.markdown
+  - portfolio/zBible/index.markdown
+
 # Build settings
 theme: minima
 minima:

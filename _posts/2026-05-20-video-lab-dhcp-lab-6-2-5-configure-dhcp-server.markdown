@@ -69,6 +69,7 @@ The video walkthrough focuses on DHCP scope creation, automatic address assignme
   * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

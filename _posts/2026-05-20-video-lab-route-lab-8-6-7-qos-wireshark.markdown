@@ -68,6 +68,7 @@ This no-narration video walkthrough demonstrates Quality of Service (QoS) config
   * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

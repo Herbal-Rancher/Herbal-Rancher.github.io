@@ -68,6 +68,7 @@ The video walkthrough focuses on assigning reserved IP addresses to specific net
   * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

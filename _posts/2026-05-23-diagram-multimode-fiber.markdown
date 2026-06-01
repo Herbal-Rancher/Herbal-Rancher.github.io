@@ -67,6 +67,7 @@ I wanted a comparison-style visual to understand multimode fiber and how it diff
   * [Video Walkthroughs](/portfolio/videos/)
   * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

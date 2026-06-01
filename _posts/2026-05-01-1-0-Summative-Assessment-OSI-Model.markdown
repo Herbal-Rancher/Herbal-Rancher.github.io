@@ -69,6 +69,7 @@ This assessment helped reinforce the relationship between hardware devices, prot
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
+* [About Me](/about/)
 
 ---
 ---

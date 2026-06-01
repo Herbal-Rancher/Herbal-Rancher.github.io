@@ -74,6 +74,7 @@ This study is an ongoing journey. By applying a consistent and thoughtful method
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
 * **[zBIBLE STUDY](/zBible-Study/)**
+* [About Me](/about/)
 
 ---
 ---
