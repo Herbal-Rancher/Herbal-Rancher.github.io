@@ -1,13 +1,12 @@
 ---
 layout: page
+title: "Home"
 permalink: /
 ---
 
 ---
 ---
 ---
-
-# Home
 
 Welcome to my blog and portfolio. I am an IT student at Calbright College focused on building practical networking skills through Network+ studies and hands-on coursework.
 
