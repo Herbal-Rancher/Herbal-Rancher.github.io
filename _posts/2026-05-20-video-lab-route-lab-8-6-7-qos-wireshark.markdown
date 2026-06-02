@@ -20,9 +20,9 @@ tags:
 permalink: /portfolio/videos/lab-8-6-7-qos-wireshark/
 status: complete
 
-video_id: "lAQSutA1hDE"
-video_url: "https://www.youtube.com/watch?v=lAQSutA1hDE"
-thumbnail: "https://img.youtube.com/vi/lAQSutA1hDE/hqdefault.jpg"
+video_id: "wHK-0Ely_Uw"
+video_url: "https://youtu.be/wHK-0Ely_Uw?si=S5W9Hl185EGramPr"
+thumbnail: "https://img.youtube.com/vi/wHK-0Ely_Uw/hqdefault.jpg"
 
 topics:
   - qos

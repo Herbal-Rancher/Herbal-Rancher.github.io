@@ -20,9 +20,9 @@ tags:
 permalink: /portfolio/videos/lab-8-5-6-port-mirroring/
 status: complete
 
-video_id: "bE3m7JzhQUc"
-video_url: "https://www.youtube.com/watch?v=bE3m7JzhQUc"
-thumbnail: "https://img.youtube.com/vi/bE3m7JzhQUc/hqdefault.jpg"
+video_id: "lAQSutA1hDE"
+video_url: "https://www.youtube.com/watch?v=lAQSutA1hDE"
+thumbnail: "https://img.youtube.com/vi/lAQSutA1hDE/hqdefault.jpg"
 
 topics:
   - switch-monitoring
