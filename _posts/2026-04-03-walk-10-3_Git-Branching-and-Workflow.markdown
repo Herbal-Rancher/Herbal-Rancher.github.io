@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Lab 3: Git Branching and Workflow"
+title: "Lab 10.3: Git Branching and Workflow"
 
-lesson: "1.0"
-lab: "1.3"
-sort_order: "010300"
+lesson: "10.0"
+lab: "10.3"
+sort_order: "100300"
 
 categories: [portfolio, labs]
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/labs/module-1-0/git-branching-and-workflow/
 status: complete
 
-date: 2026-04-11 11:13:14 -0200
+date: 2026-04-03 03:13:14 -0200
 video: ""
 pdf: ""
 diagram: ""

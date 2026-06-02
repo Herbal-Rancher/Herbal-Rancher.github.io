@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 7: Network Cabling and Physical Topology Reference"
+title: "Lab 11.7: Network Cabling and Physical Topology Reference"
 
 lesson: "11.0"
 lab: "11.7"
@@ -11,7 +11,7 @@ tags: [packet-tracer, cabling, topology, networking-basics]
 permalink: /portfolio/labs/module-11-0/cabling-topology-reference/
 status: complete
 
-date: 2026-04-28 11:14:11 -0700
+date: 2026-04-03 07:14:11 -0700
 video: ""
 pdf: ""
 diagram: ""

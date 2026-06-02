@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Lab 2: Creating a Local Project From My Remote GitHub Repository"
+title: "Lab 10.2: Creating a Local Project From My Remote GitHub Repository"
 
-lesson: "1.0"
-lab: "1.2"
-sort_order: "010200"
+lesson: "10.0"
+lab: "10.2"
+sort_order: "100200"
 
 categories: [portfolio, labs] 
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/labs/module-1-0/create-local-project-from-github-repo/
 status: complete
 
-date: 2026-04-11 11:12:14 -0200
+date: 2026-04-03 02:12:14 -0200
 video: ""
 pdf: ""
 diagram: ""

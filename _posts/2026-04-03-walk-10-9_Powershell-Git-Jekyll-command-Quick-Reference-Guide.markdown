@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Lab 9: Quick Reference: PowerShell, Git, and Jekyll Commands"
+title: "Lab 10.9: Quick Reference: PowerShell, Git, and Jekyll Commands"
 
-lesson: "1.0"
-lab: "1.9"
-sort_order: "010900"
+lesson: "10.0"
+lab: "10.9"
+sort_order: "100900"
 
 categories: [portfolio, labs]
 tags: [github-pages, jekyll, git, troubleshooting, setup, reference-guide]
 permalink: /portfolio/labs/module-1-0/quick-reference-guide/
 status: complete
 
-date: 2026-04-14 11:14:11 -0700
+date: 2026-04-03 09:14:11 -0700
 video: ""
 pdf: ""
 diagram: ""

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Lab 4: Update Local Project With GitHub Latest Repository"
+title: "Lab 10.4: Update Local Project With GitHub Latest Repository"
 
-lesson: "1.0"
-lab: "1.4"
-sort_order: "010400"
+lesson: "10.0"
+lab: "10.4"
+sort_order: "100400"
 
 categories: [portfolio, labs]
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/labs/module-1-0/update-local-project-with-github-latest-repository/
 status: complete
 
-date: 2026-04-11 11:14:14 -0200
+date: 2026-04-03 04:14:14 -0200
 video: ""
 pdf: ""
 diagram: ""

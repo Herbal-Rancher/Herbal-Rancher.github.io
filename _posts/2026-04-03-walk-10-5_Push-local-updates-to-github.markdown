@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Lab 5: Push Latest Updates to GitHub Repository"
+title: "Lab 10.5: Push Latest Updates to GitHub Repository"
 
-lesson: "1.0"
-lab: "1.5"
-sort_order: "010500"
+lesson: "10.0"
+lab: "10.5"
+sort_order: "100500"
 
 categories: [portfolio, labs]
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/labs/module-1-0/push-local-updates-to-github/
 status: complete
 
-date: 2026-04-12 11:12:12 -0200
+date: 2026-04-03 05:12:12 -0200
 video: ""
 pdf: ""
 diagram: ""

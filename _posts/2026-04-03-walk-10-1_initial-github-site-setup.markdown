@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Lab 1: Initial GitHub Site Setup"
+title: "Lab 10.1: Initial GitHub Site Setup"
 
-lesson: "1.0"
-lab: "1.1"
-sort_order: "010100"
+lesson: "10.0"
+lab: "10.1"
+sort_order: "100100"
 
 categories: [portfolio, labs]
 tags: [github-pages, jekyll, git, troubleshooting, setup, branching, workflow]
 permalink: /portfolio/labs/module-1-0/initial-github-site-setup/
 status: complete
 
-date: 2026-04-10 11:11:11 -0100
+date: 2026-04-03 01:11:11 -0100
 video: ""
 pdf: ""
 diagram: ""

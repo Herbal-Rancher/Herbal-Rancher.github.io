@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 4: Configure Initial Router Settings"
+title: "Lab 11.4: Configure Initial Router Settings"
 
 lesson: "11.0"
 lab: "11.4"
@@ -11,7 +11,7 @@ tags: [packet-tracer, router, cisco-ios, security, configuration]
 permalink: /portfolio/labs/module-11-0/configure-initial-router-settings/
 status: complete
 
-date: 2026-04-27 11:44:11 -0700
+date: 2026-04-03 04:44:11 -0700
 video: ""
 pdf: ""
 diagram: ""

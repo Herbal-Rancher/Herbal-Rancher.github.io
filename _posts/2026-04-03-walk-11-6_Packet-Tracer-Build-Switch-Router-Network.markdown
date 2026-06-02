@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 6: Build a Switch and Router Network"
+title: "Lab 11.6: Build a Switch and Router Network"
 
 lesson: "11.0"
 lab: "11.6"
@@ -11,7 +11,7 @@ tags: [packet-tracer, cabling, topology, networking-basics]
 permalink: /portfolio/labs/module-11-0/build-switch-router-network/
 status: complete
 
-date: 2026-04-27 11:54:11 -0700
+date: 2026-04-03 06:54:11 -0700
 video: ""
 pdf: ""
 diagram: ""

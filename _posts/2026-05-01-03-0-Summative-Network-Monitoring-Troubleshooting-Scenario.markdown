@@ -3,8 +3,8 @@ layout: post
 title: "3.0 Summative Assessment - Network Monitoring and Troubleshooting Scenario"
 
 lesson: "3.0"
-assessment: "3.2"
-sort_order: "030200"
+assessment: "3.3"
+sort_order: "030300"
 
 categories: [portfolio, summative, formative]
 tags: [monitoring, troubleshooting, wireshark, snmp, syslog]

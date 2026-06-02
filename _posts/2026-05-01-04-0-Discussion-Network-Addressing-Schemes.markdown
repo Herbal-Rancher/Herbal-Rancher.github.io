@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "13.0 Discussion - Network IP Addressing and Troubleshooting"
+title: "4.0 Discussion - Network Addressing Schemes"
 
-lesson: "13.0"
-assessment: "13.1"
-sort_order: 130100	
+lesson: "4.0"
+assessment: "4.1"
+sort_order: 040100	
 
 categories: [portfolio, discussion, formative]
 tags: [troubleshooting, snmp, wireshark, osi-model, netflow, security]
 permalink: /portfolio/formative-lessons/lesson-13-0/discussion-network-ip-addressing/
 status: complete
 
-pdf: "/assets/pdfs/13-0-Discussion_Network-IP-Addressing.pdf"
+pdf: "/assets/pdfs/4-0-Discussion-Network-Addressing-Schemes.pdf"
 
 topics:
   - troubleshooting
@@ -56,7 +56,7 @@ This discussion examines how networking tools and protocols are selected to diag
 
 ## Supporting Evidence
 
-* [Download Discussion PDF]({{ page.pdf | relative_url }})
+* **[Download Discussion PDF](/assets/pdfs/4-0-Discussion-Network-Addressing-Schemes.pdf)** 
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 2: Basic Device Configuration"
+title: "Lab 11.2: Basic Device Configuration"
 
 lesson: "11.0"
 lab: "11.2"
@@ -11,7 +11,7 @@ tags: [packet-tracer, cisco-ios, ipv4, ipv6, router, switch, troubleshooting]
 permalink: /portfolio/labs/module-11-0/configure-basic-device-config/
 status: complete
 
-date: 2026-04-25 11:34:11 -0700
+date: 2026-04-03 02:34:11 -0700
 video: ""
 pdf: ""
 diagram: ""
