@@ -1,12 +1,32 @@
 ---
 layout: post
-title: "Distance Vector Routing"
-lesson: "2.0"
-order: "2.3"
+
+title: "Infrastructure | Distance Vector Routing"
+lab_title: "Distance Vector Routing"
+
+lesson: "02.0"
+lesson_id: "02.03"
+
 sort_order: "020300"
+
 categories: [portfolio, diagrams]
 
-diagram_category: routing-network-communication
+category: infrastructure
+category_display: Infrastructure
+
+subcategory: routing
+subcategory_display: Routing
+
+content_type: diagram
+content_type_display: Diagram
+
+topics: [distance-vector, routing, routing-protocols, rip, convergence, route-selection, network-topology, network-plus]
+
+tools: [RIP, Router, CompTIA-Network-Plus]
+
+permalink: /portfolio/study-diagrams/distance-vector-routing/
+
+status: complete
 
 tags:
   - distance-vector
@@ -16,7 +36,7 @@ tags:
 
 diagram_topic: "Distance vector routing protocols, network topology, convergence"
 diagram_reason: "I wanted to understand the differences between distance vector and link state routing protocols and how they affect network performance."
-permalink: /portfolio/study-diagrams/distance-vector-routing/
+
 status: complete
 
 image: "/assets/images/study-diagrams/distance-vector-routing-version-chatgpt-rendered-image.png"

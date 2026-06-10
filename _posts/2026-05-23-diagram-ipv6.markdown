@@ -1,12 +1,29 @@
 ---
 layout: post
-title: "IPv6 Study Diagram"
+title: "Networking Fundamentals | IPv6 Study Diagram"
+lab_title: "IPv6 Study Diagram"
+
 lesson: "13.0"
-order: "13.1"
+lesson_id: "13.01"
+
 sort_order: "130100"
+
 categories: [portfolio, diagrams]
 
-diagram_category: routing-network-communication
+category: networking-fundamentals
+category_display: Networking Fundamentals
+
+subcategory: tcpip
+subcategory_display: TCP/IP
+
+content_type: diagram
+content_type_display: Diagram
+
+topics: [ipv6, addressing, subnetting, network-prefixes, hexadecimal-addressing, tcpip, network-plus]
+
+tools: [IPv6, CompTIA-Network-Plus]
+
+permalink: /portfolio/study-diagrams/ipv6/
 
 tags:
   - ipv6
@@ -17,11 +34,11 @@ tags:
 diagram_topic: "IPv6 addressing, structure, notation, network concepts"
 diagram_reason: "IPv6 has been difficult for me, so I requested a diagram to help organize the major ideas visually."
 
-permalink: /portfolio/study-diagrams/ipv6/
 status: complete
 
 image: "/assets/images/study-diagrams/ipv6-study-diagram-chatgpt-rendered-image.png"
 image_alt: "Study diagram explaining IPv6 addressing and structure."
+
 ---
 
 ## Overview

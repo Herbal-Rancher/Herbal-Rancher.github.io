@@ -18,6 +18,8 @@ Creating these walkthroughs is also part of my learning process. Preparing to re
 
 These walkthroughs are intended to document both the technical implementation of networking tasks and the progression of my hands-on learning experience.
 
+[View the full Network+ Learning Journey](/portfolio/learning-journey/)
+
 ---
 
 {% assign video_categories = "security|Security,routing-switching|Routing and Switching,troubleshooting-analysis|Network Troubleshooting and Analysis,dhcp|DHCP" | split: "," %}
@@ -42,7 +44,7 @@ These walkthroughs are intended to document both the technical implementation of
     <a href="{{ post.video_url }}" target="_blank" rel="noopener noreferrer">
       <img src="{{ post.thumbnail }}"
            alt="{{ post.title }}"
-           style="width: 100%; max-width: 420px; border-radius: 8px;">
+           style="width: 100%; max-width: 400px; border-radius: 8px;">
     </a>
 
     <p style="margin-top: 10px; margin-bottom: 4px;">

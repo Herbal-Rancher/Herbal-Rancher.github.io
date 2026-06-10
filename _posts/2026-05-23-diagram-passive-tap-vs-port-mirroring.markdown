@@ -1,12 +1,29 @@
 ---
 layout: post
-title: "Passive Tap vs Port Mirroring"
-lesson: "8.0"
-order: "8.2"
+title: "Infrastructure | Passive TAP vs Port Mirroring"
+lab_title: "Passive TAP vs Port Mirroring"
+
+lesson: "08.0"
+lesson_id: "08.02"
+
 sort_order: "080200"
+
 categories: [portfolio, diagrams]
 
-diagram_category: switching-infrastructure
+category: infrastructure
+category_display: Infrastructure
+
+subcategory: switching
+subcategory_display: Switching
+
+content_type: diagram
+content_type_display: Diagram
+
+topics: [passive-tap, port-mirroring, span, network-monitoring, traffic-analysis, packet-capture, switching, network-plus]
+
+tools: [Switch, SPAN, Network-TAP, Wireshark, CompTIA-Network-Plus]
+
+permalink: /portfolio/study-diagrams/passive-tap-vs-port-mirroring/
 
 tags:
   - passive-tap
@@ -17,7 +34,7 @@ tags:
 
 diagram_topic: "Passive taps vs port mirroring, network monitoring, traffic analysis"
 diagram_reason: "I wanted to understand the differences between passive taps and port mirroring for network monitoring purposes."
-permalink: /portfolio/study-diagrams/passive-tap-vs-port-mirroring/
+
 status: complete
 
 image: "/assets/images/study-diagrams/passive-tap-vs-port-mirroring-diagram-chatgpt-rendered-image.png"

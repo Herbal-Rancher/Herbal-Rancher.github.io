@@ -1,23 +1,35 @@
 ---
 layout: post
-title: "Distance Vector vs Link State Routing Protocols"
-lesson: "2.0"
-order: "2.4"
-sort_order: "200400"
+title: "Infrastructure | Distance Vector vs Link State Routing Protocols"
+lab_title: "Distance Vector vs Link State Routing Protocols"
+
+lesson: "02.0"
+lesson_id: "02.04"
+
+sort_order: "020400"
+
 categories: [portfolio, diagrams]
 
-diagram_category: routing-network-communication
+category: infrastructure
+category_display: Infrastructure
 
-tags:
-  - distance-vector
-  - link-state
-  - routing
-  - ospf
-  - rip
+subcategory: routing
+subcategory_display: Routing
+
+content_type: diagram
+content_type_display: Diagram
+
+topics: [distance-vector, link-state, routing-protocols, rip, ospf, convergence, route-selection, network-topology, network-plus]
+
+tools: [RIP, OSPF, CompTIA-Network-Plus]
+
+permalink: /portfolio/study-diagrams/distance-vector-vs-link-state/
+
+status: complete
 
 diagram_topic: "Distance vector vs link state routing protocols, network topology, convergence"
 diagram_reason: "I wanted to understand the differences between distance vector and link state routing protocols and how they affect network performance."
-permalink: /portfolio/study-diagrams/distance-vector-vs-link-state/
+
 status: complete
 
 image: "/assets/images/study-diagrams/distance-vector-vs-link-state-diagram-chatgpt-rendered-image.png"

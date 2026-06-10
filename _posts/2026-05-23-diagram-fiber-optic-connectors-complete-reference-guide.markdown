@@ -1,12 +1,32 @@
 ---
 layout: post
-title: "Fiber Optic Connectors — Complete Reference Guide"
+
+title: "Networking Fundamentals | Fiber Optic Connectors Complete Reference Guide"
+lab_title: "Fiber Optic Connectors Complete Reference Guide"
+
 lesson: "12.0"
-order: "12.5"
+lesson_id: "12.05"
+
 sort_order: "120500"
+
 categories: [portfolio, diagrams]
 
-diagram_category: fiber-physical-media
+category: networking-fundamentals
+category_display: Networking Fundamentals
+
+subcategory: network-media
+subcategory_display: Network Media
+
+content_type: diagram
+content_type_display: Diagram
+
+topics: [fiber-optics, fiber-connectors, mpo, lc, sc, st, fc, multimode-fiber, single-mode-fiber, connector-compatibility, physical-media, network-media, network-plus]
+
+tools: [Fiber-Optic-Cable, LC-Connector, SC-Connector, ST-Connector, FC-Connector, MPO-Connector, CompTIA-Network-Plus]
+
+permalink: /portfolio/study-diagrams/fiber-optic-connectors-complete-reference-guide/
+
+status: complete
 
 tags:
   - fiber-optics
@@ -23,9 +43,7 @@ diagram_topic: "Fiber optic connectors, connector compatibility, fiber types, ph
 
 diagram_reason: "I wanted a complete visual reference showing common fiber optic connector types, their characteristics, compatibility, use cases, and future technologies likely to become more important in enterprise networking."
 
-permalink: /portfolio/study-diagrams/fiber-optic-connectors-complete-reference-guide/
 
-status: complete
 
 image: "/assets/images/study-diagrams/fiber-optic-connectors-complete-reference-guide-diagram-chatgpt-rendered-image.png"
 

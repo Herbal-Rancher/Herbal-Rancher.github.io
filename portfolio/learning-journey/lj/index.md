@@ -1,23 +1,8 @@
 ---
 layout: page
-title: "Home"
-permalink: /
+permalink: /portfolio/learning-journey/lj/
+nav_exclude: true
 ---
-
-
-___
-___
-___
-
-Welcome to my blog and portfolio. I am an IT student at Calbright College focused on building practical networking skills through Network+ studies and hands-on coursework.
-
-Explore my **[NETWORK+ PORTFOLIO](/portfolio/)**, where I share my networking development journey through structured modules, projects, lab labs, and applied problem-solving.
-
-Here I share my Artificial Intelligence (AI) driven, specifically ChatGPT and Visual Studio, network content deep dive diagrams in my **[STUDY DIAGRAMS](/portfolio/study-diagrams/)** page, which visually break down complex concepts and workflows.
-
-Alongside my technical journey, I am also engaged in a personal study of the Bible (the Torah - 1st Testament and the New Testament - 2nd Testament). You can follow that progress in my **[zBIBLE STUDY](/zbible-study/)** posts, beginning with Genesis and continuing book by book.
-
-***Shall we journey together?***
 
 ---
 ---
@@ -25,7 +10,7 @@ Alongside my technical journey, I am also engaged in a personal study of the Bib
 
 # Network+ Learning Journey
 
-This section organizes my hands-on CompTIA Network+ studies into topic areas and skill paths. Labs include TestOut exercises, Cisco networking concepts, troubleshooting scenarios, security analysis, packet captures, remote administration, and technical documentation.
+This page organizes my hands-on CompTIA Network+ studies into topic areas and skill paths. Labs include TestOut exercises, Cisco networking concepts, troubleshooting scenarios, security analysis, packet captures, remote administration, and technical documentation.
 
 [View the full video gallery](/portfolio/videos/)
 
@@ -33,11 +18,11 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
 ---
 ---
 
-{% assign posts = site.posts %}
+{% assign posts = site.posts | where: "status", "complete" %}
 {% assign category_order = "networking-fundamentals|infrastructure|security|systems-administration|technical-communication" | split: "|" %}
 
 {% for category_key in category_order %}
-{% assign category_posts = posts | where: "category", category_key %}
+{% assign category_posts = posts | where: "category_key", category_key %}
 
 {% if category_posts.size > 0 %}
 {% assign category_display = category_posts | map: "category_display" | compact | first %}
@@ -48,14 +33,13 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
   {{ category_display | default: category_key }}
 </h1>
 
-<p><strong>Labs Completed:</strong> {{ category_posts.size }}</p>
+<p><strong>Items Completed:</strong> {{ category_posts.size }}</p>
 
-{% assign subcategory_keys = category_posts | map: "subcategory" | uniq | compact %}
+{% assign subcategory_keys = category_posts | map: "subcategory_key" | uniq | compact %}
 
 {% for subcategory_key in subcategory_keys %}
-{% assign subcategory_posts = category_posts | where: "subcategory", subcategory_key %}
+{% assign subcategory_posts = category_posts | where: "subcategory_key", subcategory_key %}
 {% assign subcategory_display = subcategory_posts | map: "subcategory_display" | compact | first %}
-
 
 <div style="margin-left: 1.75rem; margin-top: 1.5rem; padding-left: 1rem; border-left: 3px solid #e5e5e5;">
 
@@ -63,16 +47,16 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
   {{ subcategory_display | default: subcategory_key }}
 </h2>
 
-<p><strong>Labs Completed:</strong> {{ subcategory_posts.size }}</p>
+<p><strong>Items Completed:</strong> {{ subcategory_posts.size }}</p>
 
 <ul>
 {% for post in subcategory_posts %}
   <li>
     ✓ <a href="{{ post.url | relative_url }}">
       {% if post.lesson_id %}
-        {{ post.lesson_id }} {{post.content_type_display }}: {{ post.lab_title }}
+        {{ post.lesson_id }}: {{ post.lesson_title | default: post.title }}
       {% else %}
-        {{ post.title }}
+        {{ post.lesson_title | default: post.title }}
       {% endif %}
     </a>
   </li>
@@ -91,11 +75,13 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
 
 {% if unique_topics.size > 0 %}
 
-<p><strong>Skills Practiced:</strong> [
+<p><strong>Skills Practiced:</strong></p>
+
+<ul>
 {% for topic in unique_topics %}
-  {{ topic | replace: "-", " " | capitalize }},
+  <li>{{ topic | replace: "-", " " | capitalize }}</li>
 {% endfor %}
-] </p>
+</ul>
 {% endif %}
 
 {% assign all_tools = "" | split: "" %}
@@ -110,11 +96,13 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
 
 {% if unique_tools.size > 0 %}
 
-<p><strong>Tools Used:</strong> [
+<p><strong>Tools Used:</strong></p>
+
+<ul>
 {% for tool in unique_tools %}
-  {{ tool | replace: "-", " " }},
+  <li>{{ tool }}</li>
 {% endfor %}
-]</p>
+</ul>
 {% endif %}
 
 </div>
@@ -125,16 +113,19 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
 {% endfor %}
 
 
+
+
 ---
 ---
 ---
+
 ## 🔗 Navigation
 
-* **[HOME](/)**
+* [Home](/)
 * [Network+ Portfolio](/portfolio/)
   * [Formative Lessons](/portfolio/formative-lessons/)
   * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
+  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
   * [Study Diagrams](/portfolio/study-diagrams/)
 * [zBible Study](/zBible-Study/)
 * [About Me](/about/)

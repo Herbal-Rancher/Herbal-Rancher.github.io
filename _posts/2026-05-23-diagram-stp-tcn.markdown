@@ -1,12 +1,31 @@
 ---
 layout: post
-title: "Spanning Tree Protocol: Topology Change Notification"
-lesson: "8.0"
-order: "8.1"
+title: "Infrastructure | Spanning Tree Protocol: Topology Change Notification"
+lab_title: "Spanning Tree Protocol: Topology Change Notification"
+
+lesson: "08.0"
+lesson_id: "08.01"
+
 sort_order: "080100"
+
 categories: [portfolio, diagrams]
 
-diagram_category: switching-infrastructure
+category: infrastructure
+category_display: Infrastructure
+
+subcategory: switching
+subcategory_display: Switching
+
+content_type: diagram
+content_type_display: Diagram
+
+topics: [spanning-tree-protocol, stp, topology-change-notification, bpdu, switching, switching-loops, redundancy, network-resiliency]
+
+tools: [Switch, STP]
+
+permalink: /portfolio/study-diagrams/stp-tcn/
+
+status: complete
 
 tags:
   - stp
@@ -16,8 +35,7 @@ tags:
 
 diagram_topic: "Spanning Tree Protocol, topology change notifications, switching loops, bridge protocol data units"
 diagram_reason: "I needed a clearer visual explanation of what happens when a topology change notification is received in a network using STP."
-permalink: /portfolio/study-diagrams/stp-tcn/
-status: complete
+
 
 image: "/assets/images/study-diagrams/stp-tcn-diagram-chatgpt-rendered-image.png"
 image_alt: "Study diagram explaining Spanning Tree Protocol topology change notifications."

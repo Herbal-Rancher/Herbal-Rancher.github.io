@@ -1,12 +1,29 @@
 ---
 layout: post
-title: "Multimode Fiber Cabling"
+title: "Networking Fundamentals | Multimode Fiber Cabling"
+lab_title: "Multimode Fiber Cabling"
+
 lesson: "12.0"
-order: "12.3"
+lesson_id: "12.03"
+
 sort_order: "120300"
+
 categories: [portfolio, diagrams]
 
-diagram_category: fiber-physical-media
+category: networking-fundamentals
+category_display: Networking Fundamentals
+
+subcategory: network-media
+subcategory_display: Network Media
+
+content_type: diagram
+content_type_display: Diagram
+
+topics: [multimode-fiber, fiber-optic-cabling, network-media, connectors, transceivers, short-distance-networking, network-plus]
+
+tools: [Fiber-Optic-Cable, SFP-Module, CompTIA-Network-Plus]
+
+permalink: /portfolio/study-diagrams/multimode-fiber/
 
 tags:
   - multimode-fiber
@@ -16,7 +33,7 @@ tags:
 
 diagram_topic: "Multimode fiber, connectors, distance, speed, use cases"
 diagram_reason: "I wanted to understand the characteristics and applications of multimode fiber cabling."
-permalink: /portfolio/study-diagrams/multimode-fiber/
+
 status: complete
 
 image: "/assets/images/study-diagrams/multimode-fiber-diagram-chatgpt-rendered-image.png"

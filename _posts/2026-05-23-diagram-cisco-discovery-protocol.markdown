@@ -1,12 +1,31 @@
 ---
 layout: post
-title: "Cisco Discovery Protocol"
+title: "Infrastructure | Cisco Discovery Protocol"
+lab_title: "Cisco Discovery Protocol"
+
 lesson: "13.0"
-order: "13.2"
+lesson_id: "13.02"
+
 sort_order: "130200"
+
 categories: [portfolio, diagrams]
 
-diagram_category: routing-network-communication
+category: infrastructure
+category_display: Infrastructure
+
+subcategory: network-services-devices
+subcategory_display: Network Services & Devices
+
+content_type: diagram
+content_type_display: Diagram
+
+topics: [cdp, neighbor-discovery, network-discovery, device-management, cisco, network-documentation, network-topology, network-plus]
+
+tools: [CDP, Cisco-IOS, Router, Switch, CompTIA-Network-Plus]
+
+permalink: /portfolio/study-diagrams/cisco-discovery-protocol/
+
+status: complete
 
 tags:
   - cdp
@@ -16,8 +35,6 @@ tags:
 
 diagram_topic: "CDP, neighbor discovery, reported device information"
 diagram_reason: "I was unsure what information CDP can and cannot report, so I used a visual explanation to clarify the concept."
-permalink: /portfolio/study-diagrams/cisco-discovery-protocol/
-status: complete
 
 image: "/assets/images/study-diagrams/cdp-study-diagram-chatgpt-rendered-image.png"
 image_alt: "Study diagram explaining Cisco Discovery Protocol."

@@ -1,10 +1,31 @@
 ---
 layout: post
-title: "Structured Cabling Systems"
+title: "Networking Fundamentals | Structured Cabling Systems"
+lab_title: "Structured Cabling Systems"
+
 lesson: "12.0"
-order: "12.1"
+lesson_id: "12.01"
+
 sort_order: "120100"
+
 categories: [portfolio, diagrams]
+
+category: networking-fundamentals
+category_display: Networking Fundamentals
+
+subcategory: network-media
+subcategory_display: Network Media
+
+content_type: diagram
+content_type_display: Diagram
+
+topics: [structured-cabling, patch-panels, telecommunications-room, backbone-cabling, horizontal-cabling, work-area, network-infrastructure, network-plus]
+
+tools: [CompTIA-Network-Plus]
+
+permalink: /portfolio/study-diagrams/structured-cabling-systems/
+
+status: complete
 
 diagram_category: switching-infrastructure
 

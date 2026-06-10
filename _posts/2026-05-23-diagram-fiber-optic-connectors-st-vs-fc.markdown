@@ -1,12 +1,31 @@
 ---
 layout: post
-title: "Fiber Optic Connectors: ST vs FC"
+title: "Networking Fundamentals | Fiber Optic Connectors: ST vs FC"
+lab_title: "Fiber Optic Connectors: ST vs FC"
+
 lesson: "12.0"
-order: "12.4"
+lesson_id: "12.04"
+
 sort_order: "120400"
+
 categories: [portfolio, diagrams]
 
-diagram_category: fiber-physical-media
+category: networking-fundamentals
+category_display: Networking Fundamentals
+
+subcategory: network-media
+subcategory_display: Network Media
+
+content_type: diagram
+content_type_display: Diagram
+
+topics: [fiber-connectors, st-connector, fc-connector, fiber-optics, multimode-fiber, single-mode-fiber, connector-compatibility, network-media, network-plus]
+
+tools: [ST-Connector, FC-Connector, Fiber-Optic-Cable, CompTIA-Network-Plus]
+
+permalink: /portfolio/study-diagrams/fiber-optic-connectors-st-vs-fc/
+
+status: complete
 
 tags:
   - fiber-connectors
@@ -17,8 +36,6 @@ tags:
 
 diagram_topic: "Fiber optic connectors, ST connectors, FC connectors, multimode vs single-mode fiber"
 diagram_reason: "I wanted to better understand the differences between ST and FC fiber optic connectors, including their locking mechanisms, common use cases, fiber compatibility, and how connector types relate to multimode and single-mode fiber installations."
-permalink: /portfolio/study-diagrams/fiber-optic-connectors-st-vs-fc/
-status: complete
 
 image: "/assets/images/study-diagrams/fiber-optic-connectors-ST-FC-chatgpt-rendered-image-chatgpt-rendered-image.png"
 image_alt: "Study diagram comparing ST and FC fiber optic connectors."

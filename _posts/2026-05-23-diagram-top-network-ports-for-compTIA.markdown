@@ -1,10 +1,26 @@
 ---
 layout: post
-title: "Top Network Ports — CompTIA Network+ Study Guide"
+title: "Networking Fundamentals | Top Network Ports Study Guide"
+lab_title: "Top Network Ports Study Guide"
+
 lesson: "4.0"
-order: "4.1"
+lesson_id: "04.01"
+
 sort_order: "040100"
 categories: [portfolio, diagrams]
+
+category: networking-fundamentals
+category_display: Networking Fundamentals
+
+subcategory: tcpip
+subcategory_display: TCP/IP
+
+content_type: diagram
+content_type_display: Diagram
+
+topics: [network-ports, tcp, udp, osi-model, network-communication, troubleshooting, network-plus]
+
+tools: [CompTIA-Network-Plus]
 
 diagram_category: routing-network-communication
 

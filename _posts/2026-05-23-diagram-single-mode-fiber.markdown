@@ -1,12 +1,29 @@
 ---
 layout: post
-title: "Single-Mode Fiber Cabling"
+title: "Networking Fundamentals | Single-Mode Fiber Cabling"
+lab_title: "Single-Mode Fiber Cabling"
+
 lesson: "12.0"
-order: "12.2"
+lesson_id: "12.02"
+
 sort_order: "120200"
+
 categories: [portfolio, diagrams]
 
-diagram_category: fiber-physical-media
+category: networking-fundamentals
+category_display: Networking Fundamentals
+
+subcategory: network-media
+subcategory_display: Network Media
+
+content_type: diagram
+content_type_display: Diagram
+
+topics: [single-mode-fiber, fiber-optic-cabling, network-media, connectors, transceivers, long-distance-networking, network-plus]
+
+tools: [Fiber-Optic-Cable, SFP-Module, CompTIA-Network-Plus]
+
+permalink: /portfolio/study-diagrams/single-mode-fiber-cabling/
 
 tags:
   - single-mode-fiber
@@ -17,7 +34,6 @@ tags:
 diagram_topic: "Single-mode fiber, connectors, distance, use cases"
 diagram_reason: "I wanted to understand the characteristics and applications of single-mode fiber cabling."
 
-permalink: /portfolio/study-diagrams/single-mode-fiber/
 status: complete
 
 image: "/assets/images/study-diagrams/single-mode-fiber-diagram-chatgpt-rendered-image.png"
