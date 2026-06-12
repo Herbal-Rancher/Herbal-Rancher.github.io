@@ -42,6 +42,7 @@ status: complete
 
 image: "/assets/images/study-diagrams/structured-cabling-systems-diagram-chatgpt-rendered-image.png"
 image_alt: "Study diagram explaining structured cabling systems."
+
 ---
 
 ## Overview

@@ -28,9 +28,9 @@ tags:
 permalink: /portfolio/videos/lab-6-2-8-dhcp-client-reservations/
 status: complete
 
-video_id: "pueWGrM0R84"
-video_url: "https://www.youtube.com/watch?v=pueWGrM0R84"
-thumbnail: "https://img.youtube.com/vi/pueWGrM0R84/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 topics:
   - dhcp-reservations

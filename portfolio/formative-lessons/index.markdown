@@ -16,6 +16,9 @@ This section captures the **core concepts, theories, and foundational knowledge*
 Each module represents a key learning milestone and is supported by related hands-on labs.
 
 ---
+---
+---
+<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
 
 ## Purpose
 

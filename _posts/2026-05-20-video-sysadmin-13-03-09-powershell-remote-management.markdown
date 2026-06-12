@@ -28,9 +28,9 @@ tags:
 permalink: /portfolio/videos/lab-13-3-9-powershell-remote-management/
 status: complete
 
-video_id: "t7d1Edaqewk"
-video_url: "https://www.youtube.com/watch?v=t7d1Edaqewk"
-thumbnail: "https://img.youtube.com/vi/t7d1Edaqewk/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 topics:
   - remote-administration

@@ -28,9 +28,9 @@ tags:
 permalink: /portfolio/videos/lab-6-2-10-client-addressing-dhcp/
 status: complete
 
-video_id: "zxZF7oNwKiY"
-video_url: "https://www.youtube.com/watch?v=zxZF7oNwKiY"
-thumbnail: "https://img.youtube.com/vi/zxZF7oNwKiY/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 topics:
   - dhcp-client-configuration

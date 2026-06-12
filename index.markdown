@@ -22,6 +22,7 @@ Alongside my technical journey, I am also engaged in a personal study of the Bib
 ---
 ---
 ---
+<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
 
 # Network+ Learning Journey
 
@@ -36,13 +37,14 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
 {% assign posts = site.posts %}
 {% assign category_order = "networking-fundamentals|infrastructure|security|systems-administration|technical-communication" | split: "|" %}
 
+
 {% for category_key in category_order %}
 {% assign category_posts = posts | where: "category", category_key %}
 
 {% if category_posts.size > 0 %}
 {% assign category_display = category_posts | map: "category_display" | compact | first %}
 
-<hr>
+
 
 <h1 style="border-bottom: 3px solid #ddd; padding-bottom: .35rem; margin-top: 2.5rem;">
   {{ category_display | default: category_key }}

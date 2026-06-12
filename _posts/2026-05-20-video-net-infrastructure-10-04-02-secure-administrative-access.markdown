@@ -28,9 +28,9 @@ tags:
 permalink: /portfolio/videos/lab-10-4-2-secure-administrative-access/
 status: complete
 
-video_id: "H5FomRyrUjw"
-video_url: "https://www.youtube.com/watch?v=H5FomRyrUjw"
-thumbnail: "https://img.youtube.com/vi/H5FomRyrUjw/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 topics:
   - secure-access

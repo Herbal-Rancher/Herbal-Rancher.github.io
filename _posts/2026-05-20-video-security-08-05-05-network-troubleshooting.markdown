@@ -17,7 +17,7 @@ subcategory_display: Packet Analysis
 content_type: video
 content_type_display: Video
 
-sort_order: "080505"
+sort_order: 080505
 
 tags:
   - troubleshooting
@@ -29,9 +29,9 @@ tags:
 permalink: /portfolio/videos/lab-8-5-5-network-troubleshooting/
 status: complete
 
-video_id: "PLAOfd-DGi4"
-video_url: "https://www.youtube.com/watch?v=PLAOfd-DGi4"
-thumbnail: "https://img.youtube.com/vi/PLAOfd-DGi4/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 topics:
   - troubleshooting

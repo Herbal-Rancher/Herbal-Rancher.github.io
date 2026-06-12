@@ -28,9 +28,9 @@ tags:
 permalink: /portfolio/videos/lab-6-2-5-configure-dhcp-server/
 status: complete
 
-video_id: "BcQ3k3ZfCWk"
-video_url: "https://www.youtube.com/watch?v=BcQ3k3ZfCWk"
-thumbnail: "https://img.youtube.com/vi/BcQ3k3ZfCWk/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 topics:
   - dhcp-server

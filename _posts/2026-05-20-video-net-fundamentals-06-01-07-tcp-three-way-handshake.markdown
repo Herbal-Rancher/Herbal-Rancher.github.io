@@ -30,9 +30,9 @@ tags:
 permalink: /portfolio/videos/lab-6-1-7-tcp-three-way-handshake/
 status: complete
 
-video_id: "aD8GeCArmZY"
-video_url: "https://www.youtube.com/watch?v=aD8GeCArmZY"
-thumbnail: "https://img.youtube.com/vi/aD8GeCArmZY/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 topics:
   - tcp-handshake

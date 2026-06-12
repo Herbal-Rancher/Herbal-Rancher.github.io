@@ -28,9 +28,10 @@ tags:
 permalink: /portfolio/videos/lab-10-4-7-harden-network-switch/
 status: complete
 
-video_id: "x602y1bw_Ao"
-video_url: "https://www.youtube.com/watch?v=x602y1bw_Ao"
-thumbnail: "https://img.youtube.com/vi/x602y1bw_Ao/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+
 ---
 
 ## Overview

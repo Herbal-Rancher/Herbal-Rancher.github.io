@@ -17,6 +17,10 @@ When I take practice exams, complete labs, or review networking concepts, I some
 These diagrams are generated from my real learning process. Each image represents a concept I needed to slow down, review, and understand more clearly.
 
 ---
+---
+---
+
+<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
 
 ## Purpose of This Page
 
@@ -47,65 +51,91 @@ These diagrams were created to help reinforce difficult networking concepts, tro
 
 Many of these diagrams were generated while studying for Network+ topics, reviewing practice exam questions, or working through labs and troubleshooting scenarios.
 
-<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
 
-{% assign diagram_categories = "switching-infrastructure|Network Switching & Infrastructure,fiber-physical-media|Fiber Optics & Physical Media,routing-network-communication|Routing & Network Communication" | split: "," %}
+{% assign diagrams = site.posts | where: "content_type", "diagram" | where: "status", "complete" %}
+{% assign category_order = "networking-fundamentals|infrastructure|security|systems-administration|technical-communication" | split: "|" %}
 
-{% for category_pair in diagram_categories %}
-{% assign category_parts = category_pair | split: "|" %}
-{% assign category_key = category_parts[0] %}
-{% assign category_title = category_parts[1] %}
+{% for category_key in category_order %}
+{% assign category_posts = diagrams | where: "category", category_key %}
 
-{% assign diagrams = site.posts | where: "diagram_category", category_key | sort: "sort_order" %}
+{% if category_posts.size > 0 %}
+{% assign category_display = category_posts | map: "category_display" | compact | first %}
 
-{% if diagrams.size > 0 %}
+<h1 style="border-bottom: 3px solid #ddd; padding-bottom: .35rem; margin-top: 2.5rem;">
+  {{ category_display | default: category_key }}
+</h1>
 
-# {{ category_title }}
+<p><strong>Diagrams Completed:</strong> {{ category_posts.size }}</p>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 28px; margin: 25px 0;">
+{% assign subcategory_keys = category_posts | map: "subcategory" | uniq | compact %}
 
-{% for post in diagrams %}
-{% if post.categories contains "diagrams" %}
+{% for subcategory_key in subcategory_keys %}
+{% assign subcategory_posts = category_posts | where: "subcategory", subcategory_key %}
+{% assign subcategory_display = subcategory_posts | map: "subcategory_display" | compact | first %}
 
-  <div style="text-align:center; margin-bottom: 25px;">
-    <a href="{{ post.image | relative_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ post.image | relative_url }}"
-           alt="{{ post.image_alt }}"
-           style="width: 100%; max-width: 420px; border-radius: 8px;">
-    </a>
+<div style="margin-left: 1.75rem; margin-top: 1.5rem; padding-left: 1rem; border-left: 3px solid #e5e5e5;">
 
-    <p style="margin-top: 10px; margin-bottom: 4px;">
-      <strong>{{ post.title }}</strong>
-    </p>
+<h2 style="margin-bottom: .25rem;">
+  {{ subcategory_display | default: subcategory_key }}
+</h2>
 
-    {% if post.diagram_topic %}
-    <p style="margin-top: 0; margin-bottom: 6px;">
-      <strong>Topic:</strong> {{ post.diagram_topic }}
-    </p>
-    {% endif %}
+<p><strong>Diagrams Completed:</strong> {{ subcategory_posts.size }}</p>
 
-    {% if post.diagram_reason %}
-    <p style="margin-top: 0; margin-bottom: 8px;">
-      <em>{{ post.diagram_reason }}</em>
-    </p>
-    {% endif %}
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px; margin: 20px 0;">
 
-    <p style="margin-top: 0;">
-      <a href="{{ post.image | relative_url }}" target="_blank" rel="noopener noreferrer">
-        Open full image
-      </a>
-    </p>
-  </div>
+{% for post in subcategory_posts %}
 
+<div style="text-align:center; border: 1px solid #ddd; border-radius: 10px; padding: 12px;">
+
+{% if post.image %} <a href="{{ post.image | relative_url }}" target="_blank" rel="noopener noreferrer"> <img src="{{ post.image | relative_url }}"
+    alt="{{ post.image_alt | default: post.title }}"
+    style="width: 100%; max-width: 360px; border-radius: 8px;"> </a>
 {% endif %}
+
+<p style="margin-top: 10px; margin-bottom: 4px;">
+  <strong>
+    {% if post.lesson_id %}
+      {{ post.lesson_id }} |
+    {% endif %}
+    {{ post.lab_title | default: post.title }}
+  </strong>
+</p>
+
+{% if post.diagram_topic %}
+
+<p style="margin-top: 0; margin-bottom: 6px;">
+  <strong>Topic:</strong> {{ post.diagram_topic }}
+</p>
+{% endif %}
+
+{% if post.diagram_reason %}
+
+<p style="margin-top: 0; margin-bottom: 8px;">
+  <em>{{ post.diagram_reason }}</em>
+</p>
+{% endif %}
+
+<p style="margin-top: 0;">
+  <a href="{{ post.url | relative_url }}">View Notes</a>
+  |
+  <a href="{{ post.image | relative_url }}" target="_blank" rel="noopener noreferrer">Open Image</a>
+</p>
+
+</div>
+
 {% endfor %}
 
 </div>
 
----
+</div>
+
+{% endfor %}
+
+<hr>
 
 {% endif %}
 {% endfor %}
+
 
 ## Reflection
 

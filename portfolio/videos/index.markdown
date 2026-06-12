@@ -21,57 +21,78 @@ These walkthroughs are intended to document both the technical implementation of
 [View the full Network+ Learning Journey](/portfolio/learning-journey/)
 
 ---
+---
+---
 
-{% assign video_categories = "security|Security,routing-switching|Routing and Switching,troubleshooting-analysis|Network Troubleshooting and Analysis,dhcp|DHCP" | split: "," %}
+<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
 
-{% for category_pair in video_categories %}
-{% assign category_parts = category_pair | split: "|" %}
-{% assign category_key = category_parts[0] %}
-{% assign category_title = category_parts[1] %}
+{% assign all_posts = site.posts %}
+{% assign videos = site.posts | where: "content_type", "video" | where: "status", "complete" %}
 
-{% assign videos = site.posts | where: "video_category", category_key | sort: "date" | reverse %}
+{% assign category_order = "networking-fundamentals|infrastructure|security|systems-administration|technical-communication" | split: "|" %}
 
-{% if videos.size > 0 %}
+{% for category_key in category_order %}
+{% assign category_posts = videos | where: "category", category_key %}
 
-## {{ category_title }}
+{% if category_posts.size > 0 %}
+{% assign category_display = category_posts | map: "category_display" | compact | first %}
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 28px; margin: 25px 0;">
+# {{ category_display | default: category_key }}
 
-{% for post in videos %}
-{% if post.categories contains "videos" %}
+**Total Posts: {{ category_posts.size }}**
 
-  <div style="text-align:center; margin-bottom: 20px;">
-    <a href="{{ post.video_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ post.thumbnail }}"
-           alt="{{ post.title }}"
-           style="width: 100%; max-width: 400px; border-radius: 8px;">
-    </a>
+{% assign subcategory_keys = category_posts | map: "subcategory" | uniq | compact %}
 
-    <p style="margin-top: 10px; margin-bottom: 4px;">
-      <strong>{{ post.lab }}</strong>
-    </p>
+{% for subcategory_key in subcategory_keys %}
+{% assign subcategory_posts = category_posts | where: "subcategory", subcategory_key %}
+{% assign subcategory_display = subcategory_posts | map: "subcategory_display" | compact | first %}
 
-    <p style="margin-top: 0; margin-bottom: 6px;">
-      {{ post.title }}
-    </p>
+## {{ subcategory_display | default: subcategory_key }}
 
-    <p style="margin-top: 0;">
-      <a href="{{ post.video_url }}" target="_blank" rel="noopener noreferrer">
-        Open video directly in YouTube
-      </a>
-    </p>
-  </div>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; margin: 18px 0 30px;">
 
+{% for post in subcategory_posts %}
+
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; background: #fff;">
+
+{% if post.thumbnail %} <a href="{{ post.video_url }}" target="_blank" rel="noopener noreferrer"> <img src="{{ post.thumbnail }}"
+    alt="{{ post.title }}"
+    style="width: 100%; border-radius: 7px; border: 1px solid #eee;"> </a>
+{% else %}
+
+<p><strong>Missing thumbnail.</strong></p>
 {% endif %}
+
+<p style="font-size: .9rem; line-height: 1.25; margin: 8px 0 4px;">
+  <strong>{{ post.lesson_id }} | {{ post.lab_title | default: post.title }}</strong>
+</p>
+
+<p style="font-size: .78rem; line-height: 1.25; margin: 0 0 8px;">
+  {{ post.category_display }}{% if post.subcategory_display %} | {{ post.subcategory_display }}{% endif %}
+</p>
+
+<p style="font-size: .8rem; margin: 0;">
+{% if post.video_url %}
+<a href="{{ post.video_url }}" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+{% else %}
+Missing video URL
+{% endif %}
+|
+<a href="{{ post.url | relative_url }}">View Notes</a>
+</p>
+
+</div>
+
 {% endfor %}
 
 </div>
+
+{% endfor %}
 
 ---
 
 {% endif %}
 {% endfor %}
-
 
 
 ---

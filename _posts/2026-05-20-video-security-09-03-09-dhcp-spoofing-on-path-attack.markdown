@@ -42,9 +42,10 @@ tools:
 - DHCP
 - Windows
 
-video_id: "FRflp1F8qm8"
-video_url: "https://www.youtube.com/watch?v=FRflp1F8qm8"
-thumbnail: "https://img.youtube.com/vi/FRflp1F8qm8/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+
 ---
 
 ## Overview

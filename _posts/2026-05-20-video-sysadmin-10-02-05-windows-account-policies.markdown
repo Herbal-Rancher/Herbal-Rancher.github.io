@@ -36,9 +36,9 @@ topics:
 tools: 
   - cisco-packet-tracer
   
-video_id: "aZQhup3b304"
-video_url: "https://www.youtube.com/watch?v=aZQhup3b304"
-thumbnail: "https://img.youtube.com/vi/aZQhup3b304/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 protocols: []
 

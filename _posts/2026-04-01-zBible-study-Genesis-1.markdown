@@ -1,11 +1,44 @@
 ---
 layout: post
-title: "Genesis 1 — Observation Study (In the Beginning)"
-date:	2026-04-09 10:00:00 -0200
-categories: [zbible]
+title: "Old Testament | Genesis 1 — Observation Study (In the Beginning)"
+lab_title: " Genesis 1 — Observation Study (In the Beginning)"
+
+lesson: "GEN.01" 
+lesson_id: "GEN-01"
+
+categories: [portfolio, zbible]
+
+category: bible-study
+category_display: Bible Study Journey
+
+subcategory: old-testament
+subcategory_display: Old Testament
+
+book_group: pentateuch
+book_group_display: Pentateuch
+
+book: genesis
+book_display: Genesis
+
 tags: [genesis, inductive-study, observation, creation, patterns, word, holy-spirit]
+
 sort_order: "000002"
+
+permalink: /portfolio/zbible/genesis-1-observation-study/
+
+status: complete
+
+topics: [markdown, yaml, liquid, jekyll, github-pages, technical-writing, documentation, portfolio-development, information-architecture]
+
+tools: [Markdown, Jekyll, GitHub, GitHub-Pages, Liquid, VS-Code]
+
+date:	2026-04-09 10:00:00 -0200
+
 ---
+
+___
+___
+___
 
 ## Observation
 
@@ -14,9 +47,12 @@ sort_order: "000002"
 ## In the Beginning — Slowing Down to See
 
 I’m currently in the **observation phase** of my inductive Bible study using a Precept-style approach. I’ve spent several weeks in Genesis 1, and instead of rushing forward, I’m choosing to slow down even more.
+* Read [Genesis Intro](https://www.bible.com/bible/111/GEN.INTRO1.NIV)
+* Read and Listen to [Genesis 1](https://www.bible.com/bible/111/GEN.1.NIV) (2 full times)
 
-Before moving into deeper interpretation and application, I’m planning to **listen to Genesis twice in full**, then return again to **Genesis 1:2**. My goal is to step back, gain a broader view, and then come back with sharper awareness.
 <!--more-->
+Before moving into deeper interpretation and application, I’m planning to **listen to Genesis twice in full**, then return again to **Genesis 1:2**. My goal is to step back, gain a broader view, and then come back with sharper awareness.
+
 Even though it feels slow, I’m beginning to see patterns I would have missed otherwise.
 
 ---
@@ -97,7 +133,7 @@ Below are my handwritten observation notes from Genesis 1. These capture pattern
 
 ## Next Step
 
-* Listen to [Genesis](https://www.bible.com/bible/59/GEN.1.ESV) (2 full times)
+* Listen to [Genesis 1](https://www.bible.com/bible/59/GEN.1.ESV) (2 full times)
 * Return to Genesis 1:2 to continue observation with a wider lens
 * Begin identifying deeper connections between:
 

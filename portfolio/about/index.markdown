@@ -10,6 +10,12 @@ permalink: /about/
 
 I am a Network Technology student, lifelong learner, and builder pursuing growth in networking, cybersecurity, technical documentation, and systems thinking.
 
+**Faithful**: I am committed to my learning journey and to becoming a skilled IT professional. I approach my studies with dedication, discipline, and a growth mindset, knowing that consistent effort will lead to meaningful progress over time.
+
+---
+---
+---
+<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
 
 <div style="text-align:center; margin: 30px 0;">
 
@@ -29,10 +35,6 @@ I am a Network Technology student, lifelong learner, and builder pursuing growth
   </a>
 
 </div>
-
----
----
----
 
 This portfolio documents my learning journey through:
 - hands-on labs

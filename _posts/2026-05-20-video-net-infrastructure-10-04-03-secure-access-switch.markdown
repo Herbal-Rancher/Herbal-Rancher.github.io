@@ -28,9 +28,9 @@ tags:
 permalink: /portfolio/videos/lab-10-4-3-secure-access-switch/
 status: complete
 
-video_id: "0yol87jxOhs"
-video_url: "https://www.youtube.com/watch?v=0yol87jxOhs"
-thumbnail: "https://img.youtube.com/vi/0yol87jxOhs/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 topics:
   - switch-security

@@ -29,9 +29,9 @@ tags:
 permalink: /portfolio/videos/lab-6-1-8-open-ports-netstat-wireshark/
 status: complete
 
-video_id: "FoVnINCmqK0"
-video_url: "https://www.youtube.com/watch?v=FoVnINCmqK0"
-thumbnail: "https://img.youtube.com/vi/FoVnINCmqK0/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 topics:
   - port-analysis

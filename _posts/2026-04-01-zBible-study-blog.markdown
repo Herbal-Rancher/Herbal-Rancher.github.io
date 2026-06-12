@@ -1,10 +1,43 @@
 ---
 layout: post
-title:  "My Study Approach: Observation, Interpretation, Application!"
-categories: [zbible, genesis, observation]
+title: "Study Methods | My Study Approach: Observation, Interpretation, Application!"
+lab_title: "My Study Approach: Observation, Interpretation, Application!"
+
+lesson: "SM.01" 
+lesson_id: "SM-01"
+
+categories: [portfolio, zbible, inductive-bible-study]
+
+category: bible-study
+category_display: Bible Study Journey
+
+subcategory: study-methods
+subcategory_display: Study Methods
+
+book_group: inductive-bible-study
+book_group_display: Inductive Bible Study
+
+book: observation-interpretation-application
+book_display: Observation, Interpretation, Application
+
 tags: [genesis, inductive-study, observation, creation, patterns, word, holy-spirit]
-date:   2026-04-04 15:15:15 -0700
+
 sort_order: "000001"
+
+permalink: /portfolio/zbible/my-study-approach/
+
+status: complete
+
+topics: [markdown, yaml, liquid, jekyll, github-pages, technical-writing, documentation, portfolio-development, information-architecture]
+
+tools: [Markdown, Jekyll, GitHub, GitHub-Pages, Liquid, VS-Code]
+
+date:   2026-04-04 15:15:15 -0700
+
+---
+
+---
+---
 ---
 
 Alongside my technical studies in networking, I am committed to a structured and intentional approach to studying the First Testament. I am beginning in Genesis and working through each book systematically using the **[Precept Bible Study Method](https://www.precept.org/study/precept-bible-study-method/)**.
@@ -13,6 +46,8 @@ This approach emphasizes understanding the text through careful observation, tho
 
 <!--more-->
 
+---
+---
 ---
 
 ## What Is Inductive Study?

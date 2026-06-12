@@ -28,9 +28,9 @@ tags:
 permalink: /portfolio/videos/lab-6-2-7-dhcp-exclusions/
 status: complete
 
-video_id: "SKR2XRB-PHE"
-video_url: "https://www.youtube.com/watch?v=SKR2XRB-PHE"
-thumbnail: "https://img.youtube.com/vi/SKR2XRB-PHE/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 topics:
   - dhcp-exclusions

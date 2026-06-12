@@ -14,23 +14,72 @@ the Bible, capturing key learnings, personal reflections, and applications of bi
 ---
 ---
 ---
-{% for post in site.categories.zbible %}
-<div style="margin-left: 1.75rem; margin-top: 1.5rem; padding-left: 1rem; border-left: 3px solid #e5e5e5;">
+<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
 
-<h2 style="margin-bottom: .25rem;">
-  {{ subcategory_display | default: subcategory_key }}
+
+{% assign zbible_posts = site.categories.zbible | where: "status", "complete" | sort: "sort_order" %}
+{% assign testament_keys = zbible_posts | map: "subcategory" | uniq | compact %}
+
+{% for testament_key in testament_keys %}
+{% assign testament_posts = zbible_posts | where: "subcategory", testament_key %}
+{% assign testament_display = testament_posts | map: "subcategory_display" | compact | first %}
+
+
+
+<h2 style="border-bottom: 3px solid #ddd; padding-bottom: .35rem; margin-top: 2.5rem;">
+  {{ testament_display | default: testament_key }}
 </h2>
 
-<p><strong>Labs Completed:</strong> {{ subcategory_posts.size }}</p>
+{% assign book_group_keys = testament_posts | map: "book_group" | uniq | compact %}
+
+{% for book_group_key in book_group_keys %}
+{% assign book_group_posts = testament_posts | where: "book_group", book_group_key %}
+{% assign book_group_display = book_group_posts | map: "book_group_display" | compact | first %}
+
+<div style="margin-left: 1.5rem; margin-top: 1.5rem; padding-left: 1rem; border-left: 3px solid #e5e5e5;">
+
+<h3 style="margin-bottom: .25rem;">
+  {{ book_group_display | default: book_group_key }}
+</h3>
+<p><strong>Studies Completed:</strong> {{ book_group_posts.size }}</p>
+
+{% assign book_keys = book_group_posts | map: "book" | uniq | compact %}
+
+{% for book_key in book_keys %}
+{% assign book_posts = book_group_posts | where: "book", book_key %}
+{% assign book_display = book_posts | map: "book_display" | compact | first %}
+
+<div style="margin-left: 1.25rem; margin-top: 1rem; padding-left: 1rem; border-left: 2px solid #eee;">
+
+
 
 <ul>
-
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <p>{{ post.date | date: "%B %d, %Y" }}</p>
-  <p>{{ post.excerpt }}</p>  
-  <a href="{{ post.url }}">Read More →</a>
-  <div style="height:1px; background:#ddd; margin:30px 0;"></div>
+{% for post in book_posts %}
+  <li>
+    {{ book_display | default: book_key }}: 
+    <a href="{{ post.url | relative_url }}">
+      {% if post.lesson_id %}
+        {{ post.lesson_id }}: {{ post.lab_title | default: post.title }}
+      {% else %}
+        {{ post.lab_title | default: post.title }}
+      {% endif %}
+    </a>
+    <br>
+    <small>{{ post.date | date: "%B %d, %Y" }}</small>
+  </li>
 {% endfor %}
+</ul>
+
+</div>
+
+{% endfor %}
+
+</div>
+
+{% endfor %}
+
+{% endfor %}
+
 
 ---
 ---

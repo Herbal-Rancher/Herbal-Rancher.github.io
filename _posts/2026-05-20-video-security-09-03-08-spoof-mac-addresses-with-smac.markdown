@@ -41,9 +41,10 @@ tools:
 - SMAC
 - Windows
 
-video_id: "v0oIpORDv6k"
-video_url: "https://www.youtube.com/watch?v=v0oIpORDv6k"
-thumbnail: "https://img.youtube.com/vi/v0oIpORDv6k/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+
 ---
 
 ## Overview

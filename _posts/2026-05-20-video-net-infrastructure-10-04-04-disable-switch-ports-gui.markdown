@@ -29,9 +29,9 @@ tags:
 permalink: /portfolio/videos/lab-10-4-4-disable-switch-ports-gui/
 status: complete
 
-video_id: "YwuLXbqrOwE"
-video_url: "https://www.youtube.com/watch?v=YwuLXbqrOwE"
-thumbnail: "https://img.youtube.com/vi/YwuLXbqrOwE/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 topics:
   - switch-security

@@ -20,6 +20,9 @@ This portfolio is designed to:
 - Support academic and professional growth  
 
 ---
+---
+---
+<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
 
 ## Learning Structure
 

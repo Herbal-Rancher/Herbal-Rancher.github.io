@@ -15,6 +15,10 @@ This section documents hands-on labs, configurations, troubleshooting processes,
 Each walkthrough captures commands, workflows, configuration steps, troubleshooting methods, and practical networking concepts reinforced through lab-based learning.
 
 ---
+---
+---
+
+<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
 
 ## 🎯 Purpose
 

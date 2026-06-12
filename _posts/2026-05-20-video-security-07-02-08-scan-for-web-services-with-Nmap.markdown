@@ -30,9 +30,9 @@ tags:
 permalink: /portfolio/videos/lab-7-2-8-scan-for-web-services-with-Nmap/
 status: complete
 
-video_id: "4c-MYI3voHM"
-video_url: "https://youtu.be/4c-MYI3voHM"
-thumbnail: "https://img.youtube.com/vi/4c-MYI3voHM/hqdefault.jpg"
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 topics:
 
