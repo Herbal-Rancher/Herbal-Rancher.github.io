@@ -6,7 +6,7 @@ lab_title: " John 1 — Observation Study (In the Beginning)"
 lesson: "JOHN.01" 
 lesson_id: "JOHN-01"
 
-categories: [portfolio, zbible]
+categories: [portfolio, bible]
 
 category: bible-study
 category_display: Bible Study Journey
@@ -24,7 +24,7 @@ tags: [john, inductive-study, observation, beginning, word, holy-spirit]
 
 sort_order: "000002"
 
-permalink: /portfolio/zbible/john-1-observation-study/
+permalink: /portfolio/bible/john-1-observation-study/
 
 status: complete
 
@@ -113,8 +113,8 @@ Listen to [John](https://www.bible.com/bible/111/JHN.1.NIV)(2 full times)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
-* **[zBIBLE STUDY](/zBible-Study/)**
-* [About Me](/about/)
+* **[BIBLE STUDY](/Bible-Study/)**
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

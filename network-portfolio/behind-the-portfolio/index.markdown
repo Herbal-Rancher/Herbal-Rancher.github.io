@@ -1,16 +1,21 @@
 ---
 layout: page
-title: "About Me"
-permalink: /about/
+permalink: /network-portfolio/behind-the-portfolio/
+nav_exclude: true
 ---
 
 ---
 ---
 ---
 
-I am a Network Technology student, lifelong learner, and builder pursuing growth in networking, cybersecurity, technical documentation, and systems thinking.
+# Behind the Portfolio
 
-**Faithful**: I am committed to my learning journey and to becoming a skilled IT professional. I approach my studies with dedication, discipline, and a growth mindset, knowing that consistent effort will lead to meaningful progress over time.
+This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on 
+similar paths. I attempt to approach my studies with dedication, discipline, and a growth mindset, knowing that consistent effort will lead to meaningful progress over time.
+
+I'm a Network Technology student, lifelong learner, and idea builder pursuing growth in networking, cybersecurity, technical documentation, and systems thinking.
+
+**Faithful**: I am committed to my learning journey, to becoming a skilled IT professional and enjoying the process. 
 
 ---
 ---
@@ -19,11 +24,11 @@ I am a Network Technology student, lifelong learner, and builder pursuing growth
 
 <div style="text-align:center; margin: 30px 0;">
 
-  <a href="/assets/images/about/my-journey-thru-chats-lense-1.png" target="_blank">
+  <a href="/assets/images/behind-portfolio/my-journey-thru-chats-lense-1.png" target="_blank">
 
     <img
-      src="/assets/images/about/my-journey-thru-chats-lense-1.png"
-      alt="About Me Artwork"
+      src="/assets/images/behind-portfolio/my-journey-thru-chats-lense-1.png"
+      alt="Behind the Portfolio Artwork"
       style="
         width:100%;
         max-width:450px;
@@ -52,11 +57,11 @@ The second and third images below were created after sharing personal references
 
 <div style="text-align:center; margin: 30px 0;">
 
-  <a href="/assets/images/about/my-journey-thru-chats-lense-2.png" target="_blank">
+  <a href="/assets/images/behind-portfolio/my-journey-thru-chats-lense-2.png" target="_blank">
 
     <img
-      src="/assets/images/about/my-journey-thru-chats-lense-2.png"
-      alt="About Me Artwork"
+      src="/assets/images/behind-portfolio/my-journey-thru-chats-lense-2.png"
+      alt="Behind the Portfolio Artwork"
       style="
         width:100%;
         max-width:450px;
@@ -72,11 +77,11 @@ The second and third images below were created after sharing personal references
 
 <div style="text-align:center; margin: 30px 0;">
 
-  <a href="/assets/images/about/my-journey-thru-chats-lense-3.png" target="_blank">
+  <a href="/assets/images/behind-portfolio/my-journey-thru-chats-lense-3.png" target="_blank">
 
     <img
-      src="/assets/images/about/my-journey-thru-chats-lense-3.png"
-      alt="About Me Artwork"
+      src="/assets/images/behind-portfolio/my-journey-thru-chats-lense-3.png"
+      alt="Behind the Portfolio Artwork"
       style="
         width:100%;
         max-width:450px;
@@ -99,13 +104,13 @@ faithful, disciplined, compassionate, curious, resilient, technically capable, a
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* **[ABOUT ME](/about/)**
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/Bible-Study/)
+* **[BEHIND THE PORTFOLIO](/network-portfolio/behind-the-portfolio/)**
 
 ---
 ---

@@ -76,8 +76,8 @@ The video walkthrough focuses on preventing specific IP addresses from being aut
   * [Lab Walkthroughs](/portfolio/labs/)
   * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
   * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

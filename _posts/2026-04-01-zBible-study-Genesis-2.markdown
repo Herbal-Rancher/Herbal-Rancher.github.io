@@ -6,7 +6,7 @@ lab_title: " Genesis 2 — Observation Study (Thus the Heavens and the Earth)"
 lesson: "GEN.02" 
 lesson_id: "GEN-02"
 
-categories: [portfolio, zbible]
+categories: [portfolio, bible]
 
 category: bible-study
 category_display: Bible Study Journey
@@ -24,7 +24,7 @@ tags: [genesis, inductive-study, observation, creation, patterns, word, holy-spi
 
 sort_order: "000002"
 
-permalink: /portfolio/zbible/genesis-2-observation-study/
+permalink: /portfolio/bible/genesis-2-observation-study/
 
 status: complete
 
@@ -110,8 +110,8 @@ Below are my handwritten observation notes from Genesis 1. These capture pattern
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
-* **[zBIBLE STUDY](/zBible-Study/)**
-* [About Me](/about/)
+* **[BIBLE STUDY](/Bible-Study/)**
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

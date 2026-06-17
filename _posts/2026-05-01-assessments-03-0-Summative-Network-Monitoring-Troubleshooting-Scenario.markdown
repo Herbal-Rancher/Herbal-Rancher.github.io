@@ -89,8 +89,8 @@ This assessment reinforced the importance of combining monitoring tools, histori
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

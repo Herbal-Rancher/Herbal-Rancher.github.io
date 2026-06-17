@@ -3,7 +3,7 @@ layout: post
 title: "Technical Communication | Windows & Linux Network Administration Commands"
 lab_title: "Windows & Linux Network Administration Commands"
 
-lesson: "9.00.03" 
+lesson: "TC.03" 
 lesson_id: "TC-03"
 
 categories: [portfolio, guides]
@@ -369,8 +369,8 @@ Mastering these commands provides a strong foundation for Network+, Security+, C
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

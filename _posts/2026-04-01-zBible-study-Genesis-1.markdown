@@ -6,7 +6,7 @@ lab_title: " Genesis 1 — Observation Study (In the Beginning)"
 lesson: "GEN.01" 
 lesson_id: "GEN-01"
 
-categories: [portfolio, zbible]
+categories: [portfolio, bible]
 
 category: bible-study
 category_display: Bible Study Journey
@@ -24,7 +24,7 @@ tags: [genesis, inductive-study, observation, creation, patterns, word, holy-spi
 
 sort_order: "000002"
 
-permalink: /portfolio/zbible/genesis-1-observation-study/
+permalink: /portfolio/bible/genesis-1-observation-study/
 
 status: complete
 
@@ -113,19 +113,19 @@ Below are my handwritten observation notes from Genesis 1. These capture pattern
 
 *(Click images to view full size if needed)*
 
-- <a href="/assets/images/zbible/Genesis-01_01-08.jpg" target="_blank" rel="noopener noreferrer">
+- <a href="/assets/images/bible/Genesis-01_01-08.jpg" target="_blank" rel="noopener noreferrer">
   Notes — Genesis 01:01–08 (Day 1-2) 
 </a>
-- <a href="/assets/images/zbible/Genesis-01_09-13.jpg" target="_blank" rel="noopener noreferrer">
+- <a href="/assets/images/bible/Genesis-01_09-13.jpg" target="_blank" rel="noopener noreferrer">
   Notes — Genesis 01:09–13 (Days 2–3)
 </a>
-- <a href="/assets/images/zbible/Genesis-01_14-19.jpg" target="_blank" rel="noopener noreferrer">
+- <a href="/assets/images/bible/Genesis-01_14-19.jpg" target="_blank" rel="noopener noreferrer">
   Notes — Genesis 01:14–19 (Day 4)
 </a>
-- <a href="/assets/images/zbible/Genesis-01_26-31.jpg" target="_blank" rel="noopener noreferrer">
+- <a href="/assets/images/bible/Genesis-01_26-31.jpg" target="_blank" rel="noopener noreferrer">
   Notes — Genesis 01:26–31 (Days 5–6)
 </a>
-- <a href="/assets/images/zbible/Genesis-01_observation-questions.jpg" target="_blank" rel="noopener noreferrer">
+- <a href="/assets/images/bible/Genesis-01_observation-questions.jpg" target="_blank" rel="noopener noreferrer">
   Observation Summary Page
 </a>
 
@@ -168,8 +168,8 @@ It’s how you begin to truly see.
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
-* **[zBIBLE STUDY](/zBible-Study/)**
-* [About Me](/about/)
+* **[BIBLE STUDY](/Bible-Study/)**
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

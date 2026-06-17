@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Network+ Portfolio"
-permalink: /portfolio/
+title: "Network+"
+permalink: /network-portfolio/
 ---
+
 
 ---
 ---
@@ -19,6 +20,9 @@ This portfolio is designed to:
 - Provide structured, repeatable workflows  
 - Support academic and professional growth  
 
+This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
+To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [Behind the Portfolio](/network-portfolio/behind-the-portfolio/) page.
+
 ---
 ---
 ---
@@ -30,17 +34,17 @@ This portfolio supports both conceptual learning and practical application by pr
 
 The portfolio is organized into four primary sections that connect theory, visualization, hands-on practice, troubleshooting, and technical reflection into a progressive learning system.
 
-* **[Formative Lessons](/portfolio/formative-lessons/)**  
+* **[Formative Lessons](/network-portfolio/formative-lessons/)**  
   * Concept-focused learning that captures key ideas, definitions, foundational knowledge, networking theories, security principles, and infrastructure concepts developed throughout my studies.
   * Each module is reinforced through related hands-on labs and walkthroughs to strengthen practical understanding and long-term retention.
 
-* **[Lab Walkthroughs](/portfolio/labs/)**  
+* **[Lab Walkthroughs](/network-portfolio/labs/)**  
   * Step-by-step documentation of lab activities, device configurations, command usage, troubleshooting methods, and implementation procedures demonstrating the practical application of networking concepts.
 
-* **[Video Walkthroughs](/portfolio/videos/)**  
+* **[Video Walkthroughs](/network-portfolio/videos/)**  
   * No-audio video demonstrations documenting lab execution, Wireshark analysis, PowerShell management, switch configuration, DHCP implementation, troubleshooting, and other networking activities completed throughout the learning process.
 
-* **[Study Diagrams](/portfolio/study-diagrams/)**  
+* **[Study Diagrams](/network-portfolio/study-diagrams/)**  
   * AI-assisted visual study aids created to better understand networking concepts, protocols, troubleshooting processes, certification topics, security concepts, routing behavior, switching operations, and infrastructure design patterns.
   * Many diagrams were created in response to practice exam questions or knowledge gaps requiring deeper visualization and clarification.
 
@@ -82,13 +86,13 @@ The [Calbright IT532 and IT533 SiteMap (PDF)](/assets/docs/IT532 & IT533_ Introd
 ## 🔗 Navigation
 
 * [Home](/)
-* **[NETWORK+ PORTFOLIO](/portfolio/)**
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* **[NETWORK+ PORTFOLIO](/network-portfolio/)**
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

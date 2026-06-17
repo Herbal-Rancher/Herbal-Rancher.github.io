@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /portfolio/formative-lessons/
+permalink: /network-portfolio/formative-lessons/
 nav_exclude: true
 ---
-
 
 ---
 ---
@@ -14,6 +13,11 @@ nav_exclude: true
 This section captures the **core concepts, theories, and foundational knowledge** I am developing throughout my IT coursework.
 
 Each module represents a key learning milestone and is supported by related hands-on labs.
+
+
+
+This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
+To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [Behind the Portfolio](/network-portfolio/behind-the-portfolio/) page.
 
 ---
 ---
@@ -159,13 +163,13 @@ ___
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * **[FORMATIVE LESSONS](/portfolio/formative-lessons/)**
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Network+ Portfolio](/network-portfolio/)
+  * **[FORMATIVE LESSONS](/network-portfolio/formative-lessons/)**
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

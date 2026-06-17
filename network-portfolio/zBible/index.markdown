@@ -1,15 +1,20 @@
 ---
 layout: page
-title: "z-Bible Study"
-permalink: /zBible-Study/
+title: "Bible Study"
+permalink: /Bible-Study/
 ---
 
 ---
 ---
 ---
 
-This page serves as a dedicated space for my zBible study notes, reflections, and insights. It is designed to document my journey through 
-the Bible, capturing key learnings, personal reflections, and applications of biblical principles in my life.
+This page serves as a dedicated space for my Bible study notes, reflections, and insights. It is designed to document my journey through 
+the Bible, discovering and documenting key lessons, personal reflections, and applications of biblical principles in my life. 
+
+This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
+
+To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [Behind the Portfolio](/network-portfolio/behind-the-portfolio/) page.
+
 
 ---
 ---
@@ -17,11 +22,11 @@ the Bible, capturing key learnings, personal reflections, and applications of bi
 <div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
 
 
-{% assign zbible_posts = site.categories.zbible | where: "status", "complete" | sort: "sort_order" %}
-{% assign testament_keys = zbible_posts | map: "subcategory" | uniq | compact %}
+{% assign bible_posts = site.categories.bible | where: "status", "complete" | sort: "sort_order" %}
+{% assign testament_keys = bible_posts | map: "subcategory" | uniq | compact %}
 
 {% for testament_key in testament_keys %}
-{% assign testament_posts = zbible_posts | where: "subcategory", testament_key %}
+{% assign testament_posts = bible_posts | where: "subcategory", testament_key %}
 {% assign testament_display = testament_posts | map: "subcategory_display" | compact | first %}
 
 
@@ -88,13 +93,13 @@ the Bible, capturing key learnings, personal reflections, and applications of bi
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* **[Z-BIBLE STUDY](/zBible-Study/)**
-* [About Me](/about/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* **[BIBLE STUDY](/Bible-Study/)**
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -6,7 +6,7 @@ lab_title: " Phillipians 1 — Observation Study (Paul's Greeting)"
 lesson: "PHILL.01" 
 lesson_id: "PHP-01"
 
-categories: [portfolio, zbible]
+categories: [portfolio, bible]
 
 category: bible-study
 category_display: Bible Study Journey
@@ -24,7 +24,7 @@ tags: [philippians, inductive-study, observation, greeting, apostle-paul]
 
 sort_order: "000002"
 
-permalink: /portfolio/zbible/philippians-1-observation-study/
+permalink: /portfolio/bible/philippians-1-observation-study/
 
 status: complete
 
@@ -113,8 +113,8 @@ Listen to [Philippians](https://www.bible.com/bible/111/PHP.1.NIV)(2 full times)
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
-* **[zBIBLE STUDY](/zBible-Study/)**
-* [About Me](/about/)
+* **[BIBLE STUDY](/Bible-Study/)**
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

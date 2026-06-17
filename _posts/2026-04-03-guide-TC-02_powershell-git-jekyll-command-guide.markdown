@@ -3,7 +3,7 @@ layout: post
 title: "Technical Communication | PowerShell, Git, and Jekyll Commands"
 lab_title: "PowerShell, Git, and Jekyll Commands"
 
-lesson: "9.00.02" 
+lesson: "TC.02" 
 lesson_id: "TC-02"
 
 categories: [portfolio, guides]
@@ -240,8 +240,8 @@ Pull → Serve → Edit → Validate → Commit → Push
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

@@ -245,8 +245,8 @@ Even perfect configurations fail if devices are connected incorrectly.
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

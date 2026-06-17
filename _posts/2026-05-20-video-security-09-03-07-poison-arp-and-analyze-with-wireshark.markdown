@@ -95,8 +95,8 @@ This lab reinforces practical packet analysis and security investigation skills 
   * [Lab Walkthroughs](/portfolio/labs/)
   * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
   * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

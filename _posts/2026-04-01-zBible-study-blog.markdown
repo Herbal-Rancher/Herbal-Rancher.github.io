@@ -6,7 +6,7 @@ lab_title: "My Study Approach: Observation, Interpretation, Application!"
 lesson: "SM.01" 
 lesson_id: "SM-01"
 
-categories: [portfolio, zbible, inductive-bible-study]
+categories: [portfolio, bible, inductive-bible-study]
 
 category: bible-study
 category_display: Bible Study Journey
@@ -24,7 +24,7 @@ tags: [genesis, inductive-study, observation, creation, patterns, word, holy-spi
 
 sort_order: "000001"
 
-permalink: /portfolio/zbible/my-study-approach/
+permalink: /portfolio/bible/my-study-approach/
 
 status: complete
 
@@ -108,8 +108,8 @@ This study is an ongoing journey. By applying a consistent and thoughtful method
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
-* **[zBIBLE STUDY](/zBible-Study/)**
-* [About Me](/about/)
+* **[BIBLE STUDY](/Bible-Study/)**
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

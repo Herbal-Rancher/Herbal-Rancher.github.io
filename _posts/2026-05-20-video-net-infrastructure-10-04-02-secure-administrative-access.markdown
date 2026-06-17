@@ -72,8 +72,8 @@ This no-narration video walkthrough demonstrates methods used to secure administ
   * [Lab Walkthroughs](/portfolio/labs/)
   * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
   * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

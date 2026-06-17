@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /portfolio/videos/
+permalink: /network-portfolio/videos/
 nav_exclude: true
 ---
 
@@ -18,7 +18,11 @@ Creating these walkthroughs is also part of my learning process. Preparing to re
 
 These walkthroughs are intended to document both the technical implementation of networking tasks and the progression of my hands-on learning experience.
 
-[View the full Network+ Learning Journey](/portfolio/learning-journey/)
+
+This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
+To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [Behind the Portfolio](/network-portfolio/behind-the-portfolio/) page.
+
+[View the full Network+ Learning Journey](/network-portfolio/learning-journey/)
 
 ---
 ---
@@ -102,13 +106,13 @@ Missing video URL
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

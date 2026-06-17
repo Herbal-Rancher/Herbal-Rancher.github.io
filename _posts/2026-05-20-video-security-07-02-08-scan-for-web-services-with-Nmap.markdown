@@ -171,8 +171,8 @@ This lab is part of my CompTIA Network+ learning journey as I continue building 
   * [Lab Walkthroughs](/portfolio/labs/)
   * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
   * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

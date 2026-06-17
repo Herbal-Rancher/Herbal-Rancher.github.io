@@ -3,7 +3,7 @@ layout: post
 title: "Technical Communication | Portfolio Publishing Guide"
 lab_title: "Portfolio Publishing Guide"
 
-lesson: "9.00.01" 
+lesson: "TC.01" 
 lesson_id: "TC-01"
 
 categories: [portfolio, guides]
@@ -511,8 +511,8 @@ Consistent metadata enables the portfolio to scale while remaining organized, se
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

@@ -81,8 +81,8 @@ The video walkthrough visually examines how TCP establishes reliable communicati
   * [Lab Walkthroughs](/portfolio/labs/)
   * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
   * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

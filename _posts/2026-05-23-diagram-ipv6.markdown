@@ -85,8 +85,8 @@ IPv6 has been difficult for me, so I requested a diagram to help organize the ma
   * [Lab Walkthroughs](/portfolio/labs/)
   * [Video Walkthroughs](/portfolio/videos/)
   * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/behind-portfolio/)
 
 ---
 ---

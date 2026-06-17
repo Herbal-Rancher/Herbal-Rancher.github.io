@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /portfolio/labs/
+permalink: /network-portfolio/labs/
 nav_exclude: true
 ---
 
@@ -13,6 +13,10 @@ nav_exclude: true
 This section documents hands-on labs, configurations, troubleshooting processes, and technical implementation activities completed throughout my Network Technology coursework.
 
 Each walkthrough captures commands, workflows, configuration steps, troubleshooting methods, and practical networking concepts reinforced through lab-based learning.
+
+
+This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
+To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [Behind the Portfolio](/network-portfolio/behind-the-portfolio/) page.
 
 ---
 ---
@@ -147,13 +151,13 @@ Each walkthrough captures commands, workflows, configuration steps, troubleshoot
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * **[LAB WALKTHROUGHS](/portfolio/labs/)**
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [zBible Study](/zBible-Study/)
-* [About Me](/about/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * **[LAB WALKTHROUGHS](/network-portfolio/labs/)**
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---
