@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Networking Fundamentals | UUse nslookup"
+title: "Networking Fundamentals | Use nslookup"
 lab_title: "Use nslookup"
 
 lesson: "4.0"

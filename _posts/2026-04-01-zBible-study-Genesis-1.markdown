@@ -151,10 +151,28 @@ Even in the very beginning, before light, before structure —
 The Spirit was already moving.
 And the Word was already active.**
 
-I’m learning that slowing down isn’t falling behind.
+I’m learning that slowing down isn’t falling behind ... it’s how I can begin to truly see.
 
-It’s how you begin to truly see.
+<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
 
+<div style="text-align:center; margin: 30px 0;">
+
+  <a href="/assets/images/zbible/study-diagrams/genesis-1-detailed-image-description.png" target="_blank">
+
+    <img
+      src="/assets/images/zbible/study-diagrams/genesis-1-detailed-image-description.png"
+      alt="Genesis 1 AI Description Artwork"
+      style="
+        width:200%;
+        max-width:700px;
+        border-radius:12px;
+        box-shadow:0 2px 10px rgba(0,0,0,0.15);
+      "
+    >
+
+  </a>
+
+</div>
 
 ---
 ---

@@ -61,7 +61,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 <ul>
 {% for post in book_posts %}
   <li>
-    {{ book_display | default: book_key }}: 
+
     <a href="{{ post.url | relative_url }}">
       {% if post.lesson_id %}
         {{ post.lesson_id }}: {{ post.lab_title | default: post.title }}
@@ -70,7 +70,6 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
       {% endif %}
     </a>
     <br>
-    <small>{{ post.date | date: "%B %d, %Y" }}</small>
   </li>
 {% endfor %}
 </ul>
