@@ -4,7 +4,8 @@ title: "Technical Communication | Portfolio Publishing Guide"
 lab_title: "Portfolio Publishing Guide"
 
 lesson: "TC.01" 
-lesson_id: "TC-01"
+lesson_id: "01.01.00"
+sort_order: "010100"
 
 categories: [portfolio, guides]
 
@@ -17,9 +18,8 @@ subcategory_display: Reference Guides
 content_type: guide
 content_type_display: Guide
 
-sort_order: "900001"
 
-permalink: /portfolio/guides/portfolio-publishing-guide/
+permalink: /network-portfolio/guides/portfolio-publishing-guide/
 
 status: complete
 
@@ -302,12 +302,12 @@ Result:
 ### Syntax
 
 ```
-[Video Gallery](/portfolio/videos/)
+[Video Gallery](/)
 ```
 
 ### Result
 
-[Video Gallery](/portfolio/videos/)
+[Video Gallery](/network-portfolio/videos/)
 
 ---
 
@@ -506,13 +506,13 @@ Consistent metadata enables the portfolio to scale while remaining organized, se
 ## 🔗 Navigation
 
 * **[HOME](/)**
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio)
 
 ---
 ---

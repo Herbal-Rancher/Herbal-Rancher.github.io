@@ -4,7 +4,8 @@ title: "Infrastructure | Build a Switch and Router Network"
 lab_title: "Build a Switch and Router Network"
 
 lesson: "11.0"
-lesson_id: "11.06"
+lesson_id: "11.06.00"
+sort_order: "110600"
 
 categories: [portfolio, labs]
 
@@ -21,15 +22,13 @@ topics: [switching, routing, network-design, infrastructure]
 
 tools: [Switch, Router]
 
-sort_order: "110600"
-
 tags: 
   - packet-tracer
   - cabling
   - topology
   - networking-basics
 
-permalink: /portfolio/labs/module-11-0/build-switch-router-network/
+permalink: /network-portfolio/labs/module-11-0/build-switch-router-network/
 status: complete
 
 date: 2026-04-03 06:54:11 -0700
@@ -488,13 +487,13 @@ This was one of my first full network builds that included both infrastructure c
 ## 🔗 Navigation
 
 * **[HOME](/)**
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

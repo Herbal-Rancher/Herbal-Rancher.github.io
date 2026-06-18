@@ -4,7 +4,8 @@ title: "Infrastructure | Connect a Router to a LAN"
 lab_title: "Connect a Router to a LAN"
 
 lesson: "11.0"
-lesson_id: "11.08"
+lesson_id: "11.08.00"
+sort_order: "110800"
 
 categories: [portfolio, labs]
 
@@ -21,7 +22,6 @@ topics: [routing, lan-connectivity, network-infrastructure]
 
 tools: [Router, Ethernet-Cabling, cisco-packet-tracer]
 
-sort_order: "110800"
 
 tags:
   - packet-tracer
@@ -29,7 +29,7 @@ tags:
   - topology
   - networking-basics
 
-permalink: /portfolio/labs/module-11-0/connect-router-to-lan/
+permalink: /network-portfolio/labs/module-11-0/connect-router-to-lan/
 status: complete
 
 date: 2026-04-03 08:34:11 -0700
@@ -361,13 +361,13 @@ This felt like one of my first true multi-network routing labs where everything 
 ## 🔗 Navigation
 
 * **[HOME](/)**
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

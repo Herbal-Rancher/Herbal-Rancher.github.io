@@ -4,7 +4,8 @@ title: "Old Testament | Genesis 1 — Observation Study (In the Beginning)"
 lab_title: " Genesis 1 — Observation Study (In the Beginning)"
 
 lesson: "GEN.01" 
-lesson_id: "GEN-01"
+lesson_id: "01.01.01"
+sort_order: "010101"
 
 categories: [portfolio, bible]
 
@@ -22,9 +23,8 @@ book_display: Genesis
 
 tags: [genesis, inductive-study, observation, creation, patterns, word, holy-spirit]
 
-sort_order: "000002"
 
-permalink: /portfolio/bible/genesis-1-observation-study/
+permalink: /network-portfolio/bible/genesis-1-observation-study/
 
 status: complete
 
@@ -181,13 +181,13 @@ I’m learning that slowing down isn’t falling behind ... it’s how I can beg
 ## 🔗 Navigation
 
 * [HOME](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* **[BIBLE STUDY](/Bible-Study/)**
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* **[BIBLE STUDY](/network-portfolio/Bible-Study/)**
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Summative Assessment | Packet Tracer Lab 8 Connect a Router to a LAN"
+title: "Assessment Summative | Packet Tracer Lab 8 Connect a Router to a LAN"
 lab_title: "Cabling and Physical Network Infrastructure"
 
 lesson: "11.0"
-lesson_id: "11.02"
+lesson_id: "11.02.00"
+sort_order: "110200"
 
 categories: [portfolio, summative, formative]
 
@@ -14,10 +15,8 @@ category_display: Technical Communication
 subcategory: assessments-discussions
 subcategory_display: Assessments & Discussions
 
-content_type: summative-assessment
-content_type_display: Summative Assessment
-
-sort_order: 110200
+content_type: assessment-summative
+content_type_display: Assessment Summative 
 
 tags:
 - routing
@@ -28,7 +27,7 @@ tags:
 - troubleshooting
 - packet-tracer
 
-permalink: /portfolio/formative-lessons/lesson-11-0/summative-connect-router-to-lan/
+permalink: /network-portfolio/formative-lessons/lesson-11-0/summative-connect-router-to-lan/
 status: complete
 
 pdf: "/assets/pdfs/11-0-Summative-Assessment_Network-Topologies.pdf"
@@ -89,13 +88,13 @@ This lab reinforced how routers connect multiple networks and how routing tables
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

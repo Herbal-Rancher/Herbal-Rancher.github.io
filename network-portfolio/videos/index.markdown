@@ -102,7 +102,7 @@ Missing video URL
   * [Lab Walkthroughs](/network-portfolio/labs/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
+* [Bible Study](/network-portfolio/Bible-Study/)
 * [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---

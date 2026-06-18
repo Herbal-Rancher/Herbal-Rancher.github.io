@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Summative Assessment | Network Systems"
+title: "Assessment Summative | Network Systems"
 lab_title: "Network Systems"
 
 lesson: "2.0"
-lesson_id: "2.02"
+lesson_id: "02.02.00"
+sort_order: "020200"
 
 categories: [portfolio, summative, formative]
 
@@ -14,10 +15,9 @@ category_display: Technical Communication
 subcategory: assessments-discussions
 subcategory_display: Assessments & Discussions
 
-content_type: summative-assessment
-content_type_display: Summative Assessment
+content_type: assessment-summative
+content_type_display: Assessment Summative 
 
-sort_order: "020200"
 
 tags:
   - bgp
@@ -26,7 +26,7 @@ tags:
   - gateways
   - distance-vector
 
-permalink: /portfolio/formative-lessons/lesson-2-0/summative-network-systems/
+permalink: /network-portfolio/formative-lessons/lesson-2-0/summative-network-systems/
 status: complete
 
 pdf: "/assets/pdfs/02-0-Summative-Assessment_Network-Systems.pdf"
@@ -79,13 +79,13 @@ This assessment reinforced how routing protocols dynamically adapt to changing n
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

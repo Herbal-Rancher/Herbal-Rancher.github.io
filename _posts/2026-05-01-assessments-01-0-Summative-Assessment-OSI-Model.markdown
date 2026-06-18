@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Summative Assessment | Network OSI Model"
+title: "Assessment Summative | Network OSI Model"
 lab_title: "Network OSI Model"
 
 lesson: "1.0"
-lesson_id: "1.02"
+lesson_id: "01.02.00"
+sort_order: "010200"
 
 categories: [portfolio, summative, formative]
 
@@ -14,10 +15,8 @@ category_display: Technical Communication
 subcategory: assessments-discussions
 subcategory_display: Assessments & Discussions
 
-content_type: summative-assessment
-content_type_display: Summative Assessment
-
-sort_order: "010200"
+content_type: assessment-summative
+content_type_display: Assessment Summative 
 
 tags:
   - osi-model
@@ -25,7 +24,7 @@ tags:
   - networking
   - protocols
 
-permalink: /portfolio/formative-lessons/lesson-1-0/summative-osi-model/
+permalink: /network-portfolio/formative-lessons/lesson-1-0/summative-osi-model/
 status: complete
 
 pdf: "/assets/pdfs/01-0-Summative-Assessment_Network-OSI-model.pdf"
@@ -45,6 +44,7 @@ tools:
   - switches
   - routers
   - NICs
+
 ---
 
 ## Overview
@@ -80,13 +80,13 @@ This assessment helped reinforce the relationship between hardware devices, prot
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

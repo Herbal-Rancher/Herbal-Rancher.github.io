@@ -4,7 +4,8 @@ title: "Discussion | Network Addressing Schemes"
 lab_title: "Network Addressing Schemes"
 
 lesson: "4.0"
-lesson_id: "4.01"
+lesson_id: "04.01.00"
+sort_order: 040100
 
 categories: [portfolio, discussion, formative]
 
@@ -17,7 +18,6 @@ subcategory_display: Assessments & Discussions
 content_type: discussion
 content_type_display: Discussion
 
-sort_order: 040100
 
 tags:
 - troubleshooting
@@ -27,7 +27,7 @@ tags:
 - netflow
 - security
 
-permalink: /portfolio/formative-lessons/lesson-13-0/discussion-network-ip-addressing/
+permalink: /network-portfolio/formative-lessons/lesson-13-0/discussion-network-ip-addressing/
 status: complete
 
 pdf: "/assets/pdfs/4-0-Discussion-Network-Addressing-Schemes.pdf"
@@ -92,13 +92,13 @@ It also strengthened my understanding of how monitoring, security, and connectiv
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "New Testament | Phillipians 1 — Observation Study (Paul's Greeting)"
-lab_title: " Phillipians 1 — Observation Study (Paul's Greeting)"
+title: "New Testament | Phillipians 1 — Observation Study (Paul's Greeting) - IN PROGRESS"
+lab_title: " Phillipians 1 — Observation Study (Paul's Greeting) - IN PROGRESS"
 
 lesson: "PHILL.01" 
-lesson_id: "PHP-01"
+lesson_id: "02.11.01"
+sort_order: "021101"
 
 categories: [portfolio, bible]
 
@@ -22,9 +23,8 @@ book_display: Philippians
 
 tags: [philippians, inductive-study, observation, greeting, apostle-paul]
 
-sort_order: "000002"
 
-permalink: /portfolio/bible/philippians-1-observation-study/
+permalink: /network-portfolio/bible/philippians-1-observation-study/
 
 status: complete
 
@@ -108,13 +108,13 @@ Listen to [Philippians](https://www.bible.com/bible/111/PHP.1.NIV)(2 full times)
 ## 🔗 Navigation
 
 * [HOME](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* **[BIBLE STUDY](/Bible-Study/)**
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* **[BIBLE STUDY](/network-portfolio/Bible-Study/)**
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -4,7 +4,8 @@ title: "Discussion | Physical Installation Considerations"
 lab_title: "Physical Installation Considerations"
 
 lesson: "3.0"
-lesson_id: "3.01"
+lesson_id: "03.01.00"
+sort_order: "030100"
 
 categories: [portfolio, discussion, formative]
 
@@ -17,7 +18,6 @@ subcategory_display: Assessments & Discussions
 content_type: discussion
 content_type_display: Discussion
 
-sort_order: "030100"
 
 tags:
   - physical-installation
@@ -26,7 +26,7 @@ tags:
   - security
   - environmental-controls
 
-permalink: /portfolio/formative-lessons/lesson-3-0/discussion-physical-installation-considerations/
+permalink: /network-portfolio/formative-lessons/lesson-3-0/discussion-physical-installation-considerations/
 status: complete
 
 pdf: "/assets/pdfs/03-0-Discussion_Physical-Installation-Considerations.pdf"
@@ -76,13 +76,13 @@ This discussion reinforced the importance of proper physical infrastructure plan
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

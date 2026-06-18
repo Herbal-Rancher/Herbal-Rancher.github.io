@@ -3,9 +3,8 @@ layout: post
 title: "Infrastructure | Spanning Tree Protocol: Topology Change Notification"
 lab_title: "Spanning Tree Protocol: Topology Change Notification"
 
-lesson: "08.0"
-lesson_id: "08.01"
-
+lesson: "8.0"
+lesson_id: "08.01.00"
 sort_order: "080100"
 
 categories: [portfolio, diagrams]
@@ -23,7 +22,7 @@ topics: [spanning-tree-protocol, stp, topology-change-notification, bpdu, switch
 
 tools: [Switch, STP]
 
-permalink: /portfolio/study-diagrams/stp-tcn/
+permalink: /network-portfolio/study-diagrams/stp-tcn/
 
 status: complete
 
@@ -79,13 +78,13 @@ I needed a clearer visual explanation of what happens when a topology change not
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -3,10 +3,9 @@ layout: post
 title: "Security | Perform DHCP Spoofing On-Path Attack"
 lab_title: "Perform DHCP Spoofing On-Path Attack"
 
-lesson: "09.0"
+lesson: "9.0"
 lesson_id: "09.03.09"
-
-sort_order: 090309
+sort_order: "090309"
 
 category: security
 category_display: Security
@@ -95,13 +94,13 @@ This lab demonstrates how attackers can manipulate DHCP services to redirect tra
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

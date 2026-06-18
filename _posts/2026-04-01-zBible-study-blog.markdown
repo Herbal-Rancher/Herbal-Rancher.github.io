@@ -4,7 +4,8 @@ title: "Study Methods | My Study Approach: Observation, Interpretation, Applicat
 lab_title: "My Study Approach: Observation, Interpretation, Application!"
 
 lesson: "SM.01" 
-lesson_id: "SM-01"
+lesson_id: "SM.01.00"
+sort_order: "010100"
 
 categories: [portfolio, bible, inductive-bible-study]
 
@@ -22,9 +23,8 @@ book_display: Observation, Interpretation, Application
 
 tags: [genesis, inductive-study, observation, creation, patterns, word, holy-spirit]
 
-sort_order: "000001"
 
-permalink: /portfolio/bible/my-study-approach/
+permalink: /network-portfolio/bible/my-study-approach/
 
 status: complete
 
@@ -103,13 +103,13 @@ This study is an ongoing journey. By applying a consistent and thoughtful method
 ## 🔗 Navigation
 
 * [HOME](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* **[BIBLE STUDY](/Bible-Study/)**
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* **[BIBLE STUDY](/network-portfolio/Bible-Study/)**
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

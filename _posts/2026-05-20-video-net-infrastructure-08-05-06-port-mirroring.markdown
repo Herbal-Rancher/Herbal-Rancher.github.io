@@ -5,6 +5,7 @@ lab_title: "Configure Port Mirroring with Wireshark"
 
 lesson: "8.0"
 lesson_id: "08.05.06"
+sort_order: "080506"
 
 categories: [portfolio, videos]
 
@@ -17,7 +18,6 @@ subcategory_display: Switching
 content_type: video
 content_type_display: Video
 
-sort_order: "080506"
 
 tags:
   - switching
@@ -26,7 +26,7 @@ tags:
   - monitoring
   - packet-analysis
 
-permalink: /portfolio/videos/lab-8-5-6-port-mirroring/
+permalink: /network-portfolio/videos/lab-8-5-6-port-mirroring/
 status: complete
 
 video_id: "zwGWxiwK79o"
@@ -71,13 +71,13 @@ This no-narration video walkthrough demonstrates switch port mirroring configura
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

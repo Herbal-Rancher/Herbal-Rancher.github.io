@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Old Testament | Genesis 2 — Observation Study (Thus the Heavens and the Earth)"
-lab_title: " Genesis 2 — Observation Study (Thus the Heavens and the Earth)"
+title: "Old Testament | Genesis 2 — Observation Study (Thus the Heavens and the Earth) - IN PROGRESS"
+lab_title: " Genesis 2 — Observation Study (Thus the Heavens and the Earth) - IN PROGRESS"
 
 lesson: "GEN.02" 
-lesson_id: "GEN-02"
+lesson_id: "01.01.02"
+sort_order: "010102"
 
 categories: [portfolio, bible]
 
@@ -22,9 +23,8 @@ book_display: Genesis
 
 tags: [genesis, inductive-study, observation, creation, patterns, word, holy-spirit]
 
-sort_order: "000002"
 
-permalink: /portfolio/bible/genesis-2-observation-study/
+permalink: /network-portfolio/bible/genesis-2-observation-study/
 
 status: complete
 
@@ -105,13 +105,13 @@ Below are my handwritten observation notes from Genesis 1. These capture pattern
 ## 🔗 Navigation
 
 * [HOME](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* **[BIBLE STUDY](/Bible-Study/)**
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* **[BIBLE STUDY](/network-portfolio/Bible-Study/)**
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

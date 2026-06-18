@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Milestone Assessment | Network Systems"
+title: "Assessment Milestone | Network Systems"
 lab_title: "Network Systems"
 
 lesson: "2.0"
-lesson_id: "2.01"
+lesson_id: "02.01.00"
+sort_order: "020100"
 
 categories: [portfolio, milestone, formative]
 
@@ -14,10 +15,9 @@ category_display: Technical Communication
 subcategory: assessments-discussions
 subcategory_display: Assessments & Discussions
 
-content_type: milestone-assessment
-content_type_display: Milestone Assessment
+content_type: assessment-milestone
+content_type_display: Assessment Milestone
 
-sort_order: "020100"
 
 tags:
   - routing
@@ -28,7 +28,7 @@ tags:
   - vlan
   - routing-technologies
 
-permalink: /portfolio/formative-lessons/lesson-2-0/milestone-network-systems/
+permalink: /network-portfolio/formative-lessons/lesson-2-0/milestone-network-systems/
 status: complete
 
 pdf: "/assets/pdfs/02-0-Milestone-Assessment_Network-Systems.pdf"
@@ -86,13 +86,13 @@ This assessment improved my understanding of how physical infrastructure, wirele
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

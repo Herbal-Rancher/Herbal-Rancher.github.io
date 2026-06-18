@@ -5,6 +5,7 @@ lab_title: "Configure QoS and Analyze Traffic with Wireshark"
 
 lesson: "8.0"
 lesson_id: "08.06.07"
+sort_order: "080607"
 
 categories: [portfolio, videos]
 
@@ -17,7 +18,6 @@ subcategory_display: Switching
 content_type: video
 content_type_display: Video
 
-sort_order: "080607"
 
 tags:
   - qos
@@ -26,7 +26,7 @@ tags:
   - routing
   - packet-analysis
 
-permalink: /portfolio/videos/lab-8-6-7-qos-wireshark/
+permalink: /network-portfolio/videos/lab-8-6-7-qos-wireshark/
 status: complete
 
 video_id: "zwGWxiwK79o"
@@ -71,13 +71,13 @@ This no-narration video walkthrough demonstrates Quality of Service (QoS) config
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

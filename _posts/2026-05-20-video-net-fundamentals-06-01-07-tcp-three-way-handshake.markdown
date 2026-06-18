@@ -18,8 +18,6 @@ subcategory_display: TCP/IP
 content_type: video
 content_type_display: Video
 
-sort_order: "061070"
-
 tags:
   - tcp
   - wireshark
@@ -27,7 +25,7 @@ tags:
   - tcp-handshake
   - networking
 
-permalink: /portfolio/videos/lab-6-1-7-tcp-three-way-handshake/
+permalink: /network-portfolio/videos/lab-6-1-7-tcp-three-way-handshake/
 status: complete
 
 video_id: "zwGWxiwK79o"
@@ -56,7 +54,7 @@ This no-narration video walkthrough demonstrates the TCP three-way handshake pro
 
 <!--more-->
 
-The video walkthrough visually examines how TCP establishes reliable communication sessions between network devices through SYN, SYN-ACK, and ACK packet exchanges.
+The linked, no-narration video walkthrough, visually examines how TCP establishes reliable communication sessions between network devices through SYN, SYN-ACK, and ACK packet exchanges.
 
 ---
 
@@ -76,13 +74,13 @@ The video walkthrough visually examines how TCP establishes reliable communicati
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

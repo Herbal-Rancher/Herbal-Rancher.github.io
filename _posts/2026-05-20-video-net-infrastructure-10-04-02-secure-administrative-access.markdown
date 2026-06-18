@@ -5,6 +5,7 @@ lab_title: "Secure Administrative Access to a Network Switch"
 
 lesson: "10.0"
 lesson_id: "10.04.02"
+sort_order: "100402"
 
 categories: [portfolio, videos]
 
@@ -17,7 +18,6 @@ subcategory_display: Switching
 content_type: video
 content_type_display: Video
 
-sort_order: "100402"
 
 tags:
   - switch-security
@@ -25,7 +25,7 @@ tags:
   - switch-management
   - cisco
 
-permalink: /portfolio/videos/lab-10-4-2-secure-administrative-access/
+permalink: /network-portfolio/videos/lab-10-4-2-secure-administrative-access/
 status: complete
 
 video_id: "zwGWxiwK79o"
@@ -67,13 +67,13 @@ This no-narration video walkthrough demonstrates methods used to secure administ
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Milestone Assessment | Network Monitoring, SNMP, Ports, Protocols, and Services"
+title: "Assessment  Milestone | Network Monitoring, SNMP, Ports, Protocols, and Services"
 lab_title: "Network Monitoring, SNMP, Ports, Protocols, and Services"
 
 lesson: "3.0"
-lesson_id: "3.02"
+lesson_id: "03.02.00"
+sort_order: "030200"
 
 categories: [portfolio, milestone, formative]
 
@@ -14,10 +15,9 @@ category_display: Technical Communication
 subcategory: assessments-discussions
 subcategory_display: Assessments & Discussions
 
-content_type: milestone-assessment
-content_type_display: Milestone Assessment
+content_type: assessment-milestone
+content_type_display: Assessment Milestone
 
-sort_order: "030200"
 
 tags:
   - snmp
@@ -28,7 +28,7 @@ tags:
   - tcp
   - udp
 
-permalink: /portfolio/formative-lessons/lesson-3-0/milestone-network-monitoring/
+permalink: /network-portfolio/formative-lessons/lesson-3-0/milestone-network-monitoring/
 status: complete
 
 pdf: "/assets/pdfs/03-0-Milestone-Assessment_Network-Monitoring.pdf"
@@ -87,13 +87,13 @@ This assessment strengthened my understanding of how monitoring technologies and
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

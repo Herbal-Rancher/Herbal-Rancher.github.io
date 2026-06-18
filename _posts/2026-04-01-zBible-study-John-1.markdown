@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "New Testament | John 1 — Observation Study (In the Beginning)"
-lab_title: " John 1 — Observation Study (In the Beginning)"
+title: "New Testament | John 1 — Observation Study (In the Beginning) - IN PROGRESS"
+lab_title: " John 1 — Observation Study (In the Beginning) - IN PROGRESS"
 
 lesson: "JOHN.01" 
-lesson_id: "JOHN-01"
+lesson_id: "02.04.01"
+sort_order: "020401"
 
 categories: [portfolio, bible]
 
@@ -22,9 +23,8 @@ book_display: John
 
 tags: [john, inductive-study, observation, beginning, word, holy-spirit]
 
-sort_order: "000002"
 
-permalink: /portfolio/bible/john-1-observation-study/
+permalink: /network-portfolio/bible/john-1-observation-study/
 
 status: complete
 
@@ -108,13 +108,13 @@ Listen to [John](https://www.bible.com/bible/111/JHN.1.NIV)(2 full times)
 ## 🔗 Navigation
 
 * [HOME](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* **[BIBLE STUDY](/Bible-Study/)**
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* **[BIBLE STUDY](/network-portfolio/Bible-Study/)**
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

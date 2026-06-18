@@ -4,8 +4,7 @@ title: "Infrastructure | Cisco Discovery Protocol"
 lab_title: "Cisco Discovery Protocol"
 
 lesson: "13.0"
-lesson_id: "13.02"
-
+lesson_id: "13.02.00"
 sort_order: "130200"
 
 categories: [portfolio, diagrams]
@@ -23,7 +22,7 @@ topics: [cdp, neighbor-discovery, network-discovery, device-management, cisco, n
 
 tools: [CDP, Cisco-IOS, Router, Switch, CompTIA-Network-Plus]
 
-permalink: /portfolio/study-diagrams/cisco-discovery-protocol/
+permalink: /network-portfolio/study-diagrams/cisco-discovery-protocol/
 
 status: complete
 
@@ -77,13 +76,13 @@ I was unsure what information CDP can and cannot report, so I used a visual expl
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

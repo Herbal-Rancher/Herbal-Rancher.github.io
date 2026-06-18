@@ -4,7 +4,8 @@ title: "Technical Communication | Git Branching and Workflow"
 lab_title: "Git Branching and Workflow"
 
 lesson: "10.0"
-lesson_id: "10.03"
+lesson_id: "10.03.00"
+sort_order: "100300"
 
 categories: [portfolio, labs]
 
@@ -17,7 +18,6 @@ subcategory_display: GitHub
 content_type: lab
 content_type_display: Lab
 
-sort_order: "100300"
 
 tags:
   - switch-security
@@ -29,7 +29,7 @@ tags:
   - branching
   - workflow
 
-permalink: /portfolio/labs/module-1-0/git-branching-and-workflow/
+permalink: /network-portfolio/labs/module-1-0/git-branching-and-workflow/
 status: complete
 
 topics:
@@ -272,13 +272,13 @@ git branch -d feature/<name>
 ## 🔗 Navigation
 
 * **[HOME](/)**
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

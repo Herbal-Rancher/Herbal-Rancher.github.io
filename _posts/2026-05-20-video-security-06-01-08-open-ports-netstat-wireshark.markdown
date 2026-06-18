@@ -5,6 +5,7 @@ lab_title: "View Open Ports with Netstat and Wireshark"
 
 lesson: "6.0"
 lesson_id: "06.01.08"
+sort_order: "060108"
 
 categories: [portfolio, videos]
 
@@ -17,7 +18,6 @@ subcategory_display: Reconnaissance
 content_type: video
 content_type_display: Video
 
-sort_order: "060108"
 
 tags:
   - netstat
@@ -26,7 +26,7 @@ tags:
   - packet-analysis
   - network-security
 
-permalink: /portfolio/videos/lab-6-1-8-open-ports-netstat-wireshark/
+permalink: /network-portfolio/videos/lab-6-1-8-open-ports-netstat-wireshark/
 status: complete
 
 video_id: "zwGWxiwK79o"
@@ -70,13 +70,13 @@ This no-narration video walkthrough demonstrates how to identify open ports and 
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -4,7 +4,8 @@ title: "Infrastructure | Basic Device Configuration"
 lab_title: "Basic Device Configuration"
 
 lesson: "11.0"
-lesson_id: "11.02"
+lesson_id: "11.02.00"
+sort_order: "110200"
 
 categories: [portfolio, labs]
 
@@ -21,7 +22,6 @@ topics: [device-configuration, network-devices, infrastructure-basics]
 
 tools: [Switch, Router]
 
-sort_order: "110200"
 
 tags:
   - packet-tracer
@@ -32,7 +32,7 @@ tags:
   - switch
   - troubleshooting
 
-permalink: /portfolio/labs/module-11-0/configure-basic-device-config/
+permalink: /network-portfolio/labs/module-11-0/configure-basic-device-config/
 status: complete
   
 date: 2026-04-03 02:34:11 -0700
@@ -364,13 +364,13 @@ exists.
 ## 🔗 Navigation
 
 * **[HOME](/)**
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -4,8 +4,7 @@ title: "Networking Fundamentals | Structured Cabling Systems"
 lab_title: "Structured Cabling Systems"
 
 lesson: "12.0"
-lesson_id: "12.01"
-
+lesson_id: "12.01.00"
 sort_order: "120100"
 
 categories: [portfolio, diagrams]
@@ -23,7 +22,7 @@ topics: [structured-cabling, patch-panels, telecommunications-room, backbone-cab
 
 tools: [CompTIA-Network-Plus]
 
-permalink: /portfolio/study-diagrams/structured-cabling-systems/
+permalink: /network-portfolio/study-diagrams/structured-cabling-systems/
 
 status: complete
 
@@ -37,7 +36,7 @@ tags:
 
 diagram_topic: "Structured cabling systems, components, standards, network infrastructure"
 diagram_reason: "I wanted to understand the different components and standards involved in structured cabling systems."
-permalink: /portfolio/study-diagrams/structured-cabling-systems/
+permalink: /network-portfolio/study-diagrams/structured-cabling-systems/
 status: complete
 
 image: "/assets/images/study-diagrams/structured-cabling-systems-diagram-chatgpt-rendered-image.png"
@@ -83,13 +82,13 @@ I wanted to understand the different components and standards involved in struct
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

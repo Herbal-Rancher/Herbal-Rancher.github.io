@@ -5,6 +5,7 @@ lab_title: "Configure Client Addressing for DHCP"
 
 lesson: "6.0"
 lesson_id: "06.02.10"
+sort_order: "060210"	
 
 categories: [portfolio, videos]
 
@@ -17,7 +18,6 @@ subcategory_display: DHCP & DNS
 content_type: video
 content_type_display: Video
 
-sort_order: "060210"	
 
 tags:
   - dhcp
@@ -25,7 +25,7 @@ tags:
   - ip-addressing
   - windows-networking
 
-permalink: /portfolio/videos/lab-6-2-10-client-addressing-dhcp/
+permalink: /network-portfolio/videos/lab-6-2-10-client-addressing-dhcp/
 status: complete
 
 video_id: "zwGWxiwK79o"
@@ -71,13 +71,13 @@ The video walkthrough focuses on automatic IP configuration, DHCP communication,
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

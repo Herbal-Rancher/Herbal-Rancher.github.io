@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Summative Assessment | Network Monitoring and Troubleshooting Scenario"
+title: "Assessment Summative | Network Monitoring and Troubleshooting Scenario"
 lab_title: "Network Monitoring and Troubleshooting Scenario"
 
 lesson: "3.0"
-lesson_id: "3.03"
+lesson_id: "03.03.00"
+sort_order: "030300"
 
 categories: [portfolio, summative, formative]
 
@@ -14,10 +15,9 @@ category_display: Technical Communication
 subcategory: assessments-discussions
 subcategory_display: Assessments & Discussions
 
-content_type: summative-assessment
-content_type_display: Summative Assessment
+content_type: assessment-summative
+content_type_display: Assessment Summative 
 
-sort_order: "030300"
 
 tags:
   - monitoring
@@ -26,7 +26,7 @@ tags:
   - snmp
   - syslog
 
-permalink: /portfolio/formative-lessons/lesson-3-0/summative-network-monitoring/
+permalink: /network-portfolio/formative-lessons/lesson-3-0/summative-network-monitoring/
 status: complete
 
 pdf: "/assets/pdfs/03-0-Summative-Assessment_Network-Monitoring.pdf"
@@ -84,13 +84,13 @@ This assessment reinforced the importance of combining monitoring tools, histori
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -4,7 +4,8 @@ title: "Infrastructure | Configure Initial Router Settings"
 lab_title: "Configure Initial Router Settings"
 
 lesson: "11.0"
-lesson_id: "11.04"
+lesson_id: "11.04.00"
+sort_order: "110400"
 
 categories: [portfolio, labs]
 
@@ -21,7 +22,6 @@ topics: [router-configuration, routing, device-management, infrastructure]
 
 tools: [Router]
 
-sort_order: "110400"
 
 tags: 
   - packet-tracer
@@ -30,7 +30,7 @@ tags:
   - security
   - configuration
 
-permalink: /portfolio/labs/module-11-0/configure-initial-router-settings/
+permalink: /network-portfolio/labs/module-11-0/configure-initial-router-settings/
 status: complete
 
 date: 2026-04-03 04:44:11 -0700
@@ -308,13 +308,13 @@ These are foundational skills for future Cisco labs and :contentReference[oaicit
 ## 🔗 Navigation
 
 * **[HOME](/)**
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

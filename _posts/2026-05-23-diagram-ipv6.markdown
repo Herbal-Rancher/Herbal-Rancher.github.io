@@ -4,8 +4,7 @@ title: "Networking Fundamentals | IPv6 Study Diagram"
 lab_title: "IPv6 Study Diagram"
 
 lesson: "13.0"
-lesson_id: "13.01"
-
+lesson_id: "13.01.00"
 sort_order: "130100"
 
 categories: [portfolio, diagrams]
@@ -23,7 +22,7 @@ topics: [ipv6, addressing, subnetting, network-prefixes, hexadecimal-addressing,
 
 tools: [IPv6, CompTIA-Network-Plus]
 
-permalink: /portfolio/study-diagrams/ipv6/
+permalink: /network-portfolio/study-diagrams/ipv6/
 
 tags:
   - ipv6
@@ -80,13 +79,13 @@ IPv6 has been difficult for me, so I requested a diagram to help organize the ma
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

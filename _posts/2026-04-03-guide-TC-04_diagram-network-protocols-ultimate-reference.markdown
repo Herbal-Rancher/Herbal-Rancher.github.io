@@ -4,7 +4,8 @@ title: "Technical Communication | Network Protocols Ultimate Quick Reference & L
 lab_title: "Network Protocols Ultimate Quick Reference & Learning Tool"
 
 lesson: "TC.04" 
-lesson_id: "TC-04"
+lesson_id: "01.04.00"
+sort_order: "010400"
 
 categories: [portfolio, diagrams, reference-guides]
 
@@ -17,7 +18,6 @@ subcategory_display: Reference Guides
 content_type: guide
 content_type_display: Guide
 
-sort_order: "900004"
 
 tags:
 - network-protocols
@@ -34,7 +34,7 @@ tags:
 - security
 - network-plus
 
-permalink: /portfolio/study-diagrams/network-protocols-ultimate-reference/
+permalink: /network-portfolio/study-diagrams/network-protocols-ultimate-reference/
 status: complete
 
 topics:
@@ -172,13 +172,13 @@ Networks become easier to understand when protocols are grouped by purpose and m
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

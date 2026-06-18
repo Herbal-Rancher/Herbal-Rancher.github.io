@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Milestone Assessment | Network Topologies Enterprise Redesign"
+title: "Assessment Milestone | Network Topologies Enterprise Redesign"
 lab_title: "Network Topologies Enterprise Redesign"
 
 lesson: "11.0"
-lesson_id: "11.01"
+lesson_id: "11.01.00"
+sort_order: "110100"
 
 categories: [portfolio, milestone, formative]
 
@@ -14,10 +15,9 @@ category_display: Technical Communication
 subcategory: assessments-discussions
 subcategory_display: Assessments & Discussions
 
-content_type: milestone-assessment
-content_type_display: Milestone Assessment
+content_type: assessment-milestone
+content_type_display: Assessment Milestone
 
-sort_order: "110100"
 
 tags:
 - vlan
@@ -27,7 +27,7 @@ tags:
 - layer3-switching
 - topology
 
-permalink: /portfolio/formative-lessons/lesson-11-0/milestone-network-topologies/
+permalink: /network-portfolio/formative-lessons/lesson-11-0/milestone-network-topologies/
 status: complete
 
 pdf: "/assets/pdfs/11-0-Milestone-Assessment_Network-Topologies.pdf"
@@ -90,13 +90,13 @@ This project strengthened my understanding of scalable enterprise network archit
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

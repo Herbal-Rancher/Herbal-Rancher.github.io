@@ -5,6 +5,7 @@ lab_title: "Harden a Switch"
 
 lesson: "10.0"
 lesson_id: "10.04.07"
+sort_order: "100407"	
 
 categories: [portfolio, videos]
 
@@ -17,15 +18,13 @@ subcategory_display: Switching
 content_type: video
 content_type_display: Video
 
-sort_order: "100407"	
-
 tags:
   - switch-hardening
   - switch-security
   - cisco
   - administration
 
-permalink: /portfolio/videos/lab-10-4-7-harden-network-switch/
+permalink: /network-portfolio/videos/lab-10-4-7-harden-network-switch/
 status: complete
 
 video_id: "zwGWxiwK79o"
@@ -56,13 +55,13 @@ This no-narration video walkthrough demonstrates switch hardening techniques use
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -4,7 +4,8 @@ title: "Networking Fundamentals | Network Cabling and Physical Topology Referenc
 lab_title: "Network Cabling and Physical Topology Reference"
 
 lesson: "11.0"
-lesson_id: "11.07"
+lesson_id: "11.07.00"
+sort_order: "110700"
 
 categories: [portfolio, labs]
 
@@ -17,8 +18,6 @@ subcategory_display: Network Topology
 content_type: lab
 content_type_display: Lab
 
-sort_order: "110700"
-
 tags:
   - switch-security
   - packet-tracer
@@ -26,7 +25,7 @@ tags:
   - topology
   - networking-basics
 
-permalink: /portfolio/labs/module-11-0/cabling-topology-reference/
+permalink: /network-portfolio/labs/module-11-0/cabling-topology-reference/
 status: complete
 
 topics: [network-topology, physical-topology, cabling, infrastructure-basics]
@@ -240,13 +239,13 @@ Even perfect configurations fail if devices are connected incorrectly.
 ## 🔗 Navigation
 
 * **[HOME](/)**
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

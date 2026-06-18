@@ -5,6 +5,7 @@ lab_title: "Use nslookup"
 
 lesson: "4.0"
 lesson_id: "06.06.06"
+sort_order: "040606"
 
 categories: [portfolio, labs]
 
@@ -33,7 +34,7 @@ tags:
   - network-plus
 
 
-permalink: /portfolio/labs/module-6-0/lab-6-6-6-use-nslookup/
+permalink: /network-portfolio/labs/module-6-0/lab-6-6-6-use-nslookup/
 status: complete
 
 date: 2026-04-03 19:11:11 -0700
@@ -354,13 +355,13 @@ This was one of my first labs where I began translating familiar Windows network
 ## 🔗 Navigation
 
 * **[HOME](/)**
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

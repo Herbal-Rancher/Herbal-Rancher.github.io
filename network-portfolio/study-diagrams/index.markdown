@@ -167,7 +167,7 @@ This page will continue to grow as I study new topics, complete labs, and prepar
   * [Lab Walkthroughs](/network-portfolio/labs/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
-* [Bible Study](/Bible-Study/)
+* [Bible Study](/network-portfolio/Bible-Study/)
 * [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---

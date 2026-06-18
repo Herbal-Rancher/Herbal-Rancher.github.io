@@ -3,10 +3,9 @@ layout: post
 title: "Infrastructure | Distance Vector vs Link State Routing Protocols"
 lab_title: "Distance Vector vs Link State Routing Protocols"
 
-lesson: "02.0"
-lesson_id: "02.04"
-
-sort_order: "020400"
+lesson: "2.0"
+lesson_id: "02.04.00"
+sort_order: "020400"    
 
 categories: [portfolio, diagrams]
 
@@ -23,7 +22,7 @@ topics: [distance-vector, link-state, routing-protocols, rip, ospf, convergence,
 
 tools: [RIP, OSPF, CompTIA-Network-Plus]
 
-permalink: /portfolio/study-diagrams/distance-vector-vs-link-state/
+permalink: /network-portfolio/study-diagrams/distance-vector-vs-link-state/
 
 status: complete
 
@@ -73,13 +72,13 @@ I wanted to understand the differences between distance vector and link state ro
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -3,8 +3,9 @@ layout: post
 title: "Security | Wireshark Network Troubleshooting"
 lab_title: "Wireshark Network Troubleshooting"
 
-lesson: "08.0"
+lesson: "8.0"
 lesson_id: "08.05.05"
+sort_order: 080505
 
 categories: [portfolio, videos]
 
@@ -17,7 +18,6 @@ subcategory_display: Packet Analysis
 content_type: video
 content_type_display: Video
 
-sort_order: 080505
 
 tags:
   - troubleshooting
@@ -26,7 +26,7 @@ tags:
   - connectivity
   - network-analysis
 
-permalink: /portfolio/videos/lab-8-5-5-network-troubleshooting/
+permalink: /network-portfolio/videos/lab-8-5-5-network-troubleshooting/
 status: complete
 
 video_id: "zwGWxiwK79o"
@@ -74,13 +74,13 @@ The video walkthrough focuses on identifying connectivity issues, analyzing capt
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Milestone Assessment | Open Systems Interconnection (OSI) Model"
+title: "Assessment Milestone | Open Systems Interconnection (OSI) Model"
 lab_title: "Open Systems Interconnection (OSI) Model"
 
 lesson: "1.0"
-lesson_id: "1.01"
+lesson_id: "01.01.00"
+sort_order: "010100"
 
 categories: [portfolio, milestone, formative]
 
@@ -14,10 +15,8 @@ category_display: Technical Communication
 subcategory: assessments-discussions
 subcategory_display: Assessments & Discussions
 
-content_type: milestone-assessment
-content_type_display: Milestone Assessment
-
-sort_order: "010100"
+content_type: assessment-milestone
+content_type_display: Assessment Milestone
 
 tags:
   - osi-model
@@ -26,7 +25,7 @@ tags:
   - troubleshooting
   - interoperability
 
-permalink: /portfolio/formative-lessons/lesson-1-0/milestone-osi-model/
+permalink: /network-portfolio/formative-lessons/lesson-1-0/milestone-osi-model/
 status: complete
 
 pdf: "/assets/pdfs/01-0-Milestone-Assessment_Network-OSI-model.pdf"
@@ -49,6 +48,7 @@ tools:
   - switches
   - routers
   - firewalls
+
 ---
 
 ## Overview
@@ -86,13 +86,13 @@ This assessment strengthened my understanding of how network communication occur
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -4,7 +4,8 @@ title: "Technical Communication | PowerShell, Git, and Jekyll Commands"
 lab_title: "PowerShell, Git, and Jekyll Commands"
 
 lesson: "TC.02" 
-lesson_id: "TC-02"
+lesson_id: "01.02.00"
+sort_order: "010200"
 
 categories: [portfolio, guides]
 
@@ -29,7 +30,7 @@ tags:
   - setup
   - reference-guide
 
-permalink: /portfolio/guides/powershell-git-jekyll-commands/
+permalink: /network-portfolio/guides/powershell-git-jekyll-commands/
 status: complete
 
 topics:
@@ -235,13 +236,13 @@ Pull → Serve → Edit → Validate → Commit → Push
 ## 🔗 Navigation
 
 * **[HOME](/)**
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

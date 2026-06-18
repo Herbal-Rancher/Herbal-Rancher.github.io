@@ -5,8 +5,7 @@ title: "Networking Fundamentals | Fiber Optic Connectors Complete Reference Guid
 lab_title: "Fiber Optic Connectors Complete Reference Guide"
 
 lesson: "12.0"
-lesson_id: "12.05"
-
+lesson_id: "12.05.00"
 sort_order: "120500"
 
 categories: [portfolio, diagrams]
@@ -24,7 +23,7 @@ topics: [fiber-optics, fiber-connectors, mpo, lc, sc, st, fc, multimode-fiber, s
 
 tools: [Fiber-Optic-Cable, LC-Connector, SC-Connector, ST-Connector, FC-Connector, MPO-Connector, CompTIA-Network-Plus]
 
-permalink: /portfolio/study-diagrams/fiber-optic-connectors-complete-reference-guide/
+permalink: /network-portfolio/study-diagrams/fiber-optic-connectors-complete-reference-guide/
 
 status: complete
 
@@ -89,13 +88,13 @@ The diagram helped reinforce connector identification, physical characteristics,
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

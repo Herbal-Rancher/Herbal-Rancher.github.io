@@ -3,10 +3,10 @@ layout: post
 title: "Networking Fundamentals | Top Network Ports Study Guide"
 lab_title: "Top Network Ports Study Guide"
 
-lesson: "4.0"
-lesson_id: "04.01"
+lesson: "TC.05" 
+lesson_id: "01.05.00"
+sort_order: "010500"
 
-sort_order: "040100"
 categories: [portfolio, diagrams]
 
 category: networking-fundamentals
@@ -36,7 +36,7 @@ diagram_topic: "Common network ports, TCP vs UDP, OSI model, troubleshooting sce
 
 diagram_reason: "I wanted a visual study guide that would help me memorize the most common ports, protocols, transport methods, and OSI concepts that frequently appear on the CompTIA Network+ exam."
 
-permalink: /portfolio/study-diagrams/top-network-ports/
+permalink: /network-portfolio/study-diagrams/top-network-ports/
 
 status: complete
 
@@ -85,13 +85,13 @@ The diagram combines memorization techniques, protocol comparisons, troubleshoot
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

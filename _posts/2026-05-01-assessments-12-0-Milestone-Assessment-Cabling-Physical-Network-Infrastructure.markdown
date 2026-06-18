@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Milestone Assessment | Cabling and Physical Network Infrastructure"
+title: "Assessment Milestone | Cabling and Physical Network Infrastructure"
 lab_title: "Cabling and Physical Network Infrastructure"
 
 lesson: "12.0"
-lesson_id: "12.01"
+lesson_id: "12.01.00"
+sort_order: "120100"
 
 categories: [portfolio, milestone, formative]
 
@@ -14,10 +15,9 @@ category_display: Technical Communication
 subcategory: assessments-discussions
 subcategory_display: Assessments & Discussions
 
-content_type: milestone-assessment
-content_type_display: Milestone Assessment
+content_type: assessment-milestone
+content_type_display: Assessment Milestone
 
-sort_order: "120100"
 
 tags:
 - cabling
@@ -27,7 +27,7 @@ tags:
 - connectors
 - infrastructure
 
-permalink: /portfolio/formative-lessons/lesson-12-0/milestone-network-cabling/
+permalink: /network-portfolio/formative-lessons/lesson-12-0/milestone-network-cabling/
 status: complete
 
 pdf: "/assets/pdfs/12-0-Milestone-Assessment_Network-Cabling.pdf"
@@ -87,13 +87,13 @@ This assessment strengthened my understanding of how physical cabling infrastruc
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

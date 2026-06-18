@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bible Study"
-permalink: /Bible-Study/
+permalink: /network-portfolio/Bible-Study/
 ---
 
 ---
@@ -97,7 +97,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
   * [Lab Walkthroughs](/network-portfolio/labs/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-* **[BIBLE STUDY](/Bible-Study/)**
+* **[BIBLE STUDY](/network-portfolio/Bible-Study/)**
 * [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---

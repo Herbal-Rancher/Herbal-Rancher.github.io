@@ -5,6 +5,7 @@ lab_title: "Secure Access to a Switch 2"
 
 lesson: "10.0"
 lesson_id: "10.04.03"
+sort_order: "100403"	
 
 categories: [portfolio, videos]
 
@@ -17,7 +18,6 @@ subcategory_display: Switching
 content_type: video
 content_type_display: Video
 
-sort_order: "100403"	
 
 tags:
   - switch-security
@@ -25,7 +25,7 @@ tags:
   - switch-hardening
   - cisco
 
-permalink: /portfolio/videos/lab-10-4-3-secure-access-switch/
+permalink: /network-portfolio/videos/lab-10-4-3-secure-access-switch/
 status: complete
 
 video_id: "zwGWxiwK79o"
@@ -66,13 +66,13 @@ This no-narration video walkthrough demonstrates secure access configuration tec
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

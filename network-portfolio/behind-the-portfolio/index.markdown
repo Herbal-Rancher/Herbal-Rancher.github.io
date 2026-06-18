@@ -24,10 +24,10 @@ I'm a Network Technology student, lifelong learner, and idea builder pursuing gr
 
 <div style="text-align:center; margin: 30px 0;">
 
-  <a href="/assets/images/behind-portfolio/my-journey-thru-chats-lense-1.png" target="_blank">
+  <a href="/assets/images/behind-the-portfolio/my-journey-thru-chats-lense-1.png" target="_blank">
 
     <img
-      src="/assets/images/behind-portfolio/my-journey-thru-chats-lense-1.png"
+      src="/assets/images/behind-the-portfolio/my-journey-thru-chats-lense-1.png"
       alt="Behind the Portfolio Artwork"
       style="
         width:100%;
@@ -57,10 +57,10 @@ The second and third images below were created after sharing personal references
 
 <div style="text-align:center; margin: 30px 0;">
 
-  <a href="/assets/images/behind-portfolio/my-journey-thru-chats-lense-2.png" target="_blank">
+  <a href="/assets/images/behind-the-portfolio/my-journey-thru-chats-lense-2.png" target="_blank">
 
     <img
-      src="/assets/images/behind-portfolio/my-journey-thru-chats-lense-2.png"
+      src="/assets/images/behind-the-portfolio/my-journey-thru-chats-lense-2.png"
       alt="Behind the Portfolio Artwork"
       style="
         width:100%;
@@ -77,10 +77,10 @@ The second and third images below were created after sharing personal references
 
 <div style="text-align:center; margin: 30px 0;">
 
-  <a href="/assets/images/behind-portfolio/my-journey-thru-chats-lense-3.png" target="_blank">
+  <a href="/assets/images/behind-the-portfolio/my-journey-thru-chats-lense-3.png" target="_blank">
 
     <img
-      src="/assets/images/behind-portfolio/my-journey-thru-chats-lense-3.png"
+      src="/assets/images/behind-the-portfolio/my-journey-thru-chats-lense-3.png"
       alt="Behind the Portfolio Artwork"
       style="
         width:100%;
@@ -109,7 +109,7 @@ faithful, disciplined, compassionate, curious, resilient, technically capable, a
   * [Lab Walkthroughs](/network-portfolio/labs/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
+* [Bible Study](/network-portfolio/Bible-Study/)
 * **[BEHIND THE PORTFOLIO](/network-portfolio/behind-the-portfolio/)**
 
 ---

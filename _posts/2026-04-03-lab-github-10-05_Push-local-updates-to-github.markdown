@@ -4,7 +4,8 @@ title: "Technical Communication | Push Latest Updates to GitHub Repository"
 lab_title: "Push Latest Updates to GitHub Repository"
 
 lesson: "10.0"
-lesson_id: "10.05"
+lesson_id: "10.05.00"
+sort_order: "100500"
 
 categories: [portfolio, labs]
 
@@ -17,7 +18,6 @@ subcategory_display: GitHub
 content_type: lab
 content_type_display: Lab
 
-sort_order: "100500"
 
 tags: 
   - github-pages
@@ -28,7 +28,7 @@ tags:
   - branching
   - workflow
 
-permalink: /portfolio/labs/module-1-0/push-local-updates-to-github/
+permalink: /network-portfolio/labs/module-1-0/push-local-updates-to-github/
 status: complete
 
 topics:
@@ -102,13 +102,13 @@ git push origin main
 ## 🔗 Navigation
 
 * **[HOME](/)**
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

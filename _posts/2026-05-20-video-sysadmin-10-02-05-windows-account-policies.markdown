@@ -5,6 +5,7 @@ lab_title: "Manage Account Policies in Windows"
 
 lesson: "10.0"
 lesson_id: "10.02.05"
+sort_order: "100205"
 
 categories: [portfolio, videos]
 
@@ -17,7 +18,6 @@ subcategory_display: Remote Administration
 content_type: video
 content_type_display: Video
 
-sort_order: 100205
 
 tags:
   - windows-security
@@ -25,7 +25,7 @@ tags:
   - password-policy
   - user-management
 
-permalink: /portfolio/videos/lab-10-2-5-windows-account-policies/
+permalink: /network-portfolio/videos/lab-10-2-5-windows-account-policies/
 status: complete
 
 topics:
@@ -65,13 +65,13 @@ This no-narration video walkthrough demonstrates Windows account policy manageme
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

@@ -5,6 +5,7 @@ lab_title: "Use PowerShell Remote Management"
 
 lesson: "13.0"
 lesson_id: "13.03.09"
+sort_order: "130309"
 
 categories: [portfolio, videos]
 
@@ -17,7 +18,6 @@ subcategory_display: Remote Administration
 content_type: video
 content_type_display: Video
 
-sort_order: "130309"
 
 tags:
   - powershell
@@ -25,7 +25,7 @@ tags:
   - security
   - administration
 
-permalink: /portfolio/videos/lab-13-3-9-powershell-remote-management/
+permalink: /network-portfolio/videos/lab-13-3-9-powershell-remote-management/
 status: complete
 
 video_id: "zwGWxiwK79o"
@@ -67,13 +67,13 @@ This no-narration video walkthrough demonstrates PowerShell Remote Management co
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * **[VIDEO WALKTHROUGHS](/portfolio/videos/)**
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

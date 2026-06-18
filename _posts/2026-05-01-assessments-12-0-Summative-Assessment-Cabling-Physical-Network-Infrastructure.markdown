@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Summative Assessment | Cabling and Physical Network Infrastructure"
+title: "Assessment Summative | Cabling and Physical Network Infrastructure"
 lab_title: "Cabling and Physical Network Infrastructure"
 
 lesson: "12.0"
-lesson_id: "12.02"
+lesson_id: "12.02.00"
+sort_order: "120200"
 
 categories: [portfolio, summative, formative]
 
@@ -14,10 +15,8 @@ category_display: Technical Communication
 subcategory: assessments-discussions
 subcategory_display: Assessments & Discussions
 
-content_type: summative-assessment
-content_type_display: Summative Assessment
-
-sort_order: "120200"
+content_type: assessment-summative
+content_type_display: Assessment Summative 
 
 tags:
 - packet-tracer
@@ -26,7 +25,7 @@ tags:
 - cli, interfaces
 - connectivity
 
-permalink: /portfolio/formative-lessons/lesson-12-0/summative-network-cabling/
+permalink: /network-portfolio/formative-lessons/lesson-12-0/summative-network-cabling/
 status: complete
 
 pdf: "/assets/pdfs/12-0-Summative-Assessment_Network-Cabling.pdf"
@@ -87,13 +86,13 @@ Preparing recorded walkthroughs required repeating the lab multiple times, which
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

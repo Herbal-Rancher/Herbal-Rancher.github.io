@@ -4,7 +4,8 @@ title: "Technical Communication | Windows & Linux Network Administration Command
 lab_title: "Windows & Linux Network Administration Commands"
 
 lesson: "TC.03" 
-lesson_id: "TC-03"
+lesson_id: "01.03.00"
+sort_order: "010300"
 
 categories: [portfolio, guides]
 
@@ -17,7 +18,6 @@ subcategory_display: Reference Guides
 content_type: guide
 content_type_display: Guide
 
-sort_order: "900003"
 
 tags:
   - windows
@@ -27,7 +27,7 @@ tags:
   - command-reference
   - troubleshooting
 
-permalink: /portfolio/guides/windows-linux-network-commands/
+permalink: /network-portfolio/guides/windows-linux-network-commands/
 status: complete
 
 date: 2026-04-03 09:13:11 -0700
@@ -364,13 +364,13 @@ Mastering these commands provides a strong foundation for Network+, Security+, C
 ## 🔗 Navigation
 
 * **[HOME](/)**
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * [Study Diagrams](/portfolio/study-diagrams/)
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---

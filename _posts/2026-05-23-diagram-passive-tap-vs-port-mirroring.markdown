@@ -3,9 +3,8 @@ layout: post
 title: "Infrastructure | Passive TAP vs Port Mirroring"
 lab_title: "Passive TAP vs Port Mirroring"
 
-lesson: "08.0"
-lesson_id: "08.02"
-
+lesson: "8.0"
+lesson_id: "08.02.00"
 sort_order: "080200"
 
 categories: [portfolio, diagrams]
@@ -23,7 +22,7 @@ topics: [passive-tap, port-mirroring, span, network-monitoring, traffic-analysis
 
 tools: [Switch, SPAN, Network-TAP, Wireshark, CompTIA-Network-Plus]
 
-permalink: /portfolio/study-diagrams/passive-tap-vs-port-mirroring/
+permalink: /network-portfolio/study-diagrams/passive-tap-vs-port-mirroring/
 
 tags:
   - passive-tap
@@ -78,13 +77,13 @@ I wanted to understand the differences between passive taps and port mirroring f
 ## 🔗 Navigation
 
 * [Home](/)
-* [Network+ Portfolio](/portfolio/)
-  * [Formative Lessons](/portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/portfolio/labs/)
-  * [Video Walkthroughs](/portfolio/videos/)
-  * **[STUDY DIAGRAMS](/portfolio/study-diagrams/)**
-* [Bible Study](/Bible-Study/)
-* [Behind the Portfolio](/behind-portfolio/)
+* [Network+ Portfolio](/network-portfolio/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
+* [Bible Study](/network-portfolio/Bible-Study/)
+* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
 ---
