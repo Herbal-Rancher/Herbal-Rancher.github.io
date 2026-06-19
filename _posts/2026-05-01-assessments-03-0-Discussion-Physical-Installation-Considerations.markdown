@@ -77,8 +77,7 @@ This discussion reinforced the importance of proper physical infrastructure plan
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

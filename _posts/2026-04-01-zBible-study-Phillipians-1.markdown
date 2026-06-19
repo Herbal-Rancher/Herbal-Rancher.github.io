@@ -109,8 +109,7 @@ Listen to [Philippians](https://www.bible.com/bible/111/PHP.1.NIV)(2 full times)
 
 * [HOME](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * **[BIBLE STUDY](/network-portfolio/Bible-Study/)**

@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Single-Mode Fiber Cabling"
 lab_title: "Single-Mode Fiber Cabling"
 
-lesson: "12.0"
+lesson: "2.0"
 lesson_id: "12.02.00"
 sort_order: "120200"
 
@@ -77,8 +77,7 @@ I wanted to better understand how single-mode fiber differs from other cabling t
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Bible Study](/network-portfolio/Bible-Study/)

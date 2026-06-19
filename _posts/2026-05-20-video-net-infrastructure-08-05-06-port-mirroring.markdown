@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure | Configure Port Mirroring with Wireshark"
 lab_title: "Configure Port Mirroring with Wireshark"
 
-lesson: "8.0"
+lesson: "3.0"
 lesson_id: "08.05.06"
 sort_order: "080506"
 
@@ -72,8 +72,7 @@ This no-narration video walkthrough demonstrates switch port mirroring configura
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure | Secure Administrative Access to a Network Switch"
 lab_title: "Secure Administrative Access to a Network Switch"
 
-lesson: "10.0"
+lesson: "3.0"
 lesson_id: "10.04.02"
 sort_order: "100402"
 
@@ -68,8 +68,7 @@ This no-narration video walkthrough demonstrates methods used to secure administ
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

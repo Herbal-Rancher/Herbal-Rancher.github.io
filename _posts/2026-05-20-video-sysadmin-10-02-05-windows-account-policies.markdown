@@ -3,7 +3,7 @@ layout: post
 title: "Systems Administration | Manage Account Policies in Windows"
 lab_title: "Manage Account Policies in Windows"
 
-lesson: "10.0"
+lesson: "3.0"
 lesson_id: "10.02.05"
 sort_order: "100205"
 
@@ -67,7 +67,6 @@ This no-narration video walkthrough demonstrates Windows account policy manageme
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

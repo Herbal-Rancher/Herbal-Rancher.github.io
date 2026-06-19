@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Configure Client Addressing for DHCP"
 lab_title: "Configure Client Addressing for DHCP"
 
-lesson: "6.0"
+lesson: "3.0"
 lesson_id: "06.02.10"
 sort_order: "060210"	
 
@@ -72,8 +72,7 @@ The video walkthrough focuses on automatic IP configuration, DHCP communication,
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

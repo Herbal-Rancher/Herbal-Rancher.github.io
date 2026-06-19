@@ -3,7 +3,7 @@ layout: post
 title: "Security | Scan Using Zenmap"
 lab_title: "Scan Using Zenmap"
 
-lesson: "8.0"
+lesson: "4.0"
 lesson_id: "08.02.08"
 sort_order: "080208"
 
@@ -137,8 +137,7 @@ Part of my ongoing CompTIA Network+ learning journey focused on networking, trou
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

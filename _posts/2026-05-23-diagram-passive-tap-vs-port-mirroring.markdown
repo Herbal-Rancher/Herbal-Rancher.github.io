@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure | Passive TAP vs Port Mirroring"
 lab_title: "Passive TAP vs Port Mirroring"
 
-lesson: "8.0"
+lesson: "4.0"
 lesson_id: "08.02.00"
 sort_order: "080200"
 
@@ -78,8 +78,7 @@ I wanted to understand the differences between passive taps and port mirroring f
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Bible Study](/network-portfolio/Bible-Study/)

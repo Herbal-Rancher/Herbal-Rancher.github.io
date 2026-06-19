@@ -3,7 +3,7 @@ layout: post
 title: "Security | Poison ARP and Analyze with Wireshark"
 lab_title: "Poison ARP and Analyze with Wireshark"
 
-lesson: "9.0"
+lesson: "4.0"
 lesson_id: "09.03.07"
 sort_order: 090307
 
@@ -91,8 +91,7 @@ This lab reinforces practical packet analysis and security investigation skills 
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

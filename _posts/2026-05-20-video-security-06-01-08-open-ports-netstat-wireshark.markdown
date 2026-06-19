@@ -3,7 +3,7 @@ layout: post
 title: "Security | View Open Ports with Netstat and Wireshark"
 lab_title: "View Open Ports with Netstat and Wireshark"
 
-lesson: "6.0"
+lesson: "4.0"
 lesson_id: "06.01.08"
 sort_order: "060108"
 
@@ -71,8 +71,7 @@ This no-narration video walkthrough demonstrates how to identify open ports and 
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

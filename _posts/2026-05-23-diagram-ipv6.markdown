@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | IPv6 Study Diagram"
 lab_title: "IPv6 Study Diagram"
 
-lesson: "13.0"
+lesson: "2.0"
 lesson_id: "13.01.00"
 sort_order: "130100"
 
@@ -80,8 +80,7 @@ IPv6 has been difficult for me, so I requested a diagram to help organize the ma
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Bible Study](/network-portfolio/Bible-Study/)

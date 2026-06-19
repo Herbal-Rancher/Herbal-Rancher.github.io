@@ -3,7 +3,7 @@ layout: post
 title: "Security | Scan for Web Services with Nmap"
 lab_title: "Scan for Web Services with Nmap"
 
-lesson: "7.0"
+lesson: "4.0"
 lesson_id: "07.02.08"
 sort_order: "070208"
 
@@ -167,8 +167,7 @@ This lab is part of my CompTIA Network+ learning journey as I continue building 
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

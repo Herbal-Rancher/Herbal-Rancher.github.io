@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure | Secure Access to a Switch 2"
 lab_title: "Secure Access to a Switch 2"
 
-lesson: "10.0"
+lesson: "3.0"
 lesson_id: "10.04.03"
 sort_order: "100403"	
 
@@ -67,8 +67,7 @@ This no-narration video walkthrough demonstrates secure access configuration tec
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

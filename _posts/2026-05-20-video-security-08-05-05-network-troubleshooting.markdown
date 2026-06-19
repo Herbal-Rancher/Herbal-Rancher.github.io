@@ -3,7 +3,7 @@ layout: post
 title: "Security | Wireshark Network Troubleshooting"
 lab_title: "Wireshark Network Troubleshooting"
 
-lesson: "8.0"
+lesson: "3.0"
 lesson_id: "08.05.05"
 sort_order: 080505
 
@@ -75,8 +75,7 @@ The video walkthrough focuses on identifying connectivity issues, analyzing capt
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

@@ -3,7 +3,7 @@ layout: post
 title: "Technical Communication | Portfolio Publishing Guide"
 lab_title: "Portfolio Publishing Guide"
 
-lesson: "TC.01" 
+lesson: "1.0" 
 lesson_id: "01.01.00"
 sort_order: "010100"
 
@@ -507,8 +507,7 @@ Consistent metadata enables the portfolio to scale while remaining organized, se
 
 * **[HOME](/)**
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

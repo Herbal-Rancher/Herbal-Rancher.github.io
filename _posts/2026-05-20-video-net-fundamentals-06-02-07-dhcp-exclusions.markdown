@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Create DHCP Exclusions"
 lab_title: "Create DHCP Exclusions"
 
-lesson: "6.0"
+lesson: "3.0"
 lesson_id: "06.02.07"
 sort_order: "060207"
 
@@ -72,8 +72,7 @@ The video walkthrough focuses on preventing specific IP addresses from being aut
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

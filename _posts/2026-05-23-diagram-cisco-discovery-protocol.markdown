@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure | Cisco Discovery Protocol"
 lab_title: "Cisco Discovery Protocol"
 
-lesson: "13.0"
+lesson: "2.0"
 lesson_id: "13.02.00"
 sort_order: "130200"
 
@@ -77,8 +77,7 @@ I was unsure what information CDP can and cannot report, so I used a visual expl
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

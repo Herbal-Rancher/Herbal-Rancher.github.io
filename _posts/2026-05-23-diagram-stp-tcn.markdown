@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure | Spanning Tree Protocol: Topology Change Notification"
 lab_title: "Spanning Tree Protocol: Topology Change Notification"
 
-lesson: "8.0"
+lesson: "3.0"
 lesson_id: "08.01.00"
 sort_order: "080100"
 
@@ -79,8 +79,7 @@ I needed a clearer visual explanation of what happens when a topology change not
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Bible Study](/network-portfolio/Bible-Study/)

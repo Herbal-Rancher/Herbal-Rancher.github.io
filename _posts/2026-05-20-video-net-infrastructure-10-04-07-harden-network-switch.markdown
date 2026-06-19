@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure | Harden a Switch"
 lab_title: "Harden a Switch"
 
-lesson: "10.0"
+lesson: "3.0"
 lesson_id: "10.04.07"
 sort_order: "100407"	
 
@@ -56,8 +56,7 @@ This no-narration video walkthrough demonstrates switch hardening techniques use
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

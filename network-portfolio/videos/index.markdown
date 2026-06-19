@@ -32,9 +32,13 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 {% if category_posts.size > 0 %}
 {% assign category_display = category_posts | map: "category_display" | compact | first %}
 
-# {{ category_display | default: category_key }}
+<h1 style="border-bottom: 3px solid #ddd; padding-bottom: .35rem; margin-top: 2.5rem;">
+  {{ category_display | default: category_key }}
+</h1>
 
-**Total Posts: {{ category_posts.size }}**
+<p><strong>Total Videos Completed:</strong> {{ category_posts.size }}</p>
+
+<div style="margin-left: 1.5rem; margin-top: 1.5rem; padding-left: 1rem; border-left: 3px solid #e5e5e5;">
 
 {% assign subcategory_keys = category_posts | map: "subcategory" | uniq | compact %}
 
@@ -42,7 +46,8 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 {% assign subcategory_posts = category_posts | where: "subcategory", subcategory_key %}
 {% assign subcategory_display = subcategory_posts | map: "subcategory_display" | compact | first %}
 
-## {{ subcategory_display | default: subcategory_key }}
+<h2 style="margin-bottom: .25rem;">
+  {{ subcategory_display | default: subcategory_key }}: </h2><strong>{{ subcategory_posts.size }}</strong> Deliverables Completed
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; margin: 18px 0 30px;">
 
@@ -83,9 +88,8 @@ Missing video URL
 </div>
 
 {% endfor %}
-
+</div>
 ---
-
 {% endif %}
 {% endfor %}
 
@@ -99,7 +103,6 @@ Missing video URL
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

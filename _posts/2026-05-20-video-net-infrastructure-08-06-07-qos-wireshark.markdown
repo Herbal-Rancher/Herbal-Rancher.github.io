@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure | Configure QoS and Analyze Traffic with Wireshark"
 lab_title: "Configure QoS and Analyze Traffic with Wireshark"
 
-lesson: "8.0"
+lesson: "3.0"
 lesson_id: "08.06.07"
 sort_order: "080607"
 
@@ -72,8 +72,7 @@ This no-narration video walkthrough demonstrates Quality of Service (QoS) config
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

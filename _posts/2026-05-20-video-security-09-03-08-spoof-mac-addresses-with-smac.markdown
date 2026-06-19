@@ -3,7 +3,7 @@ layout: post
 title: "Security | Spoof MAC Addresses with SMAC"
 lab_title: "Spoof MAC Addresses with SMAC"
 
-lesson: "9.0"
+lesson: "4.0"
 lesson_id: "09.03.08"
 sort_order: 090308
 
@@ -91,8 +91,7 @@ This lab provides hands-on experience with a common security technique used in b
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

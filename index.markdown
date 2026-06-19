@@ -31,7 +31,9 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 
 This section organizes my hands-on CompTIA Network+ studies into topic areas and skill paths. Labs include TestOut exercises, Cisco networking concepts, troubleshooting scenarios, security analysis, packet captures, remote administration, and technical documentation.
 
-[View the full video gallery](/network-portfolio/videos/)
+  * **[View Video Walkthroughs](/network-portfolio/videos/)**
+  * **[View Study Diagrams](/network-portfolio/study-diagrams/)**
+  * **[Check out Behind the Portfolio](/network-portfolio/behind-the-portfolio/)**
 
 ---
 ---
@@ -53,7 +55,7 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
   {{ category_display | default: category_key }}
 </h1>
 
-<p><strong>Labs Completed:</strong> {{ category_posts.size }}</p>
+<p><strong>Deliverables Completed:</strong> {{ category_posts.size }}</p>
 
 {% assign subcategory_keys = category_posts | map: "subcategory" | uniq | compact %}
 
@@ -65,10 +67,7 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
 <div style="margin-left: 1.75rem; margin-top: 1.5rem; padding-left: 1rem; border-left: 3px solid #e5e5e5;">
 
 <h2 style="margin-bottom: .25rem;">
-  {{ subcategory_display | default: subcategory_key }}
-</h2>
-
-<p><strong>Labs Completed:</strong> {{ subcategory_posts.size }}</p>
+  {{ subcategory_display | default: subcategory_key }}: </h2><strong>{{ subcategory_posts.size }}</strong> Deliverables Completed
 
 <ul>
 {% for post in subcategory_posts %}
@@ -138,7 +137,6 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
 * **[HOME](/)**
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

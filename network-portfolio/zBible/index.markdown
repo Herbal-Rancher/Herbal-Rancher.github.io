@@ -15,7 +15,6 @@ This project is part of my lifelong learning portfolio. My goal is to document m
 
 To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [Behind the Portfolio](/network-portfolio/behind-the-portfolio/) page.
 
-
 ---
 ---
 ---
@@ -28,8 +27,6 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 {% for testament_key in testament_keys %}
 {% assign testament_posts = bible_posts | where: "subcategory", testament_key %}
 {% assign testament_display = testament_posts | map: "subcategory_display" | compact | first %}
-
-
 
 <h2 style="border-bottom: 3px solid #ddd; padding-bottom: .35rem; margin-top: 2.5rem;">
   {{ testament_display | default: testament_key }}
@@ -55,9 +52,6 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 {% assign book_display = book_posts | map: "book_display" | compact | first %}
 
 <div style="margin-left: 1.25rem; margin-top: 1rem; padding-left: 1rem; border-left: 2px solid #eee;">
-
-
-
 <ul>
 {% for post in book_posts %}
   <li>
@@ -94,7 +88,6 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * **[BIBLE STUDY](/network-portfolio/Bible-Study/)**

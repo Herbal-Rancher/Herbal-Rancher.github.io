@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Fiber Optic Connectors: ST vs FC"
 lab_title: "Fiber Optic Connectors: ST vs FC"
 
-lesson: "12.0"
+lesson: "4.0"
 lesson_id: "12.04.00"
 sort_order: "120400"
 
@@ -79,8 +79,7 @@ I wanted to better understand the differences between ST and FC fiber optic conn
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
-  * [Lab Walkthroughs](/network-portfolio/labs/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Bible Study](/network-portfolio/Bible-Study/)
