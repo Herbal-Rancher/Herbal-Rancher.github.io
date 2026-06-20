@@ -8,19 +8,6 @@ nav_exclude: true
 ---
 ---
 
-# Formative Lessons
-
-This section captures the **core concepts, theories, and foundational knowledge** I am developing throughout my IT coursework.
-
-Each module represents a key learning milestone and is supported by related hands-on labs.
-
-This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
-To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [Behind the Portfolio](/network-portfolio/behind-the-portfolio/) page.
-
----
----
----
-
 
 # Formative Lessons
 
@@ -31,6 +18,7 @@ Each module represents a key learning milestone supported by related discussions
 This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
 To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [Behind the Portfolio](/network-portfolio/behind-the-portfolio/) page.
 
+---
 
 ## Purpose
 

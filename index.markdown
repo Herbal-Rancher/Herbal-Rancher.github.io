@@ -12,13 +12,15 @@ Welcome to my technical portfolio. I'm an IT student at Calbright College focuse
 
 Explore my **[NETWORK+ PORTFOLIO](/network-portfolio/)**, where I share my networking development journey through structured modules, projects, lab labs, and applied problem-solving.
 
-Here I share my Artificial Intelligence (AI) driven, specifically ChatGPT and Visual Studio, network content deep dive diagrams in my **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)** page, which visually break down complex concepts and workflows.
+Here I share my Artificial Intelligence (AI) driven, specifically ChatGPT and Visual Studio, network content deep dive diagrams in my **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)** 
+page, which visually breaks down complex concepts and workflows, or take a step by step walkthrough of network concepts in action in my **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)** page, 
+where I provide narration free videos of my hands-on labs and projects, sharing insights, challenges, and solutions in real-time.
 
 Alongside my technical journey, I am also engaged in a personal study of the Bible (the Torah - 1st Testament and the New Testament - 2nd Testament). You can follow that progress in my **[BIBLE STUDY](/bible-study/)** posts, beginning with Genesis and continuing book by book.
 
 
 This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
-To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [Behind the Portfolio](/network-portfolio/behind-the-portfolio/) page.
+To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my evolving **[BEHIND THE PORTFOLIO](/network-portfolio/behind-the-portfolio/)** page.
 
 ***Shall we journey together?***
 
@@ -30,10 +32,6 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 # Network+ Learning Journey
 
 This section organizes my hands-on CompTIA Network+ studies into topic areas and skill paths. Labs include TestOut exercises, Cisco networking concepts, troubleshooting scenarios, security analysis, packet captures, remote administration, and technical documentation.
-
-  * **[View Video Walkthroughs](/network-portfolio/videos/)**
-  * **[View Study Diagrams](/network-portfolio/study-diagrams/)**
-  * **[Check out Behind the Portfolio](/network-portfolio/behind-the-portfolio/)**
 
 ---
 ---

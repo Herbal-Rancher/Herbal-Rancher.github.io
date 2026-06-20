@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Linux Static IP Configuration and Connectivity Testing"
 lab_title: "Linux Static IP Configuration and Connectivity Testing"
 
-lesson: "4.0"
+lesson: "4c.0"
 lesson_id: "04.02.11"
 sort_order: "040211"
 
@@ -179,7 +179,7 @@ Static addressing requires accurate configuration of the IP address, subnet mask
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

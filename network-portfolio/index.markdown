@@ -38,9 +38,6 @@ The portfolio is organized into four primary sections that connect theory, visua
   * Concept-focused learning that captures key ideas, definitions, foundational knowledge, networking theories, security principles, and infrastructure concepts developed throughout my studies.
   * Each module is reinforced through related hands-on labs and walkthroughs to strengthen practical understanding and long-term retention.
 
-* **[Lab Walkthroughs](/network-portfolio/labs/)**  
-  * Step-by-step documentation of lab activities, device configurations, command usage, troubleshooting methods, and implementation procedures demonstrating the practical application of networking concepts.
-
 * **[Video Walkthroughs](/network-portfolio/videos/)**  
   * No-audio video demonstrations documenting lab execution, Wireshark analysis, PowerShell management, switch configuration, DHCP implementation, troubleshooting, and other networking activities completed throughout the learning process.
 

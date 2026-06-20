@@ -91,7 +91,8 @@ This lab provides hands-on experience with a common security technique used in b
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Lessons](/network-portfolio/formative-lessons/)
+
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

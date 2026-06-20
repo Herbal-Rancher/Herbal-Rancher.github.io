@@ -15,6 +15,37 @@ This page contains no-narration video walkthroughs documenting networking labs, 
 This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
 To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [Behind the Portfolio](/network-portfolio/behind-the-portfolio/) page.
 
+
+
+<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
+
+---
+---
+---
+
+Videos that display the Under Construction thumbnail are pending edits and will be completed in the future. 
+
+
+<div style="text-align:center; margin: 30px 0;">
+
+  <a href="/assets/images/Under-Construction-icon.png" target="_blank">
+
+    <img
+      src="/assets/images/Under-Construction-icon.png"
+      alt="Under Construction"
+      style="
+        width:40%;
+        max-width:200px;
+        min-width:150px;
+        border-radius:12px;
+        box-shadow:0 2px 10px rgba(0,0,0,0.15);
+    "
+    >
+
+  </a>
+
+</div>
+
 ---
 ---
 ---
