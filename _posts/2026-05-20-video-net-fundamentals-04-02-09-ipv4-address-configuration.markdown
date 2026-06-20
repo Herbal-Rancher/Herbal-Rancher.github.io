@@ -50,9 +50,9 @@ permalink: /portfolio/videos/ipv4-address-configuration/
 
 status: complete
 
-video_id: "REPLACE_WITH_YOUTUBE_ID"
-video_url: "REPLACE_WITH_YOUTUBE_URL"
-thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
+video_id: "JuGv2zod9ow"
+video_url: "https://youtu.be/JuGv2zod9ow"
+thumbnail: "https://img.youtube.com/vi/JuGv2zod9ow/hqdefault.jpg"
 
 date: 2026-06-19 20:00:00 -0700
 last_updated: 2026-06-19 20:00:00 -0700

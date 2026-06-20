@@ -1,9 +1,10 @@
 ---
+
 layout: post
 title: "Networking Fundamentals | Linux Static IP Configuration and Connectivity Testing"
 lab_title: "Linux Static IP Configuration and Connectivity Testing"
 
-lesson: "4c.0"
+lesson: "4.0"
 lesson_id: "04.02.11"
 sort_order: "040211"
 
@@ -19,12 +20,12 @@ content_type: video
 content_type_display: Video
 
 tags:
-  - linux
-  - static-ip
-  - tcp-ip
-  - dns
-  - gateway
-  - network-configuration
+- linux
+- static-ip
+- tcp-ip
+- dns
+- gateway
+- network-configuration
 
 permalink: /network-portfolio/videos/linux-static-ip-configuration/
 status: complete
@@ -34,41 +35,36 @@ video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
 thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 topics:
-  - static-ip-addressing
-  - dns-configuration
-  - gateway-configuration
-  - connectivity-testing
-  - linux-networking
+
+- static-ip-addressing
+- dns-configuration
+- gateway-configuration
+- connectivity-testing
+- linux-networking
 
 tools:
-  - Linux
-  - Terminal
-  - Ping
+
+- Linux
+- Terminal
+- Ping
+- Nano
+- NetworkManager
 
 protocols:
-  - IPv4
-  - ICMP
-  - DNS
+
+- IPv4
+- ICMP
+- DNS
 
 ---
 
 ## Overview
 
-The activity focuses on assigning a static IP address, configuring DNS servers, defining a default gateway, and validating connectivity using common network troubleshooting tools.
+This walkthrough demonstrates how to manually configure IPv4 networking on a Linux workstation and verify communication with local and external network resources.
 
 <!--more-->
 
-The linked, no-narration video walkthrough, visuallydemonstrates how to manually configure IPv4 networking on a Linux workstation and verify communication with local and external resources.
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width: 420px; border-radius: 8px;">
-</a>
+The activity focuses on assigning a static IP address, configuring DNS servers, defining a default gateway, removing automatic address assignment, and validating connectivity using common Linux networking commands.
 
 ---
 
@@ -85,72 +81,136 @@ The linked, no-narration video walkthrough, visuallydemonstrates how to manually
 
 ### DNS Configuration
 
-Primary DNS:
-
-163.128.78.93
-
-Secondary DNS:
-
-163.128.80.93
+| Setting       | Value         |
+| ------------- | ------------- |
+| Primary DNS   | 163.128.78.93 |
+| Secondary DNS | 163.128.80.93 |
 
 ---
 
-## Configuration Process
+## Linux Static IPv4 Configuration Example
 
-1. Open the network interface configuration for the `enp2s0` adapter.
-2. Remove any automatic address assignment settings.
-3. Configure a static IPv4 address.
-4. Configure the subnet mask and broadcast address.
-5. Configure the default gateway.
-6. Configure primary and secondary DNS servers.
-7. Save the configuration.
-8. Restart or reload the network interface.
+The network interface can be configured by editing the interface configuration file for the `enp2s0` adapter.
+
+### Open the Network Configuration File
+
+```bash
+sudo nano /etc/sysconfig/network-scripts/ifcfg-enp2s0
+```
+
+---
+
+## Example Static Configuration
+
+The configuration should remove automatic DHCP assignment and define the static TCP/IP settings manually.
+
+```bash
+TYPE=Ethernet
+BOOTPROTO=none
+NAME=enp2s0
+DEVICE=enp2s0
+ONBOOT=yes
+
+IPADDR=192.168.0.254
+NETMASK=255.255.255.0
+BROADCAST=192.168.0.255
+GATEWAY=192.168.0.5
+
+DNS1=163.128.78.93
+DNS2=163.128.80.93
+```
+
+---
+
+## Restart Networking
+
+After saving the file, restart the network service or reload NetworkManager.
+
+```bash
+sudo systemctl restart NetworkManager
+```
+
+---
+
+## Verify Interface Configuration
+
+Use the following command to confirm that the interface has the correct IPv4 settings.
+
+```bash
+ip addr show enp2s0
+```
+
+---
+
+## Verify Routing
+
+Use the routing table to confirm that the default gateway is configured correctly.
+
+```bash
+ip route
+```
+
+The default route should point toward:
+
+```text
+192.168.0.5
+```
 
 ---
 
 ## Connectivity Validation
 
-After applying the configuration, verify network communication.
+After applying the configuration, verify local connectivity, external connectivity, and DNS name resolution.
 
 ### Verify Local Network Connectivity
 
-Test communication with the default gateway:
+Test communication with the default gateway.
 
 ```bash
 ping 192.168.0.5
 ```
 
-Expected Result:
+Expected result:
 
-The workstation should successfully communicate with the local network gateway.
+* Successful replies confirm communication with the local network gateway.
 
 ---
 
 ### Verify Internet Connectivity
 
-Test communication with an external DNS server:
+Test communication with an external DNS server.
 
 ```bash
 ping 163.128.78.93
 ```
 
-Expected Result:
+Expected result:
 
-The workstation should successfully communicate with an external internet host.
+* Successful replies confirm external network access.
 
 ---
 
 ### Verify DNS Resolution
 
-Test name resolution using an external website:
+Test name resolution using an external website.
 
 ```bash
 ping www.corpnet.xyz
 ```
 
-Expected Result:
+Expected result:
 
-The hostname should successfully resolve to an IP address and return responses.
+* The hostname should resolve to an IP address and return successful replies.
+
+---
+
+## Commands Demonstrated
+
+* `nano`
+* `systemctl restart NetworkManager`
+* `ip addr show`
+* `ip route`
+* `ping`
 
 ---
 
@@ -163,13 +223,25 @@ The hostname should successfully resolve to an IP address and return responses.
 * Connectivity Testing
 * Network Troubleshooting
 * TCP/IP Fundamentals
+* Command-Line Administration
+
+---
+
+## Video Walkthrough
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width: 420px; border-radius: 8px;">
+</a>
 
 ---
 
 ## Key Takeaways
 
-Static addressing requires accurate configuration of the IP address, subnet mask, gateway, and DNS servers. Successful communication with the gateway, external hosts, and domain names confirms that local networking, routing, and DNS services are functioning correctly.
+Static addressing requires accurate configuration of the IP address, subnet mask, broadcast address, default gateway, and DNS servers.
 
+Successful communication with the gateway confirms local network connectivity. Successful communication with an external DNS server confirms routed network access. Successful communication with a hostname confirms that DNS resolution is functioning correctly.
 
 ---
 ---
