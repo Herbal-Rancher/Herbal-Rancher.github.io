@@ -94,80 +94,79 @@ The network interface can be configured by editing the interface configuration f
 
 ### Open the Network Configuration File
 
+View the current IP address configuration before editing the file then open the file to edit the configuration.
 ```bash
-sudo nano /etc/sysconfig/network-scripts/ifcfg-enp2s0
+root@IT-Laptop:~# ip addr show
+root@IT-Laptop:~# cd /etc/sysconfig/network-scripts/
+root@IT-Laptop:~# nano ifcfg-enp2s0
 ```
 
 ---
 
-## Example Static Configuration
+## Example Static IP Configuration
+The current configuration may look similar to the following, which includes automatic DHCP assignment.
+
+```bash
+# Realtek 8169
+DEVICE=enp2s0
+BOOTPROTO=dhcp
+HWADDR=00:60:98:7f:41:e3
+ONBOOT=yes
+```
 
 The configuration should remove automatic DHCP assignment and define the static TCP/IP settings manually.
 
 ```bash
-TYPE=Ethernet
-BOOTPROTO=none
-NAME=enp2s0
+# Realtek 8169
 DEVICE=enp2s0
+HWADDR=00:60:98:7f:41:e3
 ONBOOT=yes
 
 IPADDR=192.168.0.254
 NETMASK=255.255.255.0
 BROADCAST=192.168.0.255
 GATEWAY=192.168.0.5
+BOOTPROTO=none
+```
+---
 
+## Example Static DNS Configuration
+Open the DNS configuration file and add the DNS server addresses.
+```bash
+root@IT-Laptop:~# cd /etc/
+root@IT-Laptop:~# nano resolv.conf
+```
+Modify the file to include the following DNS server addresses.
+```bash
 DNS1=163.128.78.93
 DNS2=163.128.80.93
 ```
-
 ---
 
-## Restart Networking
+## Restart Network Interface
 
 After saving the file, restart the network service or reload NetworkManager.
 
 ```bash
-sudo systemctl restart NetworkManager
-```
-
----
-
-## Verify Interface Configuration
-
-Use the following command to confirm that the interface has the correct IPv4 settings.
-
-```bash
-ip addr show enp2s0
-```
-
----
-
-## Verify Routing
-
-Use the routing table to confirm that the default gateway is configured correctly.
-
-```bash
-ip route
-```
-
-The default route should point toward:
-
-```text
-192.168.0.5
+root@IT-Laptop:~# ip link set enp2s0 down
+root@IT-Laptop:~# ip link set enp2s0 up
 ```
 
 ---
 
 ## Connectivity Validation
 
-After applying the configuration, verify local connectivity, external connectivity, and DNS name resolution.
+After applying the configuration, verify configuration, local connectivity, external connectivity, and DNS name resolution.
 
-### Verify Local Network Connectivity
+### Verify Interface Configuration and Local Network Connectivity
 
+```bash
+root@IT-Laptop:~# ip addr show
+```
 Test communication with the default gateway.
 
 ```bash
-ping 192.168.0.5
+root@IT-Laptop:~# ping -c4 192.168.0.5
 ```
 
 Expected result:
@@ -181,7 +180,7 @@ Expected result:
 Test communication with an external DNS server.
 
 ```bash
-ping 163.128.78.93
+root@IT-Laptop:~# ping -c4163.128.78.93
 ```
 
 Expected result:
@@ -195,7 +194,7 @@ Expected result:
 Test name resolution using an external website.
 
 ```bash
-ping www.corpnet.xyz
+root@IT-Laptop:~# ping -c4 www.corpnet.xyz
 ```
 
 Expected result:
@@ -206,11 +205,12 @@ Expected result:
 
 ## Commands Demonstrated
 
-* `nano`
-* `systemctl restart NetworkManager`
 * `ip addr show`
-* `ip route`
-* `ping`
+* `cd /etc/sysconfig/network-scripts/`
+* `nano`
+* `ip link set enp2s0 down`
+* `ip link set enp2s0 up`
+* `ping -c4`
 
 ---
 
@@ -224,6 +224,7 @@ Expected result:
 * Network Troubleshooting
 * TCP/IP Fundamentals
 * Command-Line Administration
+* Configuration IP Addresses on Linux
 
 ---
 
