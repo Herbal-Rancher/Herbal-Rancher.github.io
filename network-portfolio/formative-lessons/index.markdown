@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /network-portfolio/formative-Modules/
-nav_exclude: true
+permalink: /network-portfolio/formative-modules/
+nav_exclude: true/network-portfolio/formative-modules/
 date: 2026-04-01 10:00:00 -0700
 ---
 
