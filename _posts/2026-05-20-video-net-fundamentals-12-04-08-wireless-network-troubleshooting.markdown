@@ -180,7 +180,7 @@ Effective wireless troubleshooting starts by comparing a working device to a non
 
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-* [Bible Study](/network-portfolio/Bible-Study/)
+* [Bible Study](/network-portfolio/bible-study/)
 * [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---

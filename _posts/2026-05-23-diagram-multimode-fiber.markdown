@@ -81,7 +81,7 @@ I wanted a comparison-style visual to understand multimode fiber and how it diff
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
-* [Bible Study](/network-portfolio/Bible-Study/)
+* [Bible Study](/network-portfolio/bible-study/)
 * [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---

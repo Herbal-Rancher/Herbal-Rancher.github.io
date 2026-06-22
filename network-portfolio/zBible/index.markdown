@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bible Study"
-permalink: /network-portfolio/Bible-Study/
+permalink: /network-portfolio/bible-study/
 date: 2026-04-01 10:00:00 -0700
 ---
 
@@ -91,7 +91,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-* **[BIBLE STUDY](/network-portfolio/Bible-Study/)**
+* **[BIBLE STUDY](/network-portfolio/bible-study/)**
 * [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---

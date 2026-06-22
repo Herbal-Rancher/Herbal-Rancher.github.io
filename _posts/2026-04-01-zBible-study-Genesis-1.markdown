@@ -185,7 +185,7 @@ I’m learning that slowing down isn’t falling behind ... it’s how I can beg
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-* **[BIBLE STUDY](/network-portfolio/Bible-Study/)**
+* **[BIBLE STUDY](/network-portfolio/bible-study/)**
 * [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
