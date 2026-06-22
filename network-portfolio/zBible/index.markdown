@@ -2,6 +2,7 @@
 layout: page
 title: "Bible Study"
 permalink: /network-portfolio/Bible-Study/
+date: 2026-04-01 10:00:00 -0700
 ---
 
 ---

@@ -16,7 +16,7 @@ Here I share my Artificial Intelligence (AI) driven, specifically ChatGPT and Vi
 page, which visually breaks down complex concepts and workflows, or take a step by step walkthrough of network concepts in action in my **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)** page, 
 where I provide narration free videos of my hands-on labs and projects, sharing insights, challenges, and solutions in real-time.
 
-Alongside my technical journey, I am also engaged in a personal study of the Bible (the Torah - 1st Testament and the New Testament - 2nd Testament). You can follow that progress in my **[BIBLE STUDY](/bible-study/)** posts, beginning with Genesis and continuing book by book.
+Alongside my technical journey, I am also engaged in a personal study of the Bible (the Torah - 1st Testament and the New Testament - 2nd Testament). You can follow that progress in my **[BIBLE STUDY](/network-portfolio/bible-study/)** posts, beginning with Genesis and continuing book by book.
 
 
 This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
