@@ -8,124 +8,43 @@ ___
 ___
 ___
 
-Welcome to my technical portfolio. I'm an IT student at Calbright College focused on building practical networking skills through Network+ studies and hands-on coursework.
+Welcome to my technical portfolio.
 
-Explore my **[NETWORK+ PORTFOLIO](/network-portfolio/)**, where I share my networking development journey through structured modules, projects, lab labs, and applied problem-solving.
+I'm an Information Technology student at Calbright College, documenting my journey through networking, cybersecurity, and lifelong learning. This site serves as both a study resource and a record of the knowledge, skills, and experience I gain along the way.
 
-Here I share my Artificial Intelligence (AI) driven, specifically ChatGPT and Visual Studio, network content deep dive diagrams in my **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)** 
-page, which visually breaks down complex concepts and workflows, or take a step by step walkthrough of network concepts in action in my **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)** page, 
-where I provide narration free videos of my hands-on labs and projects, sharing insights, challenges, and solutions in real-time.
+## Professional Portfolio
 
-Alongside my technical journey, I am also engaged in a personal study of the Bible (the Torah - 1st Testament and the New Testament - 2nd Testament). You can follow that progress in my **[BIBLE STUDY](/network-portfolio/bible-study/)** posts, beginning with Genesis and continuing book by book.
+My professional portfolio documents my journey through networking, cybersecurity, and technology studies as I develop practical skills through coursework, labs, projects, and hands-on troubleshooting.
 
+The **[NETWORK+ PORTFOLIO](/network-portfolio/)** currently serves as the foundation of this journey and will expand to include future cybersecurity studies and certification preparation.
 
-This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
-To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my evolving **[BEHIND THE PORTFOLIO](/network-portfolio/behind-the-portfolio/)** page.
+Within the portfolio, you'll find:
+
+* **[FORMATIVE MODULES](/network-portfolio/formative-modules/)** — Coursework, learning activities, and competency-based exercises completed throughout my studies.
+* **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)** — AI-assisted visual resources that simplify networking concepts, protocols, architectures, and troubleshooting workflows.
+* **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)** — Narration-free demonstrations of labs, Packet Tracer activities, troubleshooting exercises, and technical projects.
+
+## Personal Learning Portfolio
+
+Learning extends beyond technology. My personal portfolio documents areas of study that inspire personal growth, critical thinking, and lifelong learning.
+
+Currently, this includes my **[BIBLE STUDY](/bible-study/)** journey, where I explore Scripture beginning with Genesis and continuing through both the Old and New Testaments.
+
+Future additions will include my investing and stock market studies as I continue expanding my knowledge in new areas.
+
+## Why This Site Exists
+
+This portfolio is my way of organizing what I learn, tracking my progress, and sharing resources that may help others pursuing similar paths in technology, faith, or lifelong learning.
+
+My goal is to build the knowledge and hands-on skills needed to successfully earn the CompTIA Network+ and CompTIA Security+ certifications while developing practical networking and cybersecurity experience.
+
+The Network+ Portfolio follows my progress through the Calbright College program, where I document coursework, labs, projects, and study resources as I work toward those goals.
+
+If you're a California resident interested in technology careers, you may also want to explore Calbright's **[Network Technology Program](https://www.calbright.edu/programs/network-technology/)** and **[Cybersecurity Program](https://www.calbright.edu/programs/cybersecurity/)** and other online, competency-based learning opportunities.
+
+To learn more about me, my learning philosophy, use of AI tools, and creative projects, visit the **[BEHIND THE PORTFOLIO](/about/)** page.
 
 ***Shall we journey together?***
-
----
----
----
-<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
-
-# Network+ Learning Journey
-
-This section organizes my hands-on CompTIA Network+ studies into topic areas and skill paths. Labs include TestOut exercises, Cisco networking concepts, troubleshooting scenarios, security analysis, packet captures, remote administration, and technical documentation.
-
----
----
----
-
-{% assign posts = site.posts %}
-{% assign category_order = "networking-fundamentals|infrastructure|security|systems-administration|technical-communication" | split: "|" %}
-
-
-{% for category_key in category_order %}
-{% assign category_posts = posts | where: "category", category_key %}
-
-{% if category_posts.size > 0 %}
-{% assign category_display = category_posts | map: "category_display" | compact | first %}
-
-
-
-<h1 style="border-bottom: 3px solid #ddd; padding-bottom: .35rem; margin-top: 2.5rem;">
-  {{ category_display | default: category_key }}
-</h1>
-
-<p><strong>Deliverables Completed:</strong> {{ category_posts.size }}</p>
-
-{% assign subcategory_keys = category_posts | map: "subcategory" | uniq | compact %}
-
-{% for subcategory_key in subcategory_keys %}
-{% assign subcategory_posts = category_posts | where: "subcategory", subcategory_key %}
-{% assign subcategory_display = subcategory_posts | map: "subcategory_display" | compact | first %}
-
-
-<div style="margin-left: 1.75rem; margin-top: 1.5rem; padding-left: 1rem; border-left: 3px solid #e5e5e5;">
-
-<h2 style="margin-bottom: .25rem;">
-  {{ subcategory_display | default: subcategory_key }}: </h2><strong>{{ subcategory_posts.size }}</strong> Deliverables Completed
-
-<ul>
-{% for post in subcategory_posts %}
-  <li>
-    ✓ <a href="{{ post.url | relative_url }}">
-      {% if post.lesson_id %}
-        {{ post.lesson_id }} {{post.content_type_display }}: {{ post.lab_title }}
-      {% else %}
-        {{ post.title }}
-      {% endif %}
-    </a>
-  </li>
-{% endfor %}
-</ul>
-
-{% assign all_topics = "" | split: "" %}
-
-{% for post in subcategory_posts %}
-{% if post.topics %}
-{% assign all_topics = all_topics | concat: post.topics %}
-{% endif %}
-{% endfor %}
-
-{% assign unique_topics = all_topics | uniq | sort %}
-
-{% if unique_topics.size > 0 %}
-
-<p><strong>Skills Practiced:</strong> [
-{% for topic in unique_topics %}
-  {{ topic | replace: "-", " " | capitalize }},
-{% endfor %}
-] </p>
-{% endif %}
-
-{% assign all_tools = "" | split: "" %}
-
-{% for post in subcategory_posts %}
-{% if post.tools %}
-{% assign all_tools = all_tools | concat: post.tools %}
-{% endif %}
-{% endfor %}
-
-{% assign unique_tools = all_tools | uniq | sort %}
-
-{% if unique_tools.size > 0 %}
-
-<p><strong>Tools Used:</strong> [
-{% for tool in unique_tools %}
-  {{ tool | replace: "-", " " }},
-{% endfor %}
-]</p>
-{% endif %}
-
-</div>
-
-{% endfor %}
-
-{% endif %}
-{% endfor %}
-
 
 ---
 ---

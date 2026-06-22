@@ -117,6 +117,30 @@ The portfolio is still growing.
 
 And so am I.
 
+---
+---
+---
+
+## Learning Resources
+
+This portfolio is organized around the **[Calbright College Network Technology](https://www.calbright.edu/programs/network-technology)** curriculum and my preparation for the CompTIA Network+ and Security+ certifications.
+
+### Resources
+
+* [IT532 & IT533 Network Technology Site Map PDF](/assets/docs/IT532-IT533_Introduction-to-Networks-Virtual-Labs-Site-Map.pdf)
+* [Calbright College Network Technology Program](https://www.calbright.edu/programs/network-technology)
+* [Calbright College Cybersecurity Program](https://www.calbright.edu/programs/cybersecurity)
+* [CompTIA Network+ Certification](https://www.comptia.org/en-us/certifications/network/)
+* [CompTIA Security+ Certification](https://www.comptia.org/en-us/certifications/security/)
+
+> *Computing Technology Industry Association (CompTIA)*
+
+### Learning Path
+
+**[Network Technology](https://www.calbright.edu/programs/network-technology) → [Network+](https://www.comptia.org/en-us/certifications/network/) → [Cybersecurity](https://www.calbright.edu/programs/cybersecurity) → [Security+](https://www.comptia.org/en-us/certifications/security/)**
+
+The projects, labs, diagrams, and walkthroughs shared throughout this portfolio reflect my progress along that journey.
+
 
 ---
 ---

@@ -26,59 +26,119 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 ---
 ---
 ---
-<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
 
 ## Learning Structure
 
 This portfolio supports both conceptual learning and practical application by providing a structured framework to document, organize, review, and demonstrate networking technologies and related technical skills.
 
-The portfolio is organized into four primary sections that connect theory, visualization, hands-on practice, troubleshooting, and technical reflection into a progressive learning system.
+The portfolio is organized into three primary sections that connect theory, visualization, hands-on practice, troubleshooting, and technical reflection into a progressive learning system.
 
-* **[Formative Modules](/network-portfolio/formative-modules/)**  
-  * Concept-focused learning that captures key ideas, definitions, foundational knowledge, networking theories, security principles, and infrastructure concepts developed throughout my studies.
-  * Each module is reinforced through related hands-on labs and walkthroughs to strengthen practical understanding and long-term retention.
-
-* **[Video Walkthroughs](/network-portfolio/videos/)**  
-  * No-audio video demonstrations documenting lab execution, Wireshark analysis, PowerShell management, switch configuration, DHCP implementation, troubleshooting, and other networking activities completed throughout the learning process.
-
-* **[Study Diagrams](/network-portfolio/study-diagrams/)**  
-  * AI-assisted visual study aids created to better understand networking concepts, protocols, troubleshooting processes, certification topics, security concepts, routing behavior, switching operations, and infrastructure design patterns.
-  * Many diagrams were created in response to practice exam questions or knowledge gaps requiring deeper visualization and clarification.
-
----
-
-## Calbright SiteMap Organization
-
-This portfolio is structured in alignment with the [CalBright Network Technology Course IT532 & IT533: Introduction to Networks/Virtual Labs  - SiteMap (PDF)](/assets/docs/IT532 & IT533_ Introduction to Networks_Virtual Labs - SiteMap_01.25.pdf). The site map provides a clear progression through course competencies and serves as a framework for organizing both conceptual learning and hands-on lab work.
-
-> *This structure is aligned with the Calbright College Network Technology program site map.*
-
-The [Calbright IT532 and IT533 SiteMap (PDF)](/assets/docs/IT532 & IT533_ Introduction to Networks_Virtual Labs - SiteMap_01.25.pdf) is designed to support student success in the following ways:
-
-* **Follow the Sections in Order**
-  * The curriculum progresses through key networking topics, beginning with foundational Open Systems Interconnections (OSI) Model and ending with Network Monitoring.
-  * The site map is organized by competencies (topics), starting with the Open Systems Interconnection (OSI) Model and ending with Network Monitoring.
-  * Each section contains modules, labs, discussions, and assessments.
-
-* **Check Off Tasks as You Go**
-  * As you move through the modules, use the site map to check off completed activities to stay organized.
-
-* **Prepare for Certification & Next Steps**
-  * First, complete the **[Calbright College Network Technology](https://www.calbright.edu/programs/network-technology)** program, including courses:
-	* IT532 Introduction to Networks​ and
-	* IT533 Introduction to Networks - Virtual Lab
-  * Second, take the **[CompTIA Network+ certification](https://www.comptia.org/en-us/certifications/network/)** exam. 
-  * Third, complete the **[Calbright College Defensive Cyber Security](https://www.calbright.edu/programs/defensive-cybersecurity/)** program, including courses:
-	* IT510 Introduction to Cybersecurity (Security+), and 
-	* IT511 Cybersecurity Analyst (CySA+)
-  * Fourth, take the **[CompTIA Security+ certification](https://www.comptia.org/en-us/certifications/security/)** exam.
-  * Explore new employment opportunities in the IT industry.
-
-> *Computing Technology Industry Association (CompTIA)*
+* **[FORMATIVE MODULES](/network-portfolio/formative-modules/)** — Coursework, learning activities, and competency-based exercises completed throughout my studies.
+* **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)** — AI-assisted visual resources that simplify networking concepts, protocols, architectures, and troubleshooting workflows.
+* **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)** — Narration-free demonstrations of labs, Packet Tracer activities, troubleshooting exercises, and technical projects.
 
 ---
 ---
 ---
+<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
+
+## Network+ Learning Journey
+
+This section organizes my hands-on CompTIA Network+ studies into topic areas and skill paths. Labs include TestOut exercises, Cisco networking concepts, troubleshooting scenarios, security analysis, packet captures, remote administration, and technical documentation.
+
+---
+---
+---
+
+{% assign posts = site.posts %}
+{% assign category_order = "networking-fundamentals|infrastructure|security|systems-administration|technical-communication" | split: "|" %}
+
+
+{% for category_key in category_order %}
+{% assign category_posts = posts | where: "category", category_key %}
+
+{% if category_posts.size > 0 %}
+{% assign category_display = category_posts | map: "category_display" | compact | first %}
+
+
+
+<h1 style="border-bottom: 3px solid #ddd; padding-bottom: .35rem; margin-top: 2.5rem;">
+  {{ category_display | default: category_key }}
+</h1>
+
+<p><strong>Deliverables Completed:</strong> {{ category_posts.size }}</p>
+
+{% assign subcategory_keys = category_posts | map: "subcategory" | uniq | compact %}
+
+{% for subcategory_key in subcategory_keys %}
+{% assign subcategory_posts = category_posts | where: "subcategory", subcategory_key %}
+{% assign subcategory_display = subcategory_posts | map: "subcategory_display" | compact | first %}
+
+
+<div style="margin-left: 1.75rem; margin-top: 1.5rem; padding-left: 1rem; border-left: 3px solid #e5e5e5;">
+
+<h2 style="margin-bottom: .25rem;">
+  {{ subcategory_display | default: subcategory_key }}: </h2><strong>{{ subcategory_posts.size }}</strong> Deliverables Completed
+
+<ul>
+{% for post in subcategory_posts %}
+  <li>
+    ✓ <a href="{{ post.url | relative_url }}">
+      {% if post.lesson_id %}
+        {{ post.lesson_id }} {{post.content_type_display }}: {{ post.lab_title }}
+      {% else %}
+        {{ post.title }}
+      {% endif %}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
+{% assign all_topics = "" | split: "" %}
+
+{% for post in subcategory_posts %}
+{% if post.topics %}
+{% assign all_topics = all_topics | concat: post.topics %}
+{% endif %}
+{% endfor %}
+
+{% assign unique_topics = all_topics | uniq | sort %}
+
+{% if unique_topics.size > 0 %}
+
+<p><strong>Skills Practiced:</strong> [
+{% for topic in unique_topics %}
+  {{ topic | replace: "-", " " | capitalize }},
+{% endfor %}
+] </p>
+{% endif %}
+
+{% assign all_tools = "" | split: "" %}
+
+{% for post in subcategory_posts %}
+{% if post.tools %}
+{% assign all_tools = all_tools | concat: post.tools %}
+{% endif %}
+{% endfor %}
+
+{% assign unique_tools = all_tools | uniq | sort %}
+
+{% if unique_tools.size > 0 %}
+
+<p><strong>Tools Used:</strong> [
+{% for tool in unique_tools %}
+  {{ tool | replace: "-", " " }},
+{% endfor %}
+]</p>
+{% endif %}
+
+</div>
+
+{% endfor %}
+
+{% endif %}
+{% endfor %}
+
 
 ## 🔗 Navigation
 
