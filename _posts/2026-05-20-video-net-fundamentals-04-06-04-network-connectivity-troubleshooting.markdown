@@ -58,172 +58,160 @@ video_url: "REPLACE_WITH_YOUTUBE_URL"
 thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
 ---
 
-
 ## Overview
 
-This walkthrough demonstrates a structured approach to diagnosing and resolving network connectivity issues using Windows networking tools.
+This walkthrough demonstrates the process used to identify a network connectivity issue using IP configuration review, connectivity testing, and route tracing.
 
 <!--more-->
 
-A workstation was able to communicate locally and receive email but could not access internet resources. Using common troubleshooting utilities, the root cause was identified and corrected.
+The objective is to determine where communication is failing and identify the network setting that requires correction.
 
 ---
 
-## Troubleshooting Methodology
+## Network Reference
 
-A systematic troubleshooting process helps isolate problems quickly and efficiently.
+The following devices were available for connectivity testing during this exercise.
 
-1. Verify the reported issue.
-2. Test local connectivity.
-3. Verify IP configuration.
-4. Test gateway communication.
-5. Trace the network path.
-6. Identify the root cause.
-7. Apply corrective action.
-8. Validate connectivity.
+![Network Device Reference](/assets/images/labs/464-ping-tracert-commands-image.png)
 
 ---
 
-## Commands Demonstrated
+## Step 1: Review the Current Configuration
 
-### Display TCP/IP Configuration
+Open PowerShell and review the workstation's TCP/IP settings.
 
 ```powershell
 ipconfig
 ```
 
-Displays:
+Record:
 
-* IPv4 address
-* Subnet mask
-* Default gateway
-* DNS servers
+* IPv4 Address
+* Subnet Mask
+* Default Gateway
+* DNS Server Information
 
 ---
 
-### Test Local Connectivity
+## Step 2: Test Local Network Connectivity
+
+Verify communication with local network resources.
 
 ```powershell
 ping 192.168.0.10
 ```
 
-Tests communication with a local server.
-
----
+```powershell
+ping 192.168.0.30
+```
 
 ```powershell
 ping 192.168.0.31
 ```
 
-Tests communication with another workstation.
+Document which devices respond successfully.
 
 ---
 
-### Test Gateway Connectivity
+## Step 3: Test Additional Devices
+
+Continue testing communication with the remaining hosts.
 
 ```powershell
-ping <gateway-ip-address>
+ping 192.168.0.32
 ```
 
-Verifies communication with the local router.
+```powershell
+ping 192.168.0.33
+```
 
-A successful response confirms:
+```powershell
+ping 192.168.0.34
+```
 
-* Local network connectivity
-* Proper switching
-* Correct subnet membership
+Compare successful and failed responses against the network reference table.
 
 ---
 
-### Trace the Network Path
+## Step 4: Analyze Connectivity Results
+
+Review the results from the ping tests.
+
+Determine:
+
+* Which devices are reachable
+* Which devices are unreachable
+* Whether the issue affects a single host or multiple hosts
+* Whether communication remains inside the local network
+
+---
+
+## Step 5: Trace the Communication Path
+
+Use Tracert to determine where communication stops.
 
 ```powershell
 tracert <destination-ip>
 ```
 
-Traces packets through each router between the source and destination.
+Record:
 
-Useful for identifying:
-
-* Routing failures
-* Gateway issues
-* ISP connectivity problems
-* Path interruptions
+* Successful hops
+* Failed hops
+* The point where communication is interrupted
 
 ---
 
-## Understanding the Results
+## Step 6: Identify the Cause
 
-### Successful Local Pings
+Review:
 
-If local systems respond:
+* IP configuration
+* Ping results
+* Tracert results
 
-* Network adapter is operational
-* Local switching is functioning
-* Layer 1 and Layer 2 connectivity exist
-
----
-
-### Gateway Communication
-
-If the gateway responds:
-
-* Local routing access exists
-* The workstation can reach external networks
+Use the collected evidence to determine the configuration issue responsible for the connectivity failure.
 
 ---
 
-### Tracert Analysis
+## Step 7: Apply the Corrective Action
 
-Tracert helps identify where communication stops.
+Update the incorrect network configuration setting identified during troubleshooting.
 
-Possible failure points include:
-
-* Incorrect gateway configuration
-* Routing problems
-* ISP issues
-* Firewall restrictions
+After making the change, save and apply the configuration.
 
 ---
 
-## Common Configuration Problems
+## Step 8: Verify Connectivity
 
-A workstation may experience internet connectivity issues because of:
+Repeat the previous tests.
 
-* Incorrect IP address
-* Incorrect subnet mask
-* Missing gateway
-* Incorrect gateway address
-* Incorrect DNS settings
-* Duplicate IP addresses
+```powershell
+ipconfig
+```
+
+```powershell
+ping <destination-ip>
+```
+
+```powershell
+tracert <destination-ip>
+```
+
+Confirm that communication succeeds and the issue has been resolved.
 
 ---
 
 ## Skills Practiced
 
-* Network Troubleshooting
+* TCP/IP Configuration Review
 * Connectivity Testing
-* TCP/IP Analysis
+* Network Diagnostics
+* Ping Analysis
 * Route Tracing
-* Gateway Verification
-* Configuration Validation
-* Root Cause Analysis
-
----
-
-## Why These Tools Matter
-
-Ping, Tracert, and Ipconfig are among the most commonly used troubleshooting tools in networking.
-
-Together they allow administrators to:
-
-* Verify connectivity
-* Validate configuration
-* Trace packet paths
-* Isolate faults
-* Resolve network problems efficiently
-
-These tools remain foundational skills for network administrators, help desk technicians, systems administrators, and cybersecurity professionals.
+* Root Cause Identification
+* Troubleshooting Methodology
+* Problem Resolution
 
 ---
 
@@ -239,7 +227,7 @@ These tools remain foundational skills for network administrators, help desk tec
 
 ## Key Takeaways
 
-Effective troubleshooting begins with verifying connectivity one layer at a time. By combining Ping, Ipconfig, and Tracert, administrators can quickly identify whether a problem originates from local configuration, gateway communication, routing, or external network access.
+This exercise follows a structured troubleshooting workflow: review the configuration, test connectivity, trace the communication path, identify the cause, apply the fix, and verify successful operation.
 
 
 ---
