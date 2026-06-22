@@ -27,7 +27,7 @@ tags:
 - troubleshooting
 - packet-tracer
 
-permalink: /network-portfolio/formative-lessons/lesson-11-0/summative-connect-router-to-lan/
+permalink: /network-portfolio/formative-modules/lesson-11-0/summative-connect-router-to-lan/
 status: complete
 
 pdf: "/assets/pdfs/11-0-Summative-Assessment_Network-Topologies.pdf"
@@ -89,7 +89,7 @@ This lab reinforced how routers connect multiple networks and how routing tables
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

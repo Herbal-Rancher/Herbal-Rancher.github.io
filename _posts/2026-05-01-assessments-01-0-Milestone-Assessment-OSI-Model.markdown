@@ -25,7 +25,7 @@ tags:
   - troubleshooting
   - interoperability
 
-permalink: /network-portfolio/formative-lessons/lesson-1-0/milestone-osi-model/
+permalink: /network-portfolio/formative-modules/lesson-1-0/milestone-osi-model/
 status: complete
 
 pdf: "/assets/pdfs/01-0-Milestone-Assessment_Network-OSI-model.pdf"
@@ -87,7 +87,7 @@ This assessment strengthened my understanding of how network communication occur
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

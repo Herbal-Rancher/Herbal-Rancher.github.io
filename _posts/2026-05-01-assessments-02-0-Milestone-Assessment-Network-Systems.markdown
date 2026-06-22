@@ -28,7 +28,7 @@ tags:
   - vlan
   - routing-technologies
 
-permalink: /network-portfolio/formative-lessons/lesson-2-0/milestone-network-systems/
+permalink: /network-portfolio/formative-modules/lesson-2-0/milestone-network-systems/
 status: complete
 
 pdf: "/assets/pdfs/02-0-Milestone-Assessment_Network-Systems.pdf"
@@ -87,7 +87,7 @@ This assessment improved my understanding of how physical infrastructure, wirele
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

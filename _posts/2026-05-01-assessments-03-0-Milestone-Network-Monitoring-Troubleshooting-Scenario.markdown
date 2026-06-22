@@ -28,7 +28,7 @@ tags:
   - tcp
   - udp
 
-permalink: /network-portfolio/formative-lessons/lesson-3-0/milestone-network-monitoring/
+permalink: /network-portfolio/formative-modules/lesson-3-0/milestone-network-monitoring/
 status: complete
 
 pdf: "/assets/pdfs/03-0-Milestone-Assessment_Network-Monitoring.pdf"
@@ -88,7 +88,7 @@ This assessment strengthened my understanding of how monitoring technologies and
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

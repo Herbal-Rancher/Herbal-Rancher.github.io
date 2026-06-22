@@ -26,7 +26,7 @@ tags:
   - snmp
   - syslog
 
-permalink: /network-portfolio/formative-lessons/lesson-3-0/summative-network-monitoring/
+permalink: /network-portfolio/formative-modules/lesson-3-0/summative-network-monitoring/
 status: complete
 
 pdf: "/assets/pdfs/03-0-Summative-Assessment_Network-Monitoring.pdf"
@@ -85,7 +85,7 @@ This assessment reinforced the importance of combining monitoring tools, histori
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

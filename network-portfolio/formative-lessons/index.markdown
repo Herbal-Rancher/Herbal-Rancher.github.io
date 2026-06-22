@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /network-portfolio/formative-lessons/
+permalink: /network-portfolio/formative-Modules/
 nav_exclude: true
 ---
 
@@ -9,7 +9,7 @@ nav_exclude: true
 ---
 
 
-# Formative Lessons
+# Formative Modules
 
 This section captures the **core concepts, theories, and foundational knowledge** I am developing throughout my IT coursework.
 
@@ -25,7 +25,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 * Reinforce conceptual understanding
 * Connect theory to practical application
 * Track learning progression over time
-* Organize coursework, labs, and technical documentation by lesson
+* Organize coursework, labs, and technical documentation by Module
 
 ---
 
@@ -39,7 +39,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 </h2>
 
 <p>
-Lessons 01 – 09 focus on foundational networking theory, protocols, models, terminology, and conceptual understanding.
+Modules 01 – 09 focus on foundational networking theory, protocols, models, terminology, and conceptual understanding.
 </p>
 
 <p style="margin-top: 0; color: #555;">
@@ -66,7 +66,7 @@ Lessons 01 – 09 focus on foundational networking theory, protocols, models, te
 <div style="margin: 1.5rem 0; padding: 1rem; border: 1px solid #ddd; border-radius: 10px; background: #fafafa;">
 
 <h3 style="margin-top: 0; margin-bottom: .35rem;">
-  Lesson {{ lesson_number }}
+  Module {{ lesson_number }}
   <span style="background: #f4b400; color: #000; padding: .15rem .5rem; border-radius: 12px; font-size: .75rem;">
     {{ visible_posts.size }} Posts
   </span>
@@ -93,7 +93,7 @@ Lessons 01 – 09 focus on foundational networking theory, protocols, models, te
 {% endfor %}
 {% if has_assessments == false %}
 <li style="margin-bottom: .4rem;">
-  <span style="color: #666;"><em>Discussions and assessments will continue to expand as additional lessons are completed.</em></span>
+  <span style="color: #666;"><em>Discussions and assessments will continue to expand as additional Modules are completed.</em></span>
 </li>
 {% endif %}
 </ul>
@@ -124,7 +124,7 @@ Lessons 01 – 09 focus on foundational networking theory, protocols, models, te
 {% endfor %}
 {% if has_resources == false %}
 <li style="margin-bottom: .4rem;">
-  <span style="color: #666;"><em>Labs, walkthroughs, diagrams, and reference resources will continue to expand as additional lessons are completed.</em></span>
+  <span style="color: #666;"><em>Labs, walkthroughs, diagrams, and reference resources will continue to expand as additional Modules are completed.</em></span>
 </li>
 {% endif %}
 </ul>
@@ -141,7 +141,7 @@ Lessons 01 – 09 focus on foundational networking theory, protocols, models, te
 </h2>
 
 <p>
-Lessons 10 – 18 focus on hands-on implementation, troubleshooting, security analysis, virtual labs, remote administration, and applied networking skills.
+Modules 10 – 18 focus on hands-on implementation, troubleshooting, security analysis, virtual labs, remote administration, and applied networking skills.
 </p>
 
 <p style="margin-top: 0; color: #555;">
@@ -168,7 +168,7 @@ Lessons 10 – 18 focus on hands-on implementation, troubleshooting, security an
 <div style="margin: 1.5rem 0; padding: 1rem; border: 1px solid #ddd; border-radius: 10px; background: #fafafa;">
 
 <h3 style="margin-top: 0; margin-bottom: .35rem;">
-  Lesson {{ lesson_number }}
+  Module {{ lesson_number }}
   <span style="background: #f4b400; color: #000; padding: .15rem .5rem; border-radius: 12px; font-size: .75rem;">
     {{ visible_posts.size }} Posts
   </span>
@@ -195,7 +195,7 @@ Lessons 10 – 18 focus on hands-on implementation, troubleshooting, security an
 {% endfor %}
 {% if has_assessments == false %}
 <li style="margin-bottom: .4rem;">
-  <span style="color: #666;"><em>Discussions and assessments will continue to expand as additional lessons are completed.</em></span>
+  <span style="color: #666;"><em>Discussions and assessments will continue to expand as additional Modules are completed.</em></span>
 </li>
 {% endif %}
 </ul>
@@ -226,7 +226,7 @@ Lessons 10 – 18 focus on hands-on implementation, troubleshooting, security an
 {% endfor %}
 {% if has_resources == false %}
 <li style="margin-bottom: .4rem;">
-  <span style="color: #666;"><em>Labs, walkthroughs, diagrams, and reference resources will continue to expand as additional lessons are completed.</em></span>
+  <span style="color: #666;"><em>Labs, walkthroughs, diagrams, and reference resources will continue to expand as additional Modules are completed.</em></span>
 </li>
 {% endif %}
 </ul>
@@ -246,7 +246,7 @@ Lessons 10 – 18 focus on hands-on implementation, troubleshooting, security an
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * **[FORMATIVE LESSONS](/network-portfolio/formative-lessons/)**
+  * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

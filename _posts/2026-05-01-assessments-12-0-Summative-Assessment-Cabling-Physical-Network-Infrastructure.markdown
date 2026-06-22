@@ -25,7 +25,7 @@ tags:
 - cli, interfaces
 - connectivity
 
-permalink: /network-portfolio/formative-lessons/lesson-12-0/summative-network-cabling/
+permalink: /network-portfolio/formative-modules/lesson-12-0/summative-network-cabling/
 status: complete
 
 pdf: "/assets/pdfs/12-0-Summative-Assessment_Network-Cabling.pdf"
@@ -87,7 +87,7 @@ Preparing recorded walkthroughs required repeating the lab multiple times, which
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

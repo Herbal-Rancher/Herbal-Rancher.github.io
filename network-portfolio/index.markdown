@@ -34,7 +34,7 @@ This portfolio supports both conceptual learning and practical application by pr
 
 The portfolio is organized into four primary sections that connect theory, visualization, hands-on practice, troubleshooting, and technical reflection into a progressive learning system.
 
-* **[Formative Lessons](/network-portfolio/formative-lessons/)**  
+* **[Formative Modules](/network-portfolio/formative-modules/)**  
   * Concept-focused learning that captures key ideas, definitions, foundational knowledge, networking theories, security principles, and infrastructure concepts developed throughout my studies.
   * Each module is reinforced through related hands-on labs and walkthroughs to strengthen practical understanding and long-term retention.
 
@@ -84,7 +84,7 @@ The [Calbright IT532 and IT533 SiteMap (PDF)](/assets/docs/IT532 & IT533_ Introd
 
 * [Home](/)
 * **[NETWORK+ PORTFOLIO](/network-portfolio/)**
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

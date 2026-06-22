@@ -106,7 +106,7 @@ Below are my handwritten observation notes from Genesis 1. These capture pattern
 
 * [HOME](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * **[BIBLE STUDY](/network-portfolio/Bible-Study/)**

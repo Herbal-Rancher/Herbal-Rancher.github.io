@@ -104,7 +104,7 @@ This study is an ongoing journey. By applying a consistent and thoughtful method
 
 * [HOME](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * **[BIBLE STUDY](/network-portfolio/Bible-Study/)**

@@ -27,7 +27,7 @@ tags:
 - connectors
 - infrastructure
 
-permalink: /network-portfolio/formative-lessons/lesson-12-0/milestone-network-cabling/
+permalink: /network-portfolio/formative-modules/lesson-12-0/milestone-network-cabling/
 status: complete
 
 pdf: "/assets/pdfs/12-0-Milestone-Assessment_Network-Cabling.pdf"
@@ -88,7 +88,7 @@ This assessment strengthened my understanding of how physical cabling infrastruc
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

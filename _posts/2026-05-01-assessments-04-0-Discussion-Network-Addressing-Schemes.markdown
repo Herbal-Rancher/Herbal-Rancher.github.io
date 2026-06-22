@@ -27,7 +27,7 @@ tags:
 - netflow
 - security
 
-permalink: /network-portfolio/formative-lessons/lesson-13-0/discussion-network-ip-addressing/
+permalink: /network-portfolio/formative-modules/lesson-13-0/discussion-network-ip-addressing/
 status: complete
 
 pdf: "/assets/pdfs/4-0-Discussion-Network-Addressing-Schemes.pdf"
@@ -93,7 +93,7 @@ It also strengthened my understanding of how monitoring, security, and connectiv
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

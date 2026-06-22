@@ -24,7 +24,7 @@ tags:
   - networking
   - protocols
 
-permalink: /network-portfolio/formative-lessons/lesson-1-0/summative-osi-model/
+permalink: /network-portfolio/formative-modules/lesson-1-0/summative-osi-model/
 status: complete
 
 pdf: "/assets/pdfs/01-0-Summative-Assessment_Network-OSI-model.pdf"
@@ -81,7 +81,7 @@ This assessment helped reinforce the relationship between hardware devices, prot
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

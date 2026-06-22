@@ -90,7 +90,7 @@ This project uses a **feature branching model**:
 Example:
 
 ```
-feature/formative-lessons-index
+feature/formative-modules-index
 feature/walkthrough-2-update
 ```
 
@@ -120,7 +120,7 @@ git checkout -b feature/<feature-name>
 Example:
 
 ```bash
-git checkout -b feature/formative-lessons-index
+git checkout -b feature/formative-modules-index
 ```
 
 ---
@@ -273,7 +273,7 @@ git branch -d feature/<name>
 
 * **[HOME](/)**
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

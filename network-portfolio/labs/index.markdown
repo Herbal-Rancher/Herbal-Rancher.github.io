@@ -152,7 +152,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * **[LAB WALKTHROUGHS](/network-portfolio/labs/)**
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)

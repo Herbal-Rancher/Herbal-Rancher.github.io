@@ -30,9 +30,9 @@ tags:
 permalink: /network-portfolio/videos/linux-static-ip-configuration/
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "LZi_qs4KWSo"
+video_url: "https://www.youtube.com/watch?v=LZi_qs4KWSo"
+thumbnail: "https://img.youtube.com/vi/LZi_qs4KWSo/hqdefault.jpg"
 
 topics:
 
@@ -72,6 +72,8 @@ The activity focuses on assigning a static IP address, configuring DNS servers, 
 
 ### IPv4 Configuration
 
+To modify Linux IPv4 configuration, open and edit file "/etc/sysconfig/network-scripts/ifcfg-enp2s0"
+
 | Setting           | Value         |
 | ----------------- | ------------- |
 | IP Address        | 192.168.0.254 |
@@ -80,6 +82,8 @@ The activity focuses on assigning a static IP address, configuring DNS servers, 
 | Default Gateway   | 192.168.0.5   |
 
 ### DNS Configuration
+
+To modify Linux DNS configuration, open and edit file "/etc/resolv.conf"
 
 | Setting       | Value         |
 | ------------- | ------------- |
@@ -94,11 +98,12 @@ The network interface can be configured by editing the interface configuration f
 
 ### Open the Network Configuration File
 
-View the current IP address configuration before editing the file then open the file to edit the configuration.
+Show the current IP address configuration, change to "/etc/sysconfig/network-scripts/" directory, list files, then open the file to edit the configuration.
 ```bash
 root@IT-Laptop:~# ip addr show
 root@IT-Laptop:~# cd /etc/sysconfig/network-scripts/
-root@IT-Laptop:~# nano ifcfg-enp2s0
+root@IT-Laptop:/etc/sysconfig/network-scripts/# ls
+root@IT-Laptop:/etc/sysconfig/network-scripts/# nano ifcfg-enp2s0
 ```
 
 ---
@@ -131,15 +136,16 @@ BOOTPROTO=none
 ---
 
 ## Example Static DNS Configuration
-Open the DNS configuration file and add the DNS server addresses.
+Change to "/etc/" directory, list files, then open and edit the DNS configuration file.
 ```bash
 root@IT-Laptop:~# cd /etc/
-root@IT-Laptop:~# nano resolv.conf
+root@IT-Laptop:/etc# ls
+root@IT-Laptop:/etc# nano resolv.conf
 ```
-Modify the file to include the following DNS server addresses.
+Modify the DNS configuration file to include the following DNS server addresses.
 ```bash
-DNS1=163.128.78.93
-DNS2=163.128.80.93
+nameserver=163.128.78.93
+nameserver=163.128.80.93
 ```
 ---
 
@@ -156,50 +162,38 @@ root@IT-Laptop:~# ip link set enp2s0 up
 
 ## Connectivity Validation
 
-After applying the configuration, verify configuration, local connectivity, external connectivity, and DNS name resolution.
+After applying the configuration, (1)verify interface configuration and connectivity, (2) default gateway, (3) external internet connectivity, and (4) DNS name resolution.
 
-### Verify Interface Configuration and Local Network Connectivity
+Expected result:
+
+* Successful replies confirm communication.
+* The hostname should resolve to an IP address and return successful replies.
+* Failure to communicate may indicate misconfiguration, network issues, or connectivity problems that require troubleshooting.
+
+
+1). Show the current IP address configuration.
 
 ```bash
 root@IT-Laptop:~# ip addr show
 ```
-Test communication with the default gateway.
+
+2). Test communication with the default gateway.
 
 ```bash
 root@IT-Laptop:~# ping -c4 192.168.0.5
 ```
 
-Expected result:
-
-* Successful replies confirm communication with the local network gateway.
-
----
-
-### Verify Internet Connectivity
-
-Test communication with an external DNS server.
+3). Test communication with an external DNS server.
 
 ```bash
 root@IT-Laptop:~# ping -c4163.128.78.93
 ```
 
-Expected result:
-
-* Successful replies confirm external network access.
-
----
-
-### Verify DNS Resolution
-
-Test name resolution using an external website.
+4). Test name resolution using an external website.
 
 ```bash
 root@IT-Laptop:~# ping -c4 www.corpnet.xyz
 ```
-
-Expected result:
-
-* The hostname should resolve to an IP address and return successful replies.
 
 ---
 
@@ -252,7 +246,7 @@ Successful communication with the gateway confirms local network connectivity. S
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

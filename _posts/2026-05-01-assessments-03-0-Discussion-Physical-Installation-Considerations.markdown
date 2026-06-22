@@ -26,7 +26,7 @@ tags:
   - security
   - environmental-controls
 
-permalink: /network-portfolio/formative-lessons/lesson-3-0/discussion-physical-installation-considerations/
+permalink: /network-portfolio/formative-modules/lesson-3-0/discussion-physical-installation-considerations/
 status: complete
 
 pdf: "/assets/pdfs/03-0-Discussion_Physical-Installation-Considerations.pdf"
@@ -77,7 +77,7 @@ This discussion reinforced the importance of proper physical infrastructure plan
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)

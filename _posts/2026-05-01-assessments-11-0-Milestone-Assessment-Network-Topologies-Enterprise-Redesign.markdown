@@ -27,7 +27,7 @@ tags:
 - layer3-switching
 - topology
 
-permalink: /network-portfolio/formative-lessons/lesson-11-0/milestone-network-topologies/
+permalink: /network-portfolio/formative-modules/lesson-11-0/milestone-network-topologies/
 status: complete
 
 pdf: "/assets/pdfs/11-0-Milestone-Assessment_Network-Topologies.pdf"
@@ -91,7 +91,7 @@ This project strengthened my understanding of scalable enterprise network archit
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Lessons](/network-portfolio/formative-lessons/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/network-portfolio/Bible-Study/)
