@@ -152,7 +152,7 @@ The projects, labs, diagrams, and walkthroughs shared throughout this portfolio 
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-* [Bible Study](/network-portfolio/bible-study/)
+* [Bible Study](/bible-study/)
 * **[BEHIND THE PORTFOLIO](/network-portfolio/behind-the-portfolio/)**
 
 ---

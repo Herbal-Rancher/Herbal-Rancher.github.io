@@ -18,12 +18,6 @@ My professional portfolio documents my journey through networking, cybersecurity
 
 The **[NETWORK+ PORTFOLIO](/network-portfolio/)** currently serves as the foundation of this journey and will expand to include future cybersecurity studies and certification preparation.
 
-Within the portfolio, you'll find:
-
-* **[FORMATIVE MODULES](/network-portfolio/formative-modules/)** — Coursework, learning activities, and competency-based exercises completed throughout my studies.
-* **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)** — AI-assisted visual resources that simplify networking concepts, protocols, architectures, and troubleshooting workflows.
-* **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)** — Narration-free demonstrations of labs, Packet Tracer activities, troubleshooting exercises, and technical projects.
-
 ## Personal Learning Portfolio
 
 Learning extends beyond technology. My personal portfolio documents areas of study that inspire personal growth, critical thinking, and lifelong learning.
@@ -56,7 +50,7 @@ To learn more about me, my learning philosophy, use of AI tools, and creative pr
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-* [Bible Study](/network-portfolio/bible-study/)
+* [Bible Study](/bible-study/)
 * [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---

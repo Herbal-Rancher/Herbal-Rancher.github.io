@@ -33,7 +33,6 @@ topics: [markdown, yaml, liquid, jekyll, github-pages, technical-writing, docume
 tools: [Markdown, Jekyll, GitHub, GitHub-Pages, Liquid, VS-Code]
 
 date:   2026-04-04 15:15:15 -0700
-
 ---
 
 ---
@@ -107,7 +106,7 @@ This study is an ongoing journey. By applying a consistent and thoughtful method
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-* **[BIBLE STUDY](/network-portfolio/bible-study/)**
+* **[BIBLE STUDY](/bible-study/)**
 * [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
 
 ---
