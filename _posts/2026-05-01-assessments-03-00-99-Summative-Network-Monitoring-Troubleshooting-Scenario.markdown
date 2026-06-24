@@ -4,8 +4,8 @@ title: "Assessment Summative | Network Monitoring and Troubleshooting Scenario"
 lab_title: "Network Monitoring and Troubleshooting Scenario"
 
 lesson: "3.0"
-lesson_id: "03.03.00"
-sort_order: "030300"
+lesson_id: "03.00.02"
+sort_order: "030002"
 
 categories: [portfolio, summative, formative]
 

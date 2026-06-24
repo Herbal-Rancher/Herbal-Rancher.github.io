@@ -4,8 +4,8 @@ title: "Assessment Milestone | Open Systems Interconnection (OSI) Model"
 lab_title: "Open Systems Interconnection (OSI) Model"
 
 lesson: "1.0"
-lesson_id: "01.01.00"
-sort_order: "010100"
+lesson_id: "01.00.01"
+sort_order: "010001"
 
 categories: [portfolio, milestone, formative]
 

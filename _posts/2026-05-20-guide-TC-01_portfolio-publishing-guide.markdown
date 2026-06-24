@@ -18,6 +18,7 @@ subcategory_display: Reference Guides
 content_type: guide
 content_type_display: Guide
 
+
 permalink: /network-portfolio/guides/portfolio-publishing-guide/
 
 status: complete
@@ -45,7 +46,6 @@ All content should use the same metadata structure regardless of whether the con
 ## Required Fields
 
 ```yaml
-lesson:
 lesson_id:
 title:
 
@@ -73,11 +73,10 @@ permalink:
 ```yaml
 ---
 layout: post
+
 title: "Use PowerShell Remote Management"
 
-lesson: "4.0"
 lesson_id: "13.3.9"
-sort_order: "133009"
 
 category: systems-administration
 category_display: Systems Administration
@@ -87,6 +86,8 @@ subcategory_display: Remote Administration
 
 content_type: lab
 content_type_display: Lab
+
+sort_order: "133009"
 
 status: complete
 

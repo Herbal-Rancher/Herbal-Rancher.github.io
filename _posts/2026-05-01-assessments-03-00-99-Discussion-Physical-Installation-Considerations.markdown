@@ -4,8 +4,8 @@ title: "Discussion | Physical Installation Considerations"
 lab_title: "Physical Installation Considerations"
 
 lesson: "3.0"
-lesson_id: "03.01.00"
-sort_order: "030100"
+lesson_id: "03.00.01"
+sort_order: "030001"
 
 categories: [portfolio, discussion, formative]
 

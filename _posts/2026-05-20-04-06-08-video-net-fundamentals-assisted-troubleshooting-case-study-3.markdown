@@ -50,9 +50,9 @@ permalink: /network-portfolio/videos/root-cause-analysis-network-troubleshooting
 
 status: complete
 
-video_id: "REPLACE_WITH_YOUTUBE_ID"
-video_url: "REPLACE_WITH_YOUTUBE_URL"
-thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
+video_id: "EoWOqnkKmc4"
+video_url: "https://youtu.be/EoWOqnkKmc4"
+thumbnail: "https://img.youtube.com/vi/EoWOqnkKmc4/hqdefault.jpg"
 ---
 
 ## Overview

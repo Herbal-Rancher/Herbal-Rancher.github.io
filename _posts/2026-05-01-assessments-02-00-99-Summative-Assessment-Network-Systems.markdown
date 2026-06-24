@@ -4,8 +4,8 @@ title: "Assessment Summative | Network Systems"
 lab_title: "Network Systems"
 
 lesson: "2.0"
-lesson_id: "02.02.00"
-sort_order: "020200"
+lesson_id: "02.00.02"
+sort_order: "020002"
 
 categories: [portfolio, summative, formative]
 

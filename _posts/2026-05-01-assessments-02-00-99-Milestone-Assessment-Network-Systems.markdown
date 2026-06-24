@@ -4,8 +4,8 @@ title: "Assessment Milestone | Network Systems"
 lab_title: "Network Systems"
 
 lesson: "2.0"
-lesson_id: "02.01.00"
-sort_order: "020100"
+lesson_id: "02.00.01"
+sort_order: "020001"
 
 categories: [portfolio, milestone, formative]
 

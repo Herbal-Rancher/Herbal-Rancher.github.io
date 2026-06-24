@@ -4,8 +4,8 @@ title: "Assessment Summative | Packet Tracer Lab 8 Connect a Router to a LAN"
 lab_title: "Cabling and Physical Network Infrastructure"
 
 lesson: "11.0"
-lesson_id: "11.02.00"
-sort_order: "110200"
+lesson_id: "11.00.02"
+sort_order: "110002"
 
 categories: [portfolio, summative, formative]
 

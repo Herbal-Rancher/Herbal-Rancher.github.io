@@ -4,8 +4,8 @@ title: "Assessment Summative | Cabling and Physical Network Infrastructure"
 lab_title: "Cabling and Physical Network Infrastructure"
 
 lesson: "12.0"
-lesson_id: "12.02.00"
-sort_order: "120200"
+lesson_id: "12.00.02"
+sort_order: "120002"
 
 categories: [portfolio, summative, formative]
 

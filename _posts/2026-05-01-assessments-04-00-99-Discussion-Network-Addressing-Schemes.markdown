@@ -4,8 +4,8 @@ title: "Discussion | Network Addressing Schemes"
 lab_title: "Network Addressing Schemes"
 
 lesson: "4.0"
-lesson_id: "04.01.00"
-sort_order: 040100
+lesson_id: "04.00.01"
+sort_order: 040001
 
 categories: [portfolio, discussion, formative]
 

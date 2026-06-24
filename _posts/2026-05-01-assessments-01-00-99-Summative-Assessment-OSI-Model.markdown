@@ -4,8 +4,8 @@ title: "Assessment Summative | Network OSI Model"
 lab_title: "Network OSI Model"
 
 lesson: "1.0"
-lesson_id: "01.02.00"
-sort_order: "010200"
+lesson_id: "01.00.02"
+sort_order: "010002"
 
 categories: [portfolio, summative, formative]
 

@@ -33,6 +33,7 @@ topics: [markdown, yaml, liquid, jekyll, github-pages, technical-writing, docume
 tools: [Markdown, Jekyll, GitHub, GitHub-Pages, Liquid, VS-Code]
 
 date:   2026-04-04 15:15:15 -0700
+
 ---
 
 ---

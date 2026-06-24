@@ -4,8 +4,8 @@ title: "Assessment  Milestone | Network Monitoring, SNMP, Ports, Protocols, and 
 lab_title: "Network Monitoring, SNMP, Ports, Protocols, and Services"
 
 lesson: "3.0"
-lesson_id: "03.02.00"
-sort_order: "030200"
+lesson_id: "03.00.02"
+sort_order: "030002"
 
 categories: [portfolio, milestone, formative]
 
