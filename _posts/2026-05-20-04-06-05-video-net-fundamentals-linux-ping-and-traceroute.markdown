@@ -52,9 +52,9 @@ permalink: /network-portfolio/videos/linux-ping-traceroute-analysis/
 
 status: complete
 
-video_id: "REPLACE_WITH_YOUTUBE_ID"
-video_url: "REPLACE_WITH_YOUTUBE_URL"
-thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
+video_id: "whVVTtXdvUw"
+video_url: "https://youtu.be/whVVTtXdvUw"
+thumbnail: "https://img.youtube.com/vi/whVVTtXdvUw/hqdefault.jpg"
 ---
 
 ## Overview

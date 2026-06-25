@@ -46,13 +46,13 @@ protocols:
 - ICMP
 - TCP-IP
 
-permalink: /network-portfolio/videos/home-network-connectivity-troubleshooting/
+permalink: /network-portfolio/videos/troubleshooting-network-connectivity-issue-2/
 
 status: complete
 
-video_id: "REPLACE_WITH_YOUTUBE_ID"
-video_url: "REPLACE_WITH_YOUTUBE_URL"
-thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
+video_id: "smvf146u0P8"
+video_url: "https://youtu.be/smvf146u0P8"
+thumbnail: "https://img.youtube.com/vi/smvf146u0P8/hqdefault.jpg"
 ---
 
 ## Overview

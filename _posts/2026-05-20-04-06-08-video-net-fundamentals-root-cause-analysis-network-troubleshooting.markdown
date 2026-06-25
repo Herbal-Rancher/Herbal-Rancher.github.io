@@ -46,7 +46,7 @@ protocols:
 - ICMP
 - TCP-IP
 
-permalink: /network-portfolio/videos/root-cause-analysis-network-troubleshooting/
+permalink: /network-portfolio/videos/troubleshooting-network-connectivity-issue-3/
 
 status: complete
 
