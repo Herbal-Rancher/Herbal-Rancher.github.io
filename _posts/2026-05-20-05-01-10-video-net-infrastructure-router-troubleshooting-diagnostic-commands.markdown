@@ -67,9 +67,9 @@ The objective is to gather information from network infrastructure devices and u
 
 Add the network topology diagram used during the exercise.
 
-```markdown
-![Router Troubleshooting Diagram](/assets/images/router-troubleshooting-diagram.png)
-```
+
+![Router Troubleshooting Diagram](/assets/images/labs/router-troubleshooting-diagram.png)
+
 
 ---
 
