@@ -66,11 +66,11 @@ The exercise focuses on hardware installation, fiber connectivity, WAN connectiv
 
 ## Network Reference
 
-Add the infrastructure diagram used during the exercise.
+Use the Lab infrastructure workspace to guide the installation and connectivity process. Example of the physical layout and connections:
 
-```markdown
-![Enterprise Router Installation Diagram](/assets/images/router-installation-diagram.png)
-```
+
+![Enterprise Router Installation Diagram](/assets/images/labs/Enterprise-Router-Installation-Diagram.png)
+
 
 ---
 
