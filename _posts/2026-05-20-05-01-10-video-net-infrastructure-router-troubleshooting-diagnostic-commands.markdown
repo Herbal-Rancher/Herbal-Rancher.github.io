@@ -48,9 +48,9 @@ permalink: /network-portfolio/videos/router-troubleshooting-diagnostic-commands/
 
 status: complete
 
-video_id: "REPLACE_WITH_YOUTUBE_ID"
-video_url: "REPLACE_WITH_YOUTUBE_URL"
-thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
+video_id: "9gS8x515nZ8"
+video_url: "https://youtu.be/9gS8x515nZ8"
+thumbnail: "https://img.youtube.com/vi/9gS8x515nZ8/hqdefault.jpg"
 ---
 
 ## Overview

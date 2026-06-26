@@ -50,9 +50,9 @@ permalink: /network-portfolio/videos/dhcp-address-assignment-apipa-prevention/
 
 status: complete
 
-video_id: "REPLACE_WITH_YOUTUBE_ID"
-video_url: "REPLACE_WITH_YOUTUBE_URL"
-thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
+video_id: "uIPwr-4YvH4"
+video_url: "https://youtu.be/uIPwr-4YvH4"
+thumbnail: "https://img.youtube.com/vi/uIPwr-4YvH4/hqdefault.jpg"
 ---
 
 ## Overview

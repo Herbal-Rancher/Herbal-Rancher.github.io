@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Configuring Static IP Addresses on Mobile Devices"
 lab_title: "Configuring Static IP Addresses on Mobile Devices"
 
-lesson: "4c.0"
+lesson: "4.0"
 lesson_id: "04.02.10"
 sort_order: "040210"
 

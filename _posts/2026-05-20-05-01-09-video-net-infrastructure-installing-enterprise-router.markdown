@@ -49,9 +49,9 @@ permalink: /network-portfolio/videos/installing-enterprise-router/
 
 status: complete
 
-video_id: "REPLACE_WITH_YOUTUBE_ID"
-video_url: "REPLACE_WITH_YOUTUBE_URL"
-thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
+video_id: "dlBo2esHxgc"
+video_url: "https://youtu.be/dlBo2esHxgc"
+thumbnail: "https://img.youtube.com/vi/dlBo2esHxgc/hqdefault.jpg"
 ---
 
 ## Overview

@@ -49,9 +49,9 @@ permalink: /network-portfolio/videos/apipa-dhcp-troubleshooting/
 
 status: complete
 
-video_id: "REPLACE_WITH_YOUTUBE_ID"
-video_url: "REPLACE_WITH_YOUTUBE_URL"
-thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
+video_id: "qB5GEfGS6yo"
+video_url: "https://youtu.be/qB5GEfGS6yo"
+thumbnail: "https://img.youtube.com/vi/qB5GEfGS6yo/hqdefault.jpg"
 ---
 
 ## Overview
