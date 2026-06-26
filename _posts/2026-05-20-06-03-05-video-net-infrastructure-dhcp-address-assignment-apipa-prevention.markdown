@@ -67,9 +67,11 @@ The exercise focuses on building network connectivity, validating address assign
 
 ## Network Reference
 
-Network topology image used during the exercise.
+Lab precondition and network topology image used during the exercise.
 
-![DHCP Network Model](/assets/images/labs/explore-apipa-addressing-in-network-modeler.png)
+![Lab Precondition](/assets/images/labs/explore-apipa-addressing-in-network-modeler-2.png)
+
+![APIPA Lab Network Modeler](/assets/images/labs/explore-apipa-addressing-in-network-modeler.png)
 
 ---
 
