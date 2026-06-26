@@ -344,8 +344,15 @@ This was one of my first labs where I began translating familiar Windows network
 
 # Video Walkthrough
 
-* [](https://youtu.be/ZOUUOUGa_mw)
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
 
+<img src="{{ page.thumbnail }}"
+alt="{{ page.title }}"
+style="width:420px; border-radius:8px;">
+
+</a>
+
+---
 
 
 ---
