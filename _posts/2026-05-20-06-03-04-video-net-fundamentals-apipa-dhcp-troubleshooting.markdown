@@ -66,11 +66,10 @@ The objective is to determine why a workstation cannot obtain a valid network ad
 
 ## Network Reference
 
-Add the topology diagram used during the exercise.
+First floor building diagram used in the exercise to illustrate high level the network topology and connectivity between devices.
 
-```markdown
-![APIPA Troubleshooting Diagram](/assets/images/apipa-troubleshooting-diagram.png)
-```
+![APIPA Troubleshooting Diagram](/assets/images/labs/explore-apipa-addressing.png)
+
 
 ---
 
