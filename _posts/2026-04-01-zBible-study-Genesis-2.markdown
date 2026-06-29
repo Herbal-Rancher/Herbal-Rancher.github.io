@@ -110,7 +110,7 @@ Below are my handwritten observation notes from Genesis 1. These capture pattern
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * **[BIBLE STUDY](/bible-study/)**
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
 
 ---
 ---

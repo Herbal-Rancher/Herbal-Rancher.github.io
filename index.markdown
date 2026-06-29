@@ -8,7 +8,7 @@ ___
 ___
 ___
 
-Welcome to my technical portfolio.
+Welcome to my portfolio website!
 
 I'm an Information Technology student at Calbright College, documenting my journey through networking, cybersecurity, and lifelong learning. This site serves as both a study resource and a record of the knowledge, skills, and experience I gain along the way.
 
@@ -34,9 +34,7 @@ My goal is to build the knowledge and hands-on skills needed to successfully ear
 
 The Network+ Portfolio follows my progress through the Calbright College program, where I document coursework, labs, projects, and study resources as I work toward those goals.
 
-If you're a California resident interested in technology careers, you may also want to explore Calbright's **[Network Technology Program](https://www.calbright.edu/programs/network-technology/)** and **[Cybersecurity Program](https://www.calbright.edu/programs/cybersecurity/)** and other online, competency-based learning opportunities.
-
-To learn more about me, my learning philosophy, use of AI tools, and creative projects, visit the **[BEHIND THE PORTFOLIO](/about/)** page.
+If you're a California resident interested in technology careers, you may also want to check out the bottom of my **[About the Portfolio](/zabout-the-portfolio/)** page for an amazing opportunity.
 
 ***Shall we journey together?***
 
@@ -51,7 +49,7 @@ To learn more about me, my learning philosophy, use of AI tools, and creative pr
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/bible-study/)
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
 
 ---
 ---

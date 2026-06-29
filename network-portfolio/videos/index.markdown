@@ -13,7 +13,7 @@ nav_exclude: true
 This page contains no-narration video walkthroughs documenting networking labs, troubleshooting processes, Wireshark analysis, DHCP implementation, switch hardening, PowerShell management, and other hands-on activities completed throughout my Network Technology learning journey.
 
 This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
-To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [Behind the Portfolio](/network-portfolio/behind-the-portfolio/) page.
+To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [About the Portfolio](/zabout-the-portfolio/) page.
 
 
 
@@ -137,7 +137,7 @@ Missing video URL
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/bible-study/)
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
 
 ---
 ---

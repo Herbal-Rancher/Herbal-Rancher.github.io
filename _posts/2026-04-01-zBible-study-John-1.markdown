@@ -113,7 +113,7 @@ Listen to [John](https://www.bible.com/bible/111/JHN.1.NIV)(2 full times)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * **[BIBLE STUDY](/bible-study/)**
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
 
 ---
 ---

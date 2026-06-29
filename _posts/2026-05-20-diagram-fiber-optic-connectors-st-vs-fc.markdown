@@ -83,7 +83,7 @@ I wanted to better understand the differences between ST and FC fiber optic conn
   * [Video Walkthroughs](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Bible Study](/bible-study/)
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
 
 ---
 ---

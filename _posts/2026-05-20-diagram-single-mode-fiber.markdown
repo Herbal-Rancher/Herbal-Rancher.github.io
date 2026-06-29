@@ -81,7 +81,7 @@ I wanted to better understand how single-mode fiber differs from other cabling t
   * [Video Walkthroughs](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Bible Study](/bible-study/)
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
 
 ---
 ---

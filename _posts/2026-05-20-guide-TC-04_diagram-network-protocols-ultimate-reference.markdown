@@ -177,7 +177,7 @@ Networks become easier to understand when protocols are grouped by purpose and m
   * [Video Walkthroughs](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Bible Study](/bible-study/)
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
 
 ---
 ---

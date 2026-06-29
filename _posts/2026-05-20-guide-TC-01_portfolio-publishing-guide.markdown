@@ -511,7 +511,7 @@ Consistent metadata enables the portfolio to scale while remaining organized, se
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/bible-study/)
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio)
+* [About the Portfolio](/network-portfolio/zabout-the-portfolio)
 
 ---
 ---

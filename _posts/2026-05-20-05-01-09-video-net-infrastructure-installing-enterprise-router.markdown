@@ -186,7 +186,7 @@ Enterprise network deployments require careful attention to hardware installatio
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/bible-study/)
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
 
 ---
 ---

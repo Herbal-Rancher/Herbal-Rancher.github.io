@@ -1,16 +1,16 @@
 ---
 layout: page
-permalink: /network-portfolio/behind-the-portfolio/
-nav_exclude: true
+title: "About"
+date: 2026-06-29 07:00:00 -0700
+permalink: /zabout-the-portfolio/
 ---
+
 
 ---
 ---
 ---
 
-# Behind the Portfolio
-
-This portfolio is a living collection of studies, projects, notes, diagrams, videos, and discoveries created throughout my learning journey.
+Welcome to About the Portfolio page! This is a living collection of studies, projects, notes, diagrams, videos, and discoveries created throughout my learning journey.
 
 I am a Network Technology student, lifelong learner, and builder of ideas with interests that span networking, cybersecurity, investing, Bible study, technical documentation, and systems thinking. My goal is simple: learn deeply, document what I discover, and share resources that may help others who are walking similar paths.
 
@@ -20,12 +20,10 @@ I believe meaningful growth comes through curiosity, discipline, consistent effo
 
 <div style="text-align:center; margin: 30px 0;">
 
-  <a href="/assets/images/behind-the-portfolio/my-journey-thru-chats-lense-1.png" target="_blank">
-
-```
+  <a href="/assets/images/zabout-the-portfolio/my-journey-thru-chats-lense-1.png" target="_blank">
 <img
-  src="/assets/images/behind-the-portfolio/my-journey-thru-chats-lense-1.png"
-  alt="Behind the Portfolio Artwork"
+  src="/assets/images/zabout-the-portfolio/my-journey-thru-chats-lense-1.png"
+  alt="About the Portfolio Artwork"
   style="
     width:100%;
     max-width:450px;
@@ -33,8 +31,6 @@ I believe meaningful growth comes through curiosity, discipline, consistent effo
     box-shadow:0 2px 10px rgba(0,0,0,0.15);
   "
 >
-```
-
   </a>
 
 </div>
@@ -57,12 +53,10 @@ The images that follow were created after sharing personal references and additi
 
 <div style="text-align:center; margin: 30px 0;">
 
-  <a href="/assets/images/behind-the-portfolio/my-journey-thru-chats-lense-2.png" target="_blank">
-
-```
+  <a href="/assets/images/zabout-the-portfolio/my-journey-thru-chats-lense-2.png" target="_blank">
 <img
-  src="/assets/images/behind-the-portfolio/my-journey-thru-chats-lense-2.png"
-  alt="Behind the Portfolio Artwork"
+  src="/assets/images/zabout-the-portfolio/my-journey-thru-chats-lense-2.png"
+  alt="About the Portfolio Artwork"
   style="
     width:100%;
     max-width:450px;
@@ -70,7 +64,6 @@ The images that follow were created after sharing personal references and additi
     box-shadow:0 2px 10px rgba(0,0,0,0.15);
   "
 >
-```
 
   </a>
 
@@ -78,12 +71,10 @@ The images that follow were created after sharing personal references and additi
 
 <div style="text-align:center; margin: 30px 0;">
 
-  <a href="/assets/images/behind-the-portfolio/my-journey-thru-chats-lense-3.png" target="_blank">
-
-```
+  <a href="/assets/images/zabout-the-portfolio/my-journey-thru-chats-lense-3.png" target="_blank">
 <img
-  src="/assets/images/behind-the-portfolio/my-journey-thru-chats-lense-3.png"
-  alt="Behind the Portfolio Artwork"
+  src="/assets/images/zabout-the-portfolio/my-journey-thru-chats-lense-3.png"
+  alt="About the Portfolio Artwork"
   style="
     width:100%;
     max-width:450px;
@@ -91,8 +82,6 @@ The images that follow were created after sharing personal references and additi
     box-shadow:0 2px 10px rgba(0,0,0,0.15);
   "
 >
-```
-
   </a>
 
 </div>
@@ -153,7 +142,7 @@ The projects, labs, diagrams, and walkthroughs shared throughout this portfolio 
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/bible-study/)
-* **[BEHIND THE PORTFOLIO](/network-portfolio/behind-the-portfolio/)**
+* **[BEHIND THE PORTFOLIO](/zabout-the-portfolio/)**
 
 ---
 ---

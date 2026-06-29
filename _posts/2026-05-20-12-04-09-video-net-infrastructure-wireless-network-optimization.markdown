@@ -206,7 +206,7 @@ Modern enterprise wireless solutions continuously monitor RF conditions and auto
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/bible-study/)
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
 
 ---
 ---

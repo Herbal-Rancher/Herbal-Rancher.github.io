@@ -108,7 +108,7 @@ This study is an ongoing journey. By applying a consistent and thoughtful method
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * **[BIBLE STUDY](/bible-study/)**
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
 
 ---
 ---

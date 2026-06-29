@@ -83,7 +83,7 @@ I needed a clearer visual explanation of what happens when a topology change not
   * [Video Walkthroughs](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Bible Study](/bible-study/)
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
 
 ---
 ---

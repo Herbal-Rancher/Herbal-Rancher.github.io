@@ -9,12 +9,12 @@ date: 2026-04-01 10:00:00 -0700
 ---
 ---
 
-This page serves as a dedicated space for my Bible study notes, reflections, and insights. It is designed to document my journey through 
+Welcome to my Bible Study journey page. This space serves as a dedicated space for my Bible study notes, reflections, and insights. It is designed to document my journey through 
 the Bible, discovering and documenting key lessons, personal reflections, and applications of biblical principles in my life. 
 
 This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
 
-To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [Behind the Portfolio](/network-portfolio/behind-the-portfolio/) page.
+To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [About the Portfolio](/zabout-the-portfolio/) page.
 
 ---
 ---
@@ -92,7 +92,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * **[BIBLE STUDY](/bible-study/)**
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
 
 ---
 ---

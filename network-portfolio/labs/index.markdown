@@ -16,7 +16,7 @@ Each walkthrough captures commands, workflows, configuration steps, troubleshoot
 
 
 This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
-To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [Behind the Portfolio](/network-portfolio/behind-the-portfolio/) page.
+To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [About the Portfolio](/zabout-the-portfolio/) page.
 
 ---
 ---
@@ -157,7 +157,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Bible Study](/bible-study/)
-* [Behind the Portfolio](/network-portfolio/behind-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
 
 ---
 ---

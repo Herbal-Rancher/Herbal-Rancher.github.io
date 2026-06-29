@@ -21,7 +21,7 @@
 title: Herbal Rancher Sherri 
 email: HerbalRancher@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey there, welcome to my site. Take a look around and let me know if you have any questions.
+  "Lifelong learning through disciplined practice, thoughtful reflection, and continuous improvement."
 excerpt_separator: "<!--more-->"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,9 +30,10 @@ github_username:  Herbal-Rancher
 
 # Header features
 header_pages:
-  - index.markdown  
   - network-portfolio/index.markdown
-  - network-portfolio/zBible/index.markdown
+  - zinvesting-journey/index.markdown
+  - zBible/index.markdown
+  - zabout-the-portfolio/index.markdown
 
 # Build settings
 theme: minima
