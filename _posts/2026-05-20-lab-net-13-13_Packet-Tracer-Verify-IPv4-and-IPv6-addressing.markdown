@@ -57,13 +57,14 @@ permalink: /network-portfolio/videos/13-13-verify-ipv4-and-ipv6-addressing/
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "iHj4itioKkw"
+video_url: "https://youtu.be/iHj4itioKkw"
+thumbnail: "https://img.youtube.com/vi/iHj4itioKkw/hqdefault.jpg"
 
 lab_pdf: "/assets/pdfs/Module-13-Lab-13-Packet-Tracer-verify-ipv4-and-ipv6.pdf"
 completed_lab: "/assets/pdfs/Module-13-Lab-13-Packet-Tracer-verify-ipv4-and-ipv6.pdf"
 packet_tracer: "/assets/packet-tracer/13-13-Verify-IPv4-and-IPv6-Addressing.pkt"
+
 ---
 
 ## Overview

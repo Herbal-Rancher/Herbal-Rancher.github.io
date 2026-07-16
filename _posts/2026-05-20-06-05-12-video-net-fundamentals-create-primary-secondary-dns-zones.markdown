@@ -49,9 +49,9 @@ permalink: /network-portfolio/videos/06-05-12-create-primary-secondary-dns-zones
 
 status: complete
 
-video_id: "REPLACE_WITH_YOUTUBE_ID"
-video_url: "REPLACE_WITH_YOUTUBE_URL"
-thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
+video_id: "IcGvzFyx5kE"
+video_url: "https://youtu.be/IcGvzFyx5kE"
+thumbnail: "https://img.youtube.com/vi/IcGvzFyx5kE/hqdefault.jpg"
 ---
 
 ## Overview

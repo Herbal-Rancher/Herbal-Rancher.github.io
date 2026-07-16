@@ -53,9 +53,9 @@ permalink: /network-portfolio/videos/06-05-15-troubleshoot-dns-host-records/
 
 status: complete
 
-video_id: "REPLACE_WITH_YOUTUBE_ID"
-video_url: "REPLACE_WITH_YOUTUBE_URL"
-thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
+video_id: "KDy6Z1iQFBs"
+video_url: "https://youtu.be/KDy6Z1iQFBs"
+thumbnail: "https://img.youtube.com/vi/KDy6Z1iQFBs/hqdefault.jpg"
 ---
 
 ## Overview

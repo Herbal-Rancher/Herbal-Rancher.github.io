@@ -3,9 +3,9 @@ layout: post
 title: "Networking Fundamentals | Top Network Ports Study Guide"
 lab_title: "Top Network Ports Study Guide"
 
-lesson: "1.0" 
-lesson_id: "01.05.00"
-sort_order: "010500"
+lesson: "10.0" 
+lesson_id: "10.00.50"
+sort_order: "100050"
 
 categories: [portfolio, diagrams]
 

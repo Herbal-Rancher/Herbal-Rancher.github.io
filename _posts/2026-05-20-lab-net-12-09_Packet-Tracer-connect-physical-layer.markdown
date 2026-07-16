@@ -56,9 +56,9 @@ permalink: /network-portfolio/videos/12-09-packet-tracer-connect-physical-layer/
 status: complete
 
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "sEr5wx3x8iI"
+video_url: "https://youtu.be/sEr5wx3x8iI"
+thumbnail: "https://img.youtube.com/vi/sEr5wx3x8iI/hqdefault.jpg"
 
 ---
 

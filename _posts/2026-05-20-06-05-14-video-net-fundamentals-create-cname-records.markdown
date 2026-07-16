@@ -51,9 +51,9 @@ permalink: /network-portfolio/videos/06-05-14-create-cname-records/
 
 status: complete
 
-video_id: "REPLACE_WITH_YOUTUBE_ID"
-video_url: "REPLACE_WITH_YOUTUBE_URL"
-thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
+video_id: "k_BdPKUHxfk"
+video_url: "https://youtu.be/k_BdPKUHxfk"
+thumbnail: "https://img.youtube.com/vi/k_BdPKUHxfk/hqdefault.jpg"
 ---
 
 ## Overview

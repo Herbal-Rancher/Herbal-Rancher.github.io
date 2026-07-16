@@ -52,9 +52,9 @@ permalink: /network-portfolio/videos/13-12-use-the-ipconfig-command/
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "QxYWA401cDo"
+video_url: "https://youtu.be/QxYWA401cDo"
+thumbnail: "https://img.youtube.com/vi/QxYWA401cDo/hqdefault.jpg"
 
 lab_pdf: "/assets/pdfs/Module-13-Lab-12-Packet-Tracer-Use-ipconfig-command.pdf"
 completed_lab: "/assets/pdfs/Module-13-Lab-12-Packet-Tracer-Use-ipconfig-command.pdf"

@@ -53,9 +53,9 @@ permalink: /network-portfolio/videos/06-05-11-configure-manual-dns-addresses/
 
 status: complete
 
-video_id: "REPLACE_WITH_YOUTUBE_ID"
-video_url: "REPLACE_WITH_YOUTUBE_URL"
-thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
+video_id: "pinTxgTGRAg"
+video_url: "https://youtu.be/pinTxgTGRAg"
+thumbnail: "https://img.youtube.com/vi/pinTxgTGRAg/hqdefault.jpg"
 ---
 
 ## Overview

@@ -3,9 +3,9 @@ layout: post
 title: "Technical Communication | Portfolio Publishing Guide"
 lab_title: "Portfolio Publishing Guide"
 
-lesson: "1.0" 
-lesson_id: "01.01.00"
-sort_order: "010100"
+lesson: "10.0" 
+lesson_id: "10.00.10"
+sort_order: "100010"
 
 categories: [portfolio, guides]
 

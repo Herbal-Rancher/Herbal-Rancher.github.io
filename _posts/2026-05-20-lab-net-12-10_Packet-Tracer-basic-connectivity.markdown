@@ -53,9 +53,9 @@ permalink: /network-portfolio/videos/12-10-packet-tracer-basic-connectivity/
 status: complete
 
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "R7AALJA9fCU"
+video_url: "https://youtu.be/R7AALJA9fCU"
+thumbnail: "https://img.youtube.com/vi/R7AALJA9fCU/hqdefault.jpg"
 
 ---
 

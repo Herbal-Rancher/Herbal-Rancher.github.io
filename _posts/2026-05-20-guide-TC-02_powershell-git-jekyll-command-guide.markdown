@@ -4,8 +4,8 @@ title: "Technical Communication | PowerShell, Git, and Jekyll Commands"
 lab_title: "PowerShell, Git, and Jekyll Commands"
 
 lesson: "10.0" 
-lesson_id: "01.02.00"
-sort_order: "010200"
+lesson_id: "10.00.20"
+sort_order: "100020"
 
 categories: [portfolio, guides]
 
@@ -52,6 +52,7 @@ protocols: []
 
 This page provides a structured command reference for managing a local Jekyll site, validating changes, and publishing updates to GitHub Pages.
 <!--more-->
+
 ---
 
 ## Navigate to Project

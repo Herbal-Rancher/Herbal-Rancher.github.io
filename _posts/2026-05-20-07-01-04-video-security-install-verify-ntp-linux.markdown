@@ -52,9 +52,9 @@ permalink: /network-portfolio/videos/07-01-04-install-verify-ntp-linux/
 
 status: complete
 
-video_id: "REPLACE_WITH_YOUTUBE_ID"
-video_url: "REPLACE_WITH_YOUTUBE_URL"
-thumbnail: "https://img.youtube.com/vi/REPLACE_WITH_YOUTUBE_ID/hqdefault.jpg"
+video_id: "zLDf0_lhgFw"
+video_url: "https://youtu.be/zLDf0_lhgFw"
+thumbnail: "https://img.youtube.com/vi/zLDf0_lhgFw/hqdefault.jpg"
 ---
 
 ## Overview
