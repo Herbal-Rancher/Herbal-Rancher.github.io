@@ -370,7 +370,7 @@ Mastering these commands provides a strong foundation for Network+, Security+, C
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---

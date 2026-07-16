@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 date: 2026-06-29 07:00:00 -0700
-permalink: /zabout-the-portfolio/
+permalink: /about/
 ---
 
 
@@ -143,7 +143,7 @@ The projects, labs, diagrams, and walkthroughs shared throughout this portfolio 
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* **[ABOUT THE PORTFOLIO](/zabout-the-portfolio/)**
+* **[ABOUT THE PORTFOLIO](/about/)**
 
 ---
 ---

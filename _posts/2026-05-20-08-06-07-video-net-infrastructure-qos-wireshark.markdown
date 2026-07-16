@@ -77,7 +77,7 @@ This no-narration video walkthrough demonstrates Quality of Service (QoS) config
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---

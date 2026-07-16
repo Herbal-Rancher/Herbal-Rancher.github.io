@@ -92,7 +92,7 @@ This assessment strengthened my understanding of how network communication occur
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---

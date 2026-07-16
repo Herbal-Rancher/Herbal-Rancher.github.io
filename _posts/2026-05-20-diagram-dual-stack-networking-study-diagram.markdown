@@ -132,7 +132,7 @@ As I studied IPv6, I discovered that organizations rarely replace IPv4 overnight
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---

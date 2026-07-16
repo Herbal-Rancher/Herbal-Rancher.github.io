@@ -200,7 +200,7 @@ This exercise reinforces the importance of understanding an organization's exter
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---

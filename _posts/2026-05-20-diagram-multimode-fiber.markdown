@@ -83,7 +83,7 @@ I wanted a comparison-style visual to understand multimode fiber and how it diff
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---

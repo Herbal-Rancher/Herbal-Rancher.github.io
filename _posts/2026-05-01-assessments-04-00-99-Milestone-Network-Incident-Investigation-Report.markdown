@@ -101,7 +101,7 @@ This milestone assessment strengthened my ability to approach complex network in
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---

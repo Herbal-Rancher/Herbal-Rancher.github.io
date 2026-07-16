@@ -136,7 +136,7 @@ As I learned IPv6, I discovered that ICMPv6 does much more than simply support t
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---

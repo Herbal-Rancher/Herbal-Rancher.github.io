@@ -123,7 +123,7 @@ Troubleshooting becomes significantly easier when a known-good system is availab
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---

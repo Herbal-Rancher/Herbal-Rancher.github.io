@@ -91,7 +91,7 @@ Every lesson, chart, and trade review is part of building a disciplined trading 
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * **[TRADING+](/trading/)**
 * [Bible Study](/bible-study/)
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---

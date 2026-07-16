@@ -18,7 +18,7 @@ These diagrams are generated from my real learning process. Each image represent
 
 
 This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
-To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [About the Portfolio](/zabout-the-portfolio/) page.
+To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [About the Portfolio](/about/) page.
 
 ---
 ---
@@ -168,7 +168,7 @@ This page will continue to grow as I study new topics, complete labs, and prepar
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---

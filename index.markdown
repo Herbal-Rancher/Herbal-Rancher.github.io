@@ -37,7 +37,7 @@ My goal is to build the knowledge and hands-on skills needed to successfully ear
 
 The Network+ Portfolio follows my progress through the Calbright College program, where I document coursework, labs, projects, and study resources as I work toward those goals.
 
-If you're a California resident interested in technology careers, you may also want to check out the bottom of my **[ABOUT THE PORTFOLIO](/zabout-the-portfolio/)** page for an amazing opportunity.
+If you're a California resident interested in technology careers, you may also want to check out the bottom of my **[About the Portfolio](/about/)** page for an amazing opportunity.
 
 ***Shall we journey together?***
 
@@ -53,7 +53,7 @@ If you're a California resident interested in technology careers, you may also w
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---

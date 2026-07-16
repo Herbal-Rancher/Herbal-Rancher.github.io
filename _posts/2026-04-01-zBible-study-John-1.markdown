@@ -115,7 +115,7 @@ Listen to [John](https://www.bible.com/bible/111/JHN.1.NIV)(2 full times)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---

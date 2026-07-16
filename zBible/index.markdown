@@ -14,7 +14,7 @@ the Bible, discovering and documenting key lessons, personal reflections, and ap
 
 This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
 
-To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [About the Portfolio](/zabout-the-portfolio/) page.
+To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [About the Portfolio](/about/) page.
 
 ---
 ---
@@ -93,7 +93,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * **[BIBLE STUDY](/bible-study/)**
-* [About the Portfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/about/)
 
 ---
 ---
