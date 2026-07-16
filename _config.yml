@@ -31,9 +31,9 @@ github_username:  Herbal-Rancher
 # Header features
 header_pages:
   - network-portfolio/index.markdown
-  - zTrading-journey/index.markdown
+  - zTrading/index.markdown
   - zBible/index.markdown
-  - zAbout-the-portfolio/index.markdown
+  - zAbout/index.markdown
 
 # Build settings
 theme: minima
