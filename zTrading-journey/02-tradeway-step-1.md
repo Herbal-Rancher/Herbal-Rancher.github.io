@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /investing/Watchlist/
+permalink: /trading/step1/
 nav_order: 1
 ---
 
 ---
 ---
 ---
-# Watchlist
+# Tradeway Step 1
 
 > **Lifelong learning through disciplined practice, thoughtful reflection, and continuous improvement.**
 

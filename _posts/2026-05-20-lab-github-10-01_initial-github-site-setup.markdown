@@ -40,7 +40,11 @@ tools:
   - cisco-packet-tracer
   
 date: 2026-04-03 01:11:11 -0100
-video: ""
+
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+
 pdf: ""
 diagram: ""
 
@@ -221,11 +225,12 @@ This lab demonstrates a real-world GitHub issue and its resolution. Understandin
 
 ## 🔗 Navigation
 
-* **[HOME](/)**
+* [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Modules](/network-portfolio/formative-modules/)
+  * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

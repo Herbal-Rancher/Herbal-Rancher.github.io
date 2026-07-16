@@ -91,6 +91,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * **[BIBLE STUDY](/bible-study/)**
 * [About the Portfolio](/zabout-the-portfolio/)
 

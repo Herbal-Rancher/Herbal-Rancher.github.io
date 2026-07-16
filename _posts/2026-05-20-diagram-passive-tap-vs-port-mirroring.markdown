@@ -78,9 +78,10 @@ I wanted to understand the differences between passive taps and port mirroring f
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Modules](/network-portfolio/formative-modules/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

@@ -83,9 +83,10 @@ I wanted to understand the different components and standards involved in struct
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Modules](/network-portfolio/formative-modules/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

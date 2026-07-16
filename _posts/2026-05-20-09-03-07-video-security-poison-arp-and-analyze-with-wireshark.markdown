@@ -81,7 +81,7 @@ Watch the complete walkthrough:
 * Investigate suspicious network behavior
 * Use packet analysis techniques to validate findings
 
-This lab reinforces practical packet analysis and security investigation skills commonly used by network administrators and security analysts.
+This lab reinforces practical packet analysis and security tradeigation skills commonly used by network administrators and security analysts.
 
 ---
 ---
@@ -91,9 +91,10 @@ This lab reinforces practical packet analysis and security investigation skills 
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Modules](/network-portfolio/formative-modules/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

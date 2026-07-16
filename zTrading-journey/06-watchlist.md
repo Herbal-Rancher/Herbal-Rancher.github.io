@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /investing/trading-labs/
+permalink: /trading/Watchlist/
 nav_order: 1
 ---
 
 ---
 ---
 ---
-# Trading Labs
+# Watchlist
 
 > **Lifelong learning through disciplined practice, thoughtful reflection, and continuous improvement.**
 

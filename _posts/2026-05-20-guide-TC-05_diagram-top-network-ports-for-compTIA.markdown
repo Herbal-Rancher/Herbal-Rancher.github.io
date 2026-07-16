@@ -86,9 +86,10 @@ The diagram combines memorization techniques, protocol comparisons, troubleshoot
 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Modules](/network-portfolio/formative-modules/)
+  * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
   * [Video Walkthroughs](/network-portfolio/videos/)
-  * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

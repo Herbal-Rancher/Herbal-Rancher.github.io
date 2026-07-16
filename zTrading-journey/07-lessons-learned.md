@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /investing/lessons/
+permalink: /trading/lessons/
 nav_order: 1
 ---
 

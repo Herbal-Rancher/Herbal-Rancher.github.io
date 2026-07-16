@@ -249,6 +249,7 @@ Successful communication with the gateway confirms local network connectivity. S
   * [Formative Modules](/network-portfolio/formative-modules/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

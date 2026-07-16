@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /investing/vocabulary/
+permalink: /trading/chart-basics/
 nav_order: 1
 ---
 
 ---
 ---
 ---
-# Vocabulary
+# Chart Basics
 
 > **Lifelong learning through disciplined practice, thoughtful reflection, and continuous improvement.**
 

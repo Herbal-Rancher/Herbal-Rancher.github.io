@@ -102,12 +102,13 @@ This study is an ongoing journey. By applying a consistent and thoughtful method
 
 ## 🔗 Navigation
 
-* [HOME](/)
+* [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Modules](/network-portfolio/formative-modules/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
-  * [Study Diagrams](/network-portfolio/study-diagrams/)
-* **[BIBLE STUDY](/bible-study/)**
+  * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
+* [Trading+](/trading/)
+* [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 
 ---

@@ -182,7 +182,7 @@ Original Exercise
 
 Accurate system time is fundamental to nearly every enterprise network.
 
-Authentication systems, log analysis, certificate validation, scheduled tasks, monitoring platforms, and cybersecurity investigations all rely on synchronized clocks.
+Authentication systems, log analysis, certificate validation, scheduled tasks, monitoring platforms, and cybersecurity tradeigations all rely on synchronized clocks.
 
 Understanding NTP is an essential skill for Linux administrators, network engineers, and cybersecurity professionals.
 
@@ -242,6 +242,7 @@ Reference Commands
   * [Formative Modules](/network-portfolio/formative-modules/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

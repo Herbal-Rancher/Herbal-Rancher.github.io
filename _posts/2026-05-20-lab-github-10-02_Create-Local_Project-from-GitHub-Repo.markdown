@@ -222,11 +222,12 @@ This experience reinforced the importance of understanding both development and 
 
 ## 🔗 Navigation
 
-* **[HOME](/)**
+* [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Modules](/network-portfolio/formative-modules/)
+  * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

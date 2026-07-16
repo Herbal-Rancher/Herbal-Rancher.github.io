@@ -94,7 +94,7 @@ Use the lab environment or reference image for:
 
 When troubleshooting DNS, comparing a hostname with its IP address is a simple way to determine whether the issue is related to name resolution or basic network connectivity.
 
-If communication succeeds using the IP address but fails using the hostname, DNS should be investigated.
+If communication succeeds using the IP address but fails using the hostname, DNS should be tradeigated.
 
 ---
 
@@ -232,11 +232,12 @@ Reference Tools
 
 ## 🔗 Navigation
 
-* **[HOME](/)**
+* [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
+  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

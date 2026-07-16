@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /investing/step1/
+permalink: /trading/trading-labs/
 nav_order: 1
 ---
 
 ---
 ---
 ---
-# Tradeway Step 1
+# Trading Labs
 
 > **Lifelong learning through disciplined practice, thoughtful reflection, and continuous improvement.**
 

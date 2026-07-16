@@ -52,7 +52,7 @@ Modules 01 – 09 focus on foundational networking theory, protocols, models, te
 
 {% if module_posts.size > 0 %}
 <!-- DEBUG WHEN NEEDED
-module Post 1st Title: {{ module_posts.first.title }}<br>
+module Post lab_title: {{ module_posts.first.lab_title }}<br>
 module Post 1st Lesson_ID: {{ module_posts.first.lesson_id }}<br>
 module Post 1st Content Type: {{ module_posts.first.content_type_display }}<br>
 module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
@@ -78,7 +78,7 @@ module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
   {% if post.categories contains "assessment" or post.categories contains "milestone" or post.categories contains "summative" or post.categories contains "discussion" %}
     {% assign has_assessments = true %}
     <li style="margin-bottom: .5rem;">
-      ✓ <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      ✓ <a href="{{ post.url | relative_url }}">{{ post.lab_title | default: post.title }}</a>
       {% if post.content_type_display %}
       <span style="background: #eef3ff; padding: .1rem .45rem; border-radius: 10px; font-size: .72rem;">
         {{ post.content_type_display }}
@@ -178,7 +178,7 @@ Modules 10 – 18 focus on hands-on implementation, troubleshooting, security an
   {% if post.categories contains "assessment" or post.categories contains "milestone" or post.categories contains "summative" or post.categories contains "discussion" %}
     {% assign has_assessments = true %}
     <li style="margin-bottom: .5rem;">
-      ✓ <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      ✓ <a href="{{ post.url | relative_url }}">{{ post.lab_title | default: post.title }}</a>
       {% if post.content_type_display %}
       <span style="background: #eef3ff; padding: .1rem .45rem; border-radius: 10px; font-size: .72rem;">
         {{ post.content_type_display }}
@@ -236,9 +236,11 @@ Modules 10 – 18 focus on hands-on implementation, troubleshooting, security an
 {% endfor %}
 
 </div>
+
 ---
 ---
 ---
+
 ## 🔗 Navigation
 
 * [Home](/)
@@ -246,8 +248,10 @@ Modules 10 – 18 focus on hands-on implementation, troubleshooting, security an
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* /bible-study/ortfolio](/zabout-the-portfolio/)
+* [About the Portfolio](/zabout-the-portfolio/)
+
 
 ---
 ---

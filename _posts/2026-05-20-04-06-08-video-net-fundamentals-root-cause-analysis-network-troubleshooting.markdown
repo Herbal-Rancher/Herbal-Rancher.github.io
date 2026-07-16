@@ -61,7 +61,7 @@ This walkthrough demonstrates a structured troubleshooting process used to ident
 
 <!--more-->
 
-The exercise emphasizes investigative thinking, evidence gathering, and validation techniques commonly used in professional IT environments.
+The exercise emphasizes tradeigative thinking, evidence gathering, and validation techniques commonly used in professional IT environments.
 
 ---
 
@@ -126,6 +126,7 @@ Structured troubleshooting reduces guesswork and improves efficiency. By followi
   * [Formative Modules](/network-portfolio/formative-modules/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

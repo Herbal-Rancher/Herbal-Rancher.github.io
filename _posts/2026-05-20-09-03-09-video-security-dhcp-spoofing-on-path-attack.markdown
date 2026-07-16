@@ -49,7 +49,7 @@ thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 ## Overview
 
-This no-narration walkthrough demonstrates a DHCP spoofing on-path attack using Ettercap and analyzes the resulting network behavior through packet captures and routing investigation.
+This no-narration walkthrough demonstrates a DHCP spoofing on-path attack using Ettercap and analyzes the resulting network behavior through packet captures and routing tradeigation.
 
 <!--more-->
 
@@ -85,7 +85,7 @@ Watch the complete walkthrough:
 * Observe credential interception techniques
 * Understand DHCP attack methodology
 
-This lab demonstrates how attackers can manipulate DHCP services to redirect traffic and how security professionals can identify and investigate these attacks.
+This lab demonstrates how attackers can manipulate DHCP services to redirect traffic and how security professionals can identify and tradeigate these attacks.
 
 ---
 ---
@@ -94,10 +94,12 @@ This lab demonstrates how attackers can manipulate DHCP services to redirect tra
 ## 🔗 Navigation
 
 * [Home](/)
+* [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Modules](/network-portfolio/formative-modules/)
+  * [Formative Modules](/network-portfolio/formative-modules/)
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

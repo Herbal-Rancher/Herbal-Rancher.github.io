@@ -33,7 +33,11 @@ permalink: /network-portfolio/labs/module-11-0/connect-router-to-lan/
 status: complete
 
 date: 2026-04-03 08:34:11 -0700
-video: ""
+
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+
 pdf: ""
 diagram: ""
 
@@ -360,11 +364,12 @@ This felt like one of my first true multi-network routing labs where everything 
 
 ## 🔗 Navigation
 
-* **[HOME](/)**
+* [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Modules](/network-portfolio/formative-modules/)
+  * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

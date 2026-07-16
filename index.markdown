@@ -20,11 +20,14 @@ The **[NETWORK+ PORTFOLIO](/network-portfolio/)** currently serves as the founda
 
 ## Personal Learning Portfolio
 
-Learning extends beyond technology. My personal portfolio documents areas of study that inspire personal growth, critical thinking, and lifelong learning.
+Learning extends beyond technology. My personal portfolio documents areas of study that encourage lifelong learning, critical thinking, and personal growth.
 
-Currently, this includes my **[BIBLE STUDY](/bible-study/)** journey, where I explore Scripture beginning with Genesis and continuing through both the Old and New Testaments.
+Current learning journeys include:
 
-Future additions will include my investing and stock market studies as I continue expanding my knowledge in new areas.
+- **[BIBLE STUDY JOURNEY](/bible-study/)** — Exploring Scripture from Genesis through the Old and New Testaments to better understand biblical history, theology, and Christian faith.
+- **[TRADING JOURNEY](/trading/)** — Documenting my education in trading, stock market analysis, risk management, and long-term wealth building through structured learning, study notes, and practical application.
+
+As my knowledge continues to grow, this portfolio will expand to include additional subjects, resources, and learning experiences.
 
 ## Why This Site Exists
 
@@ -34,7 +37,7 @@ My goal is to build the knowledge and hands-on skills needed to successfully ear
 
 The Network+ Portfolio follows my progress through the Calbright College program, where I document coursework, labs, projects, and study resources as I work toward those goals.
 
-If you're a California resident interested in technology careers, you may also want to check out the bottom of my **[About the Portfolio](/zabout-the-portfolio/)** page for an amazing opportunity.
+If you're a California resident interested in technology careers, you may also want to check out the bottom of my **[ABOUT THE PORTFOLIO](/zabout-the-portfolio/)** page for an amazing opportunity.
 
 ***Shall we journey together?***
 
@@ -48,6 +51,7 @@ If you're a California resident interested in technology careers, you may also w
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

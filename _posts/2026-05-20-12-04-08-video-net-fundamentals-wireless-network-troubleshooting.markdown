@@ -165,7 +165,7 @@ A structured troubleshooting process prevents unnecessary configuration changes 
 
 ## Key Takeaway
 
-Effective wireless troubleshooting starts by comparing a working device to a non-working device, isolating differences, and verifying the status of the wireless adapter before investigating more complex network issues.
+Effective wireless troubleshooting starts by comparing a working device to a non-working device, isolating differences, and verifying the status of the wireless adapter before tradeigating more complex network issues.
 
 
 ---
@@ -177,9 +177,9 @@ Effective wireless troubleshooting starts by comparing a working device to a non
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-
   * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

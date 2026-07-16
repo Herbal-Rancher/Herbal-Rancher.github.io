@@ -156,6 +156,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
   * **[LAB WALKTHROUGHS](/network-portfolio/labs/)**
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

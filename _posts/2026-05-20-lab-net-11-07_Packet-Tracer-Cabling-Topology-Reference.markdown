@@ -33,7 +33,11 @@ topics: [network-topology, physical-topology, cabling, infrastructure-basics]
 tools: [Ethernet-Cable, Patch-Panel, Network-Devices]
   
 date: 2026-04-03 07:14:11 -0700
-video: ""
+
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+
 pdf: ""
 diagram: ""
 
@@ -238,11 +242,12 @@ Even perfect configurations fail if devices are connected incorrectly.
 
 ## 🔗 Navigation
 
-* **[HOME](/)**
+* [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Modules](/network-portfolio/formative-modules/)
+  * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

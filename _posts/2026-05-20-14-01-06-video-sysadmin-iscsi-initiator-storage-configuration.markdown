@@ -219,8 +219,9 @@ iSCSI allows organizations to deliver enterprise storage across standard Etherne
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
-  * [Study Diagrams](/network-portfolio/study-diagrams/)
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

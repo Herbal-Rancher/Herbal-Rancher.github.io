@@ -351,7 +351,7 @@ arp
 tcpdump
 ```
 
-Mastering these commands provides a strong foundation for Network+, Security+, CCNA, Linux administration, SOC analyst work, and incident response investigations.
+Mastering these commands provides a strong foundation for Network+, Security+, CCNA, Linux administration, SOC analyst work, and incident response tradeigations.
 
 ```
 ```
@@ -363,11 +363,12 @@ Mastering these commands provides a strong foundation for Network+, Security+, C
 
 ## 🔗 Navigation
 
-* **[HOME](/)**
+* [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
-  * [Formative Modules](/network-portfolio/formative-modules/)
+  * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/zabout-the-portfolio/)
 

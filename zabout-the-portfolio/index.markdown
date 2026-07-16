@@ -12,7 +12,7 @@ permalink: /zabout-the-portfolio/
 
 Welcome to About the Portfolio page! This is a living collection of studies, projects, notes, diagrams, videos, and discoveries created throughout my learning journey.
 
-I am a Network Technology student, lifelong learner, and builder of ideas with interests that span networking, cybersecurity, investing, Bible study, technical documentation, and systems thinking. My goal is simple: learn deeply, document what I discover, and share resources that may help others who are walking similar paths.
+I am a Network Technology student, lifelong learner, and builder of ideas with interests that span networking, cybersecurity, trading, Bible study, technical documentation, and systems thinking. My goal is simple: learn deeply, document what I discover, and share resources that may help others who are walking similar paths.
 
 I believe meaningful growth comes through curiosity, discipline, consistent effort, and a willingness to keep learning.
 
@@ -90,7 +90,7 @@ The images that follow were created after sharing personal references and additi
 
 This portfolio began as a place to document technical studies, projects, and discoveries. Over time, it became something more—a record of curiosity, creativity, perseverance, and lifelong learning.
 
-Created during a season of significant transition, these pages reflect an ongoing journey through technology, investing, Bible study, and personal growth. Every lab completed, diagram created, article written, and question explored represents another step forward in a process that is still unfolding.
+Created during a season of significant transition, these pages reflect an ongoing journey through technology, trading, Bible study, and personal growth. Every lab completed, diagram created, article written, and question explored represents another step forward in a process that is still unfolding.
 
 Much of what you find here was developed through hands-on practice, independent research, creative experimentation, and collaboration with modern technology, including AI-assisted learning tools. Together, they have helped transform ideas into projects, questions into understanding, and challenges into opportunities for growth.
 
@@ -141,8 +141,9 @@ The projects, labs, diagrams, and walkthroughs shared throughout this portfolio 
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
 * [Bible Study](/bible-study/)
-* **[BEHIND THE PORTFOLIO](/zabout-the-portfolio/)**
+* **[ABOUT THE PORTFOLIO](/zabout-the-portfolio/)**
 
 ---
 ---
