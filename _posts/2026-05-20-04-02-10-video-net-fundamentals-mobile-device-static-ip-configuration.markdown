@@ -72,6 +72,18 @@ While most modern devices obtain network settings automatically through DHCP, ad
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Concepts Explored
 
 * Mobile Device Networking
@@ -199,16 +211,6 @@ Static addressing is commonly used for:
 * Specialized Mobile Devices
 
 Understanding both manual and automatic configuration methods helps administrators support a wide variety of environments.
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

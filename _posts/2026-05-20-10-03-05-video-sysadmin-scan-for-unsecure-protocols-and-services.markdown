@@ -67,14 +67,15 @@ This walkthrough documents a network reconnaissance exercise focused on gatherin
 The purpose of this exercise is to practice safe, authorized reconnaissance techniques used by network administrators and security analysts when reviewing exposed services and external infrastructure.
 
 ---
----
 
 ## Video Walkthrough
+
+Watch the complete walkthrough:
 
 <a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
   <img src="{{ page.thumbnail }}"
        alt="{{ page.title }}"
-       style="width: 420px; border-radius: 8px;">
+       style="width:420px; border-radius:8px;">
 </a>
 
 ---
@@ -164,6 +165,7 @@ Purpose:
 * Network Documentation
 
 ---
+
 
 ## Key Takeaways
 

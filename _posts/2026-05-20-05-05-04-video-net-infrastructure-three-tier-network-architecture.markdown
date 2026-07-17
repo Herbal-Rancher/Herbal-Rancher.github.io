@@ -73,6 +73,18 @@ Three-tier architecture provides scalability, redundancy, fault tolerance, and s
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Concepts Explored
 
 * Enterprise Network Architecture
@@ -198,16 +210,6 @@ Three-tier architectures are commonly found in:
 * Enterprise Campuses
 
 Although some modern environments utilize spine-leaf architectures, the three-tier model remains a foundational networking concept.
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

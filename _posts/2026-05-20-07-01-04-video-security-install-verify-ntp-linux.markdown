@@ -66,6 +66,17 @@ This guided walkthrough demonstrates how to install and verify the Network Time 
 Accurate system time is essential for authentication, logging, security auditing, scheduling, and communication across enterprise networks.
 
 ---
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
 
 > **Portfolio Note**
 >
@@ -186,17 +197,6 @@ Authentication systems, log analysis, certificate validation, scheduled tasks, m
 
 Understanding NTP is an essential skill for Linux administrators, network engineers, and cybersecurity professionals.
 
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-
-<img src="{{ page.thumbnail }}"
-alt="{{ page.title }}"
-style="width:420px; border-radius:8px;">
-
-</a>
 
 ---
 

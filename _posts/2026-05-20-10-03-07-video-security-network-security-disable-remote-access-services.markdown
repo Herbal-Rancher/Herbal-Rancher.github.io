@@ -73,6 +73,18 @@ Understanding how to discover and manage remote access services is an important 
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Concepts Explored
 
 * Network Reconnaissance
@@ -145,15 +157,6 @@ Unused remote access services increase the attack surface of a network. Regularl
 
 Security is often improved not by adding more software, but by removing unnecessary services that are not actively required.
 
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

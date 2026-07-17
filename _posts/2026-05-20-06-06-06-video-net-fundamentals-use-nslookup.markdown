@@ -52,6 +52,17 @@ This lab reinforced the relationship between domain names, DNS servers, and MX r
 <!--more-->
 
 ---
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
 
 # Lab Objectives
 
@@ -339,20 +350,6 @@ This lab reinforced:
 * Windows to Linux command conversion
 
 This was one of my first labs where I began translating familiar Windows networking concepts into Linux administration workflows.
-
----
-
-# Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-
-<img src="{{ page.thumbnail }}"
-alt="{{ page.title }}"
-style="width:420px; border-radius:8px;">
-
-</a>
-
----
 
 
 ---

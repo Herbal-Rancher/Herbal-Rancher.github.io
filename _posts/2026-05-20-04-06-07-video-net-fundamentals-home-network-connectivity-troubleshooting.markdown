@@ -65,6 +65,18 @@ The exercise demonstrates how connectivity symptoms can be analyzed by comparing
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Areas Investigated
 
 * Device connectivity
@@ -93,16 +105,6 @@ The exercise demonstrates how connectivity symptoms can be analyzed by comparing
 Many network issues originate from incorrect configurations, connectivity failures, or overlooked settings.
 
 The ability to systematically compare working and non-working systems is one of the most valuable troubleshooting techniques available to support professionals.
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-<img src="{{ page.thumbnail }}"
-alt="{{ page.title }}"
-style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

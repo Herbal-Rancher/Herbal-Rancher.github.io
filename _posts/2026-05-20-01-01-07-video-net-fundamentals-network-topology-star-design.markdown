@@ -69,6 +69,19 @@ The star topology is one of the most common network designs used in modern organ
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
+
 ## Concepts Explored
 
 * Network Topologies
@@ -172,16 +185,6 @@ Star topologies are commonly used in:
 * Data Centers
 
 Most modern Ethernet networks utilize some variation of a star topology.
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

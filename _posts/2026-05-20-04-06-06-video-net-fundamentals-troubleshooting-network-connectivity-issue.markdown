@@ -65,6 +65,18 @@ The focus of this exercise is not a specific tool or command, but rather the tro
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Troubleshooting Process
 
 The following methodology was used:
@@ -100,16 +112,6 @@ Real-world technical support rarely provides step-by-step instructions.
 Successful technicians must gather information, evaluate symptoms, eliminate possibilities, and identify root causes before implementing solutions.
 
 This exercise reinforces the analytical thinking required in help desk, desktop support, systems administration, and networking roles.
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-<img src="{{ page.thumbnail }}"
-alt="{{ page.title }}"
-style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

@@ -70,6 +70,18 @@ Wireless issues can originate from hardware, operating system settings, wireless
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Concepts Explored
 
 * Wireless Networking
@@ -150,16 +162,6 @@ After restoring wireless functionality:
 Wireless connectivity problems are among the most common support requests in modern environments. Understanding how to isolate client-side issues from infrastructure issues helps technicians resolve problems faster and reduce downtime.
 
 A structured troubleshooting process prevents unnecessary configuration changes and improves overall problem-solving efficiency.
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

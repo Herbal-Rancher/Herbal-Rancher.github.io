@@ -69,6 +69,18 @@ Modern wireless environments often contain dozens or hundreds of access points. 
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Concepts Explored
 
 * Enterprise Wireless Management
@@ -176,16 +188,6 @@ Benefits include:
 Wireless networking is no longer simply about providing coverage. Enterprise wireless environments must continuously adapt to changing conditions, interference sources, and client demands.
 
 Understanding how controllers optimize radio power, channels, client distribution, and network health helps administrators build more reliable and efficient wireless networks.
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

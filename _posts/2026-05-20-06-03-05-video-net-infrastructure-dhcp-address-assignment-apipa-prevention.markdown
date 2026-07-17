@@ -65,6 +65,18 @@ The exercise focuses on building network connectivity, validating address assign
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Network Reference
 
 Lab precondition and network topology image used during the exercise.
@@ -181,15 +193,6 @@ Verify that all connected devices receive valid network configurations and can c
 
 ---
 
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width:420px; border-radius:8px;">
-</a>
-
----
 
 ## Key Takeaways
 

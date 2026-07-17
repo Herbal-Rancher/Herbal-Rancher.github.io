@@ -53,14 +53,17 @@ tools:
 
 This no-narration video walkthrough demonstrates how to identify open ports and analyze network communication using Netstat and Wireshark.
 <!--more-->
+
 ---
 
 ## Video Walkthrough
 
+Watch the complete walkthrough:
+
 <a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
   <img src="{{ page.thumbnail }}"
        alt="{{ page.title }}"
-       style="width: 420px; border-radius: 8px;">
+       style="width:420px; border-radius:8px;">
 </a>
 
 ---

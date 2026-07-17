@@ -66,6 +66,18 @@ This walkthrough demonstrates how to manually configure DNS server addresses on 
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 > **Portfolio Note**
 >
 > This page documents my personal learning journey through networking, systems administration, and cybersecurity. The accompanying walkthrough demonstrates concepts and techniques using a hands-on lab environment for educational purposes.
@@ -158,17 +170,6 @@ Understanding how to override DHCP-provided DNS settings is an essential network
 
 ---
 
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-
-<img src="{{ page.thumbnail }}"
-alt="{{ page.title }}"
-style="width:420px; border-radius:8px;">
-
-</a>
-
----
 
 ## Key Takeaways
 

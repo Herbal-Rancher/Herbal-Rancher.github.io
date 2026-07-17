@@ -56,22 +56,6 @@ date: 2026-06-19 12:00:00 -0700
 ---
 
 
----
----
----
-
-## Overview
-
-This walkthrough documents a network reconnaissance exercise focused on gathering publicly available domain information, resolving a web server address, and identifying potentially insecure services through port scanning.
-
-<!--more-->
-
-The purpose of this exercise is to practice safe, authorized reconnaissance techniques used by network administrators and security analysts when reviewing exposed services and external infrastructure.
-
----
----
----
-
 ## Overview
 
 This video walkthrough demonstrates how Linux services can be enabled, disabled, and verified using the systemctl command-line utility.
@@ -79,6 +63,18 @@ This video walkthrough demonstrates how Linux services can be enabled, disabled,
 <!--more-->
 
 Understanding service management is a fundamental Linux administration skill. System administrators frequently control which services start automatically during system boot and verify whether services are enabled or disabled as part of system maintenance and security hardening.
+
+---
+
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
 
 ---
 
@@ -147,16 +143,6 @@ Many Linux services are configured to automatically start when the operating sys
 * Manage production environments
 
 Learning to work with systemctl is a foundational skill for Linux administrators, cybersecurity professionals, and IT support specialists.
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width: 420px; border-radius: 8px;">
-</a>
 
 ---
 ## Key Takeaway

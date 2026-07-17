@@ -66,6 +66,18 @@ Once storage is provisioned by an iSCSI target, authorized servers can discover 
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Concepts Explored
 
 * Storage Area Networks (SAN)
@@ -192,16 +204,6 @@ In the previous exercise, storage resources were created and published by an iSC
 In this exercise, those storage resources are consumed by an authorized initiator system and configured for operational use.
 
 Together, these two processes demonstrate the complete lifecycle of iSCSI storage deployment.
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

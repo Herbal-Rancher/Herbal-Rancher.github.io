@@ -64,6 +64,18 @@ The exercise introduces standard DNS zones, zone transfers, and the relationship
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 > **Portfolio Note**
 >
 > This page documents my personal learning journey through networking, systems administration, and cybersecurity. The accompanying walkthrough demonstrates concepts and techniques using a hands-on lab environment for educational purposes.
@@ -179,18 +191,6 @@ Understanding how primary and secondary zones work together helps administrators
 
 ---
 
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-
-<img src="{{ page.thumbnail }}"
-alt="{{ page.title }}"
-style="width:420px; border-radius:8px;">
-
-</a>
-
----
-
 ## Key Takeaways
 
 Primary and secondary DNS zones improve reliability by distributing DNS data across multiple servers. Properly configuring zone transfers ensures that secondary servers maintain accurate, read-only copies of the DNS database.
@@ -210,6 +210,7 @@ Reference Tools
 - DNS Manager
 - nslookup
 - ipconfig /all
+
 
 
 ---

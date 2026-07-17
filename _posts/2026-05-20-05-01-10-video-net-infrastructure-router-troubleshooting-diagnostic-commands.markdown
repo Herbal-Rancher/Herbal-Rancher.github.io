@@ -63,6 +63,18 @@ The objective is to gather information from network infrastructure devices and u
 
 ---
 
+---
+
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
 ## Network Reference
 
 Add the network topology diagram used during the exercise.
@@ -204,16 +216,6 @@ Confirm:
 * Connectivity Testing
 * Route Analysis
 * Network Diagnostics
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

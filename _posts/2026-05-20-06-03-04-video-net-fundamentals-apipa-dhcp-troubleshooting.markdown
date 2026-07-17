@@ -64,6 +64,18 @@ The objective is to determine why a workstation cannot obtain a valid network ad
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Network Reference
 
 Lab precondition and first floor building diagram used in the exercise.
@@ -190,16 +202,6 @@ Confirm successful communication.
 * Problem Resolution
 * Network Diagnostics
 * Technical Documentation
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

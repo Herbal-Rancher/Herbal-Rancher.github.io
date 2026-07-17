@@ -52,11 +52,17 @@ This no-narration walkthrough demonstrates how MAC spoofing works by using SMAC 
 
 <!--more-->
 
+---
+
 ## Video Walkthrough
 
 Watch the complete walkthrough:
 
-{{ page.video_url }}
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
 
 ## Skills Practiced
 
@@ -81,7 +87,6 @@ Watch the complete walkthrough:
 * Analyze the impact of MAC spoofing
 
 This lab provides hands-on experience with a common security technique used in both legitimate testing and malicious network attacks.
-
 
 ---
 ---

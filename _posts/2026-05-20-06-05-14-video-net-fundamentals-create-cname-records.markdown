@@ -65,6 +65,17 @@ This guided walkthrough demonstrates how to create Alias (CNAME) records using W
 The exercise shows how multiple DNS names can reference a single host, allowing users to access the same service through different, easy-to-remember names.
 
 ---
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
 
 > **Portfolio Note**
 >
@@ -168,17 +179,6 @@ This simplifies DNS management and reduces administrative overhead when server I
 
 ---
 
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-
-<img src="{{ page.thumbnail }}"
-alt="{{ page.title }}"
-style="width:420px; border-radius:8px;">
-
-</a>
-
----
 
 ## Key Takeaways
 

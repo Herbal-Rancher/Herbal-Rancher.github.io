@@ -64,6 +64,18 @@ The exercise focuses on hardware installation, fiber connectivity, WAN connectiv
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Network Reference
 
 Use the Lab infrastructure workspace to guide the installation and connectivity process. Example of the physical layout and connections:
@@ -157,16 +169,6 @@ Confirm:
 * Structured Cabling
 * Physical Layer Networking
 * Network Documentation
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

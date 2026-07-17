@@ -67,6 +67,17 @@ This guided walkthrough demonstrates how to troubleshoot a DNS name resolution p
 The exercise illustrates how missing DNS records can prevent users from accessing network resources even when the destination server is online.
 
 ---
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
 
 > **Portfolio Note**
 >
@@ -181,18 +192,6 @@ One of the fastest ways to diagnose a DNS issue is to compare communication by h
 If an IP address responds but the hostname does not, the problem often lies within DNS rather than the underlying network.
 
 This troubleshooting technique is frequently used by help desk technicians, systems administrators, and network engineers.
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-
-<img src="{{ page.thumbnail }}"
-alt="{{ page.title }}"
-style="width:420px; border-radius:8px;">
-
-</a>
 
 ---
 

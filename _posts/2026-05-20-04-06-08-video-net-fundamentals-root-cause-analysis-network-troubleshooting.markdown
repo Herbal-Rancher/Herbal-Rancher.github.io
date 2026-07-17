@@ -65,6 +65,18 @@ The exercise emphasizes tradeigative thinking, evidence gathering, and validatio
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Troubleshooting Methodology
 
 A structured troubleshooting approach includes:
@@ -98,16 +110,6 @@ A structured troubleshooting approach includes:
 Technical professionals are frequently asked to solve problems they have never encountered before.
 
 The ability to follow a repeatable troubleshooting methodology is often more valuable than memorizing specific solutions because the same process can be applied to countless technologies and environments.
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-<img src="{{ page.thumbnail }}"
-alt="{{ page.title }}"
-style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

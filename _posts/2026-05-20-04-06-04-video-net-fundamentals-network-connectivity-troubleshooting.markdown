@@ -68,6 +68,18 @@ The objective is to determine where communication is failing and identify the ne
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Network Reference
 
 The following devices were available for connectivity testing during this exercise.
@@ -212,16 +224,6 @@ Confirm that communication succeeds and the issue has been resolved.
 * Root Cause Identification
 * Troubleshooting Methodology
 * Problem Resolution
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width:420px; border-radius:8px;">
-</a>
 
 ---
 

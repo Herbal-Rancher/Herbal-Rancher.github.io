@@ -68,6 +68,18 @@ The activity focuses on assigning a static IP address, configuring DNS servers, 
 
 ---
 
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
+---
+
 ## Configuration Requirements
 
 ### IPv4 Configuration
@@ -219,16 +231,6 @@ root@IT-Laptop:~# ping -c4 www.corpnet.xyz
 * TCP/IP Fundamentals
 * Command-Line Administration
 * Configuration IP Addresses on Linux
-
----
-
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width: 420px; border-radius: 8px;">
-</a>
 
 ---
 

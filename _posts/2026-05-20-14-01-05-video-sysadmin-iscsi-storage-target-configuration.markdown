@@ -65,6 +65,19 @@ This walkthrough demonstrates how Storage Area Networks (SANs) can be implemente
 
 iSCSI provides organizations with a cost-effective method of delivering centralized storage resources over existing network infrastructure without requiring specialized Fibre Channel hardware.
 
+
+---
+
+## Video Walkthrough
+
+Watch the complete walkthrough:
+
+<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
+  <img src="{{ page.thumbnail }}"
+       alt="{{ page.title }}"
+       style="width:420px; border-radius:8px;">
+</a>
+
 ---
 
 ## Concepts Explored
@@ -182,15 +195,6 @@ iSCSI storage solutions are commonly used in:
 
 ---
 
-## Video Walkthrough
-
-<a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-  <img src="{{ page.thumbnail }}"
-       alt="{{ page.title }}"
-       style="width:420px; border-radius:8px;">
-</a>
-
----
 
 ## Key Takeaway
 
