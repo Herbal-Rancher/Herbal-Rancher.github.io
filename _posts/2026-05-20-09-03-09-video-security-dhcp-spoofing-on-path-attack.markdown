@@ -45,9 +45,9 @@ permalink: /network-portfolio/videos/09-03-09-video-security-dhcp-spoofing-on-pa
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "i2IW8NC0ufo"
+video_url: "https://youtu.be/i2IW8NC0ufo"
+thumbnail: "https://img.youtube.com/vi/i2IW8NC0ufo/hqdefault.jpg"
 
 ---
 
