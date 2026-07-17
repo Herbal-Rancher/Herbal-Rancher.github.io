@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Technical Communication | Creating a Local Project From My Remote GitHub Repository"
-lab_title: "Creating a Local Project From My Remote GitHub Repository"
+title: "Technical Communication | Initial GitHub Site Setup"
+lab_title: "Initial GitHub Site Setup"
 
 lesson: "10.0"
-lesson_id: "10.02.00"
-sort_order: "100200"
+lesson_id: "10.01.00"
+sort_order: "100100"
 
 categories: [portfolio, labs]
 
@@ -19,7 +19,7 @@ content_type: lab
 content_type_display: Lab
 
 
-tags:
+tags: 
   - github-pages
   - jekyll
   - git
@@ -28,7 +28,7 @@ tags:
   - branching
   - workflow
 
-permalink: /network-portfolio/labs/module-1-0/create-local-project-from-github-repo/
+permalink: /network-portfolio/labs/module-1-0/initial-github-site-setup/
 status: complete
 
 topics:
@@ -39,73 +39,100 @@ topics:
 tools: 
   - cisco-packet-tracer
   
-date: 2026-04-03 02:12:14 -0200
-video: ""
+date: 2026-04-03 01:11:11 -0100
+
+video_id: "zwGWxiwK79o"
+video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+
 pdf: ""
 diagram: ""
 
 protocols: []
 
 ---
- 
-In this walkthrough, I document the process of configuring and deploying my GitHub Pages blog for the first time. While the initial setup seemed straightforward, I encountered several real-world issues involving Git, branching, authentication, and dependency management.
 
-This post outlines both the setup process and the troubleshooting steps required to successfully publish my site.
+In this lab, I demonstrate how to resolve a common issue where local changes are not reflected on GitHub. The goal is to ensure that the contents of a local project folder completely replace the remote repository and successfully publish to GitHub Pages.
 <!--more-->
+---
+
+### Problem Scenario
+
+* Local files were updated successfully
+* `git add` and `git commit` were run
+* Changes did **not appear on GitHub**
+* GitHub Pages build showed an error:
+
+  > "The log was not found. It may have been deleted based on retention settings."
+
 ---
 
 ### Objective
 
-* Configure a local Jekyll-based project
-* Push the project to GitHub
-* Deploy the site using GitHub Pages
-* Resolve any errors preventing deployment
+Force the local repository to overwrite the remote `main` branch and trigger a successful GitHub Pages deployment.
 
 ---
 
-### Initial Setup
+### Prerequisites
 
-I began by:
-
-* Creating a GitHub repository for my site
-* Copying my project files into a local directory
-* Initializing Git and connecting to the remote repository
-
-#### Basic Git Workflow
-
-```bash
-git add .
-git commit -m "initial commit"
-git push origin main
-```
-
-At this point, I expected my site to appear on GitHub Pages—but it didn’t.
+* Git installed on local machine
+* GitHub account and repository created
+* Local project folder ready
 
 ---
 
-### Issues Encountered & Resolutions
+### Step 1: Navigate to Local Project Folder
 
-#### 1. Branch Mismatch (`gh-website` vs `main`)
-
-**Issue:**
-My changes were committed to a branch called `gh-website`, but GitHub Pages was configured to use `main`.
-
-**Fix:**
+Open a terminal and move into your project directory:
 
 ```bash
-git checkout -b main
-git merge gh-website
-git push origin main --force
+cd path/to/your/local/folder
 ```
 
 ---
 
-#### 2. Incorrect Remote Repository URL
+### Step 2: Configure Git Identity
 
-**Issue:**
-Git could not find my repository due to an incorrectly formatted remote URL.
+Ensure Git is properly configured:
 
-**Fix:**
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+```
+
+Verify configuration:
+
+```bash
+git config --list
+```
+
+---
+
+### Step 3: Initialize Git Repository
+
+If the folder is not already a Git repository:
+
+```bash
+git init
+```
+
+---
+
+### Step 4: Connect to GitHub Repository
+
+Add your remote repository:
+
+```bash
+git remote add origin https://github.com/<username>/<repository>.git
+```
+
+Verify the connection:
+
+```bash
+git remote -v
+```
+
+If the remote already exists, update it:
 
 ```bash
 git remote set-url origin https://github.com/<username>/<repository>.git
@@ -113,107 +140,83 @@ git remote set-url origin https://github.com/<username>/<repository>.git
 
 ---
 
-#### 3. Push Blocked by Email Privacy Settings
+### Step 5: Stage All Files
 
-**Issue:**
-GitHub rejected my push because my commit exposed a private email address.
-
-**Fix:**
-
-* Updated Git config to use GitHub’s noreply email
-* Amended the commit:
+Prepare all files for commit:
 
 ```bash
-git commit --amend --reset-author
-git push origin main --force
+git add .
 ```
 
 ---
 
-#### 4. Bundler and Ruby Version Conflict
+### Step 6: Commit Changes
 
-**Issue:**
-The build failed because Bundler version 4.x required Ruby 3.2+, while GitHub Pages uses Ruby 3.1.6.
+Use a descriptive commit message:
 
-**Fix:**
-
-* Removed `Gemfile.lock`
-* Avoided explicitly setting incompatible Bundler versions
-
----
-
-#### 5. Outdated `github-pages` Gem
-
-**Issue:**
-The project was using an outdated version of the `github-pages` gem, causing compatibility issues.
-
-**Fix:**
-Updated the `Gemfile`:
-
-```ruby
-source "https://rubygems.org"
-
-gem "github-pages", "~> 228", group: :jekyll_plugins
+```bash
+git commit -m "updated blogs, homepage, added first blog entries, ready for assignments, labs and bible study"
 ```
 
 ---
 
-#### 6. Jekyll Version Conflict
+### Step 7: Force Push to GitHub
 
-**Issue:**
-I manually specified Jekyll 4.x, but GitHub Pages requires Jekyll 3.9.x.
-
-**Fix:**
-Removed the Jekyll dependency entirely and allowed GitHub Pages to manage it.
-
----
-
-### Final Working Configuration
-
-#### Clean `Gemfile`
-
-```ruby
-source "https://rubygems.org"
-
-gem "github-pages", "~> 228", group: :jekyll_plugins
-```
-
-#### Deployment Command
+Push changes and overwrite the remote `main` branch:
 
 ```bash
 git push origin main --force
 ```
 
----
+#### Important Note:
 
-### Key Modules Learned
-
-* GitHub Pages manages its own dependencies—avoid overriding them
-* Branch selection matters (`main` vs others)
-* `Gemfile.lock` can cause hidden conflicts
-* Git commit identity must align with GitHub privacy settings
-* Many deployment issues are not code-related, but configuration-related
+* The `--force` flag replaces the remote repository with local content
+* Use with caution in collaborative environments
 
 ---
 
-### Outcome
+### Step 8: Verify Deployment
 
-After resolving these issues, my GitHub Pages site built successfully and published my blog content. This process provided valuable experience in debugging real-world deployment and configuration problems.
+1. Navigate to your GitHub repository
+2. Confirm updated files are visible
+3. Open GitHub Pages site:
+
+   ```
+   https://<username>.github.io/<repository>/
+   ```
+4. Allow 1–5 minutes for the site to rebuild
 
 ---
 
-### Next Steps
+### Key Concepts Learned
 
-* Add more blog entries and content
-* Record a full video walkthrough of this process
-* Expand documentation for additional labs and assignments
-* Continue refining Git and deployment workflows
+* Difference between local and remote repositories
+* Importance of pushing commits to GitHub
+* How to resolve sync issues using force push
+* Basic Git workflow: add → commit → push
+* GitHub Pages deployment process
+
+---
+
+### Troubleshooting Tips
+
+* If changes don’t appear:
+
+  * Ensure you are pushing to the correct branch (`main`)
+  * Verify remote URL with `git remote -v`
+* If commit fails:
+
+  * Check Git identity configuration
+* If Pages doesn’t update:
+
+  * Wait a few minutes and refresh
+  * Confirm Pages is enabled in repository settings
 
 ---
 
 ### Reflection
 
-This experience reinforced the importance of understanding both development and deployment workflows. Troubleshooting these issues improved my confidence in using Git, GitHub, and static site deployment tools.
+This lab demonstrates a real-world GitHub issue and its resolution. Understanding how to properly sync local and remote repositories is essential for developers, especially when deploying live web content using GitHub Pages.
 
 
 ---
@@ -234,3 +237,4 @@ This experience reinforced the importance of understanding both development and 
 ---
 ---
 ---
+

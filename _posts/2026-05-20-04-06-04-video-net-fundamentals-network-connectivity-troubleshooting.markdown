@@ -229,7 +229,6 @@ Confirm that communication succeeds and the issue has been resolved.
 
 This exercise follows a structured troubleshooting workflow: review the configuration, test connectivity, trace the communication path, identify the cause, apply the fix, and verify successful operation.
 
-
 ---
 ---
 ---

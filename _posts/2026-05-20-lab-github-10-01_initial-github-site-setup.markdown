@@ -1,223 +1,143 @@
 ---
 layout: post
-title: "Technical Communication | Initial GitHub Site Setup"
-lab_title: "Initial GitHub Site Setup"
+title: "Cisco Packet Tracer | Navigate the Cisco IOS"
+lab_title: "Navigate the Cisco IOS"
 
-lesson: "10.0"
-lesson_id: "10.01.00"
-sort_order: "100100"
+lesson: "11.0"
+lesson_id: "11.01.00"
+sort_order: "110100"
 
 categories: [portfolio, labs]
 
-category: technical-communication
-category_display: Technical Communication
+category: packet-tracer
+category_display: Cisco Packet Tracer
 
-subcategory: github
-subcategory_display: GitHub
+subcategory: cisco-ios
+subcategory_display: Cisco IOS
 
-content_type: lab
-content_type_display: Lab
+content_type: completed-lab
+content_type_display: Completed Lab
 
+tags:
 
-tags: 
-  - github-pages
-  - jekyll
-  - git
-  - troubleshooting
-  - setup
-  - branching
-  - workflow
-
-permalink: /network-portfolio/labs/module-1-0/initial-github-site-setup/
-status: complete
+- packet-tracer
+- cisco-ios
+- cli
+- ios
+- terminal
+- privileged-exec
+- help-system
 
 topics:
-  - router-configuration
-  - routing-tables
-  - connectivity-testing
 
-tools: 
-  - cisco-packet-tracer
-  
-date: 2026-04-03 01:11:11 -0100
+- ios-navigation
+- command-line-interface
+- exec-modes
+- context-sensitive-help
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+tools:
 
-pdf: ""
-diagram: ""
+- Cisco Packet Tracer
+- Cisco IOS CLI
 
-protocols: []
+protocols:
 
+- Cisco IOS
+
+permalink: /network-portfolio/labs/11-01-navigate-the-ios/
+
+status: complete
+
+pdf: "/assets/pdfs/Module-11-Lab-01-Packet-Tracer-Navigate-the-IOS-completed.pdf"
 ---
 
-In this lab, I demonstrate how to resolve a common issue where local changes are not reflected on GitHub. The goal is to ensure that the contents of a local project folder completely replace the remote repository and successfully publish to GitHub Pages.
+## Overview
+
+This completed Cisco Packet Tracer lab introduces the Cisco IOS Command Line Interface (CLI) and demonstrates how to navigate the operating system using built-in help, command completion, and EXEC modes.
+
 <!--more-->
----
-
-### Problem Scenario
-
-* Local files were updated successfully
-* `git add` and `git commit` were run
-* Changes did **not appear on GitHub**
-* GitHub Pages build showed an error:
-
-  > "The log was not found. It may have been deleted based on retention settings."
 
 ---
 
-### Objective
+> **Portfolio Note**
 
-Force the local repository to overwrite the remote `main` branch and trigger a successful GitHub Pages deployment.
-
----
-
-### Prerequisites
-
-* Git installed on local machine
-* GitHub account and repository created
-* Local project folder ready
+This page documents a completed hands-on Cisco Packet Tracer exercise completed as part of my networking learning journey.
 
 ---
 
-### Step 1: Navigate to Local Project Folder
+## Completed Lab
 
-Open a terminal and move into your project directory:
+Download the completed lab documentation.
 
-```bash
-cd path/to/your/local/folder
-```
+- [Completed Lab PDF]({{ page.pdf | relative_url }})
 
 ---
 
-### Step 2: Configure Git Identity
+## Concepts Reinforced
 
-Ensure Git is properly configured:
-
-```bash
-git config --global user.name "Your Name"
-git config --global user.email "you@example.com"
-```
-
-Verify configuration:
-
-```bash
-git config --list
-```
+- Cisco IOS Navigation
+- User EXEC Mode
+- Privileged EXEC Mode
+- Global Configuration Mode
+- Context-Sensitive Help (?)
+- Command Completion (Tab)
+- Command Validation
+- IOS Error Messages
 
 ---
 
-### Step 3: Initialize Git Repository
+## Skills Practiced
 
-If the folder is not already a Git repository:
-
-```bash
-git init
-```
-
----
-
-### Step 4: Connect to GitHub Repository
-
-Add your remote repository:
-
-```bash
-git remote add origin https://github.com/<username>/<repository>.git
-```
-
-Verify the connection:
-
-```bash
-git remote -v
-```
-
-If the remote already exists, update it:
-
-```bash
-git remote set-url origin https://github.com/<username>/<repository>.git
-```
+- Cisco Packet Tracer
+- Cisco IOS CLI
+- IOS Navigation
+- Command Discovery
+- Context-Sensitive Help
+- Command Completion
+- EXEC Modes
+- Technical Documentation
 
 ---
 
-### Step 5: Stage All Files
+## Related Exercise
 
-Prepare all files for commit:
+**Course Module**
 
-```bash
-git add .
-```
+- Module 11
 
----
+**Original Exercise**
 
-### Step 6: Commit Changes
-
-Use a descriptive commit message:
-
-```bash
-git commit -m "updated blogs, homepage, added first blog entries, ready for assignments, labs and bible study"
-```
+- Lab 01 | Navigate the Cisco IOS
 
 ---
 
-### Step 7: Force Push to GitHub
+## Why This Matters
 
-Push changes and overwrite the remote `main` branch:
-
-```bash
-git push origin main --force
-```
-
-#### Important Note:
-
-* The `--force` flag replaces the remote repository with local content
-* Use with caution in collaborative environments
+Learning the Cisco IOS command-line interface is one of the first foundational skills for network administrators. Understanding prompts, command modes, built-in help, and command syntax makes configuring and troubleshooting Cisco devices significantly more efficient.
 
 ---
 
-### Step 8: Verify Deployment
+## Related Resources
 
-1. Navigate to your GitHub repository
-2. Confirm updated files are visible
-3. Open GitHub Pages site:
+### Study Diagrams
 
-   ```
-   https://<username>.github.io/<repository>/
-   ```
-4. Allow 1–5 minutes for the site to rebuild
+- OSI Model
+- IPv4 Addressing
+- Network Troubleshooting Flowchart
 
----
+### Reference Commands
 
-### Key Concepts Learned
-
-* Difference between local and remote repositories
-* Importance of pushing commits to GitHub
-* How to resolve sync issues using force push
-* Basic Git workflow: add → commit → push
-* GitHub Pages deployment process
+- enable
+- configure terminal
+- show clock
+- ?
+- <Tab>
 
 ---
 
-### Troubleshooting Tips
+## Key Takeaways
 
-* If changes don’t appear:
-
-  * Ensure you are pushing to the correct branch (`main`)
-  * Verify remote URL with `git remote -v`
-* If commit fails:
-
-  * Check Git identity configuration
-* If Pages doesn’t update:
-
-  * Wait a few minutes and refresh
-  * Confirm Pages is enabled in repository settings
-
----
-
-### Reflection
-
-This lab demonstrates a real-world GitHub issue and its resolution. Understanding how to properly sync local and remote repositories is essential for developers, especially when deploying live web content using GitHub Pages.
-
+Cisco IOS includes powerful built-in tools that help administrators discover commands, complete command names, and identify syntax errors. Becoming comfortable with the CLI early makes future switch and router configuration much easier.
 
 ---
 ---
@@ -237,4 +157,3 @@ This lab demonstrates a real-world GitHub issue and its resolution. Understandin
 ---
 ---
 ---
-

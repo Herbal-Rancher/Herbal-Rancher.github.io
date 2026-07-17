@@ -41,6 +41,10 @@ tools:
 - DHCP
 - Windows
 
+permalink: /network-portfolio/videos/09-03-09-video-security-dhcp-spoofing-on-path-attack/
+
+status: complete
+
 video_id: "zwGWxiwK79o"
 video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
 thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"

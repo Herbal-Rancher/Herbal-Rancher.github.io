@@ -78,7 +78,12 @@ module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
   {% if post.categories contains "assessment" or post.categories contains "milestone" or post.categories contains "summative" or post.categories contains "discussion" %}
     {% assign has_assessments = true %}
     <li style="margin-bottom: .5rem;">
-      ✓ <a href="{{ post.url | relative_url }}">{{ post.lab_title | default: post.title }}</a>
+      ✓ <a href="{{ post.url | relative_url }}">
+        {% if post.lesson_id %}
+          {{ post.lesson_id }} 
+        {% endif %}
+        {{ post.lab_title | default: post.title }}
+      </a>
       {% if post.content_type_display %}
       <span style="background: #eef3ff; padding: .1rem .45rem; border-radius: 10px; font-size: .72rem;">
         {{ post.content_type_display }}
@@ -97,19 +102,19 @@ module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
 </ul>
 
 <p style="font-weight: bold; margin-bottom: .25rem;">
-  Labs, Walkthroughs, Diagrams & Reference Resources
+  Labs, Walkthroughs & Reference Resources
 </p>
 
 <ul style="margin-top: 0; margin-bottom: 0;">
 {% assign has_resources = false %}
 
 {% for post in module_posts %}
-  {% if post.categories contains "labs" or post.categories contains "walkthroughs" or post.categories contains "videos" or post.categories contains "diagrams" or post.categories contains "reference-guides" or post.categories contains "guides" %}
+  {% if post.categories contains "labs" or post.categories contains "walkthroughs" or post.categories contains "reference-guides" or post.categories contains "guides" %}
     {% assign has_resources = true %}
     <li style="margin-bottom: .5rem;">
-      ✓ <a href="{{ post.url | relative_url }}">
+     ✓ <a href="{{ post.url | relative_url }}">
         {% if post.lesson_id %}
-          {{ post.lesson_id }}:
+          {{ post.lesson_id }} 
         {% endif %}
         {{ post.lab_title | default: post.title }}
       </a>
@@ -125,7 +130,78 @@ module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
 {% if has_resources == false %}
 
 <li style="margin-bottom: .4rem;">
-  <span style="color: #666;"><em>Labs, walkthroughs, diagrams, and reference resources will continue to expand as additional Modules are completed.</em></span>
+  <span style="color: #666;"><em>Labs, walkthroughs and reference resources will continue to expand as additional Modules are completed.</em></span>
+</li>
+
+{% endif %}
+</ul>
+
+
+
+<p style="font-weight: bold; margin-bottom: .25rem;">
+  Study Diagrams
+</p>
+
+<ul style="margin-top: 0; margin-bottom: 1rem;">
+{% assign has_assessments = false %}
+
+{% for post in module_posts %}
+  {% if post.categories contains "diagrams" %}
+    {% assign has_assessments = true %}
+    <li style="margin-bottom: .5rem;">
+     ✓ <a href="{{ post.url | relative_url }}">
+        {% if post.lesson_id %}
+          {{ post.lesson_id }} 
+        {% endif %}
+        {{ post.lab_title | default: post.title }}
+      </a>
+      {% if post.content_type_display %}
+      <span style="background: #eef3ff; padding: .1rem .45rem; border-radius: 10px; font-size: .72rem;">
+        {{ post.content_type_display }}
+      </span>
+      {% endif %}
+    </li>
+  {% endif %}
+{% endfor %}
+
+{% if has_assessments == false %}
+<li style="margin-bottom: .4rem;">
+  <span style="color: #666;"><em>Study diagrams will continue to expand as additional Modules are completed.</em></span>
+</li>
+
+{% endif %}
+</ul>
+
+
+<p style="font-weight: bold; margin-bottom: .25rem;">
+  Videos
+</p>
+
+<ul style="margin-top: 0; margin-bottom: 1rem;">
+{% assign has_assessments = false %}
+
+{% for post in module_posts %}
+  {% if post.categories contains "videos" %}
+    {% assign has_assessments = true %}
+    <li style="margin-bottom: .5rem;">
+      ✓ <a href="{{ post.url | relative_url }}">
+        {% if post.lesson_id %}
+          {{ post.lesson_id }} 
+        {% endif %}
+        {{ post.lab_title | default: post.title }}
+      </a>
+      {% if post.content_type_display %}
+      <span style="background: #eef3ff; padding: .1rem .45rem; border-radius: 10px; font-size: .72rem;">
+        {{ post.content_type_display }}
+      </span>
+      {% endif %}
+    </li>
+  {% endif %}
+{% endfor %}
+
+{% if has_assessments == false %}
+<li style="margin-bottom: .4rem;">
+  <span style="color: #666;"><em>Videos will continue to expand as additional Modules are completed.</em></span>
 </li>
 
 {% endif %}
@@ -178,7 +254,12 @@ Modules 10 – 18 focus on hands-on implementation, troubleshooting, security an
   {% if post.categories contains "assessment" or post.categories contains "milestone" or post.categories contains "summative" or post.categories contains "discussion" %}
     {% assign has_assessments = true %}
     <li style="margin-bottom: .5rem;">
-      ✓ <a href="{{ post.url | relative_url }}">{{ post.lab_title | default: post.title }}</a>
+     ✓ <a href="{{ post.url | relative_url }}">
+        {% if post.lesson_id %}
+          {{ post.lesson_id }} 
+        {% endif %}
+        {{ post.lab_title | default: post.title }}
+      </a>
       {% if post.content_type_display %}
       <span style="background: #eef3ff; padding: .1rem .45rem; border-radius: 10px; font-size: .72rem;">
         {{ post.content_type_display }}
@@ -197,19 +278,19 @@ Modules 10 – 18 focus on hands-on implementation, troubleshooting, security an
 </ul>
 
 <p style="font-weight: bold; margin-bottom: .25rem;">
-  Labs, Walkthroughs, Diagrams & Reference Resources
+  Labs, Walkthroughs & Reference Resources
 </p>
 
 <ul style="margin-top: 0; margin-bottom: 0;">
 {% assign has_resources = false %}
 
 {% for post in module_posts %}
-  {% if post.categories contains "labs" or post.categories contains "walkthroughs" or post.categories contains "videos" or post.categories contains "diagrams" or post.categories contains "reference-guides" or post.categories contains "guides" %}
+  {% if post.categories contains "labs" or post.categories contains "walkthroughs" or post.categories contains "reference-guides" or post.categories contains "guides" %}
     {% assign has_resources = true %}
     <li style="margin-bottom: .5rem;">
       ✓ <a href="{{ post.url | relative_url }}">
         {% if post.lesson_id %}
-          {{ post.lesson_id }}:
+          {{ post.lesson_id }} 
         {% endif %}
         {{ post.lab_title | default: post.title }}
       </a>
@@ -224,11 +305,85 @@ Modules 10 – 18 focus on hands-on implementation, troubleshooting, security an
 
 {% if has_resources == false %}
 <li style="margin-bottom: .4rem;">
-  <span style="color: #666;"><em>Labs, walkthroughs, diagrams, and reference resources will continue to expand as additional Modules are completed.</em></span>
+  <span style="color: #666;"><em>Labs, walkthroughs and reference resources will continue to expand as additional Modules are completed.</em></span>
 </li>
 
 {% endif %}
 </ul>
+
+
+
+
+<p style="font-weight: bold; margin-bottom: .25rem;">
+  Study Diagrams
+</p>
+
+<ul style="margin-top: 0; margin-bottom: 1rem;">
+{% assign has_assessments = false %}
+
+{% for post in module_posts %}
+  {% if post.categories contains "diagrams" %}
+    {% assign has_assessments = true %}
+    <li style="margin-bottom: .5rem;">
+      ✓ <a href="{{ post.url | relative_url }}">
+        {% if post.lesson_id %}
+          {{ post.lesson_id }} 
+        {% endif %}
+        {{ post.lab_title | default: post.title }}
+      </a>
+      {% if post.content_type_display %}
+      <span style="background: #eef3ff; padding: .1rem .45rem; border-radius: 10px; font-size: .72rem;">
+        {{ post.content_type_display }}
+      </span>
+      {% endif %}
+    </li>
+  {% endif %}
+{% endfor %}
+
+{% if has_assessments == false %}
+<li style="margin-bottom: .4rem;">
+  <span style="color: #666;"><em>Diagrams will continue to expand as additional Modules are completed.</em></span>
+</li>
+
+{% endif %}
+</ul>
+
+
+<p style="font-weight: bold; margin-bottom: .25rem;">
+  Videos
+</p>
+
+<ul style="margin-top: 0; margin-bottom: 1rem;">
+{% assign has_assessments = false %}
+
+{% for post in module_posts %}
+  {% if post.categories contains "videos" %}
+    {% assign has_assessments = true %}
+    <li style="margin-bottom: .5rem;">
+      ✓ <a href="{{ post.url | relative_url }}">
+        {% if post.lesson_id %}
+          {{ post.lesson_id }} 
+        {% endif %}
+        {{ post.lab_title | default: post.title }}
+      </a>
+      {% if post.content_type_display %}
+      <span style="background: #eef3ff; padding: .1rem .45rem; border-radius: 10px; font-size: .72rem;">
+        {{ post.content_type_display }}
+      </span>
+      {% endif %}
+    </li>
+  {% endif %}
+{% endfor %}
+
+{% if has_assessments == false %}
+<li style="margin-bottom: .4rem;">
+  <span style="color: #666;"><em>Diagrams will continue to expand as additional Modules are completed.</em></span>
+</li>
+
+{% endif %}
+</ul>
+
+
 
 </div>
 
