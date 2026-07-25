@@ -59,9 +59,7 @@ video_id: "zwGWxiwK79o"
 video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
 thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
-lab_pdf: "/assets/pdfs/13-16-Packet-Tracer-Configure-IPv6-Addressing.pdf"
-completed_lab: "/assets/pdfs/13-16-Completed-Lab.pdf"
-packet_tracer: "/assets/packet-tracer/13-16-Configure-IPv6-Addressing.pkt"
+completed_lab: "/assets/pdfs/Module-13-Lab-16-Packet-Configure-IPv6-Addressing.pdf"
 ---
 
 ## Overview
@@ -86,6 +84,8 @@ Before beginning this exercise, have available:
 - IPv6 addressing table
 - Lab instructions
 - Completed addressing worksheet
+
+![Lab 16 Table Screenshot](/assets/images/packet-tracer/cisco-lab-topology-module-13-lab-16-table.png)
 
 ![Lab 16 Topology Screenshot](/assets/images/packet-tracer/cisco-lab-topology-module-13-lab-16.png)
 

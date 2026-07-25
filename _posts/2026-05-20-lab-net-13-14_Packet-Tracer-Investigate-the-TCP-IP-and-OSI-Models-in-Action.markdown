@@ -65,9 +65,7 @@ video_id: "zwGWxiwK79o"
 video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
 thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
-lab_pdf: "/assets/pdfs/13-14-Packet-Tracer-Investigate-TCP-IP-and-OSI-Models.pdf"
-completed_lab: "/assets/pdfs/13-14-Completed-Lab.pdf"
-packet_tracer: "/assets/packet-tracer/13-14-Investigate-TCP-IP-and-OSI-Models.pkt"
+completed_lab: "/assets/pdfs/Module-13-Lab-14-Packet-Tracer-Investigate-TCP-IP-and-OSI-Models-in-Action.pdf"
 ---
 
 ## Overview

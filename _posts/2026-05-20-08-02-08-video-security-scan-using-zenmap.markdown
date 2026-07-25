@@ -29,9 +29,9 @@ tags:
 permalink: /network-portfolio/videos/lab-8-2-8-scan-using-zenmap/
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "a4tTRDbB-74"
+video_url: "https://youtu.be/a4tTRDbB-74"
+thumbnail: "https://img.youtube.com/vi/a4tTRDbB-74/hqdefault.jpg"
 
 topics:
 - network-discovery

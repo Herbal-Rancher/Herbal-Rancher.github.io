@@ -56,14 +56,12 @@ permalink: /network-portfolio/videos/13-15-subnet-an-ipv4-network/
 
 status: complete
 
-
 video_id: "zwGWxiwK79o"
 video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
 thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
-lab_pdf: "/assets/pdfs/13-15-Packet-Tracer-Subnet-an-IPv4-Network.pdf"
-completed_lab: "/assets/pdfs/13-15-Completed-Lab.pdf"
-packet_tracer: "/assets/packet-tracer/13-15-Subnet-an-IPv4-Network.pkt"
+completed_lab: "/assets/pdfs/Module-13-Lab-15-Packet-Subnet-an-IPv4-Network.pdf"
+
 ---
 
 ## Overview
@@ -88,6 +86,8 @@ Before beginning this exercise, have available:
 - Addressing table
 - Lab instructions
 - Subnetting worksheet
+
+![Lab 15 Table Screenshot](/assets/images/packet-tracer/cisco-lab-topology-module-13-lab-15-table.png)
 
 ![Lab 15 Topology Screenshot](/assets/images/packet-tracer/cisco-lab-topology-module-13-lab-15.png)
 

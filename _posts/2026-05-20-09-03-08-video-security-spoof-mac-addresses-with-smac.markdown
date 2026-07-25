@@ -41,7 +41,7 @@ tools:
 - Windows
 
 video_id: "MX6HVidBcnU"
-video_url: "https://youtu.be/MX6HVidBcnU"
+video_url: "https://www.youtube.com/watch?v=MX6HVidBcnU"
 thumbnail: "https://img.youtube.com/vi/MX6HVidBcnU/hqdefault.jpg"
 
 ---

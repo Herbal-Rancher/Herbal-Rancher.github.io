@@ -43,9 +43,9 @@ tools:
 
 video_category: security
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "UoNLf4xC2pI"
+video_url: "https://youtu.be/UoNLf4xC2pI"
+thumbnail: "https://img.youtube.com/vi/UoNLf4xC2pI/hqdefault.jpg"
 ---
 
 ## Overview
