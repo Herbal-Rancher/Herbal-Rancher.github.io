@@ -55,9 +55,9 @@ permalink: /network-portfolio/videos/13-16-configure-ipv6-addressing/
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "yl6xS68KjD4"
+video_url: "https://youtu.be/yl6xS68KjD4"
+thumbnail: "https://img.youtube.com/vi/yl6xS68KjD4/hqdefault.jpg"
 
 completed_lab: "/assets/pdfs/Module-13-Lab-16-Packet-Configure-IPv6-Addressing.pdf"
 ---

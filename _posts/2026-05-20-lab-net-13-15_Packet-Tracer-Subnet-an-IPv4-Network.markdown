@@ -56,9 +56,9 @@ permalink: /network-portfolio/videos/13-15-subnet-an-ipv4-network/
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "3kxE33LNbIc"
+video_url: "https://youtu.be/3kxE33LNbIc"
+thumbnail: "https://img.youtube.com/vi/3kxE33LNbIc/hqdefault.jpg"
 
 completed_lab: "/assets/pdfs/Module-13-Lab-15-Packet-Subnet-an-IPv4-Network.pdf"
 
