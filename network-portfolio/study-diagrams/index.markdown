@@ -14,19 +14,6 @@ This page is a collection of study diagrams created during my Network Technology
 
 When I take practice exams, complete labs, or review networking concepts, I sometimes come across a question or topic that I only partially understand — or do not understand yet. When that happens, I use ChatGPT to help turn the knowledge gap into a visual study aid.
 
-These diagrams are generated from my real learning process. Each image represents a concept I needed to slow down, review, and understand more clearly.
-
-
-This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
-To learn more about my background, learning philosophy, use of AI tools, and creative projects, visit my [About the Portfolio](/about/) page.
-
----
----
----
-
-<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
-
-## Purpose of This Page
 
 The purpose of this page is to:
 
@@ -38,6 +25,10 @@ The purpose of this page is to:
 - Share helpful visuals with others who may be learning the same concepts
 
 ---
+---
+---
+
+<div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
 
 ## How These Diagrams Are Created
 

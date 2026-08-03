@@ -9,8 +9,8 @@ sort_order: "080100"
 
 categories: [portfolio, diagrams]
 
-category: infrastructure
-category_display: Infrastructure
+category: networking-fundamentals
+category_display: Networking Fundamentals
 
 subcategory: switching
 subcategory_display: Switching

@@ -9,8 +9,10 @@ sort_order: "130200"
 
 categories: [portfolio, diagrams]
 
-category: infrastructure
-category_display: Infrastructure
+
+category: networking-fundamentals
+category_display: Networking Fundamentals
+
 
 subcategory: network-services-devices
 subcategory_display: Network Services & Devices

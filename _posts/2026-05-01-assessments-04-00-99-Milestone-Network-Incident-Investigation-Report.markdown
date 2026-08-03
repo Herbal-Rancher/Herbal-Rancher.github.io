@@ -4,8 +4,8 @@ title: "Assessment Milestone | Network Troubleshooting Incident Investigation Re
 lab_title: "Network Troubleshooting Incident Investigation Report"
 
 lesson: "4.0"
-lesson_id: "04.00.01"
-sort_order: "040001"
+lesson_id: "04.00.99"
+sort_order: "040099"
 
 categories: [portfolio, milestone, formative]
 
@@ -30,7 +30,7 @@ tags:
   - ips
   - nmap
 
-permalink: /network-portfolio/formative-modules/lesson-4-0/milestone-network-incident-tradeigation/
+permalink: /network-portfolio/formative-modules/lesson-4-0/milestone-network-incident-investigation/
 
 status: complete
 
