@@ -15,8 +15,8 @@ category_display: Technical Communication
 subcategory: Reference-Guides
 subcategory_display: Reference Guides
 
-content_type: guide
-content_type_display: Guide
+content_type: diagram
+content_type_display: Diagram
 
 
 tags:

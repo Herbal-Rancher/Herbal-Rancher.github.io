@@ -4,8 +4,8 @@ title: "Assessment Milestone | Network Troubleshooting Incident Investigation Re
 lab_title: "Network Troubleshooting Incident Investigation Report"
 
 lesson: "4.0"
-lesson_id: "04.00.99"
-sort_order: "040099"
+lesson_id: "04.00.02"
+sort_order: "040002"
 
 categories: [portfolio, milestone, formative]
 

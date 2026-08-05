@@ -4,8 +4,8 @@ title: "Assessment Summative | New Office Building Network Infrastructure Design
 lab_title: "New Office Building Network Infrastructure Design Proposal"
 
 lesson: "5.0"
-lesson_id: "05.00.99"
-sort_order: "050099"
+lesson_id: "05.00.02"
+sort_order: "050002"
 
 categories: [portfolio, summative, formative]
 

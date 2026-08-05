@@ -16,7 +16,7 @@ subcategory: ipv4-subnetting
 subcategory_display: IPv4 Subnetting
 
 content_type: video
-content_type_display: Guided Technical Walkthrough
+content_type_display: Video
 
 tags:
 

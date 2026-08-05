@@ -4,8 +4,8 @@ title: "Assessment Milestone | Multi-Story Office Building Network Infrastructur
 lab_title: "Multi-Story Office Building Network Infrastructure Design Proposal"
 
 lesson: "5.0"
-lesson_id: "05.00.99"
-sort_order: "050099"
+lesson_id: "05.00.01"
+sort_order: "050001"
 
 categories: [portfolio, milestone, formative]
 

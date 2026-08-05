@@ -15,8 +15,8 @@ category_display: Cisco Packet Tracer
 subcategory: cisco-ios
 subcategory_display: Cisco IOS
 
-content_type: completed-lab
-content_type_display: Completed Lab
+content_type: lab
+content_type_display: Lab
 
 tags:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Technical Communication | Push Latest Updates to GitHub Repository"
-lab_title: "Push Latest Updates to GitHub Repository"
+title: "Technical Communication | Push Local Changes to GitHub Repository"
+lab_title: "Push Local Changes to GitHub Repository"
 
 lesson: "10.0"
 lesson_id: "10.05.00"
@@ -18,82 +18,270 @@ subcategory_display: GitHub
 content_type: lab
 content_type_display: Lab
 
+tags:
 
-tags: 
-  - github-pages
-  - jekyll
-  - git
-  - troubleshooting
-  - setup
-  - branching
-  - workflow
+- commit
+- push
+- version-control
+- github-pages
+- workflow
+- repository
 
-permalink: /network-portfolio/labs/module-1-0/push-local-updates-to-github/
+permalink: /network-portfolio/labs/module-10-0/push-local-changes-to-github-repository/
 status: complete
 
 topics:
-  - router-configuration
-  - routing-tables
-  - connectivity-testing
 
-tools: 
-  - cisco-packet-tracer
-  
-date: 2026-04-03 05:12:12 -0200
-video: ""
+- local-commits
+- remote-repositories
+- git-push
+- version-control-workflow
+- github-pages-deployment
+
+tools:
+
+- git
+- github
+- visual-studio-code
+- terminal
+
+date: 2026-04-03 05:12:12 -0700
+
+video_id: ""
+video_url: ""
+thumbnail: ""
+
 pdf: ""
 diagram: ""
 
 protocols: []
 
 ---
- 
-This is the walkthrough on how to update your local repository with the latest changes from GitHub before you start working on your next blog post. This is an important step to ensure that you are working with the most up-to-date version of your project and to avoid any potential conflicts when you push your changes back to GitHub.	
+
+After completing your work and verifying it locally, the final step is to commit your changes and push them to GitHub.
+
+Pushing your updates creates a backup of your work, preserves your project history, and makes the latest version available from any computer.
+
 <!--more-->
+
 ---
 
-### Step 1 — Make sure you're in your project folder
-```bash
-cd path/to/your/repo
-```
+## Overview
+
+This walkthrough demonstrates how to:
+
+* Review changed files
+* Stage updates
+* Create a commit
+* Push changes to GitHub
+* Verify the upload completed successfully
+
 ---
 
-### Step 2 — Check your current status and branch
+## Prerequisites
+
+Before beginning, confirm that:
+
+* The project builds successfully.
+* Changes have been tested locally.
+* The correct Git branch is active.
+* Git is connected to the GitHub repository.
+
+---
+
+## Quick Workflow
+
 ```bash
 git status
-git branch
+git add .
+git commit -m "Describe your changes"
+git push origin main
 ```
-Ensure you are on: ** main **
 
-If NOT on main:
-```bash
-git checkout main
-```
 ---
 
-### Step 3 — Pull latest from GitHub to avoids overwrite conflicts
+## Step 1 — Review Your Changes
+
+Display the current repository status.
 
 ```bash
-git pull origin main
+git status
 ```
-This avoids overwrite conflicts.
 
-### Step 4 - Then continue your normal workflow
+Review the modified files before committing.
+
+---
+
+## Step 2 — Stage the Files
+
+Add all modified files to the next commit.
 
 ```bash
 git add .
-git commit -m "updated module and walkthrough format, added content for all areas"
-git push origin main
 ```
+
+To stage a single file:
+
+```bash
+git add filename.md
+```
+
 ---
 
-### Why This Matters
+## Step 3 — Create a Commit
 
-* Prevents overwriting remote changes
-* Keeps your workflow consistent
-* Ensures accurate version control
-* Aligns with **GitHub Flow best practices**
+Create a meaningful commit message.
 
+```bash
+git commit -m "Update module walkthrough and documentation"
+```
+
+Good commit messages briefly describe what changed.
+
+---
+
+## Step 4 — Push to GitHub
+
+Upload the latest commit.
+
+```bash
+git push origin main
+```
+
+If you're working from a feature branch:
+
+```bash
+git push origin feature/<feature-name>
+```
+
+---
+
+## Step 5 — Verify the Push
+
+Open your GitHub repository and confirm:
+
+* The latest commit appears.
+* Updated files are visible.
+* GitHub Pages begins building (if applicable).
+
+---
+
+## Validation
+
+Verify that:
+
+* Files were staged successfully.
+* A commit was created.
+* The push completed without errors.
+* GitHub displays the latest commit.
+* The repository matches the local project.
+
+---
+
+## Troubleshooting
+
+### Nothing to Commit
+
+```bash
+git status
+```
+
+If Git reports:
+
+```text
+nothing to commit, working tree clean
+```
+
+No files have changed since the previous commit.
+
+---
+
+### Push Rejected
+
+If Git reports that the remote contains newer changes:
+
+```bash
+git pull --ff-only origin main
+git push origin main
+```
+
+---
+
+### Authentication Failed
+
+Verify:
+
+* GitHub credentials
+* Personal Access Token
+* Repository permissions
+
+---
+
+### Wrong Branch
+
+Check the active branch.
+
+```bash
+git branch
+```
+
+Switch branches if necessary.
+
+```bash
+git switch main
+```
+
+---
+
+## Skills Practiced
+
+* Reviewing repository status
+* Staging files
+* Creating commits
+* Uploading changes
+* Synchronizing local and remote repositories
+* GitHub Pages publishing
+
+---
+
+## Lessons Learned
+
+* Commit often with descriptive messages.
+* Review changes before pushing.
+* Test locally before publishing.
+* Push completed work regularly.
+* Git preserves a complete history of project changes.
+
+---
+
+## Outcome
+
+* Reviewed project changes
+* Created a Git commit
+* Uploaded updates to GitHub
+* Verified repository synchronization
+* Published the latest project version
+
+---
+
+## Quick Reference
+
+```bash
+git status
+git add .
+git commit -m "Describe your changes"
+git push origin main
+```
+
+---
+
+## Related Labs
+
+* 10.01.00 — Initial GitHub Site Setup
+* 10.02.00 — Create Local Project from GitHub Repository
+* 10.03.00 — Git Branching and Workflow
+* 10.04.00 — Update a Local Project from GitHub
+* 10.06.00 — GitHub Pages Deployment
 
 ---
 ---

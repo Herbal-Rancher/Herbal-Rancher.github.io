@@ -4,8 +4,8 @@ title: "Assessment Milestone | Cabling and Physical Network Infrastructure"
 lab_title: "Cabling and Physical Network Infrastructure"
 
 lesson: "12.0"
-lesson_id: "12.00.02"
-sort_order: "120002"
+lesson_id: "12.00.01"
+sort_order: "120001"
 
 categories: [portfolio, milestone, formative]
 

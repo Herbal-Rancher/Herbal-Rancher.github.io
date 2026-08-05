@@ -15,8 +15,8 @@ category_display: Cisco Packet Tracer
 subcategory: switch-configuration
 subcategory_display: Basic Switch Configuration
 
-content_type: completed-lab
-content_type_display: Completed Lab
+content_type: lab
+content_type_display: Lab
 
 tags:
 

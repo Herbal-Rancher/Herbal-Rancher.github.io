@@ -4,8 +4,8 @@ title: "Assessment Summative | IP Network Addressing Schemes"
 lab_title: "IP Network Addressing Schemes"
 
 lesson: "13.0"
-lesson_id: "13.00.99"
-sort_order: "130099"
+lesson_id: "13.00.02"
+sort_order: "130002"
 
 categories: [portfolio, summative, formative]
 

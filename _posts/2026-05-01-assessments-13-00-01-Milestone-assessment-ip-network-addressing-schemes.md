@@ -4,8 +4,8 @@ title: "Assessment Milestone | IP Network Addressing Schemes"
 lab_title: "IP Network Addressing Schemes"
 
 lesson: "13.0"
-lesson_id: "13.00.99"
-sort_order: "130099"
+lesson_id: "13.00.01"
+sort_order: "130001"
 
 categories: [portfolio, milestone, formative]
 

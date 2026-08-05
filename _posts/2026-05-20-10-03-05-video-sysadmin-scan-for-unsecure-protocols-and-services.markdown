@@ -8,7 +8,7 @@ lesson_id: "10.03.05"
 
 sort_order: "100305"
 
-categories: [portfolio, videos, walkthroughs]
+categories: [portfolio, videos]
 
 category: security
 category_display: Security

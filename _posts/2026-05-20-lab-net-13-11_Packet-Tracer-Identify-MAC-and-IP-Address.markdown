@@ -16,7 +16,7 @@ subcategory: packet-analysis
 subcategory_display: Packet Analysis
 
 content_type: video
-content_type_display: Guided Technical Walkthrough
+content_type_display: Video
 
 tags:
 

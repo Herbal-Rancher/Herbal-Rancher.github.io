@@ -4,8 +4,8 @@ title: "Assessment Milestone | Network Topologies Enterprise Redesign"
 lab_title: "Network Topologies Enterprise Redesign"
 
 lesson: "11.0"
-lesson_id: "11.00.02"
-sort_order: "110002"
+lesson_id: "11.00.01"
+sort_order: "110001"
 
 categories: [portfolio, milestone, formative]
 

@@ -16,7 +16,7 @@ subcategory: physical-layer
 subcategory_display: Physical Layer
 
 content_type: video
-content_type_display: Guided Technical Walkthrough
+content_type_display: Video
 
 tags:
 

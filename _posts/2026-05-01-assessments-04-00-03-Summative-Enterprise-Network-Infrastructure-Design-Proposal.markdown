@@ -4,8 +4,8 @@ title: "Assessment Summative | Enterprise Network Infrastructure Design Proposal
 lab_title: "Enterprise Network Infrastructure Design Proposal"
 
 lesson: "4.0"
-lesson_id: "04.00.99"
-sort_order: "040099"
+lesson_id: "04.00.03"
+sort_order: "040003"
 
 categories: [portfolio, summative, formative]
 
