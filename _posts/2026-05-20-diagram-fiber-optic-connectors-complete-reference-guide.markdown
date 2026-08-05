@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: "Networking Fundamentals | Fiber Optic Connectors Complete Reference Guide"
 lab_title: "Fiber Optic Connectors Complete Reference Guide"
 
