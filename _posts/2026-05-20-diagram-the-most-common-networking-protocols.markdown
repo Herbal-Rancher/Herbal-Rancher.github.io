@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title: "Ten Most Common Networking Protocols"
-lab_title: "Ten Most Common Networking Protocols"
+title: "The Most Common Networking Protocols"
+lab_title: "The Most Common Networking Protocols"
 lesson: "14.0"
 lesson_id: "14.01.00"
 sort_order: "140100"
@@ -12,8 +12,8 @@ categories: [portfolio, diagrams]
 category: networking-fundamentals
 category_display: Networking Fundamentals
 
-subcategory: Protocols
-subcategory_display: "Networking Protocols"
+subcategory: networking-protocols
+subcategory_display: Networking Protocols
 
 content_type: diagram
 content_type_display: Diagram
@@ -43,14 +43,14 @@ tags:
 - ports
 - protocols
 
-permalink: /network-plus/diagrams/ten-most-common-networking-protocols/
+permalink: /network-plus/diagrams/the-most-common-networking-protocols/
 
 diagram_topic: "Common Networking Protocols"
 diagram_reason: "Created to provide a clear visual reference for common networking protocols, their purposes, ports, security differences, and relationship to TCP, UDP, and IP."
 
 status: complete
 
-image: /assets/images/study-diagrams/ten-most-common-networking-protocols-diagram-chatgpt-rendered-image.png
+image: /assets/images/study-diagrams/the-most-common-networking-protocols-diagram-chatgpt-rendered-image.png
 image_alt: "Teaching diagram comparing FTP, HTTP, HTTPS, SMTP, DHCP, SSH, TCP, UDP, and IP, including their purposes, common ports, and how the protocols work together."
 ---
 
