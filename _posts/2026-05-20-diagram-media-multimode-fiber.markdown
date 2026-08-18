@@ -4,8 +4,9 @@ title: "Networking Fundamentals | Multimode Fiber Cabling"
 lab_title: "Multimode Fiber Cabling"
 
 lesson: "2.0"
-lesson_id: "12.03.00"
-sort_order: "120300"
+lesson_id: "02.04.00"
+sort_order: "020400"
+
 
 categories: [portfolio, diagrams]
 

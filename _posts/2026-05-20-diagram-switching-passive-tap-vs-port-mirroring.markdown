@@ -3,9 +3,9 @@ layout: post
 title: "Infrastructure | Passive TAP vs Port Mirroring"
 lab_title: "Passive TAP vs Port Mirroring"
 
-lesson: "4.0"
-lesson_id: "08.02.00"
-sort_order: "080200"
+lesson: "5.0"
+lesson_id: "05.02.00"
+sort_order: "050200"
 
 categories: [portfolio, diagrams]
 

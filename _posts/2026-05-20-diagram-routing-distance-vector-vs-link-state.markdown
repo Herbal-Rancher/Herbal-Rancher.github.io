@@ -3,9 +3,9 @@ layout: post
 title: "Infrastructure | Distance Vector vs Link State Routing Protocols"
 lab_title: "Distance Vector vs Link State Routing Protocols"
 
-lesson: "3.0"
-lesson_id: "02.04.00"
-sort_order: "020400"    
+lesson: "6.0"
+lesson_id: "06.04.00"
+sort_order: "060400"
 
 categories: [portfolio, diagrams]
 

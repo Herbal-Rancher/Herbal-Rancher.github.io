@@ -3,9 +3,9 @@ layout: post
 title: "Technical Communication | Windows & Linux Network Administration Commands"
 lab_title: "Windows & Linux Network Administration Commands"
 
-lesson: "10.0" 
-lesson_id: "10.00.30"
-sort_order: "100030"
+lesson: "1.0" 
+lesson_id: "01.00.30"
+sort_order: "010030"
 
 categories: [portfolio, guides]
 

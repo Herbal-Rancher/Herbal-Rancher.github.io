@@ -3,9 +3,9 @@ layout: post
 title: "Networking Fundamentals | Fiber Optic Connectors: ST vs FC"
 lab_title: "Fiber Optic Connectors: ST vs FC"
 
-lesson: "4.0"
-lesson_id: "12.04.00"
-sort_order: "120400"
+lesson: "2.0"
+lesson_id: "02.02.00"
+sort_order: "020200"
 
 categories: [portfolio, diagrams]
 

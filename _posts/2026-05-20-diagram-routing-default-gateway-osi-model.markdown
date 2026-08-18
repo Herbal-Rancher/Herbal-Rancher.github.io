@@ -3,17 +3,17 @@ layout: post
 title: "Networking Fundamentals | Default Gateway & OSI Model Study Diagram"
 lab_title: "Default Gateway & OSI Model Study Diagram"
 
-lesson: "2.0"
-lesson_id: "13.04.00"
-sort_order: "130400"
+lesson: "6.0"
+lesson_id: "06.05.00"
+sort_order: "060500"
 
 categories: [portfolio, diagrams]
 
 category: networking-fundamentals
 category_display: Networking Fundamentals
 
-subcategory: tcpip
-subcategory_display: TCP/IP
+subcategory: routing
+subcategory_display: Routing
 
 content_type: diagram
 content_type_display: Diagram

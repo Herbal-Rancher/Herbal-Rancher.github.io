@@ -3,17 +3,17 @@ layout: post
 title: "Networking Fundamentals | Top Network Ports Study Guide"
 lab_title: "Top Network Ports Study Guide"
 
-lesson: "10.0" 
-lesson_id: "10.00.50"
-sort_order: "100050"
+lesson: "1.0" 
+lesson_id: "01.00.50"
+sort_order: "010050"
 
 categories: [portfolio, diagrams]
 
-category: networking-fundamentals
-category_display: Networking Fundamentals
+category: technical-communication
+category_display: Technical Communication
 
-subcategory: tcpip
-subcategory_display: TCP/IP
+subcategory: Reference-Guides
+subcategory_display: Reference Guides
 
 content_type: diagram
 content_type_display: Diagram

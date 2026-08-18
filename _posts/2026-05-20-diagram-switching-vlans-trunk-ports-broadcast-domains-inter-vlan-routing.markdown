@@ -4,8 +4,8 @@ title: "Networking Fundamentals | VLANs, Trunk Ports, Broadcast Domains, and Int
 lab_title: "VLANs, Trunk Ports, Broadcast Domains, and Inter-VLAN Routing Study Diagram"
 
 lesson: "5.0"
-lesson_id: "13.02.00"
-sort_order: "130200"
+lesson_id: "05.03.00"
+sort_order: "050300"
 
 categories: [portfolio, diagrams]
 

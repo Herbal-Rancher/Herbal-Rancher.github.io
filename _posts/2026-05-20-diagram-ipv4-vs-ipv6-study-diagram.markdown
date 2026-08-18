@@ -3,17 +3,17 @@ layout: post
 title: "Networking Fundamentals | IPv4 vs IPv6 Study Diagram"
 lab_title: "IPv4 vs IPv6 Study Diagram"
 
-lesson: "2.0"
-lesson_id: "13.06.00"
-sort_order: "130600"
+lesson: "3.0"
+lesson_id: "03.05.00"
+sort_order: "030500"
 
 categories: [portfolio, diagrams]
 
 category: networking-fundamentals
 category_display: Networking Fundamentals
 
-subcategory: tcpip
-subcategory_display: TCP/IP
+subcategory: ipv4-and-ipv6-addressing-and-subnetting
+subcategory_display: IPv4 and IPv6 Addressing and Subnetting
 
 content_type: diagram
 content_type_display: Diagram

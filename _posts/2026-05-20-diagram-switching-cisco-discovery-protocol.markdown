@@ -3,19 +3,17 @@ layout: post
 title: "Infrastructure | Cisco Discovery Protocol"
 lab_title: "Cisco Discovery Protocol"
 
-lesson: "2.0"
-lesson_id: "13.02.00"
-sort_order: "130200"
+lesson: "5.0"
+lesson_id: "05.04.00"
+sort_order: "050400"
 
 categories: [portfolio, diagrams]
-
 
 category: networking-fundamentals
 category_display: Networking Fundamentals
 
-
-subcategory: network-services-devices
-subcategory_display: Network Services & Devices
+subcategory: switching
+subcategory_display: Switching
 
 content_type: diagram
 content_type_display: Diagram

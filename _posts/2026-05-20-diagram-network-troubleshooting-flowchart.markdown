@@ -3,9 +3,9 @@ layout: post
 title: "Networking Fundamentals | Network Troubleshooting Flowchart"
 lab_title: "Network Troubleshooting Flowchart"
 
-lesson: "2.0"
-lesson_id: "13.05.00"
-sort_order: "130500"
+lesson: "8.0"
+lesson_id: "08.01.00"
+sort_order: "080100"
 
 categories: [portfolio, diagrams]
 

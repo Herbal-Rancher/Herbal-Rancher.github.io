@@ -3,9 +3,9 @@ layout: post
 title: "Networking Fundamentals | Ethernet Frame Structure Study Diagram"
 lab_title: "Ethernet Frame Structure Study Diagram"
 
-lesson: "2.0"
-lesson_id: "13.09.00"
-sort_order: "130900"
+lesson: "1.0"
+lesson_id: "01.01.00"
+sort_order: "010100"
 
 categories: [portfolio, diagrams]
 

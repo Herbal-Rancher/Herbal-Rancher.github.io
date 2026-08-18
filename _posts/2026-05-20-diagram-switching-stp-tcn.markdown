@@ -3,9 +3,9 @@ layout: post
 title: "Infrastructure | Spanning Tree Protocol: Topology Change Notification"
 lab_title: "Spanning Tree Protocol: Topology Change Notification"
 
-lesson: "3.0"
-lesson_id: "08.01.00"
-sort_order: "080100"
+lesson: "5.0"
+lesson_id: "05.01.00"
+sort_order: "050100"
 
 categories: [portfolio, diagrams]
 

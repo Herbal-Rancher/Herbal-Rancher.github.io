@@ -3,20 +3,18 @@ layout: post
 title: "Networking Fundamentals | MAC Address vs IP Address Study Diagram"
 lab_title: "MAC Address vs IP Address Study Diagram"
 
-lesson: "2.0"
-lesson_id: "13.08.00"
-sort_order: "130800"
+lesson: "7.0"
+lesson_id: "07.01.00"
+sort_order: "070100"
 
 categories: [portfolio, diagrams]
 
 category: networking-fundamentals
 category_display: Networking Fundamentals
 
-subcategory: tcpip
-subcategory_display: TCP/IP
+subcategory: network-addressing
+subcategory_display: Network Addressing
 
-content_type: diagram
-content_type_display: Diagram
 
 topics:
   - mac-address

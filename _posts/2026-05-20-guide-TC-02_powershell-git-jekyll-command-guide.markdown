@@ -3,9 +3,9 @@ layout: post
 title: "Technical Communication | PowerShell, Git, and Jekyll Commands"
 lab_title: "PowerShell, Git, and Jekyll Commands"
 
-lesson: "10.0" 
-lesson_id: "10.00.20"
-sort_order: "100020"
+lesson: "1.0" 
+lesson_id: "01.00.20"
+sort_order: "010020"
 
 categories: [portfolio, guides]
 
@@ -17,8 +17,6 @@ subcategory_display: Reference Guides
 
 content_type: guide
 content_type_display: Guide
-
-sort_order: "900002"
 
 tags:
   - switch-security

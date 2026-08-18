@@ -3,9 +3,9 @@ layout: post
 title: "Networking Fundamentals | Packet Flow Through a Router Study Diagram"
 lab_title: "Packet Flow Through a Router Study Diagram"
 
-lesson: "2.0"
-lesson_id: "13.10.00"
-sort_order: "131000"
+lesson: "6.0"
+lesson_id: "06.02.00"
+sort_order: "060200"
 
 categories: [portfolio, diagrams]
 

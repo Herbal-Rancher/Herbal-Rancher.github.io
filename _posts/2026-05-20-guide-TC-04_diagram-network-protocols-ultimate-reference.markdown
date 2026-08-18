@@ -3,11 +3,11 @@ layout: post
 title: "Technical Communication | Network Protocols Ultimate Quick Reference & Learning Tool"
 lab_title: "Network Protocols Ultimate Quick Reference & Learning Tool"
 
-lesson: "10.0" 
-lesson_id: "10.00.40"
-sort_order: "100040"
+lesson: "1.0" 
+lesson_id: "01.00.40"
+sort_order: "010040"
 
-categories: [portfolio, diagrams, reference-guides]
+categories: [portfolio, diagrams]
 
 category: technical-communication
 category_display: Technical Communication

@@ -3,17 +3,18 @@
 layout: post
 title: "The Most Common Networking Protocols"
 lab_title: "The Most Common Networking Protocols"
-lesson: "14.0"
-lesson_id: "14.01.00"
-sort_order: "140100"
+
+lesson: "1.0" 
+lesson_id: "01.00.70"
+sort_order: "010070"
 
 categories: [portfolio, diagrams]
 
-category: networking-fundamentals
-category_display: Networking Fundamentals
+category: technical-communication
+category_display: Technical Communication
 
-subcategory: networking-protocols
-subcategory_display: Networking Protocols
+subcategory: Reference-Guides
+subcategory_display: Reference Guides
 
 content_type: diagram
 content_type_display: Diagram

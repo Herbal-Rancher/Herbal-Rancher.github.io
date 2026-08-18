@@ -3,9 +3,9 @@ layout: post
 title: "Networking Fundamentals | Fiber Optic Connectors Complete Reference Guide"
 lab_title: "Fiber Optic Connectors Complete Reference Guide"
 
-lesson: "4.0"
-lesson_id: "12.05.00"
-sort_order: "120500"
+lesson: "2.0"
+lesson_id: "02.01.00"
+sort_order: "020100"
 
 categories: [portfolio, diagrams]
 

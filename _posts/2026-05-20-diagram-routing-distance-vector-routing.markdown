@@ -3,9 +3,9 @@ layout: post
 title: "Infrastructure | Distance Vector Routing"
 lab_title: "Distance Vector Routing"
 
-lesson: "3.0"
-lesson_id: "02.03.00"
-sort_order: "020300"
+lesson: "6.0"
+lesson_id: "06.03.00"
+sort_order: "060300"
 
 categories: [portfolio, diagrams]
 

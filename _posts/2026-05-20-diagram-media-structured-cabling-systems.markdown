@@ -4,8 +4,8 @@ title: "Networking Fundamentals | Structured Cabling Systems"
 lab_title: "Structured Cabling Systems"
 
 lesson: "2.0"
-lesson_id: "12.01.00"
-sort_order: "120100"
+lesson_id: "02.05.00"
+sort_order: "020500"
 
 categories: [portfolio, diagrams]
 

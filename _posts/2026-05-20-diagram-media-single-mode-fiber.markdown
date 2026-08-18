@@ -4,8 +4,9 @@ title: "Networking Fundamentals | Single-Mode Fiber Cabling"
 lab_title: "Single-Mode Fiber Cabling"
 
 lesson: "2.0"
-lesson_id: "12.02.00"
-sort_order: "120200"
+lesson_id: "02.03.00"
+sort_order: "020300"
+
 
 categories: [portfolio, diagrams]
 
