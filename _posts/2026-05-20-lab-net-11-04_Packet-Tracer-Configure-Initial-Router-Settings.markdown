@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infrastructure | Configure Initial Router Settings"
+title: "Lab 4 | Cisco Networking Labs - Configure Initial Router Settings"
 lab_title: "Configure Initial Router Settings"
 
 lesson: "11.0"
@@ -30,8 +30,11 @@ tags:
   - security
   - configuration
 
-permalink: /network-portfolio/labs/module-11-0/configure-initial-router-settings/
+permalink: /network-portfolio/labs/module-11-04/configure-initial-router-settings/
+
 status: complete
+
+pdf: "/assets/pdfs/Module-11-Lab-04-Packet-Tracer-Configure-Initial-Router-Settings.pdf"
 
 date: 2026-04-03 04:44:11 -0700
 

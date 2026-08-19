@@ -62,7 +62,6 @@ thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 lab_pdf: "/assets/pdfs/Module-13-Lab-11-Packet-Tracer-Identify-MAC-and-IP-Addresses.pdf"
 completed_lab: "/assets/pdfs/Module-13-Lab-11-Packet-Tracer-Identify-MAC-and-IP-Addresses.pdf"
-packet_tracer: "/assets/packet-tracer/13-11-Identify-MAC-and-IP-Addresses.pkt"
 
 ---
 

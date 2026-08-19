@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infrastructure | Connect a Router to a LAN"
+title: "Lab 8 | Cisco Networking Labs - Connect a Router to a LAN"
 lab_title: "Connect a Router to a LAN"
 
 lesson: "11.0"
@@ -29,8 +29,12 @@ tags:
   - topology
   - networking-basics
 
-permalink: /network-portfolio/labs/module-11-0/connect-router-to-lan/
+permalink: /network-portfolio/labs/module-11-08/connect-router-to-lan/
+
 status: complete
+
+lab_pdf: "/assets/pdfs/Module-11-Lab-08-Packet-Tracer-Connect-Router-to-LAN.pdf"
+completed_lab: "/assets/pdfs/Module-11-Lab-08-Packet-Tracer-Connect-Router-to-LAN.pdf"
 
 date: 2026-04-03 08:34:11 -0700
 

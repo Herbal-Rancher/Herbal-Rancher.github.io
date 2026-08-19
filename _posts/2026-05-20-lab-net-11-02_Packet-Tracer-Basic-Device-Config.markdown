@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infrastructure | Basic Device Configuration"
+title: "Lab 2 | Cisco Networking Labs - Basic Device Configuration"
 lab_title: "Basic Device Configuration"
 
 lesson: "11.0"
@@ -32,7 +32,7 @@ tags:
   - switch
   - troubleshooting
 
-permalink: /network-portfolio/labs/module-11-0/configure-basic-device-config/
+permalink: /network-portfolio/labs/module-11-02/configure-basic-device-config/
 status: complete
   
 date: 2026-04-03 02:34:11 -0700
@@ -41,7 +41,8 @@ video_id: "zwGWxiwK79o"
 video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
 thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
-pdf: ""
+lab_pdf: "/assets/pdfs/Module-11-Lab-02-Packet-Tracer-Basic-Device-Config.pdf"
+completed_lab: "/assets/pdfs/Module-11-Lab-02-Packet-Tracer-Basic-Device-Config.pdf"
 diagram: ""
 
 protocols: []

@@ -56,16 +56,16 @@ protocols:
 - Ethernet
 - ARP
 
-permalink: /network-portfolio/videos/13-14-tradeigate-tcp-ip-and-osi-models/
+permalink: /network-portfolio/videos/13-14-investigate-tcp-ip-and-osi-models/
 
 status: complete
-
+lab_pdf: "/assets/pdfs/Module-13-Lab-14-Packet-Tracer-Investigate-TCP-IP-and-OSI-Models-in-Action.pdf"
+completed_lab: "/assets/pdfs/Module-13-Lab-14-Packet-Tracer-Investigate-TCP-IP-and-OSI-Models-in-Action.pdf"
 
 video_id: "Z-o1A97If-c"
 video_url: "https://youtu.be/Z-o1A97If-c"
 thumbnail: "https://img.youtube.com/vi/Z-o1A97If-c/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-13-Lab-14-Packet-Tracer-Investigate-TCP-IP-and-OSI-Models-in-Action.pdf"
 ---
 
 ## Overview

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infrastructure | Build a Switch and Router Network"
+title: "Lab 6 | Cisco Networking Labs - Build a Switch and Router Network"
 lab_title: "Build a Switch and Router Network"
 
 lesson: "11.0"
@@ -28,8 +28,11 @@ tags:
   - topology
   - networking-basics
 
-permalink: /network-portfolio/labs/module-11-0/build-switch-router-network/
+permalink: /network-portfolio/labs/module-11-06/build-switch-router-network/
+
 status: complete
+
+pdf: "/assets/pdfs/Module-11-Lab-06-Packet-Tracer-Build-Switch-Router-Network.pdf"
 
 date: 2026-04-03 06:54:11 -0700
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cisco Packet Tracer | Configure Initial Switch Settings"
+title: "Lab 3 | Cisco Networking Labs - Configure Initial Switch Settings"
 lab_title: "Configure Initial Switch Settings"
 
 lesson: "11.0"
@@ -50,7 +50,8 @@ permalink: /network-portfolio/labs/11-03-configure-initial-switch-settings/
 
 status: complete
 
-pdf: "/assets/pdfs/Module-11-Lab-03-Packet-Tracer-Configure-Initial-Switch-Settings.pdf"
+lab_pdf: "/assets/pdfs/Module-11-Lab-03-Packet-Tracer-Configure-Initial-Switch-Settings.pdf"
+completed_lab: "/assets/pdfs/Module-11-Lab-03-Packet-Tracer-Configure-Initial-Switch-Settings.pdf"
 ---
 
 ## Overview

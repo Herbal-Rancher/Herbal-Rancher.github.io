@@ -98,3 +98,22 @@ This summative assessment presents a secure and reliable switched network design
 ## Reflection
 
 This summative assessment reinforced how switching technologies work together to create a structured enterprise network. Designing separate VLANs and address spaces for business departments, servers, guest access, and future expansion helped me connect logical segmentation with trunking, routing, redundancy, secure management, and access control while maintaining a design that can support future organizational growth.
+
+---
+---
+---
+
+## 🔗 Navigation
+
+* [Home](/)
+* [Network+ Portfolio](/network-portfolio/)
+  * **[Formative Modules](/network-portfolio/formative-modules/)**
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [STUDY DIAGRAMS](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
+* [Bible Study](/bible-study/)
+* [About the Portfolio](/about/)
+
+---
+---
+---

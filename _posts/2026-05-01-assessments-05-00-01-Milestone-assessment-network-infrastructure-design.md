@@ -103,3 +103,22 @@ This milestone assessment presents a secure, scalable, and highly available ente
 ## Reflection
 
 This milestone assessment strengthened my understanding that enterprise network design begins with business requirements rather than simply selecting hardware. Building the proposed architecture helped me connect switching, VLANs, addressing, centralized services, redundancy, cloud connectivity, and security into one scalable design while considering performance, availability, manageability, and long-term organizational growth.
+
+---
+---
+---
+
+## 🔗 Navigation
+
+* [Home](/)
+* [Network+ Portfolio](/network-portfolio/)
+  * **[Formative Modules](/network-portfolio/formative-modules/)**
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [STUDY DIAGRAMS](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
+* [Bible Study](/bible-study/)
+* [About the Portfolio](/about/)
+
+---
+---
+---

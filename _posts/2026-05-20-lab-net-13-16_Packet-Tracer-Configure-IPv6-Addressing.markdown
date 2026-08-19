@@ -59,7 +59,9 @@ video_id: "yl6xS68KjD4"
 video_url: "https://youtu.be/yl6xS68KjD4"
 thumbnail: "https://img.youtube.com/vi/yl6xS68KjD4/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-13-Lab-16-Packet-Configure-IPv6-Addressing.pdf"
+completed_lab: "/assets/pdfs/Module-13-Lab-16-Packet-Tracer-Configure-IPv6-Addressing.pdf"
+lab_pdf: "/assets/pdfs/Module-13-Lab-16-Packet-Tracer-Configure-IPv6-Addressing.pdf"
+
 ---
 
 ## Overview

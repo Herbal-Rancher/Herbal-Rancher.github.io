@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cisco Packet Tracer | Navigate the Cisco IOS"
+title: "Lab 1 | Cisco Networking Labs - Navigate the Cisco IOS"
 lab_title: "Navigate the Cisco IOS"
 
 lesson: "11.0"
@@ -47,8 +47,8 @@ protocols:
 permalink: /network-portfolio/labs/11-01-navigate-the-ios/
 
 status: complete
-
-pdf: "/assets/pdfs/Module-11-Lab-01-Packet-Tracer-Navigate-the-IOS-completed.pdf"
+completed_lab: "/assets/pdfs/Module-11-Lab-01-Packet-Tracer-Navigate-the-IOS.pdf"
+lab_pdf: "/assets/pdfs/Module-11-Lab-01-Packet-Tracer-Navigate-the-IOS.pdf"
 ---
 
 ## Overview

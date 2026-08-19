@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cisco Packet Tracer | Basic Switch and End Device Configuration"
+title: "Lab 5 | Cisco Networking Labs - Basic Switch and End Device Configuration"
 lab_title: "Basic Switch and End Device Configuration"
 
 lesson: "11.0"

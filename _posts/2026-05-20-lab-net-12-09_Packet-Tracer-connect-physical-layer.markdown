@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cisco Packet Tracer | Connect the Physical Layer"
+title: "Lab 9 | Cisco Networking Labs - Connect the Physical Layer"
 lab_title: "Connect the Physical Layer"
 
 lesson: "12.0"
@@ -54,6 +54,9 @@ protocols:
 permalink: /network-portfolio/videos/12-09-packet-tracer-connect-physical-layer/
 
 status: complete
+
+lab_pdf: "/assets/pdfs/Module-12-Lab-09-Packet-Tracer-Connect-Physical-Layer.pdf"
+completed_lab: "/assets/pdfs/Module-12-Lab-09-Packet-Tracer-Connect-Physical-Layer.pdf"
 
 
 video_id: "sEr5wx3x8iI"

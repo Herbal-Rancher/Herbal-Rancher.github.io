@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Networking Fundamentals | Network Cabling and Physical Topology Reference"
+title: "Lab 7 | Cisco Networking Labs - Network Cabling and Physical Topology Reference"
 lab_title: "Network Cabling and Physical Topology Reference"
 
 lesson: "11.0"
@@ -25,8 +25,12 @@ tags:
   - topology
   - networking-basics
 
-permalink: /network-portfolio/labs/module-11-0/cabling-topology-reference/
+permalink: /network-portfolio/labs/module-11-07/cabling-topology-reference/
+
 status: complete
+
+lab_pdf: "/assets/pdfs/Module-11-Lab-07-Packet-Tracer-Connect-Wired-and-Wireless-LAN.pdf"
+completed_lab: "/assets/pdfs/Module-11-Lab-07-Packet-Tracer-Connect-Wired-and-Wireless-LAN.pdf"
 
 topics: [network-topology, physical-topology, cabling, infrastructure-basics]
 
