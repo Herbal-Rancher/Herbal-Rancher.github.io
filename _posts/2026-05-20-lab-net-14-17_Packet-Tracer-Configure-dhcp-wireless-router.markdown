@@ -77,12 +77,6 @@ This guided technical walkthrough demonstrates how to configure DHCP on a wirele
 
 ---
 
-> **Portfolio Note**
->
-> This page documents my networking learning journey. The accompanying video demonstrates this exercise using Cisco Packet Tracer for educational purposes.
-
----
-
 ## Preconditions
 
 Before beginning this exercise, have available:
@@ -94,7 +88,14 @@ Before beginning this exercise, have available:
 - Lab instructions
 
 
-![Lab 17 Topology Screenshot](/assets/images/packet-tracer/cisco-lab-topology-module-14-lab-17-configure-dhcp-on-wireless.png)
+![Packet Tracer Lab 17 Topology Screenshot](/assets/images/packet-tracer/cisco-lab-topology-module-14-lab-17.png)
+
+
+---
+
+> **Portfolio Note**
+>
+> This page documents my networking learning journey. The accompanying video demonstrates this exercise using Cisco Packet Tracer for educational purposes.
 
 
 ---

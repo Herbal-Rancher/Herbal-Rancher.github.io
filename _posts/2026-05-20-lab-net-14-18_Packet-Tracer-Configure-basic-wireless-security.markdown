@@ -10,7 +10,6 @@ sort_order: "141800"
 
 categories:
 - portfolio
-- labs
 - videos
 
 category: networking-fundamentals
@@ -20,7 +19,7 @@ subcategory: wireless-networking
 subcategory_display: Wireless Networking
 
 content_type: video
-content_type_display: Video Walkthrough
+content_type_display: Video
 
 tags:
 - packet-tracer
@@ -54,9 +53,10 @@ permalink: /network-portfolio/videos/13-18-configure-basic-wireless-security/
 
 status: complete
 
-video_id: ""
-video_url: ""
-thumbnail: ""
+video_id: "zwGWxiwK79o"
+video_url: "https://youtu.be/zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+
 
 lab_pdf: "/assets/pdfs/Module-13-Lab-18-Packet-Tracer-Configure-Basic-Wireless-Security.pdf"
 completed_lab: "/assets/pdfs/Module-13-Lab-18-Packet-Tracer-Configure-Basic-Wireless-Security-completed.pdf"
@@ -67,6 +67,11 @@ completed_lab: "/assets/pdfs/Module-13-Lab-18-Packet-Tracer-Configure-Basic-Wire
 This Packet Tracer walkthrough demonstrates how I configured **WPA2 Personal wireless security** on a small-business wireless network. I secured the 2.4 GHz WLAN with a pre-shared key, updated the laptop's wireless configuration, reconnected it to the secured network, and verified connectivity.
 
 <!--more-->
+---
+
+## Preconditions
+
+![Packet Tracer Lab 18 - Configure Basic Wireless Security](/assets/images/packet-tracer/cisco-lab-topology-module-14-lab-18.png)
 
 ---
 
