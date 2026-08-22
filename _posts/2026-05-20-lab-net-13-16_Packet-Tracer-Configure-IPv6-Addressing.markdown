@@ -93,6 +93,18 @@ Before beginning this exercise, have available:
 
 ---
 
+## Video Walkthrough
+
+<iframe
+width="560"
+height="315"
+src="https://www.youtube.com/embed/{{ page.video_id }}"
+title="{{ page.title }}"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+---
 ## Learning Objectives
 
 By completing this exercise you will learn how to:
@@ -115,18 +127,6 @@ The activity demonstrates complete IPv6 deployment, including router configurati
 
 ---
 
-## Video Walkthrough
-
-<iframe
-width="560"
-height="315"
-src="https://www.youtube.com/embed/{{ page.video_id }}"
-title="{{ page.title }}"
-frameborder="0"
-allowfullscreen>
-</iframe>
-
----
 
 ## Completed Lab Documentation
 

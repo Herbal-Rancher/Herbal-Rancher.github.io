@@ -86,6 +86,23 @@ This Packet Tracer walkthrough demonstrates how I configured **WPA2 Personal wir
 
 ---
 
+## Video Walkthrough
+
+{% if page.video_id and page.video_id != "" %}
+
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/{{ page.video_id }}"
+    title="{{ page.lab_title }}"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+{% else %}
+*Video walkthrough coming soon.*
+{% endif %}
+
 ## Configuration
 
 | Setting           | Configuration                         |
@@ -97,6 +114,8 @@ This Packet Tracer walkthrough demonstrates how I configured **WPA2 Personal wir
 | Pre-Shared Key    | Network123                            |
 | Client            | Laptop                                |
 | Connectivity Test | [www.cisco.pka](http://www.cisco.pka) |
+
+---
 
 ---
 
@@ -133,25 +152,6 @@ The completed lab confirmed that:
 * The laptop connected using the correct pre-shared key.
 * The **Academy** wireless network remained accessible.
 * Web connectivity continued after wireless security was enabled.
-
----
-
-## Video Walkthrough
-
-{% if page.video_id and page.video_id != "" %}
-
-<div class="video-container">
-  <iframe
-    src="https://www.youtube.com/embed/{{ page.video_id }}"
-    title="{{ page.lab_title }}"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-{% else %}
-*Video walkthrough coming soon.*
-{% endif %}
 
 ---
 

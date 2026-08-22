@@ -96,6 +96,24 @@ This Packet Tracer lab examines **Network Address Translation (NAT)** on a wirel
 
 ---
 
+## Video
+
+{% if page.video and page.video != "" %}
+
+<div class="video-container">
+  <iframe
+    src="{{ page.video }}"
+    title="{{ page.lab_title }}"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+{% else %}
+*Video coming soon.*
+{% endif %}
+
+---
 ## Key Observations
 
 The wireless router connects two different addressing environments:
@@ -116,24 +134,6 @@ Packet header inspection confirmed the NAT translation between the internal and 
 
 ---
 
-## Video
-
-{% if page.video and page.video != "" %}
-
-<div class="video-container">
-  <iframe
-    src="{{ page.video }}"
-    title="{{ page.lab_title }}"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-{% else %}
-*Video coming soon.*
-{% endif %}
-
----
 
 ## Related Exercises
 

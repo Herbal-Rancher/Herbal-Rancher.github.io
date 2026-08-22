@@ -116,6 +116,19 @@ By completing this exercise you will learn how to:
 
 ---
 
+## Video Walkthrough
+
+<iframe
+width="560"
+height="315"
+src="https://www.youtube.com/embed/{{ page.video_id }}"
+title="{{ page.title }}"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+---
+
 ## Lab Environment
 
 This exercise uses a wireless router to provide network connectivity and DHCP services for three Ethernet-connected PCs.
@@ -319,18 +332,6 @@ The completed network should demonstrate:
 
 ---
 
-## Video Walkthrough
-
-<iframe
-width="560"
-height="315"
-src="https://www.youtube.com/embed/{{ page.video_id }}"
-title="{{ page.title }}"
-frameborder="0"
-allowfullscreen>
-</iframe>
-
----
 
 ## Completed Lab Documentation
 
