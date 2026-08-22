@@ -59,12 +59,12 @@ permalink: /network-portfolio/videos/13-19-examine-nat-on-wireless-router/
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://youtu.be/zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "PanXfGnEwQw"
+video_url: "https://youtu.be/PanXfGnEwQw"
+thumbnail: "https://img.youtube.com/vi/PanXfGnEwQw/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-13-Lab-19-Packet-Tracer-Explore-NAT-on-wireless-router.pdf"
-lab_pdf: "/assets/pdfs/Module-13-Lab-19-Packet-Tracer-Explore-NAT-on-wireless-router.pdf"
+completed_lab: "/assets/pdfs/Module-14-Lab-19-Packet-Tracer-Examine-NAT-on-wireless-router.pdf"
+lab_pdf: "/assets/pdfs/Module-14-Lab-19-Packet-Tracer-Examine-NAT-on-wireless-router.pdf"
 
 diagram: ""
 ---

@@ -57,12 +57,12 @@ permalink: /network-portfolio/videos/14-20-troubleshoot-wireless-connection/
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://youtu.be/zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "uFT-jPKaABY"
+video_url: "https://youtu.be/uFT-jPKaABY"
+thumbnail: "https://img.youtube.com/vi/uFT-jPKaABY/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-14-Lab-20-Packet-Tracer-Troubleshoot-a-Wireless-Connection.pdf"
-lab_pdf: "/assets/pdfs/Module-14-Lab-20-Packet-Tracer-Troubleshoot-a-Wireless-Connection.pdf"
+completed_lab: "/assets/pdfs/Module-14-Lab-20-Packet-Tracer-Packet-Troubleshoot-wireless-connection.pdf"
+lab_pdf: "/assets/pdfs/Module-14-Lab-20-Packet-Tracer-Packet-Troubleshoot-wireless-connection.pdf"
 
 ## diagram: ""
 ---

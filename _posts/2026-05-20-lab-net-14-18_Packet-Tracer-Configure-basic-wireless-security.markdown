@@ -53,13 +53,13 @@ permalink: /network-portfolio/videos/13-18-configure-basic-wireless-security/
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://youtu.be/zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "UUtZbu1gTKk"
+video_url: "https://youtu.be/UUtZbu1gTKk"
+thumbnail: "https://img.youtube.com/vi/UUtZbu1gTKk/hqdefault.jpg"
 
 
-lab_pdf: "/assets/pdfs/Module-13-Lab-18-Packet-Tracer-Configure-Basic-Wireless-Security.pdf"
-completed_lab: "/assets/pdfs/Module-13-Lab-18-Packet-Tracer-Configure-Basic-Wireless-Security-completed.pdf"
+lab_pdf: "/assets/pdfs/Module-14-Lab-18-Packet-Tracer-Configure-basic-wireless-security.pdf"
+completed_lab: "/assets/pdfs/Module-14-Lab-18-Packet-Tracer-Configure-basic-wireless-security.pdf"
 ---
 
 ## Overview
