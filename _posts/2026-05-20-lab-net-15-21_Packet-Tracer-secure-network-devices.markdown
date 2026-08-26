@@ -65,7 +65,9 @@ lab_pdf: "/assets/pdfs/Module-15-Lab-21-Packet-Tracer-Secure-Network-Devices.pdf
 
 permalink: /network-portfolio/videos/15-21-secure-network-devices/
 
-diagram: ""
+video_id: "zwGWxiwK79o"
+video_url: "https://youtu.be/zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 ---
 
 ## Overview
@@ -76,16 +78,14 @@ password protection, SSH remote management, login security, switch
 management access, and disabled unused switch ports while maintaining
 connectivity between the network devices.
 
-```{=html}
 <!--more-->
-```
 
 ------------------------------------------------------------------------
 
 ## Preconditions
 
 ![Packet Tracer Lab 21 - Secure Network Devices -
-Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-21.png)
+Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-Lab-21.png)
 
 ------------------------------------------------------------------------
 
@@ -106,19 +106,21 @@ Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-21.
 
 ## Video Walkthrough
 
-```{=html}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_id }}" title="{{ page.title }}" frameborder="0" allowfullscreen>
-```
-```{=html}
+<iframe
+width="560"
+height="315"
+src="https://www.youtube.com/embed/{{ page.video_id }}"
+title="{{ page.title }}"
+frameborder="0"
+allowfullscreen>
 </iframe>
-```
 
-------------------------------------------------------------------------
-
+---
 ## Completed Lab Documentation
 
--   [Completed Lab
-    PDF](%7B%7B%20page.completed_lab%20%7C%20relative_url%20%7D%7D)
+- [Completed Lab PDF]({{ page.completed_lab | relative_url }})
+
+---
 
 ------------------------------------------------------------------------
 

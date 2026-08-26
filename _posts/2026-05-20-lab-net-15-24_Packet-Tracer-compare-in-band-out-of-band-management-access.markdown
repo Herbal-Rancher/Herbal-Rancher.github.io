@@ -56,9 +56,9 @@ protocols:
 
 status: complete
 
-video_id: ""
-video_url: ""
-thumbnail: ""
+video_id: "zwGWxiwK79o"
+video_url: "https://youtu.be/zwGWxiwK79o"
+thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
 completed_lab: "/assets/pdfs/Module-15-Lab-24-Packet-Tracer-InBand-OutOfBand-Access.pdf"
 lab_pdf: "/assets/pdfs/Module-15-Lab-24-Packet-Tracer-InBand-OutOfBand-Access.pdf"
@@ -76,9 +76,7 @@ using console and USB console interfaces, then used SSH over an IP
 network to remotely access routers and compare the requirements and use
 cases of each management method.
 
-```{=html}
 <!--more-->
-```
 
 ------------------------------------------------------------------------
 
@@ -107,21 +105,21 @@ Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-24.
 
 ## Video Walkthrough
 
-```{=html}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_id }}" title="{{ page.title }}" frameborder="0" allowfullscreen>
-```
-```{=html}
+<iframe
+width="560"
+height="315"
+src="https://www.youtube.com/embed/{{ page.video_id }}"
+title="{{ page.title }}"
+frameborder="0"
+allowfullscreen>
 </iframe>
-```
 
-------------------------------------------------------------------------
-
+---
 ## Completed Lab Documentation
 
--   [Completed Lab
-    PDF](%7B%7B%20page.completed_lab%20%7C%20relative_url%20%7D%7D)
+- [Completed Lab PDF]({{ page.completed_lab | relative_url }})
 
-------------------------------------------------------------------------
+---
 
 ## Key Observations
 
