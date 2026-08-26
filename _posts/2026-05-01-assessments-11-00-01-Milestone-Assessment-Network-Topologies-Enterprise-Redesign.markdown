@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assessment Milestone | Network Topologies Enterprise Redesign"
+title: "11.0 Milestone Assessment | Network Topologies Enterprise Redesign"
 lab_title: "Network Topologies Enterprise Redesign"
 
 lesson: "11.0"
@@ -28,30 +28,29 @@ tags:
 - topology
 
 permalink: /network-portfolio/formative-modules/lesson-11-0/milestone-network-topologies/
+pdf: "/assets/pdfs/11-0-Milestone-Assessment_Network-Topologies.pdf"
 status: complete
 
-pdf: "/assets/pdfs/11-0-Milestone-Assessment_Network-Topologies.pdf"
-
 topics:
-  - vlan-segmentation
-  - trunking
-  - redundancy
-  - wireless-security
-  - enterprise-design
+- vlan-segmentation
+- trunking
+- redundancy
+- wireless-security
+- enterprise-design
 
 protocols:
-  - RSTP
-  - LACP
-  - 802.1Q
-  - WPA3
-  - SNMP
-  - 802.1X
+- RSTP
+- LACP
+- 802.1Q
+- WPA3
+- SNMP
+- 802.1X
 
 tools:
-  - layer3-switches
-  - access-points
-  - syslog
-  - radius
+- layer3-switches
+- access-points
+- syslog
+- radius
 
 ---
 

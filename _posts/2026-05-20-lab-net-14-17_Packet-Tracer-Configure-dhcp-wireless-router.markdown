@@ -19,7 +19,6 @@ content_type: video
 content_type_display: Video
 
 tags:
-
 - cisco
 - packet-tracer
 - dhcp
@@ -126,6 +125,12 @@ title="{{ page.title }}"
 frameborder="0"
 allowfullscreen>
 </iframe>
+
+---
+
+## Completed Lab Documentation
+
+- [Completed Lab PDF]({{ page.completed_lab | relative_url }})
 
 ---
 

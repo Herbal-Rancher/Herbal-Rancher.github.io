@@ -186,9 +186,23 @@ Basic switch configuration is one of the first tasks performed by network admini
 
 ---
 
+
 ## Video Walkthrough
 
-*(Video Embed)*
+<iframe
+width="560"
+height="315"
+src="https://www.youtube.com/embed/{{ page.video_id }}"
+title="{{ page.title }}"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+---
+
+## Completed Lab Documentation
+
+- [Completed Lab PDF]({{ page.completed_lab | relative_url }})
 
 ---
 

@@ -15,8 +15,8 @@ category_display: Cisco Networking Labs
 subcategory: packet-analysis
 subcategory_display: Packet Analysis
 
-content_type: video
-content_type_display: Video
+content_type: lab
+content_type_display: Lab
 
 tags:
 

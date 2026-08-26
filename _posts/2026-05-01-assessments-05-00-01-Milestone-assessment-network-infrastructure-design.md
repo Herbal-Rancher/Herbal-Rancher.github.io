@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assessment Milestone | Multi-Story Office Building Network Infrastructure Design Proposal"
+title: "5.0 Milestone Assessment | Multi-Story Office Building Network Infrastructure Design Proposal"
 lab_title: "Multi-Story Office Building Network Infrastructure Design Proposal"
 
 lesson: "5.0"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assessment Milestone | Network Systems"
+title: "2.0 Milestone Assessment | Network Systems"
 lab_title: "Network Systems"
 
 lesson: "2.0"

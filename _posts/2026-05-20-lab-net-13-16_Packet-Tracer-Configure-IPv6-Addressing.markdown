@@ -55,9 +55,9 @@ permalink: /network-portfolio/videos/13-16-configure-ipv6-addressing/
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://youtu.be/zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "yl6xS68KjD4"
+video_url: "https://youtu.be/yl6xS68KjD4"
+thumbnail: "https://img.youtube.com/vi/yl6xS68KjD4/hqdefault.jpg"
 
 completed_lab: "/assets/pdfs/Module-13-Lab-16-Packet-Tracer-Configure-IPv6-Addressing.pdf"
 lab_pdf: "/assets/pdfs/Module-13-Lab-16-Packet-Tracer-Configure-IPv6-Addressing.pdf"
@@ -105,6 +105,13 @@ allowfullscreen>
 </iframe>
 
 ---
+
+## Completed Lab Documentation
+
+- [Completed Lab PDF]({{ page.completed_lab | relative_url }})
+
+---
+
 ## Learning Objectives
 
 By completing this exercise you will learn how to:
@@ -124,13 +131,6 @@ By completing this exercise you will learn how to:
 This exercise uses a Cisco router connected to multiple IPv6 LANs containing servers, workstations, and an ISP connection.
 
 The activity demonstrates complete IPv6 deployment, including router configuration, interface addressing, host configuration, web connectivity, and ICMPv6 testing. :contentReference[oaicite:0]{index=0}
-
----
-
-
-## Completed Lab Documentation
-
-- [Completed Lab PDF]({{ page.completed_lab | relative_url }})
 
 ---
 

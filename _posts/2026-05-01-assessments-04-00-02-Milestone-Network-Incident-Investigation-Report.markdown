@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assessment Milestone | Network Troubleshooting Incident Investigation Report"
+title: "4.0 Milestone Assessment | Network Troubleshooting Incident Investigation Report"
 lab_title: "Network Troubleshooting Incident Investigation Report"
 
 lesson: "4.0"

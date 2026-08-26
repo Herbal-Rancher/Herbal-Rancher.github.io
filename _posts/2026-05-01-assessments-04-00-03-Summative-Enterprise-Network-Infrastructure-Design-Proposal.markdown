@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assessment Summative | Enterprise Network Infrastructure Design Proposal"
+title: "4.0 Summative Assessment | Enterprise Network Infrastructure Design Proposal"
 lab_title: "Enterprise Network Infrastructure Design Proposal"
 
 lesson: "4.0"

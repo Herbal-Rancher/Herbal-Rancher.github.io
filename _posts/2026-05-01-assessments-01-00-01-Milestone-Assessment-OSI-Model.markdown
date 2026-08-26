@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assessment Milestone | Open Systems Interconnection (OSI) Model"
+title: "1.0 Milestone Assessment | Open Systems Interconnection (OSI) Model"
 lab_title: "Open Systems Interconnection (OSI) Model"
 
 lesson: "1.0"

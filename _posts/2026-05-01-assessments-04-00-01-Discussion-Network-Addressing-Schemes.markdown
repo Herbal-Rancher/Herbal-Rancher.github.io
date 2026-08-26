@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Discussion | Network Addressing Schemes"
+title: "4.0 Discussion | Network Addressing Schemes"
 lab_title: "Network Addressing Schemes"
 
 lesson: "4.0"

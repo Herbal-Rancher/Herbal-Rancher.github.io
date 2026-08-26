@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assessment Summative | Network OSI Model"
+title: "1.0 Summative Assessment | Network OSI Model"
 lab_title: "Network OSI Model"
 
 lesson: "1.0"

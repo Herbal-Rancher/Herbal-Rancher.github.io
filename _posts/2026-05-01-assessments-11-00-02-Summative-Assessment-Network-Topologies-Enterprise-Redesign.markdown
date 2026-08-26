@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Assessment Summative | Packet Tracer Lab 8 Connect a Router to a LAN"
-lab_title: "Cabling and Physical Network Infrastructure"
+title: "11.0 Summative Assessment | Packet Tracer Lab 8 Connect a Router to a LAN"
+lab_title: "Packet Tracer Lab 8 Connect a Router to a LAN"
 
 lesson: "11.0"
 lesson_id: "11.00.02"
@@ -33,21 +33,21 @@ status: complete
 pdf: "/assets/pdfs/11-0-Summative-Assessment_Network-Topologies.pdf"
 
 topics:
-  - router-configuration
-  - interface-verification
-  - routing-tables
-  - connectivity-testing
+- router-configuration
+- interface-verification
+- routing-tables
+- connectivity-testing
 
 protocols:
-  - OSPF
-  - ICMP
-  - IPv4
+- OSPF
+- ICMP
+- IPv4
 
 tools:
-  - Cisco-IOS
-  - Packet-Tracer
-  - ping
-  - show-ip-route
+- Cisco-IOS
+- Packet-Tracer
+- ping
+- show-ip-route
 
 video: []
 

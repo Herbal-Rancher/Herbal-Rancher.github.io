@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Discussion | Physical Installation Considerations"
+title: "3.0 Discussion | Physical Installation Considerations"
 lab_title: "Physical Installation Considerations"
 
 lesson: "3.0"

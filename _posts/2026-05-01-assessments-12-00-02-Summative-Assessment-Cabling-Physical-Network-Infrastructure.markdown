@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assessment Summative | Cabling and Physical Network Infrastructure"
+title: "12.0 Summative Assessment | Cabling and Physical Network Infrastructure"
 lab_title: "Cabling and Physical Network Infrastructure"
 
 lesson: "12.0"
@@ -31,20 +31,20 @@ status: complete
 pdf: "/assets/pdfs/12-0-Summative-Assessment_Network-Cabling.pdf"
 
 topics:
-  - physical-connectivity
-  - interface-configuration
-  - troubleshooting
-  - cli-configuration
+- physical-connectivity
+- interface-configuration
+- troubleshooting
+- cli-configuration
 
 protocols:
-  - IPv4
-  - ICMP
+- IPv4
+- ICMP
 
 tools:
-  - Packet-Tracer
-  - Cisco-IOS
-  - ping
-  - show-ip-interface-brief
+- Packet-Tracer
+- Cisco-IOS
+- ping
+- show-ip-interface-brief
 
 ---
 
@@ -68,8 +68,7 @@ This summative assessment documents the implementation of basic network connecti
 ## Supporting Evidence
 
 * [Download Assessment PDF]({{ page.pdf | relative_url }})
-* [Primary Walkthrough Video]({{ page.videos[0] }})
-* [Supporting Walkthrough Video]({{ page.videos[1] }})
+
 
 ---
 

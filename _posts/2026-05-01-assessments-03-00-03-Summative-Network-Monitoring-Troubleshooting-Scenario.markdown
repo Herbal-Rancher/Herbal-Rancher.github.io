@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assessment Summative | Network Monitoring and Troubleshooting Scenario"
+title: "3.0 Summative Assessment | Network Monitoring and Troubleshooting Scenario"
 lab_title: "Network Monitoring and Troubleshooting Scenario"
 
 lesson: "3.0"

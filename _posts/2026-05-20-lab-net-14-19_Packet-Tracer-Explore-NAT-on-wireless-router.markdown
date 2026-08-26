@@ -8,10 +8,7 @@ lesson: "14.0"
 lesson_id: "14.19.00"
 sort_order: "141900"
 
-categories:
-  - portfolio
-  - labs
-  - videos
+categories: [portfolio, videos]
 
 category: networking-fundamentals
 category_display: Networking Fundamentals
@@ -96,24 +93,24 @@ This Packet Tracer lab examines **Network Address Translation (NAT)** on a wirel
 
 ---
 
-## Video
+## Video Walkthrough
 
-{% if page.video and page.video != "" %}
-
-<div class="video-container">
-  <iframe
-    src="{{ page.video }}"
-    title="{{ page.lab_title }}"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-{% else %}
-*Video coming soon.*
-{% endif %}
+<iframe
+width="560"
+height="315"
+src="https://www.youtube.com/embed/{{ page.video_id }}"
+title="{{ page.title }}"
+frameborder="0"
+allowfullscreen>
+</iframe>
 
 ---
+## Completed Lab Documentation
+
+- [Completed Lab PDF]({{ page.completed_lab | relative_url }})
+
+---
+
 ## Key Observations
 
 The wireless router connects two different addressing environments:

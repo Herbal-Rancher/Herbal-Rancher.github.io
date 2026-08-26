@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assessment Milestone | Cabling and Physical Network Infrastructure"
+title: "12.0 Milestone Assessment | Cabling and Physical Network Infrastructure"
 lab_title: "Cabling and Physical Network Infrastructure"
 
 lesson: "12.0"
@@ -33,23 +33,23 @@ status: complete
 pdf: "/assets/pdfs/12-0-Milestone-Assessment_Network-Cabling.pdf"
 
 topics:
-  - twisted-pair
-  - fiber-optic
-  - coaxial
-  - cable-management
-  - troubleshooting
+- twisted-pair
+- fiber-optic
+- coaxial
+- cable-management
+- troubleshooting
 
 protocols:
-  - Ethernet
-  - 10BASE-T
-  - 1000BASE-T
-  - 10GBASE-T
+- Ethernet
+- 10BASE-T
+- 1000BASE-T
+- 10GBASE-T
 
 tools:
-  - cable-testers
-  - TDR
-  - optical-power-meter
-  - loopback-plugs
+- cable-testers
+- TDR
+- optical-power-meter
+- loopback-plugs
 
 ---
 

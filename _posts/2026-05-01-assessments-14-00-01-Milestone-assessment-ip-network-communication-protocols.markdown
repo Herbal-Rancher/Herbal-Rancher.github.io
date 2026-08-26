@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Assessment Milestone | IP Network Addressing Schemes"
-lab_title: "IP Network Addressing Schemes"
+title: "14.0 Milestone Assessment | Network Communication Protocols"
+lab_title: "Network Communication Protocols"
 
-lesson: "13.0"
-lesson_id: "13.00.01"
-sort_order: "130001"
+lesson: "14.0"
+lesson_id: "14.00.01"
+sort_order: "140001"
 
 categories: [portfolio, milestone, formative]
 
@@ -19,71 +19,113 @@ content_type: assessment-milestone
 content_type_display: Assessment Milestone
 
 tags:
-  - network-addressing
-  - ipv4
-  - ipv6
-  - subnetting
-  - cidr
-  - mac
-  - dhcp
-  - dns
-  - static-addressing
+- network-protocols
+- osi-model
+- tcp
+- udp
+- ip
+- icmp
+- arp
+- ethernet
+- dns
+- dhcp
+- http
+- ftp
+- smtp
+- ssh
+- rdp
+- smb
+- ntp
+- sip
+- snmp
 
-permalink: /network-portfolio/formative-modules/lesson-13-0/milestone-ip-network-addressing-schemes/
+pdf: /assets/pdfs/14-0-Milestone-Assessment-Network-Communication-Protocols.pdf
+permalink: /network-portfolio/formative-modules/lesson-14-0/milestone-network-communication-protocols/
 
 status: complete
 
-pdf: "/assets/pdfs/13.0-Milestone-Assessment-Network-IP-Addressing.pdf"
-
 topics:
-  - ipv4-addressing
-  - ipv6-addressing
-  - subnetting
-  - cidr
-  - address-conservation
-  - route-aggregation
-  - mac-addressing
-  - network-services
-  - troubleshooting
+- network-communication-protocols
+- osi-model
+- protocol-layers
+- tcp-vs-udp
+- reliable-delivery
+- connectionless-communication
+- network-addressing
+- network-diagnostics
+- application-services
+- secure-communications
+- end-to-end-communication
+- network-troubleshooting
 
 protocols:
-  - IPv4
-  - IPv6
-  - DHCP
-  - DHCPv6
-  - DNS
-  - ICMP
-  - TCP-IP
+- Ethernet
+- ARP
+- IPv4
+- IPv6
+- ICMP
+- TCP
+- UDP
+- DNS
+- DHCP
+- HTTP
+- HTTPS
+- FTP
+- SMTP
+- SSH
+- RDP
+- SMB
+- NTP
+- SIP
+- SNMP
+- TLS
 
 tools:
-  - ipconfig
-  - ip
-  - ping
-  - tracert
-  - traceroute
-  - nslookup
-  - arp
+- ping
+- ssh
+- nslookup
+- ipconfig
+- arp
+
 ---
 
 ## Overview
 
-This milestone assessment explores the network addressing schemes that provide the foundation for TCP/IP communication. It compares IPv4 and IPv6, applies subnetting and CIDR notation, and examines how MAC addressing, DHCP, DNS, and static configuration work together to identify, configure, segment, route, and troubleshoot network devices.
+This milestone assessment examines the network communication protocols
+that allow devices, operating systems, and applications to exchange data
+across modern networks. It connects protocols to their roles within the
+OSI model, compares TCP and UDP, and explains how Data Link, Network,
+Transport, and Application layer protocols work together to provide
+end-to-end communication.
 
 ---
 
 ## Assessment Focus
 
-* IPv4 address structure and subnet masks
-* IPv6 addressing and /64 prefixes
-* IPv4 and IPv6 dual-stack networking
-* Subnetting and broadcast-domain segmentation
-* CIDR notation and address conservation
-* Route aggregation and routing efficiency
-* MAC addressing and Layer 2 communication
-* DHCP and DHCPv6 configuration concepts
+* Network communication protocols and standards
+* OSI model protocol relationships
+* Ethernet framing and MAC addressing
+* ARP address resolution
+* IPv4 and IPv6 logical addressing and routing
+* ICMP error reporting and network diagnostics
+* TCP connection-oriented communication
+* UDP connectionless communication
+* TCP reliability, sequencing, acknowledgments, and retransmission
+* TCP vs. UDP selection based on reliability, latency, and speed
 * DNS name resolution
-* Static and dynamic addressing
-* Network addressing troubleshooting
+* DHCP dynamic network configuration
+* HTTP and HTTPS web communication
+* FTP file transfer
+* SMTP email delivery
+* SSH secure remote administration
+* RDP remote desktop access
+* SMB file and printer sharing
+* NTP network time synchronization
+* SIP multimedia and VoIP session management
+* SNMP network monitoring and management
+* Protocol ports and transport protocols
+* End-to-end communication across OSI layers
+* Practical protocol selection and troubleshooting scenarios
 
 ---
 
@@ -95,7 +137,15 @@ This milestone assessment explores the network addressing schemes that provide t
 
 ## Reflection
 
-This milestone assessment strengthened my understanding of how addressing concepts work together rather than as isolated technologies. Comparing IPv4 and IPv6 and applying subnetting and CIDR helped me better understand how networks organize address space, control communication, conserve IPv4 addresses, and support efficient routing. Connecting these concepts with MAC addressing, DHCP, DNS, static configuration, and troubleshooting also reinforced their practical application in real-world networks.
+
+This milestone assessment strengthened my understanding of how network
+protocols operate as an interconnected system rather than as isolated
+technologies. Comparing TCP and UDP helped me connect reliability,
+sequencing, acknowledgments, retransmission, speed, and overhead to real
+application requirements. Mapping Ethernet, ARP, IP, ICMP, TCP, UDP, and
+application protocols to the OSI model also reinforced how addressing,
+transport, diagnostics, security, and application services work together
+to deliver data from one endpoint to another.
 
 ---
 ---

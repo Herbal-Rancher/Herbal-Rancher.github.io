@@ -7,10 +7,7 @@ lesson: "14.0"
 lesson_id: "14.20.00"
 sort_order: "142000"
 
-categories:
-  - portfolio
-  - labs
-  - videos
+categories: [portfolio, videos]
 
 category: networking-fundamentals
 category_display: Networking Fundamentals
@@ -53,7 +50,6 @@ protocols:
   - IPv4
   - HTTP
 
-permalink: /network-portfolio/videos/14-20-troubleshoot-wireless-connection/
 
 status: complete
 
@@ -63,6 +59,7 @@ thumbnail: "https://img.youtube.com/vi/uFT-jPKaABY/hqdefault.jpg"
 
 completed_lab: "/assets/pdfs/Module-14-Lab-20-Packet-Tracer-Packet-Troubleshoot-wireless-connection.pdf"
 lab_pdf: "/assets/pdfs/Module-14-Lab-20-Packet-Tracer-Packet-Troubleshoot-wireless-connection.pdf"
+permalink: /network-portfolio/videos/14-20-troubleshoot-wireless-connection/
 
 ## diagram: ""
 ---
@@ -94,24 +91,24 @@ This Packet Tracer lab demonstrates how I identified and corrected a wireless co
 
 ---
 
-## Video
+## Video Walkthrough
 
-{% if page.video and page.video != "" %}
-
-<div class="video-container">
-  <iframe
-    src="{{ page.video }}"
-    title="{{ page.lab_title }}"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-{% else %}
-*Video coming soon.*
-{% endif %}
+<iframe
+width="560"
+height="315"
+src="https://www.youtube.com/embed/{{ page.video_id }}"
+title="{{ page.title }}"
+frameborder="0"
+allowfullscreen>
+</iframe>
 
 ---
+## Completed Lab Documentation
+
+- [Completed Lab PDF]({{ page.completed_lab | relative_url }})
+
+---
+
 ## Key Observations
 
 Wireless connectivity depends on the client configuration matching the wireless router.

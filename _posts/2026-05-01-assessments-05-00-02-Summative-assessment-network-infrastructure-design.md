@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assessment Summative | New Office Building Network Infrastructure Design Proposal"
+title: "5.0 Summative Assessment | New Office Building Network Infrastructure Design Proposal"
 lab_title: "New Office Building Network Infrastructure Design Proposal"
 
 lesson: "5.0"

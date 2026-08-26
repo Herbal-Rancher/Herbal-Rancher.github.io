@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: "Lab 18| Cisco Networking Labs - Configure Basic Wireless Security"
 lab_title: "Configure Basic Wireless Security"
@@ -8,12 +7,10 @@ lesson: "14.0"
 lesson_id: "14.18.00"
 sort_order: "141800"
 
-categories:
-- portfolio
-- videos
+categories: [portfolio, videos]
 
-category: networking-fundamentals
-category_display: Networking Fundamentals
+category: cisco-networking-labs
+category_display: Cisco Networking Labs
 
 subcategory: wireless-networking
 subcategory_display: Wireless Networking
@@ -49,7 +46,7 @@ protocols:
 - HTTP
 - TCP-IP
 
-permalink: /network-portfolio/videos/13-18-configure-basic-wireless-security/
+permalink: /network-portfolio/videos/14-18-configure-basic-wireless-security/
 
 status: complete
 
@@ -60,6 +57,7 @@ thumbnail: "https://img.youtube.com/vi/UUtZbu1gTKk/hqdefault.jpg"
 
 lab_pdf: "/assets/pdfs/Module-14-Lab-18-Packet-Tracer-Configure-basic-wireless-security.pdf"
 completed_lab: "/assets/pdfs/Module-14-Lab-18-Packet-Tracer-Configure-basic-wireless-security.pdf"
+
 ---
 
 ## Overview
@@ -86,22 +84,26 @@ This Packet Tracer walkthrough demonstrates how I configured **WPA2 Personal wir
 
 ---
 
+---
+
 ## Video Walkthrough
 
-{% if page.video_id and page.video_id != "" %}
+<iframe
+width="560"
+height="315"
+src="https://www.youtube.com/embed/{{ page.video_id }}"
+title="{{ page.title }}"
+frameborder="0"
+allowfullscreen>
+</iframe>
 
-<div class="video-container">
-  <iframe
-    src="https://www.youtube.com/embed/{{ page.video_id }}"
-    title="{{ page.lab_title }}"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-{% else %}
-*Video walkthrough coming soon.*
-{% endif %}
+---
+
+## Completed Lab Documentation
+
+- [Completed Lab PDF]({{ page.completed_lab | relative_url }})
+
+---
 
 ## Configuration
 
