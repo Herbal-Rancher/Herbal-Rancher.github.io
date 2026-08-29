@@ -165,3 +165,23 @@ restored where the available configuration permitted correction.
 -   Web Connectivity Troubleshooting
 -   Systematic Network Troubleshooting
 -   Issue Documentation and Escalation
+
+
+---
+---
+---
+
+## 🔗 Navigation
+
+* [Home](/)
+* [Network+ Portfolio](/network-portfolio/)
+  * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
+* [Bible Study](/bible-study/)
+* [About the Portfolio](/about/)
+
+---
+---
+---

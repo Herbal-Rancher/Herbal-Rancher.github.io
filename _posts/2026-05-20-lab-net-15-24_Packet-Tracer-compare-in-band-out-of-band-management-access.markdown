@@ -160,3 +160,23 @@ between physical management access and IP-based remote management.
 -   Router and Switch Management
 -   In-Band Network Management
 -   Out-of-Band Network Management
+
+
+---
+---
+---
+
+## 🔗 Navigation
+
+* [Home](/)
+* [Network+ Portfolio](/network-portfolio/)
+  * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
+* [Bible Study](/bible-study/)
+* [About the Portfolio](/about/)
+
+---
+---
+---

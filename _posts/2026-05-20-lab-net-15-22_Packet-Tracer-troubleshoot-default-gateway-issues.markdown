@@ -156,3 +156,23 @@ issues were resolved.
 -   Systematic Network Troubleshooting
 -   Network Documentation
 -   ICMP and Ping Testing
+
+
+---
+---
+---
+
+## 🔗 Navigation
+
+* [Home](/)
+* [Network+ Portfolio](/network-portfolio/)
+  * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
+  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Trading+](/trading/)
+* [Bible Study](/bible-study/)
+* [About the Portfolio](/about/)
+
+---
+---
+---
