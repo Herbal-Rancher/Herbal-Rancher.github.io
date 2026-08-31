@@ -75,7 +75,7 @@ permalink: /network-portfolio/videos/15-21-secure-network-devices/
 This Packet Tracer lab focuses on securing Cisco router and switch management while maintaining network connectivity. I configured device hardening, secure SSH administration, local authentication, login protection, switch management access, and unused-port security, then verified connectivity across both LANs.
 
 <!--more-->
-
+ 
 ---
 
 ## Preconditions
