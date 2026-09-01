@@ -81,8 +81,7 @@ configuration, and verified restored access to the web server.
 
 ## Preconditions
 
-![Packet Tracer Lab 25 - Use the Ping Command -
-Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-25.png)
+![Packet Tracer Lab 25 - Use the Ping Command - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-25.png)
 
 ------------------------------------------------------------------------
 

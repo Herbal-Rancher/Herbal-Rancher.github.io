@@ -82,9 +82,7 @@ cases of each management method.
 
 ## Preconditions
 
-![Packet Tracer Lab 24 - Compare In-Band and Out-of-Band Management
-Access -
-Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-24.png)
+![Packet Tracer Lab 24 - Compare In-Band and Out-of-Band Management Access - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-24.png)
 
 ------------------------------------------------------------------------
 

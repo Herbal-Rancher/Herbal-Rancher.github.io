@@ -79,8 +79,7 @@ communication between devices on different networks.
 
 ## Preconditions
 
-![Packet Tracer Lab 22 - Troubleshoot Default Gateway Issues -
-Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-22.png)
+![Packet Tracer Lab 22 - Troubleshoot Default Gateway Issues - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-22.png)
 
 ------------------------------------------------------------------------
 

@@ -86,8 +86,7 @@ and documented problems requiring escalation.
 
 ## Preconditions
 
-![Packet Tracer Lab 23 - Troubleshoot Connectivity Issues -
-Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-23.png)
+![Packet Tracer Lab 23 - Troubleshoot Connectivity Issues - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-23.png)
 
 ------------------------------------------------------------------------
 
