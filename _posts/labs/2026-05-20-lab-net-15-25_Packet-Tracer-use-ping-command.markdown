@@ -77,13 +77,13 @@ configuration, and verified restored access to the web server.
 
 <!--more-->
 
-------------------------------------------------------------------------
+---
 
 ## Preconditions
 
-![Packet Tracer Lab 25 - Use the Ping Command - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-25.png)
+![Packet Tracer Lab 25 - Use the Ping Command - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-Lab-25.png)
 
-------------------------------------------------------------------------
+---
 
 ## Skills Practiced
 
@@ -97,7 +97,7 @@ configuration, and verified restored access to the web server.
 -   Correct client IP configuration
 -   Verify restored website connectivity
 
-------------------------------------------------------------------------
+---
 
 ## Video Walkthrough
 
@@ -132,8 +132,8 @@ related to basic IP communication or hostname resolution.
     investigated.
 -   **Configuration comparison:** `ipconfig /all` allows DNS settings on
     affected PCs to be compared with correctly configured clients.
-
-------------------------------------------------------------------------
+    
+---
 
 ## Validation
 
@@ -143,7 +143,7 @@ to access `www.cisco.pka`.
 Successful website access confirmed that the client configuration
 problem was resolved and DNS name resolution was functioning correctly.
 
-------------------------------------------------------------------------
+---
 
 ## Related Exercises
 

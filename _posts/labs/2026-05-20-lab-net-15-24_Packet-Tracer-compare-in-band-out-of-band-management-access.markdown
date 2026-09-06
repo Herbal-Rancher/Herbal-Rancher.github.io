@@ -78,13 +78,13 @@ cases of each management method.
 
 <!--more-->
 
-------------------------------------------------------------------------
+---
 
 ## Preconditions
 
-![Packet Tracer Lab 24 - Compare In-Band and Out-of-Band Management Access - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-24.png)
+![Packet Tracer Lab 24 - Compare In-Band and Out-of-Band Management Access - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-Lab-24.png)
 
-------------------------------------------------------------------------
+---
 
 ## Skills Practiced
 
@@ -99,7 +99,7 @@ cases of each management method.
 -   Access routers from another network device and from a PC
 -   Compare local and remote network-management methods
 
-------------------------------------------------------------------------
+---
 
 ## Video Walkthrough
 

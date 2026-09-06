@@ -82,13 +82,13 @@ and documented problems requiring escalation.
 
 <!--more-->
 
-------------------------------------------------------------------------
+---
 
 ## Preconditions
 
 ![Packet Tracer Lab 23 - Troubleshoot Connectivity Issues - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-23.png)
 
-------------------------------------------------------------------------
+---
 
 ## Skills Practiced
 
@@ -103,7 +103,7 @@ and documented problems requiring escalation.
 -   Document troubleshooting results and solutions
 -   Identify issues that require escalation
 
-------------------------------------------------------------------------
+---
 
 ## Video Walkthrough
 
@@ -140,8 +140,8 @@ individually to determine where communication fails.
 -   **Escalation:** Problems outside the administrator's access or
     control should be clearly documented and escalated when they cannot
     be corrected locally.
-
-------------------------------------------------------------------------
+    
+---
 
 ## Validation
 
@@ -154,7 +154,7 @@ Final validation confirmed that the client configurations matched the
 documented addressing plan and that required web-server connectivity was
 restored where the available configuration permitted correction.
 
-------------------------------------------------------------------------
+---
 
 ## Related Exercises
 
