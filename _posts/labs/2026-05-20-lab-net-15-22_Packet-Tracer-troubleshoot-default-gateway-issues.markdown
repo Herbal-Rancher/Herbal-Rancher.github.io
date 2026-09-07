@@ -57,8 +57,8 @@ video_id: "1alD0MqPZrw"
 video_url: "https://youtu.be/1alD0MqPZrw"
 thumbnail: "https://img.youtube.com/vi/1alD0MqPZrw/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-15-Lab-22-Packet-Tracer-Troubleshoot-Default-Gateway.pdf"
-lab_pdf: "/assets/pdfs/Module-15-Lab-22-Packet-Tracer-Troubleshoot-Default-Gateway.pdf"
+completed_lab: "/assets/pdfs/Module-15-Lab-22-Packet-Tracer-Troubleshoot-Default-Gateway-2.pdf"
+lab_pdf: "/assets/pdfs/Module-15-Lab-22-Packet-Tracer-Troubleshoot-Default-Gateway-2.pdf"
 
 permalink: /network-portfolio/videos/15-22-troubleshoot-default-gateway-issues/
 
@@ -75,13 +75,13 @@ communication between devices on different networks.
 
 <!--more-->
 
-------------------------------------------------------------------------
+---
 
 ## Preconditions
 
 ![Packet Tracer Lab 22 - Troubleshoot Default Gateway Issues - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-Lab-22.png)
 
-------------------------------------------------------------------------
+---
 
 ## Skills Practiced
 
@@ -96,7 +96,7 @@ communication between devices on different networks.
 -   Verify end-to-end connectivity
 -   Document identified problems, solutions, and results
 
-------------------------------------------------------------------------
+---
 
 ## Video Walkthrough
 
@@ -116,8 +116,6 @@ allowfullscreen>
 
 ---
 
-------------------------------------------------------------------------
-
 ## Key Observations
 
 Default gateway configuration is essential when a host needs to
@@ -133,8 +131,8 @@ communicate with devices outside its local network.
     traffic can successfully cross network boundaries.
 -   **Troubleshooting process:** Problems should be isolated, corrected,
     tested, and documented one solution at a time.
-
-------------------------------------------------------------------------
+    
+---
 
 ## Validation
 
@@ -145,7 +143,7 @@ followed by remote end-to-end connectivity between the two networks.
 Successful ping tests confirmed that the addressing and default gateway
 issues were resolved.
 
-------------------------------------------------------------------------
+---
 
 ## Related Exercises
 
