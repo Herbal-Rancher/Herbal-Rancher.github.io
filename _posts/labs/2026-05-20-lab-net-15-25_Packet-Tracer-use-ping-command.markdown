@@ -55,9 +55,9 @@ protocols:
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://youtu.be/zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "oPajaGOHSqA"
+video_url: "https://youtu.be/oPajaGOHSqA"
+thumbnail: "https://img.youtube.com/vi/oPajaGOHSqA/hqdefault.jpg"
 
 completed_lab: "/assets/pdfs/Module-15-Lab-25-Packet-Tracer-Use-Ping-Command.pdf"
 lab_pdf: "/assets/pdfs/Module-15-Lab-25-Packet-Tracer-Use-Ping-Command.pdf"

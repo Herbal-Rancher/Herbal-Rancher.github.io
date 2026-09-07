@@ -56,9 +56,9 @@ protocols:
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://youtu.be/zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "aReJQesj-tc"
+video_url: "https://youtu.be/aReJQesj-tc"
+thumbnail: "https://img.youtube.com/vi/aReJQesj-tc/hqdefault.jpg"
 
 completed_lab: "/assets/pdfs/Module-15-Lab-24-Packet-Tracer-InBand-OutOfBand-Access.pdf"
 lab_pdf: "/assets/pdfs/Module-15-Lab-24-Packet-Tracer-InBand-OutOfBand-Access.pdf"

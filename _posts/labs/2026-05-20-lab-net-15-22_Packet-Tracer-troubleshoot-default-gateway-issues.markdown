@@ -53,9 +53,9 @@ protocols:
 status: complete
 
 
-video_id: "zwGWxiwK79o"
-video_url: "https://youtu.be/zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "1alD0MqPZrw"
+video_url: "https://youtu.be/1alD0MqPZrw"
+thumbnail: "https://img.youtube.com/vi/1alD0MqPZrw/hqdefault.jpg"
 
 completed_lab: "/assets/pdfs/Module-15-Lab-22-Packet-Tracer-Troubleshoot-Default-Gateway.pdf"
 lab_pdf: "/assets/pdfs/Module-15-Lab-22-Packet-Tracer-Troubleshoot-Default-Gateway.pdf"

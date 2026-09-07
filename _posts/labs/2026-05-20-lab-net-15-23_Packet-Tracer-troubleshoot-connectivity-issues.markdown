@@ -59,9 +59,9 @@ protocols:
 status: complete
 
 
-video_id: "zwGWxiwK79o"
-video_url: "https://youtu.be/zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "rt-x8Yx-WhE"
+video_url: "https://youtu.be/rt-x8Yx-WhE"
+thumbnail: "https://img.youtube.com/vi/rt-x8Yx-WhE/hqdefault.jpg"
 
 completed_lab: "/assets/pdfs/Module-15-Lab-23-Packet-Tracer-Troubleshoot-Connectivity-Issues.pdf"
 lab_pdf: "/assets/pdfs/Module-15-Lab-23-Packet-Tracer-Troubleshoot-Connectivity-Issues.pdf"
