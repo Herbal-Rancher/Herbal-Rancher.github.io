@@ -36,6 +36,7 @@ The portfolio is organized into three primary sections that connect theory, visu
 * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)** — Coursework, learning activities, and competency-based exercises completed throughout my studies.
 * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)** — AI-assisted visual resources that simplify networking concepts, protocols, architectures, and troubleshooting workflows.
 * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)** — Narration-free demonstrations of labs, Packet Tracer activities, troubleshooting exercises, and technical projects.
+* **[TEST PREP](/network-portfolio/test-prep/)** — Interactive test preparation for the SF 1041 Technology Engineer – Networks exam and CompTIA Network+, with challenging scenario-based questions and readiness-focused practice.
 
 ---
 ---
@@ -106,11 +107,13 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
 
 {% if unique_topics.size > 0 %}
 
-<p><strong>Skills Practiced:</strong> [
+<!--
+more<p><strong>Skills Practiced:</strong> [
 {% for topic in unique_topics %}
   {{ topic | replace: "-", " " | capitalize }},
 {% endfor %}
 ] </p>
+-->
 {% endif %}
 
 {% assign all_tools = "" | split: "" %}
@@ -125,13 +128,14 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
 
 {% if unique_tools.size > 0 %}
 
+<!--
 <p><strong>Tools Used:</strong> [
 {% for tool in unique_tools %}
   {{ tool | replace: "-", " " }},
 {% endfor %}
 ]</p>
 {% endif %}
-
+-->
 </div>
 
 {% endfor %}
@@ -139,6 +143,9 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
 {% endif %}
 {% endfor %}
 
+---
+---
+---
 
 ## 🔗 Navigation
 
@@ -147,6 +154,7 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+  * [Test Prep](/network-portfolio/test-prep/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/about/)
