@@ -15,16 +15,21 @@ status: active
 ---
 
 <div class="prep-nav">
-  <a href="/network-portfolio/test-prep/">Test Prep Index</a> ···
-  <a href="/network-portfolio/sf-1041-network-exam-prep/">SF 1041 Home</a> ···
-  <a href="/network-portfolio/sf-1041-network-exam-prep/review/">Targeted Review</a> ···
-  <a href="/network-portfolio/sf-1041-network-exam-prep/test-engine/">Test Engine</a>
+  <a href="/network-portfolio/test-prep/">Test Prep Index</a> ·······
+  <a href="/network-portfolio/sf-1041-network-exam-prep/">SF 1041 Home</a> ·······
+  <a href="/network-portfolio/sf-1041-network-exam-prep/review/">Targeted Review</a> ·······
+  <a href="/network-portfolio/sf-1041-network-exam-prep/test-engine/">Focused Test</a>
 </div>
 
 <style>
 .prep-nav { margin: 1rem 0 1.4rem; padding: .75rem 1rem; border: 1px solid rgba(127,127,127,.35); border-radius: 10px; }
 .prep-nav a { font-weight: 700; }
+.domain-card { margin: 1rem 0; padding: 1rem; border: 1px solid rgba(127,127,127,.35); border-radius: 10px; }
 </style>
+
+---
+---
+---
 
 # SF 1041 Networks Core Exam Prep
 

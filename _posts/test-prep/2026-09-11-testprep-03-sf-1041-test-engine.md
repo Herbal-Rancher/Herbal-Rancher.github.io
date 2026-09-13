@@ -29,7 +29,19 @@ status: active
 <style>
 .prep-nav { margin: 1rem 0 1.4rem; padding: .75rem 1rem; border: 1px solid rgba(127,127,127,.35); border-radius: 10px; }
 .prep-nav a { font-weight: 700; }
+.page-counter { display: flex; justify-content: flex-end; align-items: center; margin: -.7rem 0 1rem; min-height: 22px; }
+.page-counter img { display: block; max-width: 100%; height: auto; }
+@media (max-width: 650px) {
+  .page-counter { justify-content: center; margin-top: 0; }
+}
 </style>
+
+<div class="page-counter" aria-label="Page-view counter">
+  <a href="https://hits.sh/herbal-rancher.github.io/network-portfolio/sf-1041-network-exam-prep/test-engine/" title="View page-counter details">
+    <img src="https://hits.sh/herbal-rancher.github.io/network-portfolio/sf-1041-network-exam-prep/test-engine.svg?label=Page%20views&amp;color=0d6efd&amp;labelColor=16324f&amp;view=today-total" alt="Page views: today and total" referrerpolicy="no-referrer">
+  </a>
+</div>
+
 <div class="sf1041-app">
   <div class="sf1041-hero">
     <p class="eyebrow">TIER 3 • PRACTICE ENGINE</p>
