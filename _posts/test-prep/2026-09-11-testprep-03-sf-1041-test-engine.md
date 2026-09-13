@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "SF 1041 Networks Core | Test Engine"
+title: "SF 1041 Networks Core | Practice Test Engine"
 date: 2026-09-10 14:00:00 -0700
-permalink: /network-portfolio/sf-1041-network-exam-prep/test-engine/
+permalink: /network-portfolio/network-portfolio/sf-1041-practice-engine/
 categories:
   - portfolio
   - study-tools
@@ -20,15 +20,16 @@ status: active
 
 
 <div class="prep-nav">
-  <a href="/network-portfolio/test-prep/">Test Prep Index</a> ·
-  <a href="/network-portfolio/sf-1041-network-exam-prep/">SF 1041 Home</a> ·
-  <a href="/network-portfolio/sf-1041-network-exam-prep/review/">Targeted Review</a> ·
-  <a href="/network-portfolio/sf-1041-network-exam-prep/test-engine/">Test Engine</a>
+  <a href="/network-portfolio/network-readiness-lab/">Test Readiness Lab</a> ·······
+  <a href="/network-portfolio/sf-1041-network-exam-prep/">Exam Prep</a> ·······
+  <a href="/network-portfolio/sf-1041-network-exam-prep/review/">Targeted Review</a> ·······
+  <a href="/network-portfolio/network-portfolio/sf-1041-practice-engine/">Test Engine</a>
 </div>
 
 <style>
 .prep-nav { margin: 1rem 0 1.4rem; padding: .75rem 1rem; border: 1px solid rgba(127,127,127,.35); border-radius: 10px; }
 .prep-nav a { font-weight: 700; }
+.domain-card { margin: 1rem 0; padding: 1rem; border: 1px solid rgba(127,127,127,.35); border-radius: 10px; }
 .page-counter { display: flex; justify-content: flex-end; align-items: center; margin: -.7rem 0 1rem; min-height: 22px; }
 .page-counter img { display: block; max-width: 100%; height: auto; }
 @media (max-width: 650px) {
@@ -37,16 +38,16 @@ status: active
 </style>
 
 <div class="page-counter" aria-label="Page-view counter">
-  <a href="https://hits.sh/herbal-rancher.github.io/network-portfolio/sf-1041-network-exam-prep/test-engine/" title="View page-counter details">
-    <img src="https://hits.sh/herbal-rancher.github.io/network-portfolio/sf-1041-network-exam-prep/test-engine.svg?label=Page%20views&amp;color=0d6efd&amp;labelColor=16324f&amp;view=today-total" alt="Page views: today and total" referrerpolicy="no-referrer">
+  <a href="https://hits.sh/herbal-rancher.github.io/network-portfolio/network-portfolio/sf-1041-practice-engine/" title="View page-counter details">
+    <img src="https://hits.sh/herbal-rancher.github.io/network-portfolio/sf-1041-network-exam-prep/network-readiness-lab.svg?label=Page%20views&amp;color=0d6efd&amp;labelColor=16324f&amp;view=today-total" alt="Page views: today and total" referrerpolicy="no-referrer">
   </a>
 </div>
 
 <div class="sf1041-app">
   <div class="sf1041-hero">
     <p class="eyebrow">TIER 3 • PRACTICE ENGINE</p>
-    <h1>1041 Networks Core Test Engine</h1>
-    <p class="lede">178 original questions built for review → test → identify weakness → retest → repeat.</p>
+    <h2>SF 1041 Test Practice Engine</h2>
+    <p class="lede">178 original questions built for: review → test → strengthen → retest → repeat.</p>
     <div class="notice">
       <strong>Study-use notice:</strong> These are original practice questions created for this learning portfolio. They are not City of San Francisco exam questions and are not copied from commercial practice banks.
     </div>
@@ -184,7 +185,7 @@ button.secondary { background:transparent; color:inherit; }
 <script>
 /*
 ========================================================
-SF 1041 NETWORKS CORE TEST ENGINE
+SF 1041 NETWORKS CORE Network Readiness Lab
 Troubleshooting map:
 1) QUESTION BANK       -> const QUESTIONS
 2) DOMAIN LABELS       -> const domainNames
@@ -579,7 +580,7 @@ Troubleshooting map:
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-  * **[TEST PREP](/network-portfolio/test-prep/)**
+  * **[NETWORK TEST READINESS LAB](/network-portfolio/network-readiness-lab/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/about/)

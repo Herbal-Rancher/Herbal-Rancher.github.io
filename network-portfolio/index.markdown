@@ -36,7 +36,7 @@ The portfolio is organized into three primary sections that connect theory, visu
 * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)** — Coursework, learning activities, and competency-based exercises completed throughout my studies.
 * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)** — AI-assisted visual resources that simplify networking concepts, protocols, architectures, and troubleshooting workflows.
 * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)** — Narration-free demonstrations of labs, Packet Tracer activities, troubleshooting exercises, and technical projects.
-* **[TEST PREP](/network-portfolio/test-prep/)** — Interactive test preparation for the SF 1041 Technology Engineer – Networks exam and CompTIA Network+, with challenging scenario-based questions and readiness-focused practice.
+* **[NETWORK TEST READINESS LAB](/network-portfolio/network-readiness-lab/)** — Interactive test preparation for the SF 1041 Technology Engineer – Networks exam and CompTIA Network+, with challenging scenario-based questions and readiness-focused practice.
 
 ---
 ---
@@ -154,7 +154,7 @@ more<p><strong>Skills Practiced:</strong> [
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-  * [Test Prep](/network-portfolio/test-prep/)
+  * [Network Readiness Lab](/network-portfolio/network-readiness-lab/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/about/)

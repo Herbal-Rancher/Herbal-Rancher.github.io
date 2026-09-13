@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /network-portfolio/test-prep/
+permalink: /network-portfolio/network-readiness-lab/
 nav_exclude: true
 ---
 
@@ -9,22 +9,22 @@ nav_exclude: true
 ---
 
 
-# Test Prep
+# Network Test Readiness Lab
 
 This is my central test-preparation workspace.
 
 Each exam area is organized into its own study path with:
 
-- A prep home page
+- A prep home page, the Network Readiness Lab
 - A targeted review
-- An interactive test engine
+- An interactive test prep 
 - Focused drills
 - Missed-question retesting
 - Full practice simulations
 
 The goal is to make each study track repeatable:
 
-**Review → Test → Identify Weakness → Retest → Repeat**
+**Study → Test → Diagnose → Strengthen → Retest → Repeat**
 
 
 <div style="height: 3px; background: #f4b400; margin: 30px 0;"></div>
@@ -33,13 +33,13 @@ The goal is to make each study track repeatable:
 ---
 ---
 
-## Available Test Prep
+## Available Exam Prep Engines
 
 <div class="prep-grid">
 
   <div class="prep-card">
     <p class="prep-label">AVAILABLE NOW</p>
-    <h2>SF 1041 Networks Core</h2>
+    <h2>SF 1041 Networks Core Exam Prep</h2>
     <p>
       Targeted preparation for the City and County of San Francisco
       Technology Engineer - Associate (1041), Networks Specialty exam.
@@ -59,20 +59,20 @@ The goal is to make each study track repeatable:
 
     <p>
       <a class="prep-button" href="/network-portfolio/sf-1041-network-exam-prep/">
-        Open SF 1041 Prep →
+        Open SF 1041 Exam Prep →
       </a>
     </p>
   </div>
 
   <div class="prep-card prep-card-future">
     <p class="prep-label">PLANNED</p>
-    <h2>CompTIA Network+</h2>
+    <h2>CompTIA Network+ Exam Prep</h2>
     <p>Dedicated Network+ review, labs, domain drills, and exam simulations.</p>
   </div>
 
   <div class="prep-card prep-card-future">
     <p class="prep-label">PLANNED</p>
-    <h2>CompTIA Security+</h2>
+    <h2>CompTIA Security+ Exam Prep</h2>
     <p>Dedicated Security+ review, security scenarios, domain drills, and exam simulations.</p>
   </div>
 
@@ -86,7 +86,7 @@ I begin at this index, choose the exam I am preparing for, and then work through
 
 For each exam:
 
-1. Open the **Prep Home**.
+1. Open the **[Prep Home](/network-portfolio/sf-1041-network-exam-prep/)**.
 2. Review the highest-priority topics.
 3. Run focused questions for weak areas.
 4. Retest missed questions.
@@ -142,7 +142,7 @@ This keeps each certification or employment exam separate while allowing one con
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-  * **[TEST PREP](/network-portfolio/test-prep/)**
+  * **[NETWORK TEST READINESS LAB](/network-portfolio/network-readiness-lab/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/about/)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "SF 1041 Networks Core Exam Prep"
+title: "SF 1041 Networks Core | Exam Prep"
 date: 2026-09-10 14:00:00 -0700
 permalink: /network-portfolio/sf-1041-network-exam-prep/
 categories:
@@ -15,10 +15,10 @@ status: active
 ---
 
 <div class="prep-nav">
-  <a href="/network-portfolio/test-prep/">Test Prep Index</a> ·······
-  <a href="/network-portfolio/sf-1041-network-exam-prep/">SF 1041 Home</a> ·······
+  <a href="/network-portfolio/network-readiness-lab/">Test Readiness Lab</a> ·······
+  <a href="/network-portfolio/sf-1041-network-exam-prep/">Exam Prep</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/review/">Targeted Review</a> ·······
-  <a href="/network-portfolio/sf-1041-network-exam-prep/test-engine/">Focused Test</a>
+  <a href="/network-portfolio/network-portfolio/sf-1041-practice-engine/">Test Engine</a>
 </div>
 
 <style>
@@ -53,7 +53,7 @@ Use this page as the starting point and progress tracker.
 6. Identify the domains that remain weak.
 7. Return only to those areas and repeat.
 
-The objective is progressive improvement: **study → test → diagnose → correct → retest → simulate**.
+The objective is progressive improvement: **study → test → diagnose → correct → retest → repeat**.
 
 ## Tier 2 — Targeted Review
 
@@ -74,9 +74,9 @@ Key areas include:
 
 [Open Targeted Review](/network-portfolio/sf-1041-network-exam-prep/review/)
 
-## Tier 3 — Test Engine
+## Tier 3 — Network Readiness Lab
 
-The test engine uses a growing bank of **original practice questions** designed around the knowledge and reasoning expected for the targeted networking competencies.
+The Network Readiness Lab uses a growing bank of **original practice questions** designed around the knowledge and reasoning expected for the targeted networking competencies.
 
 Questions intentionally include plausible competing answers so that success requires more than recognizing an obvious correct choice.
 
@@ -87,7 +87,7 @@ Questions intentionally include plausible competing answers so that success requ
 * **Focused Review** — Practice within a selected technical domain
 * **Retest Missed** — Revisit previously missed questions until the concepts are understood
 
-[Open Test Engine](/network-portfolio/sf-1041-network-exam-prep/test-engine/)
+[Open Network Readiness Lab](/network-portfolio/network-portfolio/sf-1041-practice-engine/)
 
 ## Readiness Standard
 
@@ -142,7 +142,7 @@ The goal is to develop enough networking knowledge and troubleshooting disciplin
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-  * [Test Prep](/network-portfolio/test-prep/)
+  * [NETWORK TEST READINESS LAB](/network-portfolio/network-readiness-lab/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/about/)

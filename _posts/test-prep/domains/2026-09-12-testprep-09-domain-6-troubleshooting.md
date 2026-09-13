@@ -15,10 +15,10 @@ status: active
 ---
 
 <div class="prep-nav">
-  <a href="/network-portfolio/test-prep/">Test Prep Index</a> ·······
-  <a href="/network-portfolio/sf-1041-network-exam-prep/">SF 1041 Home</a> ·······
+  <a href="/network-portfolio/network-readiness-lab/">Test Readiness Lab</a> ·······
+  <a href="/network-portfolio/sf-1041-network-exam-prep/">Exam Prep</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/review/">Targeted Review</a> ·······
-  <a href="/network-portfolio/sf-1041-network-exam-prep/test-engine/">Focused Test</a>
+  <a href="/network-portfolio/network-portfolio/sf-1041-practice-engine/">Test Engine</a>
 </div>
 <style>
 .prep-nav { margin: 1rem 0 1.4rem; padding: .75rem 1rem; border: 1px solid rgba(127,127,127,.35); border-radius: 10px; }
@@ -158,7 +158,7 @@ Before changing production equipment, record the current state, expected result,
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-  * **[TEST PREP](/network-portfolio/test-prep/)**
+  * **[NETWORK TEST READINESS LAB](/network-portfolio/network-readiness-lab/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/about/)
