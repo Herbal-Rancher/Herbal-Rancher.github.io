@@ -39,7 +39,7 @@ The goal is not simply to answer practice questions correctly. This study system
 
 The system combines targeted review, scenario-based practice, missed-question remediation, and timed simulation so that weak areas can be identified and deliberately strengthened.
 
-## Tier 1 — Prep Home
+## Tier 1 — Exam Prep Home
 
 Use this page as the starting point and progress tracker.
 
@@ -72,9 +72,9 @@ Key areas include:
 * Multifunction network devices
 * Technical documentation
 
-[Open Targeted Review](/network-portfolio/sf-1041-network-exam-prep/review/)
+**[Open Targeted Review](/network-portfolio/sf-1041-network-exam-prep/review/)**
 
-## Tier 3 — Network Readiness Lab
+## Tier 3 — SF 1041 Networks Core Test Engine
 
 The Network Readiness Lab uses a growing bank of **original practice questions** designed around the knowledge and reasoning expected for the targeted networking competencies.
 
@@ -87,7 +87,7 @@ Questions intentionally include plausible competing answers so that success requ
 * **Focused Review** — Practice within a selected technical domain
 * **Retest Missed** — Revisit previously missed questions until the concepts are understood
 
-[Open Network Readiness Lab](/network-portfolio/network-portfolio/sf-1041-practice-engine/)
+**[Open SF 1041 Networks Core Test Engine](/network-portfolio/network-portfolio/sf-1041-practice-engine/)**
 
 ## Readiness Standard
 
