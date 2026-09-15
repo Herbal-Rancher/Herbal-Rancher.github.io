@@ -17,7 +17,7 @@ status: active
   <a href="/network-portfolio/network-readiness-lab/">Test Readiness Lab</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/">Exam Prep</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/review/">Targeted Review</a> ·······
-  <a href="/network-portfolio/network-portfolio/sf-1041-practice-engine/">Test Engine</a>
+  <a href="/network-portfolio/sf-1041-practice-engine/">Practice Test Engine</a>
 </div>
 
 <style>
@@ -78,7 +78,7 @@ Networked printers and scanners, print protocols, scan-to-email/folder dependenc
 <a href="/network-portfolio/sf-1041-network-exam-prep/review/mfp-documentation/">Study Domain 7</a>
 </div>
 
-[Open Network Readiness Lab](/network-portfolio/network-portfolio/sf-1041-practice-engine/)
+[Open Network Readiness Lab](/network-portfolio/sf-1041-practice-engine/)
 
 
 ---

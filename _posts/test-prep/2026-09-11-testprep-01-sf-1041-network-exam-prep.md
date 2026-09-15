@@ -18,7 +18,7 @@ status: active
   <a href="/network-portfolio/network-readiness-lab/">Test Readiness Lab</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/">Exam Prep</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/review/">Targeted Review</a> ·······
-  <a href="/network-portfolio/network-portfolio/sf-1041-practice-engine/">Test Engine</a>
+  <a href="/network-portfolio/sf-1041-practice-engine/">Practice Test Engine</a>
 </div>
 
 <style>
@@ -74,7 +74,7 @@ Key areas include:
 
 **[Open Targeted Review](/network-portfolio/sf-1041-network-exam-prep/review/)**
 
-## Tier 3 — SF 1041 Networks Core Test Engine
+## Tier 3 — SF 1041 Networks Core Practice Test Engine
 
 The Network Readiness Lab uses a growing bank of **original practice questions** designed around the knowledge and reasoning expected for the targeted networking competencies.
 
@@ -87,7 +87,7 @@ Questions intentionally include plausible competing answers so that success requ
 * **Focused Review** — Practice within a selected technical domain
 * **Retest Missed** — Revisit previously missed questions until the concepts are understood
 
-**[Open SF 1041 Networks Core Test Engine](/network-portfolio/network-portfolio/sf-1041-practice-engine/)**
+**[Open SF 1041 Networks Core Practice Test Engine](/network-portfolio/sf-1041-practice-engine/)**
 
 ## Readiness Standard
 

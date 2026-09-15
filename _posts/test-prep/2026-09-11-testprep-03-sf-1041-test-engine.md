@@ -2,7 +2,7 @@
 layout: page
 title: "SF 1041 Networks Core | Practice Test Engine"
 date: 2026-09-10 14:00:00 -0700
-permalink: /network-portfolio/network-portfolio/sf-1041-practice-engine/
+permalink: /network-portfolio/sf-1041-practice-engine/
 categories:
   - portfolio
   - study-tools
@@ -23,7 +23,7 @@ status: active
   <a href="/network-portfolio/network-readiness-lab/">Test Readiness Lab</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/">Exam Prep</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/review/">Targeted Review</a> ·······
-  <a href="/network-portfolio/network-portfolio/sf-1041-practice-engine/">Test Engine</a>
+  <a href="/network-portfolio/sf-1041-practice-engine/">Practice Test Engine</a>
 </div>
 
 <style>
@@ -38,23 +38,23 @@ status: active
 </style>
 
 <div class="page-counter" aria-label="Page-view counter">
-  <a href="https://hits.sh/herbal-rancher.github.io/network-portfolio/network-portfolio/sf-1041-practice-engine/" title="View page-counter details">
-    <img src="https://hits.sh/herbal-rancher.github.io/network-portfolio/sf-1041-network-exam-prep/network-readiness-lab.svg?label=Page%20views&amp;color=0d6efd&amp;labelColor=16324f&amp;view=today-total" alt="Page views: today and total" referrerpolicy="no-referrer">
+  <a href="https://hits.sh/herbal-rancher.github.io/network-portfolio/sf-1041-practice-engine/" title="View page-counter details">
+    <img src="https://hits.sh/herbal-rancher.github.io/network-portfolio/sf-1041-practice-engine.svg?label=Page%20views&amp;color=0d6efd&amp;labelColor=16324f&amp;view=today-total" alt="Page views: today and total" referrerpolicy="no-referrer">
   </a>
 </div>
 
 <div class="sf1041-app">
   <div class="sf1041-hero">
     <p class="eyebrow">TIER 3 • PRACTICE ENGINE</p>
-    <h2>SF 1041 Test Practice Engine</h2>
-    <p class="lede">178 original questions built for: review → test → strengthen → retest → repeat.</p>
+    <h2>SF 1041 Practice Engine</h2>
+    <p class="lede">262 original questions built for: review → test → strengthen → retest → repeat.</p>
     <div class="notice">
       <strong>Study-use notice:</strong> These are original practice questions created for this learning portfolio. They are not City of San Francisco exam questions and are not copied from commercial practice banks.
     </div>
   </div>
 
   <div class="exam-facts">
-    <div><strong>178</strong><span>question bank</span></div>
+    <div><strong>262</strong><span>question bank</span></div>
     <div><strong>25</strong><span>City Simulation</span></div>
     <div><strong>60 min</strong><span>simulation timer</span></div>
     <div><strong>→</strong><span>forward-only simulation</span></div>
@@ -67,7 +67,8 @@ status: active
     <div class="controls">
       <label>Mode
         <select id="mode">
-          <option value="quick">Quick Drill — 10</option>
+          <option value="quick">Foundation Drill — 10</option>
+          <option value="readiness">Readiness Drill — 15</option>
           <option value="city">City Simulation — 25 / 60 min / forward only</option>
           <option value="challenge">Readiness Challenge — 40 / 75 min</option>
           <option value="focus">Focused Review — selected domain</option>
@@ -184,6 +185,69 @@ button.secondary { background:transparent; color:inherit; }
 
 <script>
 /*
+N10-009 SUPPLEMENTAL READINESS BANK — 84 ORIGINAL QUESTIONS
+Focus: Wireless, Security, Services/Operations, Troubleshooting
+Format matches Sherri's SF 1041 Practice Engine.
+
+INTEGRATION
+1. Paste this entire block after READINESS_QUESTIONS is declared.
+2. Change:
+   QUESTIONS.push(...ADVANCED_QUESTIONS, ...READINESS_QUESTIONS);
+   to:
+   QUESTIONS.push(...ADVANCED_QUESTIONS, ...READINESS_QUESTIONS, ...N10_009_SUPPLEMENTAL);
+3. Change the displayed bank count from 192 to 276.
+*/
+
+const N10_009_SUPPLEMENTAL = (() => {
+  const families = [
+    ["wireless","A client associates but 802.1X never begins. What should be checked first?","A client sees the SSID and associates, but no RADIUS request appears. What is the best first check?","Association succeeds but authentication times out before the server logs anything. Where should investigation begin?",["Supplicant service and authenticator port configuration","RADIUS authorization attributes for the assigned VLAN","DHCP scope exhaustion","DNS recursion"],0,"The failure occurs before RADIUS, so verify the supplicant-to-authenticator exchange.","Authorization, DHCP, and DNS occur later in the access process."],
+    ["wireless","802.1X succeeds but the client enters the guest VLAN. What should be reviewed first?","A valid employee is authenticated but receives a restricted role. Which evidence is most useful?","RADIUS accepts the credentials but access policy is wrong. What should be compared?",["RADIUS authorization attributes and policy","AP channel width and transmit power","Client DHCP lease duration","Wireless beacon interval"],0,"Authentication succeeded; the wrong role points to authorization policy or returned attributes.","Radio and lease settings do not select the authenticated role."],
+    ["wireless","Strong RSSI accompanies high retries and poor throughput at noon. What is the best next measurement?","Users have excellent signal but voice jitter rises when the room fills. What should be examined?","A WLAN slows only during peak occupancy despite strong signal. Which evidence best tests contention?",["Channel utilization, retries, and client count","Default-route administrative distance","DNS TTL and cache age","RADIUS accounting retention"],0,"Strong signal does not rule out airtime contention or interference.","The other measurements do not test shared RF capacity."],
+    ["wireless","A certificate-based WLAN fails for many users immediately after certificates renew. What should be checked first?","EAP-TLS clients reject the server certificate while PSK guests work. Which comparison leads?","802.1X logs report an unknown issuer after a certificate update. What is the best next step?",["Certificate chain, trust, name, validity, and system time","SSID broadcast and antenna polarity","DHCP exclusions and lease duration","Trunk native VLAN only"],0,"The evidence directly identifies certificate validation in the EAP-TLS path.","RF, DHCP, and trunking do not repair certificate trust."],
+    ["wireless","A warehouse device cannot run an 802.1X supplicant. Which controlled alternative is best?","A legacy scanner lacks 802.1X support but needs only one server. What design fits best?","An IoT endpoint cannot use certificates. Which access method creates the least risk?",["MAB with a tightly restricted authorization profile","A shared administrator identity with broad access","Open access followed by MAC logging","The employee PSK with unrestricted access"],0,"MAB can support legacy devices but should receive least-privilege access.","The alternatives give a spoofable or shared identity excessive trust."],
+    ["wireless","A 2.4 GHz deployment has overlapping 20 MHz channels. Which plan best reduces adjacent-channel interference in the U.S.?","Nearby APs use channels 1, 3, 6, and 8. What redesign is most appropriate?","A dense office needs cleaner 2.4 GHz channel reuse. Which set is the standard starting point?",["Use a planned 1, 6, and 11 reuse pattern","Use consecutive channels at maximum power","Bond every AP to 40 MHz","Assign every AP the same channel"],0,"Channels 1, 6, and 11 are the conventional non-overlapping 20 MHz set in the U.S.","The alternatives increase overlap or co-channel contention."],
+    ["wireless","Users disconnect while walking between otherwise healthy AP cells. Which evidence is most relevant?","Stationary clients work, but calls drop during movement. What should be studied first?","Roaming failures occur only between two floors. Which investigation best fits?",["Coverage overlap, roaming events, authentication delay, and controller logs","Internet DNS root hints","Core EIGRP variance","Printer queue depth"],0,"Mobility-specific failures require evidence about cell overlap and roaming transitions.","The other choices do not explain location-transition failures."],
+
+    ["security","A narrow permit sits below a broad deny and never matches. What correction is most precise?","ACL counters show an earlier deny increments while the intended permit remains zero. What should change?","A specific application remains blocked after a permit is added at the bottom. What is the best explanation?",["Reorder or narrow the shadowing rule while preserving least privilege","Permit the entire subnet at the top","Disable stateful inspection","Replace the ACL with NAT"],0,"First-match processing allows an earlier broad rule to shadow a later rule.","Broad access, disabling inspection, and NAT do not safely correct rule order."],
+    ["security","Forward HTTPS packets reach a server, but replies exit another stateful firewall. What should be corrected?","An asymmetric return path causes valid sessions to be dropped. Which solution targets the cause?","Two firewalls see opposite halves of a connection and reject return traffic. What is best?",["Restore symmetry or synchronize connection state","Open every ephemeral port inbound","Add static NAT to each client","Disable logging on the return firewall"],0,"A stateful device must see the session or share its state.","Broad permits and NAT do not restore missing session context."],
+    ["security","Administrators need per-command authorization and accounting on routers. Which service is the closer fit?","A team needs centralized device login plus records of commands executed. What should be selected?","Granular command control is required for network administrators. Which AAA protocol best fits?",["TACACS+","RADIUS used only for wireless access","SNMPv3","Kerberos without device integration"],0,"TACACS+ is commonly suited to device administration and granular command authorization.","The alternatives serve different management or authentication purposes."],
+    ["security","A passive IDS must inspect traffic without becoming an inline failure point. Which design is best?","A sensor needs copies of server traffic but must not forward production packets. What should provide them?","Security wants visibility without placing the detector in the data path. Which option fits?",["A network tap or SPAN/mirror port","Make the IDS the default gateway","Replace the firewall with the IDS","Configure the IDS as a DHCP relay"],0,"A tap or mirror supplies copies without making the passive sensor inline.","The alternatives change the sensor's role or create a critical dependency."],
+    ["security","A public HTTPS rule permits traffic, but the private server receives nothing. Routing is correct. What should be verified next?","Firewall logs show a permit to a public address, but no translated flow reaches the server. What is missing?","Publishing an internal service fails although access policy allows the destination. Which check leads?",["Destination NAT or port-forward translation","STP root priority","Client DHCP reservation","Server PTR record"],0,"Permission to a public address does not itself translate that address to the private server.","Layer 2 election, client addressing, and reverse DNS do not publish the server."],
+    ["security","A user authenticates successfully but cannot access an application outside the assigned role. Which AAA function is involved?","Credentials are valid, yet the user lacks permission for a network resource. What failed?","Identity verification succeeds but allowed actions are incorrect. Which control should be reviewed?",["Authorization","Authentication","Accounting","Availability"],0,"Authorization determines what an authenticated identity may access.","Authentication proves identity; accounting records activity."],
+    ["security","A switch receives rogue DHCP offers on an access port. Which protection most directly blocks them?","Clients obtain malicious gateway settings from an unauthorized server. What switch feature leads?","DHCP spoofing originates from an untrusted edge port. Which control fits?",["DHCP snooping with trusted uplinks","Dynamic ARP Inspection without bindings","BPDU Guard","PortFast"],0,"DHCP snooping blocks server messages arriving on untrusted ports.","The other controls address ARP or spanning-tree behavior."],
+
+    ["services","Only a newly created VLAN cannot obtain DHCP leases; other VLANs work. What should be checked first?","The correct DHCP scope exists, but requests from one routed subnet never arrive. What is most likely missing?","Clients on a new subnet send Discover messages, but the remote server sees none. Which configuration leads?",["DHCP relay or IP helper on the VLAN interface","DNS forwarder configuration","SNMP trap destination","NTP stratum"],0,"DHCP broadcasts need a relay to cross a routed boundary.","The other services do not transport DHCP discovery."],
+    ["services","Clients receive leases but the supplied gateway is incorrect. Where should the value be fixed?","A DHCP offer contains the right address and mask but wrong router. What should be edited?","Every new lease on one subnet points to an obsolete gateway. Which setting is responsible?",["The DHCP scope's router/default-gateway option","The DNS PTR record","The switch MAC table","The relay's SNMP community"],0,"The scope option supplies the gateway to clients.","DNS, switching, and SNMP do not author that DHCP value."],
+    ["services","Internal names resolve and public IPs are reachable, but public names fail. Which test best isolates the cause?","A client reaches the Internet by address but its resolver cannot answer external names. What should be queried?","Private DNS zones work while recursive Internet lookups fail. What is the best next check?",["Query the configured resolver and inspect recursion or forwarders","Renew the switch STP election","Change the access VLAN","Clear EIGRP neighbors"],0,"The symptoms isolate external DNS recursion or forwarding.","Changing healthy switching and routing does not test DNS."],
+    ["services","SNMP polling works, but traps never arrive. Which path should be tested?","Graphs update normally while urgent device notifications are absent. What should be inspected?","Manager queries succeed on UDP 161, but unsolicited alerts fail. Which check leads?",["Device-to-manager notification path, commonly UDP 162","Manager-to-device polling path only","DNS zone transfer on TCP 53","DHCP client traffic on UDP 68"],0,"Polling and notifications use different directions and commonly different ports.","The polling path is already proven."],
+    ["services","Logs from several devices cannot be correlated because timestamps differ. Which service is most relevant?","A SIEM shows events in the wrong order across routers. What infrastructure should be verified?","Incident reconstruction fails because device clocks drift. What should be corrected first?",["NTP sources, reachability, and synchronization","DNS MX priorities","DHCP lease duration","SNMP interface aliases"],0,"Reliable correlation requires synchronized clocks.","The other settings do not align event timestamps."],
+    ["services","Monitoring shows 90% utilization, but users report normal service. What should happen next?","An interface crosses a utilization threshold without errors or complaints. What is the best response?","A graph spikes during a known backup window. Which interpretation is strongest?",["Compare the baseline and corroborate with drops, errors, latency, and impact","Replace the interface immediately","Declare an outage from utilization alone","Disable the alert"],0,"Utilization needs baseline and corroborating evidence before remediation.","The alternatives assume failure or remove useful visibility."],
+    ["services","A DNS record was corrected, but some clients retain the old answer. Which factor best explains the delay?","Authoritative data is current while remote resolvers still return the former address. What should be checked?","A migration completes, but cached name results persist. Which setting controls their lifetime?",["The record's TTL and resolver caching","The switch CAM aging timer","The DHCP DORA sequence","The OSPF dead interval"],0,"DNS TTL controls how long cached answers may remain.","The other timers control unrelated protocols."],
+
+    ["troubleshooting","A host reaches its gateway and a server by IP, but HTTPS by name gives a certificate-name warning. What fits best?","IP connectivity succeeds, yet the browser reports the certificate covers another hostname. Where should investigation focus?","The route works, but the requested name and presented certificate disagree. Which theory leads?",["DNS target and certificate subject/SAN coverage","Physical switchport state","Missing default gateway","Absent route to the server"],0,"Successful IP connectivity plus a name warning isolates naming and certificate identity.","Physical and routing failures contradict the successful connection."],
+    ["troubleshooting","A moved workstation works on a known-good port; the original port shows rising CRC errors. What should be done first?","Changing ports restores service while errors climb on the old physical path. Which action is best?","One link has CRC/FCS errors and another link works with the same host. What should be tested?",["Cable, connector, transceiver, and termination","DNS zone records","Enterprise routing AS number","Wireless SSID configuration"],0,"The comparison and frame errors implicate the physical path.","Higher-layer changes are not supported by the evidence."],
+    ["troubleshooting","A host cannot ping its default gateway. Should DNS be investigated first?","A browser fails and the client also lacks local-gateway reachability. What is the best next step?","Name resolution is suspected, but Layer 3 access to the gateway fails. Where should work begin?",["Local link, VLAN, addressing, and gateway reachability","Public DNS recursion","Authoritative zone transfer","Browser certificate cache"],0,"Local Layer 2/3 connectivity must work before DNS can provide usable access.","DNS cannot repair failure to reach the local gateway."],
+    ["troubleshooting","Forward packets reach a server but replies disappear after an ACL change. What evidence is most valuable?","Only the return direction fails for one application. What should be collected before another edit?","A policy change creates a one-way flow. Which test most reduces uncertainty?",["Bidirectional capture plus ACL counters on the return path","A forward-only ping result","A broad temporary permit without capture","The client's DNS cache"],0,"Capture and counters show whether replies exist, where they stop, and which rule matches.","The alternatives do not precisely test the failing direction."],
+    ["troubleshooting","Users report poor voice quality while throughput tests look normal. Which metrics matter most?","A speed test passes, but calls break up and audio arrives unevenly. What should be measured?","Bulk downloads work while real-time media performs badly. Which evidence best distinguishes the issue?",["Latency, jitter, and packet loss","DNS TTL and MX priority","Available disk capacity","Administrative distance only"],0,"Real-time traffic is highly sensitive to delay variation and loss even with adequate throughput.","The other measurements do not explain real-time quality."],
+    ["troubleshooting","A fix restores one ping, but the original application workflow has not been tested. What should happen next?","Connectivity appears improved, yet no end-to-end validation was performed. What is required?","A technician cannot explain why a change helped. Which closing action is strongest?",["Reproduce the original workflow, check side effects, and document evidence","Close the incident after one ping","Make additional changes for certainty","Erase logs to simplify the record"],0,"Resolution requires validation of the reported service and preservation of evidence.","One ping is narrower than the original problem; extra changes add risk."],
+    ["troubleshooting","One department loses internal server access after a VLAN change but retains Internet access. What should be captured first?","A selective outage follows switchport changes. Which evidence best isolates placement and path?","General connectivity works while departmental resources fail. What is the least disruptive investigation?",["Client IP/mask/gateway, access VLAN, trunk allowance, and trace","Only a public speed test","Only server CPU utilization","All network passwords"],0,"The evidence tests client placement and the specific internal path.","The other choices do not isolate the selective failure."]
+  ];
+
+  const result = [];
+  families.forEach((f, familyIndex) => {
+    const [d, ...rest] = f;
+    const stems = rest.slice(0,3);
+    const [a,c,e,x] = rest.slice(3);
+    stems.forEach((q, variantIndex) => result.push({
+      id: `n9-${d.slice(0,3)}-${String(familyIndex+1).padStart(2,"0")}-${variantIndex+1}`,
+      d, q, a:[...a], c, e, x, level:"readiness", source:"N10-009 supplemental"
+    }));
+  });
+  return result;
+})();
+</script>
+<script>
+/*
 ========================================================
 SF 1041 NETWORKS CORE Network Readiness Lab
 Troubleshooting map:
@@ -236,7 +300,9 @@ Troubleshooting map:
     {id:"d18",d:"documentation",q:"A procedure says only 'update the firewall and test it.' What is the most important improvement before implementation?",a:["Add exact changes, affected flows, prerequisites, risk, validation, and rollback steps","Add more decorative formatting","Remove the maintenance window","Omit the current configuration"],c:0,e:"A usable method of procedure must make the change controlled, reproducible, testable, and reversible.",x:"Appearance is secondary, and removing timing or baseline information increases operational risk."},
     {id:"d19",d:"documentation",q:"Two diagrams disagree about a server's VLAN. What is the best immediate response?",a:["Verify the live configuration and approved source of truth, then correct the stale artifact through change control","Choose the newer-looking diagram without checking","Change the server to match both diagrams","Delete all diagrams"],c:0,e:"Conflicting documentation should be reconciled against authoritative live and approved records before configuration changes.",x:"Guessing or changing production to satisfy stale documentation can create an outage; deleting records removes useful history."}
   ];
-  QUESTIONS.push(...ADVANCED_QUESTIONS);
+  QUESTIONS.forEach(q => q.level = "foundation");
+  ADVANCED_QUESTIONS.forEach(q => q.level = "readiness");
+  QUESTIONS.push(...ADVANCED_QUESTIONS, ...N10_009_SUPPLEMENTAL);
 
   const domainNames = {
     routing: "Routing & EIGRP",
@@ -304,6 +370,14 @@ Troubleshooting map:
     let pool = [...QUESTIONS];
     const domain = $("domain").value;
 
+    if(state.mode === "quick"){
+      pool = pool.filter(q => q.level === "foundation");
+    }
+
+    if(state.mode === "readiness" || state.mode === "challenge"){
+      pool = pool.filter(q => q.level === "readiness");
+    }
+
     if(state.mode === "focus" && domain !== "all"){
       pool = pool.filter(q => q.d === domain);
     }
@@ -323,6 +397,7 @@ Troubleshooting map:
     const requestedCount =
       state.mode === "city" ? 25 :
       state.mode === "challenge" ? 40 :
+      state.mode === "readiness" ? 15 :
       state.mode === "quick" ? 10 :
       pool.length;
 

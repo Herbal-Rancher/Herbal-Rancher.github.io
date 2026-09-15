@@ -18,7 +18,7 @@ status: active
   <a href="/network-portfolio/network-readiness-lab/">Test Readiness Lab</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/">Exam Prep</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/review/">Targeted Review</a> ·······
-  <a href="/network-portfolio/network-portfolio/sf-1041-practice-engine/">Test Engine</a>
+  <a href="/network-portfolio/sf-1041-practice-engine/">Practice Test Engine</a>
 </div>
 
 <style>
@@ -53,7 +53,15 @@ Example: For destination `10.10.10.25`, a `/24` route wins over `/16` and `/8` r
 | Same prefix, different sources | Administrative distance | Which source is more trusted? |
 | Same prefix and same protocol | Metric | Which path does that protocol prefer? |
 
-Common Cisco AD values: connected `0`, static `1`, Enhanced Interior Gateway Routing Protocol (EIGRP) summary `5`, external Border Gateway Protocol (BGP) `20`, internal EIGRP `90`, Open Shortest Path First (OSPF) `110`, Routing Information Protocol (RIP) `120`, and external EIGRP `170`.
+Common Cisco AD values: 
+* Connected `0`, 
+* Static `1`, 
+* Enhanced Interior Gateway Routing Protocol (EIGRP) summary `5`, 
+* External Border Gateway Protocol (BGP) `20`, 
+* Internal EIGRP `90`, 
+* Open Shortest Path First (OSPF) `110`, 
+* Routing Information Protocol (RIP) `120`, and 
+* External EIGRP `170`.
 
 ## Static, Default, and Floating Static Routes
 
@@ -96,7 +104,14 @@ show ip interface brief
 show running-config | section router eigrp
 ```
 
-If there is no neighbor, do not start by changing route metrics. First confirm interface state, subnet, AS number, EIGRP activation, K-values, authentication, and packet filtering.
+If there is no neighbor, do not start by changing route metrics. First confirm:
+- interface state, 
+- subnet, 
+- AS number, 
+- EIGRP activation, 
+- K-values, 
+- authentication, and 
+- packet filtering.
 
 ## EIGRP's Three Tables
 
@@ -112,7 +127,7 @@ Learning a route into the topology table does not guarantee installation in the 
 
 EIGRP uses the **Diffusing Update Algorithm (DUAL)** to calculate loop-free routes.
 
-- **Successor:** best EIGRP route; installed in the routing table.
+- **Successor:** best EIGRP loop-free route; installed in the routing table.
 - **Feasible distance (FD):** local router's best total metric to the destination.
 - **Reported distance (RD):** neighbor's advertised distance from itself to the destination; also called advertised distance.
 - **Feasible successor:** prequalified loop-free backup path.
@@ -122,7 +137,7 @@ A backup path can be valid and reachable without meeting the feasibility conditi
 
 ## Convergence—What It Actually Means
 
-**Convergence** is the point at which routers have processed a topology change and their routing information is again consistent and stable. It is more than “all tables were updated”; routers must agree on usable paths and forwarding must stabilize.
+**Convergence** is the point at which routers have processed a topology change and their routing information is again consistent and stable. It is more than “all routing tables are updated”; routers must agree on usable paths and forwarding must stabilize.
 
 When a successor fails:
 
@@ -136,9 +151,19 @@ When a successor fails:
 
 ## Metric and Load Balancing
 
-Classic EIGRP uses minimum bandwidth and cumulative delay by default. Load and reliability exist as K-value components but are not used by default. The path with the lowest composite metric becomes the successor.
+Classic EIGRP uses minimum bandwidth and cumulative delay by default. [**Metric = Bandwith + Delay**]. Load and reliability exist as K-value components but are not used by default. The path with the lowest composite metric becomes the successor.
 
 EIGRP can perform unequal-cost load balancing with `variance`, but a path must still satisfy the feasibility condition and fall within the allowed metric multiplier.
+
+### The 5 K-Value Components
+
+| K-Value | Associated Link Components| Description |Default Weight
+|---|---|---|---|
+| K1 | Bandwidth | Represents the data capacity of the link. EIGRP uses the lowest bandwidth along the entire route. | K1 = 1 (Enabled) |
+| K2 | Load | Measures how busy the link is based on traffic packet rates. It takes the worst (highest) load on the path. | K2 = 0 (Disabled) |
+| K3 | Delay | The time it takes a packet to traverse the path. EIGRP uses the cumulative sum of all interface delays. | K3 = 1 (Enabled) |
+| K4 | Reliability | Measures the link error rate or how often keep-alive packets drop. It looks at the worst reliability in the path. | K4 = 0 (Disabled) |
+| K5 | Reliability (Multiplier) | Used to scale the reliability math. If K5 is 0, the reliability factor is completely ignored. | K5 = 0 (Disabled) |
 
 ## Protocol Comparison
 
@@ -146,7 +171,7 @@ EIGRP can perform unequal-cost load balancing with `variance`, but a path must s
 |---|---|---|
 | RIP | Distance-vector Interior Gateway Protocol (IGP) | Lowest hop count; 15 hops maximum usable |
 | OSPF | Link-state IGP | Lowest accumulated cost |
-| EIGRP | Advanced distance-vector IGP | Lowest composite metric |
+| EIGRP | Hybrid or advanced distance-vector IGP | Lowest composite metric |
 | BGP | Path-vector Exterior Gateway Protocol (EGP) | Policy and path attributes, including AS path |
 
 ## Verification and Troubleshooting

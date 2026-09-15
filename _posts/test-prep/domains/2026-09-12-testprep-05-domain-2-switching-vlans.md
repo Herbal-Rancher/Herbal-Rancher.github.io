@@ -18,7 +18,7 @@ status: active
   <a href="/network-portfolio/network-readiness-lab/">Test Readiness Lab</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/">Exam Prep</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/review/">Targeted Review</a> ·······
-  <a href="/network-portfolio/network-portfolio/sf-1041-practice-engine/">Test Engine</a>
+  <a href="/network-portfolio/sf-1041-practice-engine/">Practice Test Engine</a>
 </div>
 
 <style>
