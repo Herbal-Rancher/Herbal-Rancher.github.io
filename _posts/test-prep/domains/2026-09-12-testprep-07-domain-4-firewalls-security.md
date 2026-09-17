@@ -92,12 +92,47 @@ A VLAN alone is not a complete security policy. A router, firewall, or Layer 3 A
 
 ## Video Review
 
-- **Sunny Classroom — Firewalls and ACLs**
-  - <https://youtube.com/@sunnyclassroom24/search?query=firewall%20ACL>
-- **Sunny Classroom — NAT, PAT, and port forwarding**
-  - <https://youtube.com/@sunnyclassroom24/search?query=NAT%20PAT%20port%20forwarding>
-- **Professor Messer — Network security videos**
-  - <https://youtube.com/@professormesser/search?query=Network%2B%20firewall%20ACL>
+<ul>
+  <li>
+    <strong>Sunny Classroom — Firewalls and ACL</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@sunnyclassroom24/search?query=firewall%20ACL"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open Firewalls and ACL video
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Sunny Classroom — NAT, PAT, and port forwarding</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@sunnyclassroom24/search?query=NAT%20PAT%20port%20forwarding"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open NAT, PAT, and port forwarding video
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Professor Messer — Network security videos</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@professormesser/search?query=Network%2B%20firewall%20ACL"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open Network security video
+        </a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 
 ## Acronyms
 

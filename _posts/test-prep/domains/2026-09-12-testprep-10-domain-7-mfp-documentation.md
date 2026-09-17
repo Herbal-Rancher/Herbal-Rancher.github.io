@@ -102,10 +102,33 @@ Screenshots can support a record, but they should not replace searchable text an
 
 ## Video Review
 
-- **Sunny Classroom — Network printing and troubleshooting**
-  - <https://youtube.com/@sunnyclassroom24/search?query=network%20printer%20troubleshooting>
-- **Professor Messer — Network documentation**
-  - <https://youtube.com/@professormesser/search?query=N10-009%20network%20documentation>
+<ul>
+  <li>
+    <strong>Sunny Classroom — Network printing and troubleshooting</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@sunnyclassroom24/search?query=network%20printer%20troubleshooting"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open Network troubleshooting video
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Professor Messer — Network documentation</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@professormesser/search?query=Network%20documentation"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open Network documentation video
+        </a>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 ## Acronyms
 

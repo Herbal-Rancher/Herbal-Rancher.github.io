@@ -205,12 +205,46 @@ traceroute 192.0.2.25
 
 ## Video Review
 
-- **Sunny Classroom — EIGRP and routing videos**
-  - <https://youtube.com/@sunnyclassroom24/search?query=EIGRP%20routing>
-- **Sunny Classroom — Subnetting videos**
-  - <https://youtube.com/@sunnyclassroom24/search?query=subnetting>
-- **Professor Messer — Dynamic Routing, N10-009**
-  - <https://www.professormesser.com/network-plus/n10-009/n10-009-video/dynamic-routing-n10-009/>
+<ul>
+  <li>
+    <strong>Sunny Classroom — EIGRP and routing videos</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@sunnyclassroom24/search?query=EIGRP%20routing"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open EIGRP and routing videos
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Sunny Classroom — Subnetting videos</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@sunnyclassroom24/search?query=subnetting"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open subnetting videos
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Professor Messer — Dynamic Routing, N10-009</strong>
+    <ul>
+      <li>
+        <a href="https://www.professormesser.com/network-plus/n10-009/n10-009-video/dynamic-routing-n10-009/"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open Dynamic Routing video
+        </a>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 ## Acronyms
 

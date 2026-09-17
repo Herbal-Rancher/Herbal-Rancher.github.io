@@ -123,13 +123,48 @@ Before changing production equipment, record the current state, expected result,
 3. What is the difference between throughput and goodput?
 
 ## Video Review
+  
+<ul>
+  <li>
+    <strong>Sunny Classroom — DHCP and DNS</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@sunnyclassroom24/search?query=DHCP%20DNS"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open DHCP and DNS video
+        </a>
+      </li>
+    </ul>
+  </li>
 
-- **Sunny Classroom — Network troubleshooting**
-  - <https://youtube.com/@sunnyclassroom24/search?query=network%20troubleshooting>
-- **Sunny Classroom — Collision and broadcast domains**
-  - <https://youtube.com/@sunnyclassroom24/search?query=collision%20domain%20broadcast%20domain>
-- **Professor Messer — Routing and IP Issues, N10-009**
-  - <https://www.professormesser.com/network-plus/n10-009/n10-009-video/routing-and-ip-issues-n10-009/>
+  <li>
+    <strong>Sunny Classroom — SNMP, Syslog, and SIEM</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@sunnyclassroom24/search?query=SNMP%20Syslog%20SIEM"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open SNMP, Syslog, and SIEM video
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Professor Messer — Command Line Tools, N10-009</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@professormesser/search?query=Command%20Line%20Tools%20N10-009"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open Command Line Tools video
+        </a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 
 ## Acronyms
 

@@ -112,12 +112,46 @@ Memorize the service, number, and transport together. A correct port with the wr
 
 ## Video Review
 
-- **Sunny Classroom — DHCP and DNS**
-  - <https://youtube.com/@sunnyclassroom24/search?query=DHCP%20DNS>
-- **Sunny Classroom — SNMP, Syslog, and SIEM**
-  - <https://youtube.com/@sunnyclassroom24/search?query=SNMP%20Syslog%20SIEM>
-- **Professor Messer — Command Line Tools, N10-009**
-  - <https://www.professormesser.com/network-plus/n10-009/n10-009-video/command-line-tools-n10-009/>
+<ul>
+  <li>
+    <strong>Sunny Classroom — DHCP and DNS</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@sunnyclassroom24/search?query=DHCP%20DNS"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open DHCP and DNS video
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Sunny Classroom — SNMP, Syslog, and SIEM</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@sunnyclassroom24/search?query=SNMP%20Syslog%20SIEM"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open SNMP, Syslog, and SIEM video
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Professor Messer — Command Line Tools, N10-009</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@professormesser/search?query=Command%20Line%20Tools%20N10-009"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open Command Line Tools video
+        </a>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 ## Acronyms
 

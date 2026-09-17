@@ -32,7 +32,7 @@ status: active
 
 # Targeted Review
 
-Each exam domain now has a separate, detailed study page. The individual pages provide definitions, examples, commands, troubleshooting clues, memory rules, and knowledge checks without creating one extremely long mobile page.
+Each exam domain has a separate, detailed study page. The individual pages provide definitions, examples, commands, troubleshooting clues, memory rules, targeted videos and knowledge checks without creating one extremely long mobile page.
 
 > **Study loop:** Study one domain → explain it aloud in your own words → run that domain in **Focused Review** → study missed concepts → use **Retest Missed**.
 

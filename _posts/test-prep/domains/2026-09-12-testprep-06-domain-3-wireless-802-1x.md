@@ -100,12 +100,47 @@ Extensible Authentication Protocol over LAN (EAPOL) operates between endpoint an
 
 ## Video Review
 
-- **Sunny Classroom — 802.1X and EAP**
-  - <https://youtube.com/@sunnyclassroom24/search?query=802.1X%20EAP>
-- **Sunny Classroom — AAA and RADIUS**
-  - <https://youtube.com/@sunnyclassroom24/search?query=AAA%20RADIUS>
-- **Professor Messer — Wireless Networking, N10-009**
-  - <https://www.professormesser.com/network-plus/n10-009/n10-009-video/wireless-networking-n10-009/>
+<ul>
+  <li>
+    <strong>Sunny Classroom — 802.1X and EAP</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@sunnyclassroom24/search?query=802.1X%20EAP"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open 802.1X and EAP video
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Sunny Classroom — AAA and RADIUS</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@sunnyclassroom24/search?query=AAA%20RADIUS"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open AAA and RADIUS video
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Professor Messer — Wireless Networking, N10-009</strong>
+    <ul>
+      <li>
+        <a href="https://www.professormesser.com/network-plus/n10-009/n10-009-video/wireless-networking-n10-009/"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open Wireless Networking video
+        </a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 
 ## Acronyms
 

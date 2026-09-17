@@ -121,12 +121,47 @@ show ip interface brief
 
 ## Video Review
 
-- **Sunny Classroom — VLAN fundamentals**
-  - <https://youtube.com/@sunnyclassroom24/search?query=VLAN>
-- **Sunny Classroom — STP and LACP**
-  - <https://youtube.com/@sunnyclassroom24/search?query=STP%20LACP>
-- **Professor Messer — Switching Issues, N10-009**
-  - <https://www.professormesser.com/network-plus/n10-009/n10-009-video/switching-issues-n10-009/>
+<ul>
+  <li>
+    <strong>Sunny Classroom — VLAN fundamentals</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@sunnyclassroom24/search?query=VLAN"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open VLAN fundamentals video
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Sunny Classroom — STP and LACP</strong>
+    <ul>
+      <li>
+        <a href="https://youtube.com/@sunnyclassroom24/search?query=STP%20LACP"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open STP and LACP video
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Professor Messer — Switching Issues, N10-009</strong>
+    <ul>
+      <li>
+        <a href="https://www.professormesser.com/network-plus/n10-009/n10-009-video/switching-issues-n10-009/"
+           target="_blank"
+           rel="noopener noreferrer">
+          Open Switching Issues video
+        </a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 
 ## Acronyms
 
