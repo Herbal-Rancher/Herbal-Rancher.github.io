@@ -11,7 +11,6 @@ sort_order: "152100"
 categories:
 
 - portfolio
-- labs
 - videos
 
 category: networking-fundamentals
