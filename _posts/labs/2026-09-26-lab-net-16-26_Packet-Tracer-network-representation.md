@@ -58,7 +58,7 @@ Explore a small to medium business network model in Packet Tracer. Identify end 
 
 ## Preconditions
 
-![Packet Tracer Lab 26 - Network Representation - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-16-Lab-26.png)
+![Packet Tracer Lab 26 - Network Representation - Preconditions ](/assets/images/packet-tracer/cisco-lab-topology-module-16-Lab-26.png)
 
 ---
 
