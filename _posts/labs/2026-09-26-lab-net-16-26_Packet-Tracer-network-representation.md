@@ -9,7 +9,7 @@ sort_order: "162600"
 
 categories:
   - portfolio
-  - videos
+  - labs
 
 category: networking-fundamentals
 category_display: Networking Fundamentals
@@ -38,10 +38,6 @@ tools:
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
-
 completed_lab: "/assets/pdfs/Module-16-Lab-26-Packet-Tracer-Network-Representation.pdf"
 lab_pdf: "/assets/pdfs/Module-16-Lab-26-Packet-Tracer-Network-Representation.pdf"
 permalink: /network-portfolio/videos/16-26-network-representation/
@@ -58,7 +54,7 @@ Explore a small to medium business network model in Packet Tracer. Identify end 
 
 ## Preconditions
 
-![Packet Tracer Lab 26 - Network Representation - Preconditions ](/assets/images/packet-tracer/cisco-lab-topology-module-16-Lab-26.png)
+![ Preconditions - Packet Tracer Lab 26 - Network Representation](/assets/images/packet-tracer/cisco-lab-topology-module-16-lab-26.png)
 
 ---
 
@@ -68,16 +64,6 @@ Explore a small to medium business network model in Packet Tracer. Identify end 
 - Network components
 - Network media
 - Lan and wan comparison
-
----
-
-## Video Walkthrough
-
-
-
-{% if page.video_id != "" %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_id }}" title="{{ page.title }}" frameborder="0" allowfullscreen></iframe>
-{% endif %}
 
 ---
 
