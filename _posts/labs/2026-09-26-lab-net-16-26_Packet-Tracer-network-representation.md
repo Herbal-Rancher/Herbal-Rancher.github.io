@@ -17,8 +17,8 @@ category_display: Networking Fundamentals
 subcategory: network-fundamentals
 subcategory_display: Network Fundamentals
 
-content_type: video
-content_type_display: Video
+content_type: lab
+content_type_display: Lab
 
 tags:
   - packet-tracer

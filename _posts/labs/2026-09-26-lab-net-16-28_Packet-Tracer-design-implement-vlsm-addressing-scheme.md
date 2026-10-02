@@ -64,7 +64,7 @@ Plan and implement a contiguous VLSM scheme within 192.168.203.0/24 for four LAN
 
 ## Preconditions
 
-<!-- Add the starting Packet Tracer topology screenshot here after recording. -->
+![ Preconditions - Packet Tracer Lab 28 - VLSM Addressing Scheme](/assets/images/packet-tracer/cisco-lab-topology-module-16-lab-28.png)
 
 ---
 
