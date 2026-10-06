@@ -9,7 +9,6 @@ sort_order: "162800"
 
 categories:
   - portfolio
-  - labs
   - videos
 
 category: networking-fundamentals
