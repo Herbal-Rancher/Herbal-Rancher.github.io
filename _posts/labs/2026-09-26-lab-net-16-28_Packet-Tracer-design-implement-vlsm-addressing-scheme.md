@@ -45,15 +45,16 @@ protocols:
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "tCpZJNax32Q"
+video_url: "https://youtu.be/tCpZJNax32Q?si=tz9FFk47GHzysg1j"
+thumbnail: "https://img.youtube.com/vi/tCpZJNax32Q/hqdefault.jpg"
 
 completed_lab: "/assets/pdfs/Module-16-Lab-28-Packet-Tracer-VLSM-Addressing-Scheme.pdf"
 lab_pdf: "/assets/pdfs/Module-16-Lab-28-Packet-Tracer-VLSM-Addressing-Scheme.pdf"
 
 permalink: /network-portfolio/videos/16-28-design-implement-vlsm-addressing-scheme/
 diagram: ""
+
 ---
 
 ## Overview
