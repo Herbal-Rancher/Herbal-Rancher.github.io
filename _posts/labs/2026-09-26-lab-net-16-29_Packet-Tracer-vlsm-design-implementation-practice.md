@@ -1,82 +1,82 @@
 ---
 layout: post
-title: "Lab 29| Cisco Networking Labs - VLSM Design and Implementation Practice"
+title: "Lab 29 | Cisco Networking Labs - VLSM Design and Implementation Practice"
 lab_title: "VLSM Design and Implementation Practice"
-
 lesson: "16.0"
 lesson_id: "16.29.00"
-sort_order: "162900"
-
+sort_order: 29
 categories:
   - portfolio
+  - labs
   - videos
-
-category: networking-fundamentals
-category_display: Networking Fundamentals
-
-subcategory: ip-addressing
-subcategory_display: IP Addressing
-
-content_type: video
-content_type_display: Video
-
+category: "Portfolio"
+category_display: "Portfolio"
+subcategory: "Cisco Networking Labs"
+subcategory_display: "Cisco Networking Labs"
+content_type: "video"
+content_type_display: "Video"
 tags:
-  - packet-tracer
-  - vlsm
-  - ipv4
-  - subnetting
-  - addressing
-  - connectivity
-
+  - Cisco Packet Tracer
+  - VLSM
+  - IPv4
+  - Subnetting
+  - Network Configuration
 topics:
-  - vlsm-planning
-  - device-addressing
-  - connectivity-testing
-
+  - Variable Length Subnet Masking
+  - IPv4 Address Planning
+  - Router and Switch Addressing
+  - Connectivity Verification
 tools:
-  - cisco-packet-tracer
-  - ping
-
+  - Cisco Packet Tracer
 protocols:
   - IPv4
   - ICMP
-
-status: complete
-
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
-
+permalink: /network-portfolio/formative-modules/lesson-16-0/15-29-vlsm-design-implementation-practice/
+status: "Completed"
 completed_lab: "/assets/pdfs/Module-16-Lab-29-Packet-Tracer-VLSM-VLSM-Design-Implementation.pdf"
 lab_pdf: "/assets/pdfs/Module-16-Lab-29-Packet-Tracer-VLSM-VLSM-Design-Implementation.pdf"
-permalink: /network-portfolio/videos/16-29-vlsm-design-implementation-practice/
+video: ""
 diagram: ""
 ---
 
 ## Overview
 
-Practice VLSM with 192.168.72.0/24 for four room LANs and the Branch1–Branch2 link. Calculate each subnet, document the addressing plan, finish the required device configurations, and test end-to-end reachability.
+This Cisco Packet Tracer lab explores how **Variable Length Subnet Masking (VLSM)** supports efficient IPv4 address allocation across networks with different host requirements. Starting with `172.31.103.0/24`, I designed five subnets for four LANs and a point-to-point WAN connection, documented the addressing scheme, and completed the required device-addressing tasks.
 
-<!--more-->
-
----
+The accompanying video walks through the implementation and connectivity checks.
 
 ## Preconditions
 
-![Preconditions - Packet Tracer Lab 29 - VLSM Design and Implementation Practice](/assets/images/packet-tracer/cisco-lab-topology-module-16-lab-29.png)
+- Cisco Packet Tracer activity with two branch routers, four LANs, and a WAN connection
+- Starting IPv4 network: `172.31.103.0/24`
+- Host requirements: 27, 25, 14, and 8 for the four LANs; 2 for the WAN
 
----
+<!-- Add the Packet Tracer topology screenshot here when available. -->
 
 ## Skills Practiced
 
-- VLSM Design and Implementation Practice (Packet Tracer Lab 29)
-- Vlsm planning
-- Device addressing
-- Connectivity testing
+- Selecting appropriate subnet masks based on host requirements
+- Allocating nonoverlapping VLSM subnets from largest to smallest
+- Documenting network, usable host, and broadcast addresses
+- Assigning IPv4 addresses, subnet masks, and default gateways
+- Verifying network connectivity with ICMP ping tests
 
----
+## Lab Steps
 
-## Video Walkthrough
+1. **Examine requirements:** Identify the five required subnets and their host capacities.
+2. **Design the addressing scheme:** Allocate two `/27` LANs, two `/28` LANs, and one `/30` WAN from the original `/24` network.
+3. **Implement addressing:** Complete the required configuration on Branch1, the Room-312 switch, and PC-D.
+4. **Verify connectivity:** Run the specified ping tests from Branch1, Room-312, and PC-D.
+
+## Validation
+
+The lab documentation identifies ping destinations across the LAN and WAN subnets. The video demonstrates the connectivity checks and their results.
+
+## Troubleshooting / Notes
+
+The addressing plan uses different subnet sizes to meet host requirements without overlapping networks. Correct subnet masks and default gateways are essential for communication between subnets.
+
+## Watch the Video Walkthrough
 
 <!-- Add video_id, video_url, and thumbnail when the recording is ready. -->
 
@@ -89,40 +89,12 @@ Practice VLSM with 192.168.72.0/24 for four room LANs and the Branch1–Branch2 
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-- Note: [Completed Lab PDF may be available upon request]
+- Note: *[Completed Lab PDF may be available upon request]*
 {% endif %}
 
 ---
 
-## Key Observations
 
-The largest LAN receives the first block, followed by progressively smaller LANs and the router link. Choosing a mask based only on the number of addresses in a block can leave too few usable host addresses.
-
-### Activity Focus
-
-1. Determine subnet sizes for Room-407 (58), Room-312 (29), Room-279 (15), and Room-114 (7) host addresses, plus the router link.
-2. Allocate five subnets in descending LAN size and document each network/CIDR, first usable address, and broadcast address.
-3. Apply the activity’s first usable router, second usable switch, and last usable PC address rules.
-4. Configure the Branch1 LAN interfaces, Room-312 switch management and gateway, and PC-D addressing.
-5. Ping all documented IP addresses from Branch1, Room-312, and PC-D.
-
-### Notes
-
-The activity can present one of three topologies. Match room names to the interfaces in your assigned Packet Tracer file. A 15-host LAN needs /27; /28 provides only 14 usable addresses.
-
----
-
-## Validation
-
-Verify the address plan has no overlap and pings work from the three devices where testing is permitted.
-
----
-
-## Related Exercises
-
-- VLSM Design
-- Host Address Planning
-- Connectivity Testing
 
 ---
 ---
