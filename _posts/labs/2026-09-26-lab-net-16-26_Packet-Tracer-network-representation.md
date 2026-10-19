@@ -70,7 +70,7 @@ Explore a small to medium business network model in Packet Tracer. Identify end 
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-- [Completed Lab PDF]({{ page.completed_lab | relative_url }})
+- Note: [Completed Lab PDF may be available upon request]
 {% endif %}
 
 ---

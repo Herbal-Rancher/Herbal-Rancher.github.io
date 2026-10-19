@@ -71,7 +71,7 @@ This milestone assessment explores how routing technologies, wireless configurat
 
 ## Supporting Evidence
 
-* [Download Assessment PDF]({{ page.pdf | relative_url }})
+Note: [This Assessment PDF may be available upon request]
 
 ---
 

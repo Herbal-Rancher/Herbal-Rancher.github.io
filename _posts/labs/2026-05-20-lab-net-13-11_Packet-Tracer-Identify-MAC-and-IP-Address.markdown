@@ -107,7 +107,7 @@ By completing this exercise you will learn how to:
 
 ## Completed Lab Documentation
 
-- [Completed Lab PDF]({{ page.completed_lab | relative_url }})
+- Note: [Completed Lab PDF may be available upon request]
 
 ---
 

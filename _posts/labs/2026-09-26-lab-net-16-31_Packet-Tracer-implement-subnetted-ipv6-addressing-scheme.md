@@ -63,7 +63,7 @@ Assign consecutive IPv6 /64 networks to four LANs and the R1–R2 link, starting
 
 ## Preconditions
 
-<!-- Add the starting Packet Tracer topology screenshot here after recording. -->
+![Preconditions - Packet Tracer Lab 31 - Implement a Subnetted IPv6 Addressing Scheme](/assets/images/packet-tracer/cisco-lab-topology-module-16-lab-31.png)
 
 ---
 
@@ -89,7 +89,7 @@ Assign consecutive IPv6 /64 networks to four LANs and the R1–R2 link, starting
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-- [Completed Lab PDF]({{ page.completed_lab | relative_url }})
+- Note: [Completed Lab PDF may be available upon request]
 {% endif %}
 
 ---

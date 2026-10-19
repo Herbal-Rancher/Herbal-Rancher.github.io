@@ -86,7 +86,7 @@ This summative assessment presents a comprehensive enterprise network infrastruc
 
 ## Supporting Evidence
 
-* [Download Assessment PDF]({{ page.pdf | relative_url }})
+Note: [This Assessment PDF may be available upon request]
 
 ---
 

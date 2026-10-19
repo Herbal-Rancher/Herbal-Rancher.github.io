@@ -192,9 +192,17 @@ Reliable network communication begins with proper physical connectivity. Underst
 
 ## Video Walkthrough
 
-*(Video Embed)*
+<iframe
+width="560"
+height="315"
+src="https://www.youtube.com/embed/{{ page.video_id }}"
+title="{{ page.title }}"
+frameborder="0"
+allowfullscreen>
+</iframe>
 
 ---
+
 
 ## Key Takeaways
 

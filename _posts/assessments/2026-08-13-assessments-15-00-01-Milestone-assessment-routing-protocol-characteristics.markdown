@@ -113,7 +113,7 @@ routing-table decisions with practical network troubleshooting.
 
 ## Supporting Evidence
 
-* [Download Assessment PDF]({{ page.pdf | relative_url }})
+Note: [This Assessment PDF may be available upon request]
 
 ---
 

@@ -93,7 +93,14 @@ The completed lab provides practical evidence of my understanding of enterprise 
 * **IT532:OS6.4 — Compare and contrast network topologies, architectures, and types**
   * Demonstrate how Ethernet physical connections support devices within a local network environment.
 
+
 ---
+
+## Supporting Evidence
+
+#Note: [This Assessment PDF may be available upon request]
+---
+
 
 ## Video Walkthrough
 

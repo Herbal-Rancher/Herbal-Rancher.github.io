@@ -69,7 +69,7 @@ This summative assessment presents a network monitoring and troubleshooting scen
 
 ## Supporting Evidence
 
-* [Download Assessment PDF]({{ page.pdf | relative_url }})
+Note: [This Assessment PDF may be available upon request]
 
 ---
 

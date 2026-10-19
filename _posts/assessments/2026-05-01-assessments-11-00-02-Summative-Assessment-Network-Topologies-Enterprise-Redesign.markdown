@@ -72,7 +72,7 @@ This summative assessment documents a Packet Tracer lab involving router configu
 
 ## Supporting Evidence
 
-* [Download Assessment PDF]({{ page.pdf | relative_url }})
+Note: [This Assessment PDF may be available upon request]
 * [Walkthrough Video]({{ page.video }})
 
 ---

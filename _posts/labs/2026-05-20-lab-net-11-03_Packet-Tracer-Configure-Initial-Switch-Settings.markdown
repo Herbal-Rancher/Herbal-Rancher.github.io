@@ -70,9 +70,7 @@ This page documents a completed hands-on Cisco Packet Tracer exercise completed 
 
 ## Completed Lab
 
-Download the completed lab documentation.
-
-- [Completed Lab PDF]({{ page.pdf | relative_url }})
+- Note: [Completed Lab PDF may be available upon request]
 
 ---
 

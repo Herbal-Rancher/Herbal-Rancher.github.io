@@ -58,7 +58,7 @@ Build the supplied Packet Tracer topology by placing two 2960 switches and six P
 
 ## Preconditions
 
-<!-- Add the starting Packet Tracer topology screenshot here after recording. -->
+![Preconditions - Packet Tracer Lab 30 - Deploy and Cable Devices](/assets/images/packet-tracer/cisco-lab-topology-module-16-lab-30.png)
 
 ---
 
@@ -84,7 +84,7 @@ Build the supplied Packet Tracer topology by placing two 2960 switches and six P
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-- [Completed Lab PDF]({{ page.completed_lab | relative_url }})
+- Note: [Completed Lab PDF may be available upon request]
 {% endif %}
 
 ---

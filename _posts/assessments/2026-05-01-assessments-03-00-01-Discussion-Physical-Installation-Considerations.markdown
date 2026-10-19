@@ -61,7 +61,7 @@ This discussion examines important physical installation factors that directly i
 
 ## Supporting Evidence
 
-* [Download Discussion PDF]({{ page.pdf | relative_url }})
+#Note: [This Assessment PDF may be available upon request]
 
 ---
 

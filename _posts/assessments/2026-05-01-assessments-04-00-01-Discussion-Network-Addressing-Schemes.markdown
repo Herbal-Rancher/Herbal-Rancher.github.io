@@ -75,7 +75,7 @@ This discussion examines how networking tools and protocols are selected to diag
 
 ## Supporting Evidence
 
-* **[Download Discussion PDF](/assets/pdfs/4-0-Discussion-Network-Addressing-Schemes.pdf)** 
+#Note: [This Assessment PDF may be available upon request]
 
 ---
 
