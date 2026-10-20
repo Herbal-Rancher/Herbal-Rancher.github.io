@@ -43,9 +43,9 @@ protocols:
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "YU5oTqP6WU8"
+video_url: "https://youtu.be/YU5oTqP6WU8"
+thumbnail: "https://img.youtube.com/vi/YU5oTqP6WU8/hqdefault.jpg"
 
 completed_lab: "/assets/pdfs/Module-16-Lab-29-Packet-Tracer-VLSM-VLSM-Design-Implementation.pdf"
 lab_pdf: "/assets/pdfs/Module-16-Lab-29-Packet-Tracer-VLSM-VLSM-Design-Implementation.pdf"
