@@ -51,6 +51,7 @@ completed_lab: "/assets/pdfs/Module-16-Lab-29-Packet-Tracer-VLSM-VLSM-Design-Imp
 lab_pdf: "/assets/pdfs/Module-16-Lab-29-Packet-Tracer-VLSM-VLSM-Design-Implementation.pdf"
 permalink: /network-portfolio/videos/16-29-vlsm-design-implementation-practice/
 diagram: ""
+
 ---
 
 ## Overview
