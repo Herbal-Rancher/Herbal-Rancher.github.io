@@ -38,9 +38,9 @@ tools:
 
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "QbgfxcQNXNQ"
+video_url: "https://youtu.be/QbgfxcQNXNQ"
+thumbnail: "https://img.youtube.com/vi/QbgfxcQNXNQ/hqdefault.jpg"
 
 completed_lab: "/assets/pdfs/Module-16-Lab-30-Packet-Tracer-Deployment-Cable-Devices.pdf"
 lab_pdf: "/assets/pdfs/Module-16-Lab-30-Packet-Tracer-Deployment-Cable-Devices.pdf"
