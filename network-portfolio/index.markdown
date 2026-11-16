@@ -34,9 +34,10 @@ This portfolio supports both conceptual learning and practical application by pr
 The portfolio is organized into three primary sections that connect theory, visualization, hands-on practice, troubleshooting, and technical reflection into a progressive learning system.
 
 * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)** — Coursework, learning activities, and competency-based exercises completed throughout my studies.
-* **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)** — AI-assisted visual resources that simplify networking concepts, protocols, architectures, and troubleshooting workflows.
 * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)** — Narration-free demonstrations of labs, Packet Tracer activities, troubleshooting exercises, and technical projects.
+* **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)** — AI-assisted visual resources that simplify networking concepts, protocols, architectures, and troubleshooting workflows.
 * **[NETWORK TEST READINESS LAB](/network-portfolio/network-readiness-lab/)** — Interactive test preparation for the SF 1041 Technology Engineer – Networks exam and CompTIA Network+, with challenging scenario-based questions and readiness-focused practice.
+* **[NETWORK TROUBLESHOOTING CHECKLIST](/network-portfolio/network-troubleshooting-checklist/)** - Interactive IT Network Technician Troubleshooting checklist to easily and effectively troubleshoot any network problems.
 
 ---
 ---
@@ -154,7 +155,8 @@ more<p><strong>Skills Practiced:</strong> [
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-  * [Network Readiness Lab](/network-portfolio/network-readiness-lab/)
+  * [Network Test Readiness Lab](/network-portfolio/network-test-readiness-lab/)
+  * [Network Troubleshooting Checklist](/network-portfolio/network-troubleshooting-checklist/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/about/)

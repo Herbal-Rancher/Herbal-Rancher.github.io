@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /network-portfolio/network-readiness-lab/
+permalink: /network-portfolio/network-test-readiness-lab/
 nav_exclude: true
 ---
 
@@ -142,7 +142,8 @@ This keeps each certification or employment exam separate while allowing one con
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Video Walkthroughs](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-  * **[NETWORK TEST READINESS LAB](/network-portfolio/network-readiness-lab/)**
+  * **[NETWORK TEST READINESS LAB](/network-portfolio/network-test-readiness-lab/)**
+  * [Network Troubleshooting Checklist](/network-portfolio/network-troubleshooting-checklist/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/about/)
