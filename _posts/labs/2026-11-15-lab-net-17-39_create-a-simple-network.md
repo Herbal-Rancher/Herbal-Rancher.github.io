@@ -116,8 +116,6 @@ This is the selected video walkthrough lab. The YouTube video ID and completed P
 
 Confirm the wired PC receives an address in the expected 192.168.0.x range, can ping `cisco.pka`, and the wireless laptop can browse to the site.
 
-
-
 ---
 ---
 ---
