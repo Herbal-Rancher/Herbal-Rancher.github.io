@@ -55,8 +55,8 @@ permalink: /network-portfolio/videos/12-09-packet-tracer-connect-physical-layer/
 
 status: complete
 
-lab_pdf: "/assets/pdfs/Module-12-Lab-09-Packet-Tracer-Connect-Physical-Layer.pdf"
-completed_lab: "/assets/pdfs/Module-12-Lab-09-Packet-Tracer-Connect-Physical-Layer.pdf"
+lab_pdf: "/assets/pdfs/module-12-lab-09-Packet-Tracer-Connect-Physical-Layer.pdf"
+completed_lab: "/assets/pdfs/module-12-lab-09-Packet-Tracer-Connect-Physical-Layer.pdf"
 
 
 video_id: "sEr5wx3x8iI"

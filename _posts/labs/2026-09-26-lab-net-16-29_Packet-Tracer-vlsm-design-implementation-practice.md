@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 29| Cisco Networking Labs - VLSM Design and Implementation Practice"
+title: "Lab 29 | Cisco Networking Labs - VLSM Design and Implementation Practice"
 lab_title: "VLSM Design and Implementation Practice"
 
 lesson: "16.0"
@@ -47,8 +47,8 @@ video_id: "YU5oTqP6WU8"
 video_url: "https://youtu.be/YU5oTqP6WU8"
 thumbnail: "https://img.youtube.com/vi/YU5oTqP6WU8/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-16-Lab-29-Packet-Tracer-VLSM-VLSM-Design-Implementation.pdf"
-lab_pdf: "/assets/pdfs/Module-16-Lab-29-Packet-Tracer-VLSM-VLSM-Design-Implementation.pdf"
+completed_lab: "/assets/pdfs/module-16-lab-29-Packet-Tracer-VLSM-VLSM-Design-Implementation.pdf"
+lab_pdf: "/assets/pdfs/module-16-lab-29-Packet-Tracer-VLSM-VLSM-Design-Implementation.pdf"
 permalink: /network-portfolio/videos/16-29-vlsm-design-implementation-practice/
 diagram: ""
 

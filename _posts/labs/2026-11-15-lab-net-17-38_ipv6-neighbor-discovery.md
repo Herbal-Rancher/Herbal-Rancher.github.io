@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 38| Cisco Networking Labs - IPv6 Neighbor Discovery"
+title: "Lab 38 | Cisco Networking Labs - IPv6 Neighbor Discovery"
 lab_title: "IPv6 Neighbor Discovery"
 
 lesson: "17.0"
@@ -49,8 +49,8 @@ video_id: ""
 video_url: ""
 thumbnail: ""
 
-completed_lab: "/assets/pdfs/Module-17-Lab-38-Packet-Tracer-IPV6-Neighgor-Discovery.pdf"
-lab_pdf: "/assets/pdfs/Module-17-Lab-38-Packet-Tracer-IPV6-Neighgor-Discovery.pdf"
+completed_lab: "/assets/pdfs/module-17-lab-38-Packet-Tracer-IPV6-Neighgor-Discovery.pdf"
+lab_pdf: "/assets/pdfs/module-17-lab-38-Packet-Tracer-IPV6-Neighgor-Discovery.pdf"
 permalink: /network-portfolio/videos/17-38-ipv6-neighbor-discovery/
 diagram: ""
 ---
@@ -65,7 +65,7 @@ Use Packet Tracer Simulation Mode to investigate how IPv6 Neighbor Discovery res
 
 ## Preconditions
 
-![Packet Tracer Lab 38 - IPv6 Neighbor Discovery - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-Lab-38.png)
+![Packet Tracer Lab 38 - IPv6 Neighbor Discovery - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-38.png)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 33| Cisco Networking Labs - Connect to a Web Server"
+title: "Lab 33 | Cisco Networking Labs - Connect to a Web Server"
 lab_title: "Connect to a Web Server"
 
 lesson: "17.0"
@@ -48,8 +48,8 @@ video_id: ""
 video_url: ""
 thumbnail: ""
 
-completed_lab: "/assets/pdfs/Module-17-Lab-33-Packet-Tracer-Connect-to-Web-Server.pdf"
-lab_pdf: "/assets/pdfs/Module-17-Lab-33-Packet-Tracer-Connect-to-Web-Server.pdf"
+completed_lab: "/assets/pdfs/module-17-lab-33-Packet-Tracer-Connect-to-Web-Server.pdf"
+lab_pdf: "/assets/pdfs/module-17-lab-33-Packet-Tracer-Connect-to-Web-Server.pdf"
 permalink: /network-portfolio/videos/17-33-connect-to-a-web-server/
 diagram: ""
 ---
@@ -64,7 +64,7 @@ Verify that a Packet Tracer client can reach a web server at `172.33.100.50`, th
 
 ## Preconditions
 
-![Packet Tracer Lab 33 - Connect to a Web Server - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-Lab-33.png)
+![Packet Tracer Lab 33 - Connect to a Web Server - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-33.png)
 
 ---
 

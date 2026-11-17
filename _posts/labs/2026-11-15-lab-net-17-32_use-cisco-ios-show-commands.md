@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 32| Cisco Networking Labs - Use the Cisco IOS Show Commands"
+title: "Lab 32 | Cisco Networking Labs - Use the Cisco IOS Show Commands"
 lab_title: "Use the Cisco IOS Show Commands"
 
 lesson: "17.0"
@@ -46,8 +46,8 @@ video_id: ""
 video_url: ""
 thumbnail: ""
 
-completed_lab: "/assets/pdfs/Module-17-Lab-32-Packet-Tracer-Use-Cisco-IOS-Show-Commands.pdf"
-lab_pdf: "/assets/pdfs/Module-17-Lab-32-Packet-Tracer-Use-Cisco-IOS-Show-Commands.pdf"
+completed_lab: "/assets/pdfs/module-17-lab-32-Packet-Tracer-Use-Cisco-IOS-Show-Commands.pdf"
+lab_pdf: "/assets/pdfs/module-17-lab-32-Packet-Tracer-Use-Cisco-IOS-Show-Commands.pdf"
 permalink: /network-portfolio/videos/17-32-use-cisco-ios-show-commands/
 diagram: ""
 ---
@@ -62,7 +62,7 @@ Explore the operational information available from a Cisco 4321 router at an ISP
 
 ## Preconditions
 
-![Packet Tracer Lab 32 - Use Cisco IOS Show Commands - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-Lab-32.png)
+![Packet Tracer Lab 32 - Use Cisco IOS Show Commands - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-32.png)
 
 ---
 

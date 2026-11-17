@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 34| Cisco Networking Labs - Use FTP Services"
+title: "Lab 34 | Cisco Networking Labs - Use FTP Services"
 lab_title: "Use FTP Services"
 
 lesson: "17.0"
@@ -48,8 +48,8 @@ video_id: ""
 video_url: ""
 thumbnail: ""
 
-completed_lab: "/assets/pdfs/Module-17-Lab-34-Packet-Tracer-Use-FTP-Server.pdf"
-lab_pdf: "/assets/pdfs/Module-17-Lab-34-Packet-Tracer-Use-FTP-Server.pdf"
+completed_lab: "/assets/pdfs/module-17-lab-34-Packet-Tracer-Use-FTP-Server.pdf"
+lab_pdf: "/assets/pdfs/module-17-lab-34-Packet-Tracer-Use-FTP-Server.pdf"
 permalink: /network-portfolio/videos/17-34-use-ftp-services/
 diagram: ""
 ---
@@ -64,7 +64,7 @@ Practice client–server file transfer using Packet Tracer FTP services. Connect
 
 ## Preconditions
 
-![Packet Tracer Lab 34 - Use FTP Services - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-Lab-34.png)
+![Packet Tracer Lab 34 - Use FTP Services - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-34.png)
 
 ---
 

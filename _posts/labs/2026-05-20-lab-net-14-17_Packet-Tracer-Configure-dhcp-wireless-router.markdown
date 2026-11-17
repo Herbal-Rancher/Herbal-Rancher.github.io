@@ -58,8 +58,8 @@ protocols:
 permalink: /network-portfolio/videos/14-17-configure-dhcp-wireless-router/
 
 status: complete
-completed_lab: "/assets/pdfs/Module-14-Lab-17-Packet-Tracer-Configure-DHCP-on-wireless-router.pdf"
-lab_pdf: "/assets/pdfs/Module-14-Lab-17-Packet-Tracer-Configure-DHCP-on-wireless-router.pdf"
+completed_lab: "/assets/pdfs/module-14-lab-17-Packet-Tracer-Configure-DHCP-on-wireless-router.pdf"
+lab_pdf: "/assets/pdfs/module-14-lab-17-Packet-Tracer-Configure-DHCP-on-wireless-router.pdf"
 
 video_id: "DqZmekPmB08"
 video_url: "https://youtu.be/DqZmekPmB08"

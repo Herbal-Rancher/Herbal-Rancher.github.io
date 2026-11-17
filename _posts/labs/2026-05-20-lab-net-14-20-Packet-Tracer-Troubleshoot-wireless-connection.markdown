@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 20| Cisco Networking Labs - Troubleshoot a Wireless Connection"
+title: "Lab 20 | Cisco Networking Labs - Troubleshoot a Wireless Connection"
 lab_title: "Troubleshoot a Wireless Connection"
 
 lesson: "14.0"
@@ -57,8 +57,8 @@ video_id: "uFT-jPKaABY"
 video_url: "https://youtu.be/uFT-jPKaABY"
 thumbnail: "https://img.youtube.com/vi/uFT-jPKaABY/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-14-Lab-20-Packet-Tracer-Packet-Troubleshoot-wireless-connection.pdf"
-lab_pdf: "/assets/pdfs/Module-14-Lab-20-Packet-Tracer-Packet-Troubleshoot-wireless-connection.pdf"
+completed_lab: "/assets/pdfs/module-14-lab-20-Packet-Tracer-Packet-Troubleshoot-wireless-connection.pdf"
+lab_pdf: "/assets/pdfs/module-14-lab-20-Packet-Tracer-Packet-Troubleshoot-wireless-connection.pdf"
 permalink: /network-portfolio/videos/14-20-troubleshoot-wireless-connection/
 
 ## diagram: ""

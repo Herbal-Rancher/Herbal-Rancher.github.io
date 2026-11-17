@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 18| Cisco Networking Labs - Configure Basic Wireless Security"
+title: "Lab 18 | Cisco Networking Labs - Configure Basic Wireless Security"
 lab_title: "Configure Basic Wireless Security"
 
 lesson: "14.0"
@@ -55,8 +55,8 @@ video_url: "https://youtu.be/UUtZbu1gTKk"
 thumbnail: "https://img.youtube.com/vi/UUtZbu1gTKk/hqdefault.jpg"
 
 
-lab_pdf: "/assets/pdfs/Module-14-Lab-18-Packet-Tracer-Configure-basic-wireless-security.pdf"
-completed_lab: "/assets/pdfs/Module-14-Lab-18-Packet-Tracer-Configure-basic-wireless-security.pdf"
+lab_pdf: "/assets/pdfs/module-14-lab-18-Packet-Tracer-Configure-basic-wireless-security.pdf"
+completed_lab: "/assets/pdfs/module-14-lab-18-Packet-Tracer-Configure-basic-wireless-security.pdf"
 
 ---
 

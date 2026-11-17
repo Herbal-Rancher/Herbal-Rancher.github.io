@@ -59,8 +59,8 @@ protocols:
 permalink: /network-portfolio/videos/13-14-investigate-tcp-ip-and-osi-models/
 
 status: complete
-lab_pdf: "/assets/pdfs/Module-13-Lab-14-Packet-Tracer-Investigate-TCP-IP-and-OSI-Models-in-Action.pdf"
-completed_lab: "/assets/pdfs/Module-13-Lab-14-Packet-Tracer-Investigate-TCP-IP-and-OSI-Models-in-Action.pdf"
+lab_pdf: "/assets/pdfs/module-13-lab-14-Packet-Tracer-Investigate-TCP-IP-and-OSI-Models-in-Action.pdf"
+completed_lab: "/assets/pdfs/module-13-lab-14-Packet-Tracer-Investigate-TCP-IP-and-OSI-Models-in-Action.pdf"
 
 video_id: "Z-o1A97If-c"
 video_url: "https://youtu.be/Z-o1A97If-c"

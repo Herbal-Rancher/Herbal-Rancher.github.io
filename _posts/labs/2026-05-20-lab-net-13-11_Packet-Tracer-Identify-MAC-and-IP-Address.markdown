@@ -60,8 +60,8 @@ video_id: "zwGWxiwK79o"
 video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
 thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
 
-lab_pdf: "/assets/pdfs/Module-13-Lab-11-Packet-Tracer-Identify-MAC-and-IP-Addresses.pdf"
-completed_lab: "/assets/pdfs/Module-13-Lab-11-Packet-Tracer-Identify-MAC-and-IP-Addresses.pdf"
+lab_pdf: "/assets/pdfs/module-13-lab-11-Packet-Tracer-Identify-MAC-and-IP-Addresses.pdf"
+completed_lab: "/assets/pdfs/module-13-lab-11-Packet-Tracer-Identify-MAC-and-IP-Addresses.pdf"
 
 ---
 

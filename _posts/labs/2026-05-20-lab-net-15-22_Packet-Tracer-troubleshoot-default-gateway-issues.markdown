@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 22| Cisco Networking Labs - Troubleshoot Default Gateway Issues"
+title: "Lab 22 | Cisco Networking Labs - Troubleshoot Default Gateway Issues"
 lab_title: "Troubleshoot Default Gateway Issues"
 
 lesson: "15.0"
@@ -57,8 +57,8 @@ video_id: "1alD0MqPZrw"
 video_url: "https://youtu.be/1alD0MqPZrw"
 thumbnail: "https://img.youtube.com/vi/1alD0MqPZrw/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-15-Lab-22-Packet-Tracer-Troubleshoot-Default-Gateway-2.pdf"
-lab_pdf: "/assets/pdfs/Module-15-Lab-22-Packet-Tracer-Troubleshoot-Default-Gateway-2.pdf"
+completed_lab: "/assets/pdfs/module-15-lab-22-Packet-Tracer-Troubleshoot-Default-Gateway-2.pdf"
+lab_pdf: "/assets/pdfs/module-15-lab-22-Packet-Tracer-Troubleshoot-Default-Gateway-2.pdf"
 
 permalink: /network-portfolio/videos/15-22-troubleshoot-default-gateway-issues/
 
@@ -79,7 +79,7 @@ communication between devices on different networks.
 
 ## Preconditions
 
-![Packet Tracer Lab 22 - Troubleshoot Default Gateway Issues - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-Lab-22.png)
+![Packet Tracer Lab 22 - Troubleshoot Default Gateway Issues - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-22.png)
 
 ---
 

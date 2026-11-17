@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 27| Cisco Networking Labs - Subnetting Scenario"
+title: "Lab 27 | Cisco Networking Labs - Subnetting Scenario"
 lab_title: "Subnetting Scenario"
 
 lesson: "16.0"
@@ -53,8 +53,8 @@ protocols:
 status: complete
 
 
-completed_lab: "/assets/pdfs/Module-16-Lab-27-Packet-Tracer-Subnetting-Scenario.pdf"
-lab_pdf: "/assets/pdfs/Module-16-Lab-27-Packet-Tracer-Subnetting-Scenario.pdf"
+completed_lab: "/assets/pdfs/module-16-lab-27-Packet-Tracer-Subnetting-Scenario.pdf"
+lab_pdf: "/assets/pdfs/module-16-lab-27-Packet-Tracer-Subnetting-Scenario.pdf"
 
 permalink: /network-portfolio/videos/16-27-subnetting-scenario/
 diagram: ""

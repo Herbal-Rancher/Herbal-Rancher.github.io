@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Lab 19| Cisco Networking Labs - Examine NAT on a Wireless Router"
+title: "Lab 19 | Cisco Networking Labs - Examine NAT on a Wireless Router"
 lab_title: "Examine NAT on a Wireless Router"
 
 lesson: "14.0"
@@ -60,8 +60,8 @@ video_id: "PanXfGnEwQw"
 video_url: "https://youtu.be/PanXfGnEwQw"
 thumbnail: "https://img.youtube.com/vi/PanXfGnEwQw/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-14-Lab-19-Packet-Tracer-Examine-NAT-on-wireless-router.pdf"
-lab_pdf: "/assets/pdfs/Module-14-Lab-19-Packet-Tracer-Examine-NAT-on-wireless-router.pdf"
+completed_lab: "/assets/pdfs/module-14-lab-19-Packet-Tracer-Examine-NAT-on-wireless-router.pdf"
+lab_pdf: "/assets/pdfs/module-14-lab-19-Packet-Tracer-Examine-NAT-on-wireless-router.pdf"
 
 diagram: ""
 ---

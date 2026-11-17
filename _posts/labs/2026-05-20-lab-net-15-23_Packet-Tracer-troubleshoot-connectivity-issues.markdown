@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 23| Cisco Networking Labs - Troubleshoot Connectivity Issues"
+title: "Lab 23 | Cisco Networking Labs - Troubleshoot Connectivity Issues"
 lab_title: "Troubleshoot Connectivity Issues"
 
 lesson: "15.0"
@@ -63,8 +63,8 @@ video_id: "rt-x8Yx-WhE"
 video_url: "https://youtu.be/rt-x8Yx-WhE"
 thumbnail: "https://img.youtube.com/vi/rt-x8Yx-WhE/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-15-Lab-23-Packet-Tracer-Troubleshoot-Connectivity-Issues.pdf"
-lab_pdf: "/assets/pdfs/Module-15-Lab-23-Packet-Tracer-Troubleshoot-Connectivity-Issues.pdf"
+completed_lab: "/assets/pdfs/module-15-lab-23-Packet-Tracer-Troubleshoot-Connectivity-Issues.pdf"
+lab_pdf: "/assets/pdfs/module-15-lab-23-Packet-Tracer-Troubleshoot-Connectivity-Issues.pdf"
 
 permalink: /network-portfolio/videos/15-23-troubleshoot-connectivity-issues/
 

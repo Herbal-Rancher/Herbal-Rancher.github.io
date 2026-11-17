@@ -55,8 +55,8 @@ protocols:
 permalink: /network-portfolio/videos/13-15-subnet-an-ipv4-network/
 
 status: complete
-lab_pdf: "/assets/pdfs/Module-13-Lab-15-Packet-Tracer-Subnet-an-IPv4-Network.pdf"
-completed_lab: "/assets/pdfs/Module-13-Lab-15-Packet-Tracer-Subnet-an-IPv4-Network.pdf"
+lab_pdf: "/assets/pdfs/module-13-lab-15-Packet-Tracer-Subnet-an-IPv4-Network.pdf"
+completed_lab: "/assets/pdfs/module-13-lab-15-Packet-Tracer-Subnet-an-IPv4-Network.pdf"
 
 video_id: "3kxE33LNbIc"
 video_url: "https://youtu.be/3kxE33LNbIc"

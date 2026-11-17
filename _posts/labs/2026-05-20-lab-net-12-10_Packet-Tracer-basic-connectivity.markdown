@@ -52,15 +52,15 @@ permalink: /network-portfolio/videos/12-10-packet-tracer-basic-connectivity/
 
 status: complete
 
-lab_pdf: "/assets/pdfs/Module-12-Lab-10-Packet-Tracer-Implement-Basic-Connectivity.pdf"
-completed_lab: "/assets/pdfs/Module-12-Lab-10-Packet-Tracer-Implement-Basic-Connectivity.pdf"
+lab_pdf: "/assets/pdfs/module-12-lab-10-Packet-Tracer-Implement-Basic-Connectivity.pdf"
+completed_lab: "/assets/pdfs/module-12-lab-10-Packet-Tracer-Implement-Basic-Connectivity.pdf"
 
 video_id: "R7AALJA9fCU"
 video_url: "https://youtu.be/R7AALJA9fCU"
 thumbnail: "https://img.youtube.com/vi/R7AALJA9fCU/hqdefault.jpg"
 
-lab_pdf: "/assets/pdfs/Module-12-Lab-10-Packet-Tracer-Basic-Connectivity.pdf"
-completed_lab: "/assets/pdfs/Module-12-Lab-10-Packet-Tracer-Basic-Connectivity.pdf"
+lab_pdf: "/assets/pdfs/module-12-lab-10-Packet-Tracer-Basic-Connectivity.pdf"
+completed_lab: "/assets/pdfs/module-12-lab-10-Packet-Tracer-Basic-Connectivity.pdf"
 
 ---
 

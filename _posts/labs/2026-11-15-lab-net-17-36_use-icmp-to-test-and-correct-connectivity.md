@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 36| Cisco Networking Labs - Use ICMP to Test and Correct Network Connectivity"
+title: "Lab 36 | Cisco Networking Labs - Use ICMP to Test and Correct Network Connectivity"
 lab_title: "Use ICMP to Test and Correct Network Connectivity"
 
 lesson: "17.0"
@@ -50,8 +50,8 @@ video_id: ""
 video_url: ""
 thumbnail: ""
 
-completed_lab: "/assets/pdfs/Module-17-Lab-36-Packet-Tracer-Use-ICMP-to-Test-Connectivity.pdf"
-lab_pdf: "/assets/pdfs/Module-17-Lab-36-Packet-Tracer-Use-ICMP-to-Test-Connectivity.pdf"
+completed_lab: "/assets/pdfs/module-17-lab-36-Packet-Tracer-Use-ICMP-to-Test-Connectivity.pdf"
+lab_pdf: "/assets/pdfs/module-17-lab-36-Packet-Tracer-Use-ICMP-to-Test-Connectivity.pdf"
 permalink: /network-portfolio/videos/17-36-use-icmp-to-test-and-correct-connectivity/
 diagram: ""
 ---
@@ -66,7 +66,7 @@ Investigate a multi-router network in which users cannot reach some resources. U
 
 ## Preconditions
 
-![Packet Tracer Lab 36 - Use ICMP to Test and Correct Connectivity - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-Lab-36.png)
+![Packet Tracer Lab 36 - Use ICMP to Test and Correct Connectivity - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-36.png)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 35| Cisco Networking Labs - Use Telnet and SSH"
+title: "Lab 35 | Cisco Networking Labs - Use Telnet and SSH"
 lab_title: "Use Telnet and SSH"
 
 lesson: "17.0"
@@ -50,8 +50,8 @@ video_id: ""
 video_url: ""
 thumbnail: ""
 
-completed_lab: "/assets/pdfs/Module-17-Lab-35-Packet-Tracer-Use-Telnet-SSH.pdf"
-lab_pdf: "/assets/pdfs/Module-17-Lab-35-Packet-Tracer-Use-Telnet-SSH.pdf"
+completed_lab: "/assets/pdfs/module-17-lab-35-Packet-Tracer-Use-Telnet-SSH.pdf"
+lab_pdf: "/assets/pdfs/module-17-lab-35-Packet-Tracer-Use-Telnet-SSH.pdf"
 permalink: /network-portfolio/videos/17-35-use-telnet-and-ssh/
 diagram: ""
 ---
@@ -66,7 +66,7 @@ Verify DHCP addressing and connectivity to router HQ at `64.100.1.1`, then compa
 
 ## Preconditions
 
-![Packet Tracer Lab 35 - Use Telnet and SSH - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-Lab-35.png)
+![Packet Tracer Lab 35 - Use Telnet and SSH - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-35.png)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 37| Cisco Networking Labs - Use Ping and Traceroute to Test Network Connectivity"
+title: "Lab 37 | Cisco Networking Labs - Use Ping and Traceroute to Test Network Connectivity"
 lab_title: "Use Ping and Traceroute to Test Network Connectivity"
 
 lesson: "17.0"
@@ -52,8 +52,8 @@ video_id: ""
 video_url: ""
 thumbnail: ""
 
-completed_lab: "/assets/pdfs/Module-17-Lab-37-Packet-Tracer-Use-Ping-Traceroute.pdf"
-lab_pdf: "/assets/pdfs/Module-17-Lab-37-Packet-Tracer-Use-Ping-Traceroute.pdf"
+completed_lab: "/assets/pdfs/module-17-lab-37-Packet-Tracer-Use-Ping-Traceroute.pdf"
+lab_pdf: "/assets/pdfs/module-17-lab-37-Packet-Tracer-Use-Ping-Traceroute.pdf"
 permalink: /network-portfolio/videos/17-37-use-ping-and-traceroute-to-test-connectivity/
 diagram: ""
 ---
@@ -68,7 +68,7 @@ Diagnose connectivity problems across a three-router topology serving IPv4 and I
 
 ## Preconditions
 
-![Packet Tracer Lab 37 - Use Ping and Traceroute to Test Connectivity - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-Lab-37.png)
+![Packet Tracer Lab 37 - Use Ping and Traceroute to Test Connectivity - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-37.png)
 
 ---
 

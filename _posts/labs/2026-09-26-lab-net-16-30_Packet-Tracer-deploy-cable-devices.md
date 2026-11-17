@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 30| Cisco Networking Labs - Deploy and Cable Devices"
+title: "Lab 30 | Cisco Networking Labs - Deploy and Cable Devices"
 lab_title: "Deploy and Cable Devices"
 
 lesson: "16.0"
@@ -42,8 +42,8 @@ video_id: "QbgfxcQNXNQ"
 video_url: "https://youtu.be/QbgfxcQNXNQ"
 thumbnail: "https://img.youtube.com/vi/QbgfxcQNXNQ/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-16-Lab-30-Packet-Tracer-Deployment-Cable-Devices.pdf"
-lab_pdf: "/assets/pdfs/Module-16-Lab-30-Packet-Tracer-Deployment-Cable-Devices.pdf"
+completed_lab: "/assets/pdfs/module-16-lab-30-Packet-Tracer-Deployment-Cable-Devices.pdf"
+lab_pdf: "/assets/pdfs/module-16-lab-30-Packet-Tracer-Deployment-Cable-Devices.pdf"
 permalink: /network-portfolio/videos/16-30-deploy-cable-devices/
 diagram: ""
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 24| Cisco Networking Labs - Compare In-Band and Out-of-Band Management Access"
+title: "Lab 24 | Cisco Networking Labs - Compare In-Band and Out-of-Band Management Access"
 lab_title: "Compare In-Band and Out-of-Band Management Access"
 
 lesson: "15.0"
@@ -60,8 +60,8 @@ video_id: "aReJQesj-tc"
 video_url: "https://youtu.be/aReJQesj-tc"
 thumbnail: "https://img.youtube.com/vi/aReJQesj-tc/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-15-Lab-24-Packet-Tracer-InBand-OutOfBand-Access.pdf"
-lab_pdf: "/assets/pdfs/Module-15-Lab-24-Packet-Tracer-InBand-OutOfBand-Access.pdf"
+completed_lab: "/assets/pdfs/module-15-lab-24-Packet-Tracer-InBand-OutOfBand-Access.pdf"
+lab_pdf: "/assets/pdfs/module-15-lab-24-Packet-Tracer-InBand-OutOfBand-Access.pdf"
 
 permalink: /network-portfolio/videos/15-24-in-band-out-of-band-management-access/
 
@@ -82,7 +82,7 @@ cases of each management method.
 
 ## Preconditions
 
-![Packet Tracer Lab 24 - Compare In-Band and Out-of-Band Management Access - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-Lab-24.png)
+![Packet Tracer Lab 24 - Compare In-Band and Out-of-Band Management Access - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-24.png)
 
 ---
 

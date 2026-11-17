@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 31| Cisco Networking Labs - Implement a Subnetted IPv6 Addressing Scheme"
+title: "Lab 31 | Cisco Networking Labs - Implement a Subnetted IPv6 Addressing Scheme"
 lab_title: "Implement a Subnetted IPv6 Addressing Scheme"
 
 lesson: "16.0"
@@ -47,8 +47,8 @@ video_id: "aPUFV-TOk5g"
 video_url: "https://youtu.be/aPUFV-TOk5g"
 thumbnail: "https://img.youtube.com/vi/aPUFV-TOk5g/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-16-Lab-31-Packet-Tracer-IPv6-Subnet-Addressing.pdf"
-lab_pdf: "/assets/pdfs/Module-16-Lab-31-Packet-Tracer-IPv6-Subnet-Addressing.pdf"
+completed_lab: "/assets/pdfs/module-16-lab-31-Packet-Tracer-IPv6-Subnet-Addressing.pdf"
+lab_pdf: "/assets/pdfs/module-16-lab-31-Packet-Tracer-IPv6-Subnet-Addressing.pdf"
 permalink: /network-portfolio/videos/16-31-implement-subnetted-ipv6-addressing-scheme/
 diagram: ""
 ---

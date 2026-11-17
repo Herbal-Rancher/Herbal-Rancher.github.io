@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 28| Cisco Networking Labs - Design and Implement a VLSM Addressing Scheme"
+title: "Lab 28 | Cisco Networking Labs - Design and Implement a VLSM Addressing Scheme"
 lab_title: "Design and Implement a VLSM Addressing Scheme"
 
 lesson: "16.0"
@@ -49,8 +49,8 @@ video_id: "tCpZJNax32Q"
 video_url: "https://youtu.be/tCpZJNax32Q?si=tz9FFk47GHzysg1j"
 thumbnail: "https://img.youtube.com/vi/tCpZJNax32Q/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-16-Lab-28-Packet-Tracer-VLSM-Addressing-Scheme.pdf"
-lab_pdf: "/assets/pdfs/Module-16-Lab-28-Packet-Tracer-VLSM-Addressing-Scheme.pdf"
+completed_lab: "/assets/pdfs/module-16-lab-28-Packet-Tracer-VLSM-Addressing-Scheme.pdf"
+lab_pdf: "/assets/pdfs/module-16-lab-28-Packet-Tracer-VLSM-Addressing-Scheme.pdf"
 
 permalink: /network-portfolio/videos/16-28-design-implement-vlsm-addressing-scheme/
 diagram: ""

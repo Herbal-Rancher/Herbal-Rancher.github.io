@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 25| Cisco Networking Labs - Use the Ping Command"
+title: "Lab 25 | Cisco Networking Labs - Use the Ping Command"
 lab_title: "Use the Ping Command"
 
 lesson: "15.0"
@@ -59,8 +59,8 @@ video_id: "oPajaGOHSqA"
 video_url: "https://youtu.be/oPajaGOHSqA"
 thumbnail: "https://img.youtube.com/vi/oPajaGOHSqA/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-15-Lab-25-Packet-Tracer-Use-Ping-Command.pdf"
-lab_pdf: "/assets/pdfs/Module-15-Lab-25-Packet-Tracer-Use-Ping-Command.pdf"
+completed_lab: "/assets/pdfs/module-15-lab-25-Packet-Tracer-Use-Ping-Command.pdf"
+lab_pdf: "/assets/pdfs/module-15-lab-25-Packet-Tracer-Use-Ping-Command.pdf"
 
 permalink: /network-portfolio/videos/15-25-use-ping-command/
 
@@ -81,7 +81,7 @@ configuration, and verified restored access to the web server.
 
 ## Preconditions
 
-![Packet Tracer Lab 25 - Use the Ping Command - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-Lab-25.png)
+![Packet Tracer Lab 25 - Use the Ping Command - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-25.png)
 
 ---
 

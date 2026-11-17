@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 26| Cisco Networking Labs - Network Representation"
+title: "Lab 26 | Cisco Networking Labs - Network Representation"
 lab_title: "Network Representation"
 
 lesson: "16.0"
@@ -38,8 +38,8 @@ tools:
 
 status: complete
 
-completed_lab: "/assets/pdfs/Module-16-Lab-26-Packet-Tracer-Network-Representation.pdf"
-lab_pdf: "/assets/pdfs/Module-16-Lab-26-Packet-Tracer-Network-Representation.pdf"
+completed_lab: "/assets/pdfs/module-16-lab-26-Packet-Tracer-Network-Representation.pdf"
+lab_pdf: "/assets/pdfs/module-16-lab-26-Packet-Tracer-Network-Representation.pdf"
 permalink: /network-portfolio/videos/16-26-network-representation/
 diagram: ""
 ---

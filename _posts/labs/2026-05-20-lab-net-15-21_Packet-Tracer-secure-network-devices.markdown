@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Lab 21| Cisco Networking Labs - Secure Network Devices"
+title: "Lab 21 | Cisco Networking Labs - Secure Network Devices"
 lab_title: "Secure Network Devices"
 
 lesson: "15.0"
@@ -63,8 +63,8 @@ video_id: "lmbg0J23ZPM"
 video_url: "https://youtu.be/lmbg0J23ZPM"
 thumbnail: "https://img.youtube.com/vi/lmbg0J23ZPM/hqdefault.jpg"
 
-completed_lab: "/assets/pdfs/Module-15-Lab-21-Packet-Tracer-Secure-Network-Devices.pdf"
-lab_pdf: "/assets/pdfs/Module-15-Lab-21-Packet-Tracer-Secure-Network-Devices.pdf"
+completed_lab: "/assets/pdfs/module-15-lab-21-Packet-Tracer-Secure-Network-Devices.pdf"
+lab_pdf: "/assets/pdfs/module-15-lab-21-Packet-Tracer-Secure-Network-Devices.pdf"
 
 permalink: /network-portfolio/videos/15-21-secure-network-devices/
 
@@ -79,7 +79,7 @@ This Packet Tracer lab focuses on securing Cisco router and switch management wh
 
 ## Preconditions
 
-![Packet Tracer Lab 21 - Secure Network Devices - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-Lab-21.png)
+![Packet Tracer Lab 21 - Secure Network Devices - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-21.png)
 
 ---
 

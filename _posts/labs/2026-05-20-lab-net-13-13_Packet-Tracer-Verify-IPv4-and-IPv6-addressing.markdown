@@ -56,8 +56,8 @@ protocols:
 permalink: /network-portfolio/videos/13-13-verify-ipv4-and-ipv6-addressing/
 
 status: complete
-lab_pdf: "/assets/pdfs/Module-13-Lab-13-Packet-Tracer-verify-ipv4-and-ipv6.pdf"
-completed_lab: "/assets/pdfs/Module-13-Lab-13-Packet-Tracer-verify-ipv4-and-ipv6.pdf"
+lab_pdf: "/assets/pdfs/module-13-lab-13-Packet-Tracer-verify-ipv4-and-ipv6.pdf"
+completed_lab: "/assets/pdfs/module-13-lab-13-Packet-Tracer-verify-ipv4-and-ipv6.pdf"
 
 video_id: "iHj4itioKkw"
 video_url: "https://youtu.be/iHj4itioKkw"
