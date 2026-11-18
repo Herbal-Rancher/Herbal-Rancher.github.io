@@ -66,7 +66,7 @@ Investigate a multi-router network in which users cannot reach some resources. U
 
 ## Preconditions
 
-![Packet Tracer Lab 36 - Use ICMP to Test and Correct Connectivity - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-36.png)
+![Packet Tracer Lab 36 - Use ICMP to Test and Correct Connectivity - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-Module-17-Lab-36.png)
 
 ---
 

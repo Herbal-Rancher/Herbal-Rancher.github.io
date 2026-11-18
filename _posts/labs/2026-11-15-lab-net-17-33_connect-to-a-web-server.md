@@ -64,7 +64,7 @@ Verify that a Packet Tracer client can reach a web server at `172.33.100.50`, th
 
 ## Preconditions
 
-![Packet Tracer Lab 33 - Connect to a Web Server - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-33.png)
+![Packet Tracer Lab 33 - Connect to a Web Server - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-Module-17-Lab-33.png)
 
 ---
 

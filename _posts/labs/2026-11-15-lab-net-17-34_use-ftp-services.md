@@ -64,7 +64,7 @@ Practice client–server file transfer using Packet Tracer FTP services. Connect
 
 ## Preconditions
 
-![Packet Tracer Lab 34 - Use FTP Services - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-34.png)
+![Packet Tracer Lab 34 - Use FTP Services - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-Module-17-Lab-34.png)
 
 ---
 

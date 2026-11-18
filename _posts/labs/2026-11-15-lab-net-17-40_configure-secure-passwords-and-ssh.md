@@ -9,16 +9,16 @@ sort_order: "174000"
 
 categories:
   - portfolio
-  - labs
+  - videos
 
 category: networking-fundamentals
 category_display: Networking Fundamentals
 
-subcategory: network-security
-subcategory_display: Network Security
+subcategory: network-implementation
+subcategory_display: Network Implementation
 
-content_type: lab
-content_type_display: Lab Documentation
+content_type: video
+content_type_display: Video
 
 tags:
   - packet-tracer
@@ -64,7 +64,7 @@ Prepare a Cisco router and switch for secure management in a Packet Tracer deplo
 
 ## Preconditions
 
-![Packet Tracer Lab 40 - Configure Secure Passwords and SSH - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-40.png)
+![Packet Tracer Lab 40 - Configure Secure Passwords and SSH - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-Module-17-Lab-40.png)
 
 ---
 

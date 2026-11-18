@@ -68,7 +68,7 @@ Diagnose connectivity problems across a three-router topology serving IPv4 and I
 
 ## Preconditions
 
-![Packet Tracer Lab 37 - Use Ping and Traceroute to Test Connectivity - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-37.png)
+![Packet Tracer Lab 37 - Use Ping and Traceroute to Test Connectivity - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-Module-17-Lab-37.png)
 
 ---
 

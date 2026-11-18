@@ -62,7 +62,7 @@ Explore the operational information available from a Cisco 4321 router at an ISP
 
 ## Preconditions
 
-![Packet Tracer Lab 32 - Use Cisco IOS Show Commands - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-32.png)
+![Packet Tracer Lab 32 - Use Cisco IOS Show Commands - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-Module-17-Lab-32.png)
 
 ---
 

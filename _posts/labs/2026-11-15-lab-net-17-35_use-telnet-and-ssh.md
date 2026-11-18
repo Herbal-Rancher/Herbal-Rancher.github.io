@@ -66,7 +66,7 @@ Verify DHCP addressing and connectivity to router HQ at `64.100.1.1`, then compa
 
 ## Preconditions
 
-![Packet Tracer Lab 35 - Use Telnet and SSH - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-35.png)
+![Packet Tracer Lab 35 - Use Telnet and SSH - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-Module-17-Lab-35.png)
 
 ---
 
