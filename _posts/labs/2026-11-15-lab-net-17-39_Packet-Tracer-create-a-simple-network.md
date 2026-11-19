@@ -68,7 +68,7 @@ Build a small home-style network in Cisco Packet Tracer with a wired PC, wireles
 
 ## Preconditions
 
-![Packet Tracer Lab 39 - Create a Simple Network - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-Module-17-Lab-39.png)
+![Packet Tracer Lab 39 - Create a Simple Network - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-39.png)
 
 ---
 

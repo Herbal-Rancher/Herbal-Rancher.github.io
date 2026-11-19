@@ -65,7 +65,7 @@ Use Packet Tracer Simulation Mode to investigate how IPv6 Neighbor Discovery res
 
 ## Preconditions
 
-![Packet Tracer Lab 38 - IPv6 Neighbor Discovery - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-Module-17-Lab-38.png)
+![Packet Tracer Lab 38 - IPv6 Neighbor Discovery - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-38.png)
 
 ---
 
