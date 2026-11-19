@@ -64,7 +64,7 @@ Prepare a Cisco router and switch for secure management in a Packet Tracer deplo
 
 ## Preconditions
 
-![Packet Tracer Lab 40 - Configure Secure Passwords and SSH - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-Module-17-Lab-40.png)
+![Packet Tracer Lab 40 - Configure Secure Passwords and SSH - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-17-lab-40.png)
 
 ---
 
