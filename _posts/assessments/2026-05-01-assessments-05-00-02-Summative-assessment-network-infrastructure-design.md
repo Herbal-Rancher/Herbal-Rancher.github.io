@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "5.0 Summative Assessment | New Office Building Network Infrastructure Design Proposal"
+title: "05.0 Summative Assessment | New Office Building Network Infrastructure Design Proposal"
 lab_title: "New Office Building Network Infrastructure Design Proposal"
 
-lesson: "5.0"
+lesson: "05.0"
 lesson_id: "05.00.02"
 sort_order: "050002"
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "1.0 Summative Assessment | Network OSI Model"
+title: "01.0 Summative Assessment | Network OSI Model"
 lab_title: "Network OSI Model"
 
-lesson: "1.0"
+lesson: "01.0"
 lesson_id: "01.00.02"
 sort_order: "010002"
 

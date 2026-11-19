@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "3.0 Milestone Assessment | Network Monitoring, SNMP, Ports, Protocols, and Services"
+title: "03.0 Milestone Assessment | Network Monitoring, SNMP, Ports, Protocols, and Services"
 lab_title: "Network Monitoring, SNMP, Ports, Protocols, and Services"
 
-lesson: "3.0"
+lesson: "03.0"
 lesson_id: "03.00.02"
 sort_order: "030002"
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "3.0 Discussion | Physical Installation Considerations"
+title: "03.0 Discussion | Physical Installation Considerations"
 lab_title: "Physical Installation Considerations"
 
-lesson: "3.0"
+lesson: "03.0"
 lesson_id: "03.00.01"
 sort_order: "030001"
 

@@ -4,8 +4,8 @@ title: "07.0 Summative Assessment | Financial Institution Network Security Imple
 lab_title: "Financial Institution Network Security Implementation Plan"
 
 lesson: "07.0"
-lesson_id: "07.00.02"
-sort_order: "070002"
+lesson_id: "07.00.03"
+sort_order: "070003"
 
 categories: [portfolio, summative, formative]
 
@@ -18,11 +18,6 @@ subcategory_display: Assessments & Discussions
 content_type: assessment-summative
 content_type_display: Assessment Summative
 
-pdf: /assets/pdfs/07-0-Summative-Assessment-Network-Administration-Security-Plan.pdf
-permalink: /network-portfolio/formative-modules/lesson-07-0/summative-financial-institution-network-security-implementation-plan/
-
-status: complete
-
 tags:
   - financial-security
   - security-plan
@@ -30,6 +25,11 @@ tags:
   - phishing
   - malware
   - firewall
+
+pdf: /assets/pdfs/07-0-Summative-Assessment-Network-Administration-Security-Plan.pdf
+permalink: /network-portfolio/formative-modules/lesson-07-0/summative-financial-institution-network-security-implementation-plan/
+
+status: complete
 
 topics:
   - financial-security
@@ -45,6 +45,7 @@ protocols:
 
 tools:
   - Security Monitoring
+
 ---
 
 ## Overview
@@ -66,9 +67,7 @@ A scenario-based security implementation plan for a financial institution facing
 
 ## Supporting Evidence
 
-* **Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
-
-> Upload the PDF to the matching `/assets/pdfs/` path in your GitHub repository to activate the link.
+> * **Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
 
 ---
 

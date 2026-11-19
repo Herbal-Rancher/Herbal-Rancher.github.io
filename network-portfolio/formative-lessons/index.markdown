@@ -29,7 +29,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 
 ---
 
-{% assign it532_lessons = "1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0" | split: "," %}
+{% assign it532_lessons = "01.0,02.0,03.0,04.0,05.0,06.0,07.0,08.0,09.0" | split: "," %}
 {% assign it533_lessons = "10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0" | split: "," %}
 
 <h2 style="border-bottom: 2px solid #f4b400; padding-bottom: .35rem; margin-top: 2.5rem;">
@@ -52,11 +52,12 @@ Modules 01 – 09 focus on foundational networking theory, protocols, models, te
 
 {% if module_posts.size > 0 %}
 <!-- DEBUG WHEN NEEDED
+
 module Post lab_title: {{ module_posts.first.lab_title }}<br>
 module Post 1st Lesson_ID: {{ module_posts.first.lesson_id }}<br>
 module Post 1st Content Type: {{ module_posts.first.content_type_display }}<br>
 module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
--->
+ -->
 
 <div style="margin: 1.5rem 0; padding: 1rem; border: 1px solid #ddd; border-radius: 10px; background: #fafafa;">
 

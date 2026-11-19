@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "4.0 Discussion | Network Addressing Schemes"
+title: "04.0 Discussion | Network Addressing Schemes"
 lab_title: "Network Addressing Schemes"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "04.00.01"
 sort_order: 040001
 
@@ -17,7 +17,6 @@ subcategory_display: Assessments & Discussions
 
 content_type: discussion
 content_type_display: Discussion
-
 
 tags:
 - troubleshooting

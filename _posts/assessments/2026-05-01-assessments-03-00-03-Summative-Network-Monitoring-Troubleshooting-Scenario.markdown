@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "3.0 Summative Assessment | Network Monitoring and Troubleshooting Scenario"
+title: "03.0 Summative Assessment | Network Monitoring and Troubleshooting Scenario"
 lab_title: "Network Monitoring and Troubleshooting Scenario"
 
-lesson: "3.0"
+lesson: "03.0"
 lesson_id: "03.00.02"
 sort_order: "030002"
 

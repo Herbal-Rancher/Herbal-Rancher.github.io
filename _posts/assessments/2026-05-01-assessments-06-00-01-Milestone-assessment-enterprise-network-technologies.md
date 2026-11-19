@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "6.0 Milestone Assessment | Enterprise Network Technologies"
+title: "06.0 Milestone Assessment | Enterprise Network Technologies"
 lab_title: "Enterprise Network Technologies"
 
-lesson: "6.0"
+lesson: "06.0"
 lesson_id: "06.00.01"
 sort_order: "060001"
 
@@ -86,6 +86,7 @@ tools:
   - SFP
   - SFP+
   - QSFP
+
 ---
 
 ## Overview

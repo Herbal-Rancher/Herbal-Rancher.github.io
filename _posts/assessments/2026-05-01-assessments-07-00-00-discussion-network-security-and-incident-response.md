@@ -4,8 +4,8 @@ title: "07.0 Discussion | Network Security and Incident Response"
 lab_title: "Network Security and Incident Response"
 
 lesson: "07.0"
-lesson_id: "07.00.00"
-sort_order: "070000"
+lesson_id: "07.00.01"
+sort_order: 070001
 
 categories: [portfolio, discussion, formative]
 
@@ -48,6 +48,7 @@ protocols:
 
 tools:
   - Nmap
+
 ---
 
 ## Overview

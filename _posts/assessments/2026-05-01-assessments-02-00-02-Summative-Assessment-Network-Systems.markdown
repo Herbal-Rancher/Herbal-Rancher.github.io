@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "2.0 Summative Assessment | Network Systems"
+title: "02.0 Summative Assessment | Network Systems"
 lab_title: "Network Systems"
 
-lesson: "2.0"
+lesson: "02.0"
 lesson_id: "02.00.02"
 sort_order: "020002"
 

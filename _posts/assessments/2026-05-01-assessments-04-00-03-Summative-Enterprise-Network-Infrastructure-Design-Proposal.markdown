@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "4.0 Summative Assessment | Enterprise Network Infrastructure Design Proposal"
+title: "04.0 Summative Assessment | Enterprise Network Infrastructure Design Proposal"
 lab_title: "Enterprise Network Infrastructure Design Proposal"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "04.00.03"
 sort_order: "040003"
 

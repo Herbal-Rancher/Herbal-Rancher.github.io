@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "4.0 Milestone Assessment | Network Troubleshooting Incident Investigation Report"
+title: "0004.0 Milestone Assessment | Network Troubleshooting Incident Investigation Report"
 lab_title: "Network Troubleshooting Incident Investigation Report"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "04.00.02"
 sort_order: "040002"
 

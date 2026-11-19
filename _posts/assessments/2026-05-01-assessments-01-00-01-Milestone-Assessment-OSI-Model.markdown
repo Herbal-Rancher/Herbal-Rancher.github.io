@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "1.0 Milestone Assessment | Open Systems Interconnection (OSI) Model"
+title: "01.0 Milestone Assessment | Open Systems Interconnection (OSI) Model"
 lab_title: "Open Systems Interconnection (OSI) Model"
 
-lesson: "1.0"
+lesson: "01.0"
 lesson_id: "01.00.01"
 sort_order: "010001"
 

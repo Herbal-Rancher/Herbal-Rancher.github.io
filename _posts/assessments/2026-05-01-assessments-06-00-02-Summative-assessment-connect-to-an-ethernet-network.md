@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "6.0 Summative Assessment | Connect to an Ethernet Network"
-lab_title: "Connect to an Ethernet Network"
+title: "06.0 Summative Assessment | Connect to an Ethernet Network | Lab 2.2.7 - 2.2.9"
+lab_title: "Connect to an Ethernet Network | Lab 2.2.7 - 2.2.9"
 
-lesson: "6.0"
+lesson: "06.0"
 lesson_id: "06.00.02"
 sort_order: "060002"
 
-categories: [portfolio, summative, formative, videos]
+categories: [portfolio, summative, formative]
 
 category: technical-communication
 category_display: Technical Communication
@@ -15,8 +15,8 @@ category_display: Technical Communication
 subcategory: assessments-discussions
 subcategory_display: Assessments & Discussions
 
-content_type: video
-content_type_display: Video
+content_type: assessment-milestone
+content_type_display: Assessment Milestone
 
 tags:
   - enterprise-network

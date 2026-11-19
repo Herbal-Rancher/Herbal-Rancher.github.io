@@ -4,8 +4,8 @@ title: "07.0 Milestone Assessment | Basic Network Administration"
 lab_title: "Basic Network Administration"
 
 lesson: "07.0"
-lesson_id: "07.00.01"
-sort_order: "070001"
+lesson_id: "07.00.02"
+sort_order: "070002"
 
 categories: [portfolio, milestone, formative]
 
@@ -49,6 +49,7 @@ tools:
   - tracert
   - Wireshark
   - iperf3
+
 ---
 
 ## Overview
