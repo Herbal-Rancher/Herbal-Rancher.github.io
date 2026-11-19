@@ -44,9 +44,9 @@ protocols:
 
 status: complete
 
-video_id: ""
-video_url: ""
-thumbnail: ""
+video_id: "-2hDAHbeskY"
+video_url: "https://youtu.be/-2hDAHbeskY"
+thumbnail: "https://img.youtube.com/vi/-2hDAHbeskY/hqdefault.jpg"
 
 completed_lab: ""
 lab_pdf: ""
@@ -78,8 +78,6 @@ Prepare a Cisco router and switch for secure management in a Packet Tracer deplo
 ---
 
 ## Video Walkthrough
-
-This lab is documented as a written exercise; no video walkthrough is planned.
 
 {% if page.video_id != "" %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_id }}" title="{{ page.title }}" frameborder="0" allowfullscreen></iframe>
