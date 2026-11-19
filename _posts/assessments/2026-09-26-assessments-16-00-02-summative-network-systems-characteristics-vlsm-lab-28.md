@@ -67,9 +67,7 @@ A Packet Tracer VLSM addressing exercise using the 10.1.1.0/24 network to design
 
 ## Supporting Evidence
 
-* **Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
-
-> Upload the PDF to the matching `/assets/pdfs/` path in your GitHub repository to activate the link.
+Note: [This Assessment PDF may be available upon request]
 
 ---
 

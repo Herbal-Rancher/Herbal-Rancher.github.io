@@ -66,9 +66,7 @@ An examination of IoT, cloud computing, SD-WAN, 5G, and AI and how these technol
 
 ## Supporting Evidence
 
-* **Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
-
-> Upload the PDF to the matching `/assets/pdfs/` path in your GitHub repository to activate the link.
+Note: [This Assessment PDF may be available upon request]
 
 ---
 

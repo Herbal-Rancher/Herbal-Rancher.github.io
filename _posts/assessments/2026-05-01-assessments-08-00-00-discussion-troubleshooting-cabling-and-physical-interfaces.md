@@ -66,9 +66,7 @@ A structured approach to diagnosing intermittent connectivity, slow network perf
 
 ## Supporting Evidence
 
-* **Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
-
-> Upload the PDF to the matching `/assets/pdfs/` path in your GitHub repository to activate the link.
+Note: [This Assessment PDF may be available upon request]
 
 ---
 

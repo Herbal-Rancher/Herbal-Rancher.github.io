@@ -74,7 +74,7 @@ This discussion examines how networking tools and protocols are selected to diag
 
 ## Supporting Evidence
 
-#Note: [This Assessment PDF may be available upon request]
+Note: [This Assessment PDF may be available upon request]
 
 ---
 
