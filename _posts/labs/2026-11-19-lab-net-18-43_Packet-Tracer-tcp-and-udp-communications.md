@@ -91,8 +91,6 @@ Use Packet Tracer Simulation Mode to observe simultaneous application traffic an
 
 ## Video Walkthrough
 
-This lab is recommended for a narrated Packet Tracer walkthrough. Add the YouTube ID after recording and publishing.
-
 {% if page.video_id != "" %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_id }}" title="{{ page.title }}" frameborder="0" allowfullscreen></iframe>
 {% endif %}

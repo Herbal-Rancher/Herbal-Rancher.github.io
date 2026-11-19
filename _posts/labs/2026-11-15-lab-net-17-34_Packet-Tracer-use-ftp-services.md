@@ -76,16 +76,6 @@ Practice client–server file transfer using Packet Tracer FTP services. Connect
 
 ---
 
-## Video Walkthrough
-
-This lab is documented as a written exercise; no video walkthrough is planned.
-
-{% if page.video_id != "" %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_id }}" title="{{ page.title }}" frameborder="0" allowfullscreen></iframe>
-{% endif %}
-
----
-
 ## Completed Lab Documentation
 
 - Note: [Completed Lab PDF may be available upon request]

@@ -74,16 +74,6 @@ Explore the operational information available from a Cisco 4321 router at an ISP
 
 ---
 
-## Video Walkthrough
-
-This lab is documented as a written exercise; no video walkthrough is planned.
-
-{% if page.video_id != "" %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_id }}" title="{{ page.title }}" frameborder="0" allowfullscreen></iframe>
-{% endif %}
-
----
-
 ## Completed Lab Documentation
 
 - Note: [Completed Lab PDF may be available upon request]

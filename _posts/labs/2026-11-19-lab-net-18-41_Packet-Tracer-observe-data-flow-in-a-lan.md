@@ -9,15 +9,15 @@ sort_order: "184100"
 
 categories:
   - portfolio
-  - videos
+  - labs
 
 category: networking-fundamentals
 category_display: Networking Fundamentals
 
-subcategory: network-operations
-subcategory_display: Network Operations
+subcategory: ip-addressing
+subcategory_display: IP Addressing
 
-content_type: lab-documentation
+content_type: lab
 content_type_display: Lab Documentation
 
 tags:
@@ -80,23 +80,11 @@ Explore the movement of traffic through a small switched Ethernet LAN. Build a t
 
 ---
 
-## Lab Documentation
-
-This activity is being documented as a written lab. A video is not currently planned; the optional embed is retained for consistency with the portfolio template.
-
-{% if page.video_id != "" %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video_id }}" title="{{ page.title }}" frameborder="0" allowfullscreen></iframe>
-{% endif %}
-
----
-
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-- [View completed lab PDF]({{ page.completed_lab }})
+- Note: [Completed Lab PDF may be available upon request]
 {% endif %}
-
-<!-- Add the completed PDF asset path after the assignment is finished and exported. -->
 
 ---
 

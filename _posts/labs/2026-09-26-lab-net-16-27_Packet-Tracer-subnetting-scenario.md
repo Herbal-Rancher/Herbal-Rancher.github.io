@@ -96,6 +96,13 @@ is preconfigured.
 
 ---
 
+## Completed Lab Documentation
+
+{% if page.completed_lab != "" %}
+- Note: [Completed Lab PDF may be available upon request]
+{% endif %}
+
+---
 ## Addressing Reference
 
 | Device | Interface | IP Address | Subnet Mask | Default Gateway |
