@@ -14,8 +14,8 @@ categories:
 category: networking-fundamentals
 category_display: Networking Fundamentals
 
-subcategory: network-protocols
-subcategory_display: Network Protocols
+subcategory: network-implementation
+subcategory_display: Network Implementation
 
 content_type: video
 content_type_display: Video
@@ -53,7 +53,7 @@ protocols:
   - SMTP
   - POP3
 
-status: documentation-in-progress
+status: complete
 
 video_id: ""
 video_url: ""

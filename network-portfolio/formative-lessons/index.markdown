@@ -30,7 +30,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 ---
 
 {% assign it532_lessons = "01.0,02.0,03.0,04.0,05.0,06.0,07.0,08.0,09.0" | split: "," %}
-{% assign it533_lessons = "10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0" | split: "," %}
+{% assign it533_lessons = "10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0" | split: "," %}
 
 <h2 style="border-bottom: 2px solid #f4b400; padding-bottom: .35rem; margin-top: 2.5rem;">
   IT532 — Intro to Networking Concepts
@@ -318,7 +318,7 @@ module Post  Category: {{ module_posts.first.category }}<br>
   Labs, Walkthroughs & Reference Resources
 </p>
 
-<!-- DEBUG WHEN  - Intro to Walkthroughs -->
+<!-- DEBUG WHEN  - Intro to Walkthroughs
 
 module Post lab_title: {{ module_posts.first.lab_title }}<br>
 module Post  Lesson_ID: {{ module_posts.first.lesson_id }}<br>
@@ -326,7 +326,7 @@ module Post  Content Type: {{ module_posts.first.content_type_display }}<br>
 module Post  Sort Order: {{ module_posts.first.sort_order }}<br>
 module Post  Category: {{ module_posts.first.category }}<br>
 module Post  Categories: {{ module_posts.first.categories }}<br>
- 
+ --> 
 
 <ul style="margin-top: 0; margin-bottom: 0;">
 {% assign has_resources = false %}
