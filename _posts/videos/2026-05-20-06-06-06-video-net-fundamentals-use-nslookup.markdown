@@ -21,7 +21,6 @@ content_type_display: Lab
 topics: [dns, nslookup, mx-records, name-resolution, dns-troubleshooting]
 
 tools: [Nslookup, DNS, Windows-Terminal, ip, ping]
-sort_order: "040606"
 
 tags: 
   - switch-security
@@ -37,7 +36,7 @@ tags:
 permalink: /network-portfolio/labs/module-6-0/lab-6-6-6-use-nslookup/
 status: complete
 
-date: 2026-04-03 19:11:11 -0700
+
 video: ""
 pdf: ""
 diagram: ""
