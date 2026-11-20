@@ -30,7 +30,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 ---
 
 {% assign it532_lessons = "01.0,02.0,03.0,04.0,05.0,06.0,07.0,08.0,09.0" | split: "," %}
-{% assign it533_lessons = "10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0" | split: "," %}
+{% assign it533_lessons = "10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0" | split: "," %}
 
 <h2 style="border-bottom: 2px solid #f4b400; padding-bottom: .35rem; margin-top: 2.5rem;">
   IT532 — Intro to Networking Concepts
@@ -51,13 +51,7 @@ Modules 01 – 09 focus on foundational networking theory, protocols, models, te
 {% assign module_posts = site.posts | where: "lesson", lesson_number | where: "status", "complete" | sort: "lesson_id" %}
 
 {% if module_posts.size > 0 %}
-<!-- DEBUG WHEN NEEDED
 
-module Post lab_title: {{ module_posts.first.lab_title }}<br>
-module Post 1st Lesson_ID: {{ module_posts.first.lesson_id }}<br>
-module Post 1st Content Type: {{ module_posts.first.content_type_display }}<br>
-module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
- -->
 
 <div style="margin: 1.5rem 0; padding: 1rem; border: 1px solid #ddd; border-radius: 10px; background: #fafafa;">
 
@@ -72,6 +66,13 @@ module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
   Discussions & Assessments
 </p>
 
+<!-- DEBUG WHEN  - Intro to Disscussions and assessments
+
+module Post lab_title: {{ module_posts.first.lab_title }}<br>
+module Post 1st Lesson_ID: {{ module_posts.first.lesson_id }}<br>
+module Post 1st Content Type: {{ module_posts.first.content_type_display }}<br>
+module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
+ -->
 <ul style="margin-top: 0; margin-bottom: 1rem;">
 {% assign has_assessments = false %}
 
@@ -137,11 +138,18 @@ module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
 {% endif %}
 </ul>
 
-
-
 <p style="font-weight: bold; margin-bottom: .25rem;">
   Study Diagrams
 </p>
+
+<!-- DEBUG WHEN  - Intro to Study Diagrams
+
+module Post lab_title: {{ module_posts.first.lab_title }}<br>
+module Post  Lesson_ID: {{ module_posts.first.lesson_id }}<br>
+module Post  Content Type: {{ module_posts.first.content_type_display }}<br>
+module Post  Sort Order: {{ module_posts.first.sort_order }}<br>
+module Post  Category: {{ module_posts.first.category }}<br>
+ -->
 
 <ul style="margin-top: 0; margin-bottom: 1rem;">
 {% assign has_assessments = false %}
@@ -173,10 +181,19 @@ module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
 {% endif %}
 </ul>
 
-
 <p style="font-weight: bold; margin-bottom: .25rem;">
   Videos
 </p>
+
+
+<!-- DEBUG WHEN  - Intro to Videos
+
+module Post lab_title: {{ module_posts.first.lab_title }}<br>
+module Post  Lesson_ID: {{ module_posts.first.lesson_id }}<br>
+module Post  Content Type: {{ module_posts.first.content_type_display }}<br>
+module Post  Sort Order: {{ module_posts.first.sort_order }}<br>
+module Post  Category: {{ module_posts.first.category }}<br>
+ -->
 
 <ul style="margin-top: 0; margin-bottom: 1rem;">
 {% assign has_assessments = false %}
@@ -213,11 +230,21 @@ module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
 {% endif %}
 {% endfor %}
 
+
 </div>
 
 <h2 style="border-bottom: 2px solid #f4b400; padding-bottom: .35rem; margin-top: 2.5rem;">
   IT533 — Intro to Networking Virtual Labs
 </h2>
+
+<!-- DEBUG WHEN  - Intro to Virtual Labs
+
+module Post lab_title: {{ module_posts.first.lab_title }}<br>
+module Post  Lesson_ID: {{ module_posts.first.lesson_id }}<br>
+module Post  Content Type: {{ module_posts.first.content_type_display }}<br>
+module Post  Sort Order: {{ module_posts.first.sort_order }}<br>
+module Post  Category: {{ module_posts.first.category }}<br>
+ -->
 
 <p>
 Modules 10 – 18 focus on hands-on implementation, troubleshooting, security analysis, virtual labs, remote administration, and applied networking skills.
@@ -247,6 +274,15 @@ Modules 10 – 18 focus on hands-on implementation, troubleshooting, security an
 <p style="font-weight: bold; margin-bottom: .25rem;">
   Discussions & Assessments
 </p>
+
+<!-- DEBUG WHEN  - Intro to Discussions and Assessments
+
+module Post lab_title: {{ module_posts.first.lab_title }}<br>
+module Post  Lesson_ID: {{ module_posts.first.lesson_id }}<br>
+module Post  Content Type: {{ module_posts.first.content_type_display }}<br>
+module Post  Sort Order: {{ module_posts.first.sort_order }}<br>
+module Post  Category: {{ module_posts.first.category }}<br>
+ --> 
 
 <ul style="margin-top: 0; margin-bottom: 1rem;">
 {% assign has_assessments = false %}
@@ -282,6 +318,16 @@ Modules 10 – 18 focus on hands-on implementation, troubleshooting, security an
   Labs, Walkthroughs & Reference Resources
 </p>
 
+<!-- DEBUG WHEN  - Intro to Walkthroughs -->
+
+module Post lab_title: {{ module_posts.first.lab_title }}<br>
+module Post  Lesson_ID: {{ module_posts.first.lesson_id }}<br>
+module Post  Content Type: {{ module_posts.first.content_type_display }}<br>
+module Post  Sort Order: {{ module_posts.first.sort_order }}<br>
+module Post  Category: {{ module_posts.first.category }}<br>
+module Post  Categories: {{ module_posts.first.categories }}<br>
+ 
+
 <ul style="margin-top: 0; margin-bottom: 0;">
 {% assign has_resources = false %}
 
@@ -313,11 +359,20 @@ Modules 10 – 18 focus on hands-on implementation, troubleshooting, security an
 </ul>
 
 
-
-
 <p style="font-weight: bold; margin-bottom: .25rem;">
   Study Diagrams
 </p>
+
+
+<!-- DEBUG WHEN  - Intro to Study Diagrams
+
+
+module Post lab_title: {{ module_posts.first.lab_title }}<br>
+module Post  Lesson_ID: {{ module_posts.first.lesson_id }}<br>
+module Post  Content Type: {{ module_posts.first.content_type_display }}<br>
+module Post  Sort Order: {{ module_posts.first.sort_order }}<br>
+module Post  Category: {{ module_posts.first.category }}<br>
+ --> 
 
 <ul style="margin-top: 0; margin-bottom: 1rem;">
 {% assign has_assessments = false %}

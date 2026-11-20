@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 45| Cisco Networking Labs - Observe Web Request"
+title: "Lab 45 | Cisco Networking Labs - Observe Web Request"
 lab_title: "Observe Web Request"
 
 lesson: "18.0"

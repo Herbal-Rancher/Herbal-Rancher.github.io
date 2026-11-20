@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 41| Cisco Networking Labs - Observe Data Flow in a LAN"
+title: "Lab 41 | Cisco Networking Labs - Observe Data Flow in a LAN"
 lab_title: "Observe Data Flow in a LAN"
 
 lesson: "18.0"

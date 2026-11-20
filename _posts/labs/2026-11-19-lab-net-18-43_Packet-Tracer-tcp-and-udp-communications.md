@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 43| Cisco Networking Labs - TCP and UDP Communications"
+title: "Lab 43 | Cisco Networking Labs - TCP and UDP Communications"
 lab_title: "TCP and UDP Communications"
 
 lesson: "18.0"

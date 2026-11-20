@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 42| Cisco Networking Labs - Examine the ARP Table"
+title: "Lab 42 | Cisco Networking Labs - Examine the ARP Table"
 lab_title: "Examine the ARP Table"
 
 lesson: "18.0"

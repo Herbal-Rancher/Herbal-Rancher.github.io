@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab 44| Cisco Networking Labs - The Client Interaction"
+title: "Lab 44 | Cisco Networking Labs - The Client Interaction"
 lab_title: "The Client Interaction"
 
 lesson: "18.0"
