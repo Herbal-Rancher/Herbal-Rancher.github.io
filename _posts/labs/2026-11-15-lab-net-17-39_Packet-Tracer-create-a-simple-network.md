@@ -18,7 +18,7 @@ subcategory: network-implementation
 subcategory_display: Network Implementation
 
 content_type: video
-content_type_display: Video
+content_type_display: Lab Video
 
 tags:
   - packet-tracer
@@ -125,7 +125,7 @@ Confirm the wired PC receives an address in the expected 192.168.0.x range, can 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

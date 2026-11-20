@@ -3,7 +3,7 @@ layout: post
 title: "Systems Administration | Connecting an iSCSI Initiator to Network Storage"
 lab_title: "Connecting an iSCSI Initiator to Network Storage"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "14.01.06"
 sort_order: "140106"
 
@@ -16,7 +16,7 @@ subcategory: storage-and-virtualization
 subcategory_display: Storage & Virtualization
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 - iscsi
@@ -221,7 +221,7 @@ iSCSI allows organizations to deliver enterprise storage across standard Etherne
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

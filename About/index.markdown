@@ -126,7 +126,7 @@ My Network Technology studies are currently centered around the **[Calbright Col
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

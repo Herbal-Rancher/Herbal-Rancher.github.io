@@ -4,7 +4,7 @@ layout: post
 title: "Networking Fundamentals | Linux Static IP Configuration and Connectivity Testing"
 lab_title: "Linux Static IP Configuration and Connectivity Testing"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "04.02.11"
 sort_order: "040211"
 
@@ -17,7 +17,7 @@ subcategory: tcpip
 subcategory_display: TCP/IP
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 - linux
@@ -249,7 +249,7 @@ Successful communication with the gateway confirms local network connectivity. S
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

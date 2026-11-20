@@ -18,7 +18,7 @@ subcategory: ip-addressing
 subcategory_display: IP Addressing
 
 content_type: lab
-content_type_display: Lab Documentation
+content_type_display: Lab
 
 tags:
   - packet-tracer
@@ -126,7 +126,7 @@ Confirm the three hosts share the intended subnet, the Ethernet links are active
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

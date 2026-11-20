@@ -3,7 +3,7 @@ layout: post
 title: "Security | Identifying and Disabling Remote Access Services"
 lab_title: "Identifying and Disabling Remote Access Services"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "10.03.07"
 
 sort_order: "100307"
@@ -17,7 +17,7 @@ subcategory: attack-surface-reduction
 subcategory_display: Attack Surface Reduction
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 
@@ -173,7 +173,7 @@ Effective security begins with visibility. Understanding which services are runn
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

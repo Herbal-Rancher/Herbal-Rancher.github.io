@@ -292,7 +292,7 @@ git push origin main
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

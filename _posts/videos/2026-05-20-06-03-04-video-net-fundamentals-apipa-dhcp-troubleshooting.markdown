@@ -3,7 +3,7 @@ layout: post
 title: "Network Troubleshooting | Diagnosing and Resolving APIPA Addressing Issues"
 lab_title: "Diagnosing and Resolving APIPA Addressing Issues"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "06.03.04"
 sort_order: "060304"
 
@@ -16,7 +16,7 @@ subcategory: dhcp-troubleshooting
 subcategory_display: DHCP Troubleshooting
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 - dhcp
@@ -219,7 +219,7 @@ When a workstation cannot obtain an address from a DHCP server, Windows may auto
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

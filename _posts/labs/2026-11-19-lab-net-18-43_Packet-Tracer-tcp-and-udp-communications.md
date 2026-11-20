@@ -18,7 +18,7 @@ subcategory: network-implementation
 subcategory_display: Network Implementation
 
 content_type: video
-content_type_display: Video
+content_type_display: Lab Video
 
 tags:
   - packet-tracer
@@ -145,7 +145,7 @@ Verify the observed PDU types and identify source/destination ports, TCP flags, 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

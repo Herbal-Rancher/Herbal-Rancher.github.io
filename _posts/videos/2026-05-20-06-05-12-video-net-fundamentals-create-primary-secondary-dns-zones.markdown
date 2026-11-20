@@ -3,7 +3,7 @@ layout: post
 title: "Windows Server DNS | Create Primary and Secondary Forward Lookup Zones"
 lab_title: "Create Primary and Secondary Forward Lookup Zones"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "06.05.12"
 sort_order: "060512"
 
@@ -16,7 +16,7 @@ subcategory: dns
 subcategory_display: Domain Name System (DNS)
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 
@@ -222,7 +222,7 @@ Reference Tools
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

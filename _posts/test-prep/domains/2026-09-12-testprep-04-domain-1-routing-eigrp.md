@@ -271,7 +271,7 @@ traceroute 192.0.2.25
 * [Home](/)
 * [Network Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
   * **[NETWORK TEST READINESS LAB](/network-portfolio/network-readiness-lab/)**
 * [Trading+](/trading/)

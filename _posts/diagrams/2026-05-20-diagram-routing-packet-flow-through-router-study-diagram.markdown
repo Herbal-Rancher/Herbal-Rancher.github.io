@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Packet Flow Through a Router Study Diagram"
 lab_title: "Packet Flow Through a Router Study Diagram"
 
-lesson: "6.0"
+lesson: "06.0" 
 lesson_id: "06.02.00"
 sort_order: "060200"
 
@@ -133,7 +133,7 @@ Understanding packet flow through a router was one of the biggest turning points
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

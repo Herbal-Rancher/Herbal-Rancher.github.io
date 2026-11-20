@@ -3,7 +3,7 @@ layout: post
 title: "Technical Communication | PowerShell, Git, and Jekyll Commands"
 lab_title: "PowerShell, Git, and Jekyll Commands"
 
-lesson: "1.0" 
+lesson: "01.0" 
 lesson_id: "01.00.20"
 sort_order: "010020"
 
@@ -15,8 +15,8 @@ category_display: Technical Communication
 subcategory: Reference-Guides
 subcategory_display: Reference Guides
 
-content_type: guide
-content_type_display: Guide
+content_type: Lab
+content_type_display: Lab Guide
 
 tags:
   - switch-security
@@ -237,7 +237,7 @@ Pull → Serve → Edit → Validate → Commit → Push
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

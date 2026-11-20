@@ -18,7 +18,7 @@ subcategory: troubleshooting
 subcategory_display: Network Troubleshooting
 
 content_type: lab
-content_type_display: Lab Documentation
+content_type_display: Lab
 
 tags:
   - packet-tracer
@@ -116,7 +116,7 @@ Confirm PC1-to-PC3 IPv4 reachability and PC2-to-PC4 IPv6 reachability after trou
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

@@ -16,7 +16,7 @@ subcategory: tcp-ip-osi
 subcategory_display: TCP/IP & OSI Models
 
 content_type: video
-content_type_display: Video
+content_type_display: Lab Video
 
 tags:
 
@@ -193,7 +193,7 @@ Study Diagrams
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

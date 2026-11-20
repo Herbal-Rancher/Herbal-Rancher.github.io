@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure | Secure Access to a Switch 2"
 lab_title: "Secure Access to a Switch 2"
 
-lesson: "3.0"
+lesson: "03.0"
 lesson_id: "10.04.03"
 sort_order: "100403"	
 
@@ -16,7 +16,7 @@ subcategory: switching
 subcategory_display: Switching
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 
 tags:
@@ -70,7 +70,7 @@ Watch the complete walkthrough:
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

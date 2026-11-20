@@ -4,7 +4,7 @@ layout: post
 title: "Systems Administration | Creating an iSCSI Storage Target and Virtual SAN Disk"
 lab_title: "Creating an iSCSI Storage Target and Virtual SAN Disk"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "14.01.05"
 sort_order: "140105"
 
@@ -17,7 +17,7 @@ subcategory: storage-and-virtualization
 subcategory_display: Storage & Virtualization
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 - iscsi
@@ -210,7 +210,7 @@ iSCSI provides a powerful and cost-effective way to implement centralized storag
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

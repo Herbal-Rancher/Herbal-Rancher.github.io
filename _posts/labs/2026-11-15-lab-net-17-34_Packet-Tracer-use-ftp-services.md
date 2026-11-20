@@ -18,7 +18,7 @@ subcategory: network-services
 subcategory_display: Network Services
 
 content_type: lab
-content_type_display: Lab Documentation
+content_type_display: Lab
 
 tags:
   - packet-tracer
@@ -112,7 +112,7 @@ Confirm the expected file appears in the remote directory and the downloaded fil
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

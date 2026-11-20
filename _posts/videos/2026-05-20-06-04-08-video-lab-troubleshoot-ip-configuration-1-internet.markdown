@@ -3,7 +3,7 @@ layout: page
 title: Lab 6.4.8 | Troubleshoot IP Configuration & Internet Connectivity
 lab_title: Troubleshoot IP Configuration 1 - Internet
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "06.04.08"
 sort_order: "06.04.08"
 
@@ -16,7 +16,7 @@ subcategory: troubleshooting-labs
 subcategory_display: Troubleshooting Labs
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 topics:
   - IPv4
@@ -257,7 +257,7 @@ allowfullscreen>
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

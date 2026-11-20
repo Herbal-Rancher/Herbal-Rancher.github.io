@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | ICMPv6 Overview Study Diagram"
 lab_title: "ICMPv6 Overview Study Diagram"
 
-lesson: "3.0"
+lesson: "03.0" 
 lesson_id: "03.08.00"
 sort_order: "030800"
 
@@ -132,7 +132,7 @@ As I learned IPv6, I discovered that ICMPv6 does much more than simply support t
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

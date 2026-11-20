@@ -3,7 +3,7 @@ layout: post
 title: "Technical Communication | Use PowerShell Remote Management"
 lab_title: "Use PowerShell Remote Management"
 
-lesson: "2.0"
+lesson: "02.0"
 lesson_id: "13.03.09"
 sort_order: "130309"
 
@@ -16,7 +16,7 @@ subcategory: remote-administration
 subcategory_display: Remote Administration
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 
 tags:
@@ -71,7 +71,7 @@ Watch the complete walkthrough:
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

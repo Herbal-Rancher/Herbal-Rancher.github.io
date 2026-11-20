@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Fiber Optic Connectors Complete Reference Guide"
 lab_title: "Fiber Optic Connectors Complete Reference Guide"
 
-lesson: "2.0"
+lesson: "02.0" 
 lesson_id: "02.01.00"
 sort_order: "020100"
 
@@ -89,7 +89,7 @@ The diagram helped reinforce connector identification, physical characteristics,
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

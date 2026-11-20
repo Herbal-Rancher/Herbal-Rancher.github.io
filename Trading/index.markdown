@@ -87,7 +87,7 @@ Every lesson, chart, and trade review is part of building a disciplined trading 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * **[TRADING+](/trading/)**
 * [Bible Study](/bible-study/)

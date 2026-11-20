@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Top Network Ports Study Guide"
 lab_title: "Top Network Ports Study Guide"
 
-lesson: "1.0" 
+lesson: "01.0" 
 lesson_id: "01.00.50"
 sort_order: "010050"
 
@@ -87,7 +87,7 @@ The diagram combines memorization techniques, protocol comparisons, troubleshoot
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

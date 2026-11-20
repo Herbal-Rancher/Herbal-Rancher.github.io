@@ -18,7 +18,7 @@ subcategory: ip-addressing
 subcategory_display: IP Addressing
 
 content_type: video
-content_type_display: Video
+content_type_display: Lab Video
 
 tags:
   - packet-tracer
@@ -132,7 +132,7 @@ Check router interface prefixes, host IPv6 addresses and gateways, routes, and s
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

@@ -4,7 +4,7 @@ layout: post
 title: "The Most Common Networking Protocols"
 lab_title: "The Most Common Networking Protocols"
 
-lesson: "1.0" 
+lesson: "01.0" 
 lesson_id: "01.00.70"
 sort_order: "010070"
 
@@ -99,7 +99,7 @@ The original protocol reference introduced several important protocols, but the 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

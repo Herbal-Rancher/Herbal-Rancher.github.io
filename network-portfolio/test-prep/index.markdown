@@ -140,7 +140,7 @@ This keeps each certification or employment exam separate while allowing one con
 * [Home](/)
 * [Network Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
   * **[NETWORK TEST READINESS LAB](/network-portfolio/network-test-readiness-lab/)**
   * [Network Troubleshooting Checklist](/network-portfolio/network-troubleshooting-checklist/)

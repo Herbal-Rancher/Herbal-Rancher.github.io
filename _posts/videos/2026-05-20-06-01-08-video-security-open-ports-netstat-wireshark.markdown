@@ -3,7 +3,7 @@ layout: post
 title: "Security | View Open Ports with Netstat and Wireshark"
 lab_title: "View Open Ports with Netstat and Wireshark"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "06.01.08"
 sort_order: "060108"
 
@@ -16,7 +16,7 @@ subcategory: reconnaissance
 subcategory_display: Reconnaissance
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 
 tags:
@@ -75,7 +75,7 @@ Watch the complete walkthrough:
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

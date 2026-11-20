@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Structured Network Troubleshooting and Root Cause Analysis"
 lab_title: "Structured Network Troubleshooting and Root Cause Analysis"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "04.06.08"
 sort_order: "040608"
 
@@ -16,7 +16,7 @@ subcategory: network-troubleshooting
 subcategory_display: Network Troubleshooting
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 
@@ -126,7 +126,7 @@ Structured troubleshooting reduces guesswork and improves efficiency. By followi
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Structured Cabling Systems"
 lab_title: "Structured Cabling Systems"
 
-lesson: "2.0"
+lesson: "02.0" 
 lesson_id: "02.05.00"
 sort_order: "020500"
 
@@ -84,7 +84,7 @@ I wanted to understand the different components and standards involved in struct
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

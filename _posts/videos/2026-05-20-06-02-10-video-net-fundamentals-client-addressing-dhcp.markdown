@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Configure Client Addressing for DHCP"
 lab_title: "Configure Client Addressing for DHCP"
 
-lesson: "3.0"
+lesson: "03.0"
 lesson_id: "06.02.10"
 sort_order: "060210"	
 
@@ -16,7 +16,7 @@ subcategory: dhcp-dns
 subcategory_display: DHCP & DNS
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 
 tags:
@@ -75,7 +75,7 @@ Watch the complete walkthrough:
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

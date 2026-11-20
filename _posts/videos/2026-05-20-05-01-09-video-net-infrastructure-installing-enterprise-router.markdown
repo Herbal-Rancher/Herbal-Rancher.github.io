@@ -3,7 +3,7 @@ layout: post
 title: "Network Infrastructure | Installing and Connecting an Enterprise Router"
 lab_title: "Installing and Connecting an Enterprise Router"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "05.01.09"
 sort_order: "050109"
 
@@ -16,7 +16,7 @@ subcategory: network-infrastructure
 subcategory_display: Network Infrastructure
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 - router-installation
@@ -185,7 +185,7 @@ Enterprise network deployments require careful attention to hardware installatio
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

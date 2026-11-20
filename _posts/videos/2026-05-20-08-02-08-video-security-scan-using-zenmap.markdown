@@ -3,7 +3,7 @@ layout: post
 title: "Security | Scan Using Zenmap"
 lab_title: "Scan Using Zenmap"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "08.02.08"
 sort_order: "080208"
 
@@ -16,7 +16,7 @@ subcategory: reconnaissance
 subcategory_display: Reconnaissance
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 
 tags:
@@ -139,7 +139,7 @@ Part of my ongoing CompTIA Network+ learning journey focused on networking, trou
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

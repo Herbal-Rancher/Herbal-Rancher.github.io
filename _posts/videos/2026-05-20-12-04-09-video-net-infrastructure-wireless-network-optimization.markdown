@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure | Optimizing Enterprise Wireless Network Performance"
 lab_title: "Optimizing Enterprise Wireless Network Performance"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "12.04.09"
 sort_order: "120409"
 
@@ -16,7 +16,7 @@ subcategory: wireless-infrastructure
 subcategory_display: Wireless Infrastructure
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 
@@ -205,7 +205,7 @@ Modern enterprise wireless solutions continuously monitor RF conditions and auto
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | IPv4 Subnet Masks, Network Bits & CIDR Study Diagram"
 lab_title: "IPv4 Subnet Masks, Network Bits & CIDR Study Diagram"
 
-lesson: "3.0"
+lesson: "03.0" 
 lesson_id: "03.03.00"
 sort_order: "030300"
 
@@ -115,7 +115,7 @@ I created this diagram to bring several closely related IPv4 concepts into one v
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

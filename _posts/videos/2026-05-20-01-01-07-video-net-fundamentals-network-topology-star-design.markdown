@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Building a Star Topology Network Design"
 lab_title: "Building a Star Topology Network Design"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "01.01.07"
 sort_order: "010107"
 
@@ -16,7 +16,7 @@ subcategory: network-topologies
 subcategory_display: Network Topologies
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 
@@ -201,7 +201,7 @@ The star topology is the foundation of most modern local area networks because i
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

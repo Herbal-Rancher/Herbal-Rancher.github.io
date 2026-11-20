@@ -16,7 +16,7 @@ subcategory: ipv4-subnetting
 subcategory_display: IPv4 Subnetting
 
 content_type: video
-content_type_display: Video
+content_type_display: Lab Video
 
 tags:
 
@@ -57,6 +57,8 @@ permalink: /network-portfolio/videos/13-15-subnet-an-ipv4-network/
 status: complete
 lab_pdf: "/assets/pdfs/module-13-lab-15-Packet-Tracer-Subnet-an-IPv4-Network.pdf"
 completed_lab: "/assets/pdfs/module-13-lab-15-Packet-Tracer-Subnet-an-IPv4-Network.pdf"
+image: "/assets/images/packet-tracer/cisco-lab-topology-module-13-lab-15.png"
+image_table: "/assets/images/packet-tracer/cisco-lab-topology-module-13-lab-15-table.png"
 
 video_id: "3kxE33LNbIc"
 video_url: "https://youtu.be/3kxE33LNbIc"
@@ -89,9 +91,8 @@ Before beginning this exercise, have available:
 - Lab instructions
 - Subnetting worksheet
 
-![Lab 15 Table Screenshot](/assets/images/packet-tracer/cisco-lab-topology-module-13-lab-15-table.png)
-
-![Lab 15 Topology Screenshot](/assets/images/packet-tracer/cisco-lab-topology-module-13-lab-15.png)
+![{{ page.lab_title }}]({{ page.image_table | relative_url }})
+![{{ page.lab_title }}]({{ page.image | relative_url }})
 
 ---
 
@@ -193,7 +194,7 @@ Study Diagrams
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

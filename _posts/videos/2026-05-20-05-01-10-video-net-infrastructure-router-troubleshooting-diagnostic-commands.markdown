@@ -3,7 +3,7 @@ layout: post
 title: "Network Administration | Router Troubleshooting and Diagnostic Commands"
 lab_title: "Router Troubleshooting and Diagnostic Commands"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "05.01.10"
 sort_order: "050110"
 
@@ -16,7 +16,7 @@ subcategory: router-administration
 subcategory_display: Router Administration
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 - router
@@ -232,7 +232,7 @@ Router troubleshooting begins with gathering accurate information. By reviewing 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

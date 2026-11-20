@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure | Distance Vector Routing"
 lab_title: "Distance Vector Routing"
 
-lesson: "6.0"
+lesson: "06.0" 
 lesson_id: "06.03.00"
 sort_order: "060300"
 
@@ -81,7 +81,7 @@ I wanted to understand distance vector routing more clearly before comparing it 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

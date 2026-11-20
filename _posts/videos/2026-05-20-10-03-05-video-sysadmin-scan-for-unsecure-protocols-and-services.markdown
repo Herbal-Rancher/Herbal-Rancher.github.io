@@ -3,7 +3,7 @@ layout: post
 title: "Security Fundamentals | Scan for Unsecure Protocols and Services with WHOIS, NSLookup & Zenmap"
 lab_title: "Scan for Unsecure Protocols and Services with WHOIS, NSLookup & Zenmap"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "10.03.05"
 
 sort_order: "100305"
@@ -17,7 +17,7 @@ subcategory: reconnaissance
 subcategory_display: Reconnaissance
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 - network-reconnaissance
@@ -198,7 +198,7 @@ This exercise reinforces the importance of understanding an organization's exter
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

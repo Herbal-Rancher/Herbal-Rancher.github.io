@@ -20,7 +20,7 @@ subcategory: network-security
 subcategory_display: Network Security
 
 content_type: video
-content_type_display: Video
+content_type_display: Lab Video
 
 tags:
 

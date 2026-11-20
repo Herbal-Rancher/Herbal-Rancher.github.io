@@ -157,7 +157,7 @@ A VLAN alone is not a complete security policy. A router, firewall, or Layer 3 A
 * [Home](/)
 * [Network Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
   * **[NETWORK TEST READINESS LAB](/network-portfolio/network-readiness-lab/)**
 * [Trading+](/trading/)

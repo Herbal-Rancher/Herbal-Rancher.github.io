@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | IPv4 Network Design Study Diagram"
 lab_title: "IPv4 Network Design Study Diagram"
 
-lesson: "3.0"
+lesson: "03.0" 
 lesson_id: "03.04.00"
 sort_order: "030400"
 
@@ -135,7 +135,7 @@ As I progressed beyond individual networking concepts, I wanted to understand ho
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

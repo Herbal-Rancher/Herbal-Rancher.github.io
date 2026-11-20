@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Configuring Static IP Addresses on Mobile Devices"
 lab_title: "Configuring Static IP Addresses on Mobile Devices"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "04.02.10"
 sort_order: "040210"
 
@@ -16,7 +16,7 @@ subcategory: ip-addressing-and-subnetting
 subcategory_display: IP Addressing & Subnetting
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 
@@ -227,7 +227,7 @@ Successful wireless connectivity requires both proper authentication and correct
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

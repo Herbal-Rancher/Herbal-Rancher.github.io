@@ -18,7 +18,7 @@ subcategory: network-services
 subcategory_display: Network Services
 
 content_type: lab
-content_type_display: Lab Documentation
+content_type_display: Lab
 
 tags:
   - packet-tracer
@@ -113,7 +113,7 @@ Verify the server responds to ping and the expected web page loads.
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

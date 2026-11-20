@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Multimode Fiber Cabling"
 lab_title: "Multimode Fiber Cabling"
 
-lesson: "2.0"
+lesson: "02.0" 
 lesson_id: "02.04.00"
 sort_order: "020400"
 
@@ -80,7 +80,7 @@ I wanted a comparison-style visual to understand multimode fiber and how it diff
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

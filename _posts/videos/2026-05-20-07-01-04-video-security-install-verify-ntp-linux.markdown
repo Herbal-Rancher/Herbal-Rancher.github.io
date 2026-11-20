@@ -3,7 +3,7 @@ layout: post
 title: "Linux Administration | Install and Verify the Network Time Protocol (NTP)"
 lab_title: "Install and Verify the Network Time Protocol (NTP)"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "07.01.04"
 sort_order: "070104"
 
@@ -16,7 +16,7 @@ subcategory: network-services
 subcategory_display: Network Services
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 tags:
 
 - linux
@@ -239,7 +239,7 @@ Reference Commands
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

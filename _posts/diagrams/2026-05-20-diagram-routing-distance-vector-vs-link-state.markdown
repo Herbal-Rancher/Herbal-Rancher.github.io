@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure | Distance Vector vs Link State Routing Protocols"
 lab_title: "Distance Vector vs Link State Routing Protocols"
 
-lesson: "6.0"
+lesson: "06.0" 
 lesson_id: "06.04.00"
 sort_order: "060400"
 
@@ -74,7 +74,7 @@ I wanted to understand the differences between distance vector and link state ro
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

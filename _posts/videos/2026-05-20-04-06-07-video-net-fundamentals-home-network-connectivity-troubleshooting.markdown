@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Troubleshooting a Home Network Connectivity Problem"
 lab_title: "Troubleshooting a Home Network Connectivity Problem"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "04.06.07"
 sort_order: "040607"
 
@@ -16,7 +16,7 @@ subcategory: network-troubleshooting
 subcategory_display: Network Troubleshooting
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 
@@ -121,7 +121,7 @@ Troubleshooting becomes significantly easier when a known-good system is availab
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

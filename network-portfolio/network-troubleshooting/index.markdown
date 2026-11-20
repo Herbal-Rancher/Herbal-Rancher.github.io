@@ -225,7 +225,7 @@ _______________________________________________________________
 * [Home](/)
 * [Network Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
   * [Network Test Readiness Lab](/network-portfolio/network-test-readiness-lab/)
   * **[NETWORK TROUBLESHOOTING CHECKLIST](/network-portfolio/network-troubleshooting-checklist/)**

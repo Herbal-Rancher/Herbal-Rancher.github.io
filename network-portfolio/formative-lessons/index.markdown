@@ -12,7 +12,7 @@ date: 2026-04-01 10:00:00 -0700
 
 This section captures the **core concepts, theories, and foundational knowledge** I am developing throughout my IT coursework.
 
-Each module represents a key learning milestone supported by related discussions, assessments, labs, walkthroughs, diagrams, and technical documentation.
+Each module represents a key learning milestone supported by related discussions, assessments, labs, assignments, diagrams, and technical documentation.
 
 This project is part of my lifelong learning portfolio. My goal is to document my study process, share what I learn, and create resources that may help others on similar paths.
 
@@ -41,7 +41,7 @@ Modules 01 – 09 focus on foundational networking theory, protocols, models, te
 </p>
 
 <p style="margin-top: 0; color: #555;">
-  Related discussions, assessments, labs, walkthroughs, diagrams, and study resources.
+  Related discussions, assessments, labs, assignments, diagrams, and study resources.
 </p>
 
 <div style="margin-left: 1.25rem; margin-top: 1rem; padding-left: 1rem; border-left: 3px solid #e5e5e5;">
@@ -104,14 +104,21 @@ module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
 </ul>
 
 <p style="font-weight: bold; margin-bottom: .25rem;">
-  Labs, Walkthroughs & Reference Resources
+  Labs, Assignments & Reference Resources
 </p>
 
+<!-- DEBUG WHEN  - Intro to abs, Assignments & Reference Resources
+
+module Post lab_title: {{ module_posts.first.lab_title }}<br>
+module Post 1st Lesson_ID: {{ module_posts.first.lesson_id }}<br>
+module Post 1st Content Type: {{ module_posts.first.content_type_display }}<br>
+module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
+ -->
 <ul style="margin-top: 0; margin-bottom: 0;">
 {% assign has_resources = false %}
 
 {% for post in module_posts %}
-  {% if post.categories contains "labs" or post.categories contains "walkthroughs" or post.categories contains "reference-guides" or post.categories contains "guides" %}
+  {% if post.categories contains "labs" or post.categories contains "assignments" or post.categories contains "reference-guides" or post.categories contains "guides" %}
     {% assign has_resources = true %}
     <li style="margin-bottom: .5rem;">
      ✓ <a href="{{ post.url | relative_url }}">
@@ -132,7 +139,7 @@ module Post 1st Sort Order: {{ module_posts.first.sort_order }}<br>
 {% if has_resources == false %}
 
 <li style="margin-bottom: .4rem;">
-  <span style="color: #666;"><em>Labs, walkthroughs and reference resources will continue to expand as additional Modules are completed.</em></span>
+  <span style="color: #666;"><em>Labs, assignments and reference resources will continue to expand as additional Modules are completed.</em></span>
 </li>
 
 {% endif %}
@@ -251,7 +258,7 @@ Modules 10 – 18 focus on hands-on implementation, troubleshooting, security an
 </p>
 
 <p style="margin-top: 0; color: #555;">
-  Related discussions, assessments, labs, walkthroughs, diagrams, and study resources.
+  Related discussions, assessments, labs, assignments, diagrams, and study resources.
 </p>
 
 <div style="margin-left: 1.25rem; margin-top: 1rem; padding-left: 1rem; border-left: 3px solid #e5e5e5;">
@@ -315,10 +322,10 @@ module Post  Category: {{ module_posts.first.category }}<br>
 </ul>
 
 <p style="font-weight: bold; margin-bottom: .25rem;">
-  Labs, Walkthroughs & Reference Resources
+  Labs, Assignments & Reference Resources
 </p>
 
-<!-- DEBUG WHEN  - Intro to Walkthroughs
+<!-- DEBUG WHEN  - Intro to Assignments
 
 module Post lab_title: {{ module_posts.first.lab_title }}<br>
 module Post  Lesson_ID: {{ module_posts.first.lesson_id }}<br>
@@ -332,7 +339,7 @@ module Post  Categories: {{ module_posts.first.categories }}<br>
 {% assign has_resources = false %}
 
 {% for post in module_posts %}
-  {% if post.categories contains "labs" or post.categories contains "walkthroughs" or post.categories contains "reference-guides" or post.categories contains "guides" %}
+  {% if post.categories contains "labs" or post.categories contains "assignments" or post.categories contains "reference-guides" or post.categories contains "guides" %}
     {% assign has_resources = true %}
     <li style="margin-bottom: .5rem;">
       ✓ <a href="{{ post.url | relative_url }}">
@@ -352,7 +359,7 @@ module Post  Categories: {{ module_posts.first.categories }}<br>
 
 {% if has_resources == false %}
 <li style="margin-bottom: .4rem;">
-  <span style="color: #666;"><em>Labs, walkthroughs and reference resources will continue to expand as additional Modules are completed.</em></span>
+  <span style="color: #666;"><em>Labs, assignments and reference resources will continue to expand as additional Modules are completed.</em></span>
 </li>
 
 {% endif %}
@@ -457,7 +464,7 @@ module Post  Category: {{ module_posts.first.category }}<br>
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

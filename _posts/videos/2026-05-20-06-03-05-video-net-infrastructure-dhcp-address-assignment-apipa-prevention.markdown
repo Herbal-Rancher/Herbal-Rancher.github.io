@@ -3,7 +3,7 @@ layout: post
 title: "Network Fundamentals | DHCP Address Assignment and APIPA Prevention"
 lab_title: "DHCP Address Assignment and APIPA Prevention"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "06.03.05"
 sort_order: "060305"
 
@@ -16,7 +16,7 @@ subcategory: dhcp-networking
 subcategory_display: DHCP Networking
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 - dhcp
@@ -207,7 +207,7 @@ DHCP simplifies network administration by automatically providing valid IP confi
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure | Building a Three-Tier Enterprise Network Architecture"
 lab_title: "Building a Three-Tier Enterprise Network Architecture"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "05.05.04"
 
 sort_order: "050504"
@@ -17,7 +17,7 @@ subcategory: enterprise-network-architecture
 subcategory_display: Enterprise Network Architecture
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 
@@ -227,7 +227,7 @@ The three-tier architecture remains one of the most important enterprise network
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

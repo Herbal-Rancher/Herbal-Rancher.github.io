@@ -140,7 +140,7 @@ The goal is to develop enough networking knowledge and troubleshooting disciplin
 * [Home](/)
 * **[NETWORK+ PORTFOLIO](/network-portfolio/)**
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
   * [NETWORK TEST READINESS LAB](/network-portfolio/network-readiness-lab/)
 * [Trading+](/trading/)

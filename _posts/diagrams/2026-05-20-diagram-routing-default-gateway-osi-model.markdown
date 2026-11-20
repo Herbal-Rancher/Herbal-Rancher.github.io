@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Default Gateway & OSI Model Study Diagram"
 lab_title: "Default Gateway & OSI Model Study Diagram"
 
-lesson: "6.0"
+lesson: "06.0" 
 lesson_id: "06.05.00"
 sort_order: "060500"
 
@@ -119,7 +119,7 @@ Understanding the default gateway was one of the biggest "aha!" moments in my ne
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

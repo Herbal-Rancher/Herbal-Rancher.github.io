@@ -3,7 +3,7 @@ layout: post
 title: "Linux Administration | Managing Linux System Services with systemctl"
 lab_title: "Managing Linux System Services with systemctl"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "10.03.06"
 sort_order: "100306"
 
@@ -16,7 +16,7 @@ subcategory: linux-administration
 subcategory_display: Linux Administration
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 
@@ -158,7 +158,7 @@ Systemctl provides a centralized method for managing Linux services through the 
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

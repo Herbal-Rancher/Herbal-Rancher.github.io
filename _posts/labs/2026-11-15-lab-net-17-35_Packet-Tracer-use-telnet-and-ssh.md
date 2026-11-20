@@ -18,7 +18,7 @@ subcategory: network-security
 subcategory_display: Network Security
 
 content_type: lab
-content_type_display: Lab Documentation
+content_type_display: Lab
 
 tags:
   - packet-tracer
@@ -115,7 +115,7 @@ Confirm the router is reachable, Telnet access is refused, and the SSH session r
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

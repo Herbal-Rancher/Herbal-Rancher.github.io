@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Configuring IPv4 Addresses on Multiple Network Interfaces"
 lab_title: "Configuring IPv4 Addresses on Multiple Network Interfaces"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "04.02.09"
 sort_order: "040209"
 
@@ -16,7 +16,7 @@ subcategory: ip-addressing-and-subnetting
 subcategory_display: IP Addressing & Subnetting
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 - ipv4
@@ -246,7 +246,7 @@ Successful network communication depends on proper IP addressing, subnetting, ga
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

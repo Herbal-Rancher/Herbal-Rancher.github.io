@@ -156,7 +156,7 @@ to deliver data from one endpoint to another.
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[Formative Modules](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [STUDY DIAGRAMS](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Explore Three-Way Handshake in Wireshark"
 lab_title: "Explore Three-Way Handshake in Wireshark"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "06.01.07"
 sort_order: "061070"
 
@@ -16,7 +16,7 @@ subcategory: tcpip
 subcategory_display: TCP/IP
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
   - tcp
@@ -77,7 +77,7 @@ Watch the complete walkthrough:
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Troubleshooting Wireless Network Connectivity"
 lab_title: "Troubleshooting Wireless Network Connectivity"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "12.04.08"
 sort_order: "120408"
 
@@ -16,7 +16,7 @@ subcategory: wireless-networking
 subcategory_display: Wireless Networking
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 
@@ -179,7 +179,7 @@ Effective wireless troubleshooting starts by comparing a working device to a non
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

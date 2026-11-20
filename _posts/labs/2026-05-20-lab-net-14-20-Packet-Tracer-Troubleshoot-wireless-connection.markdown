@@ -16,7 +16,7 @@ subcategory: wireless-networking
 subcategory_display: Wireless Networking
 
 content_type: video
-content_type_display: Video
+content_type_display: Lab Video
 
 tags:
   - packet-tracer
@@ -149,7 +149,7 @@ Successful access to the web server confirmed that the wireless connectivity iss
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

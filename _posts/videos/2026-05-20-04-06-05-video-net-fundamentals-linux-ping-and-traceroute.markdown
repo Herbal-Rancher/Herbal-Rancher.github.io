@@ -3,7 +3,7 @@ layout: post
 title: "Linux Networking | Using Ping and Traceroute for Network Analysis"
 lab_title: "Using Ping and Traceroute for Network Analysis"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "04.06.05"
 sort_order: "040605"
 
@@ -16,7 +16,7 @@ subcategory: linux-networking
 subcategory_display: Linux Networking
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 
@@ -283,7 +283,7 @@ Understanding how packets move through a network is a foundational networking sk
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

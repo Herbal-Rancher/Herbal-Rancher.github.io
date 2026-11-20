@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Troubleshooting Network Connectivity with Ping and Tracert"
 lab_title: "Troubleshooting Network Connectivity with Ping and Tracert"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "04.06.04"
 sort_order: "040604"
 
@@ -16,7 +16,7 @@ subcategory: network-troubleshooting
 subcategory_display: Network Troubleshooting
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 tags:
 
@@ -240,7 +240,7 @@ This exercise follows a structured troubleshooting workflow: review the configur
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

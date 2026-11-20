@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Ethernet Frame Structure Study Diagram"
 lab_title: "Ethernet Frame Structure Study Diagram"
 
-lesson: "1.0"
+lesson: "01.0" 
 lesson_id: "01.01.00"
 sort_order: "010100"
 
@@ -128,7 +128,7 @@ As I studied packet captures and Cisco Packet Tracer simulations, I wanted to un
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

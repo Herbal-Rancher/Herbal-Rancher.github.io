@@ -3,7 +3,7 @@ layout: post
 title: "Technical Communication | Network Protocols Ultimate Quick Reference & Learning Tool"
 lab_title: "Network Protocols Ultimate Quick Reference & Learning Tool"
 
-lesson: "1.0" 
+lesson: "01.0" 
 lesson_id: "01.00.40"
 sort_order: "010040"
 
@@ -174,7 +174,7 @@ Networks become easier to understand when protocols are grouped by purpose and m
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)**
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

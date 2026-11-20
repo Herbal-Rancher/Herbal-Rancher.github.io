@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Use nslookup"
 lab_title: "Use nslookup"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "06.06.06"
 sort_order: "040606"
 
@@ -361,7 +361,7 @@ This was one of my first labs where I began translating familiar Windows network
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

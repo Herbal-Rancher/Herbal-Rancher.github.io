@@ -3,7 +3,7 @@ layout: post
 title: "Security | Poison ARP and Analyze with Wireshark"
 lab_title: "Poison ARP and Analyze with Wireshark"
 
-lesson: "4.0"
+lesson: "04.0"
 lesson_id: "09.03.07"
 sort_order: 090307
 
@@ -16,7 +16,7 @@ subcategory: packet-analysis
 subcategory_display: Packet Analysis
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 
 status: complete
@@ -98,7 +98,7 @@ This lab reinforces practical packet analysis and security tradeigation skills c
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

@@ -3,7 +3,7 @@ layout: post
 title: "Networking Fundamentals | Dual-Stack Networking Study Diagram"
 lab_title: "Dual-Stack Networking Study Diagram"
 
-lesson: "3.0"
+lesson: "03.0" 
 lesson_id: "03.06.00"
 sort_order: "030600"
 
@@ -128,7 +128,7 @@ As I studied IPv6, I discovered that organizations rarely replace IPv4 overnight
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * [Video Walkthroughs](/network-portfolio/videos/)
+  * [Videos](/network-portfolio/videos/)
   * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

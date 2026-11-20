@@ -3,7 +3,7 @@ layout: post
 title: "Systems Administration | Manage Account Policies in Windows"
 lab_title: "Manage Account Policies in Windows"
 
-lesson: "3.0"
+lesson: "03.0"
 lesson_id: "10.02.05"
 sort_order: "100205"
 
@@ -16,7 +16,7 @@ subcategory: remote-administration
 subcategory_display: Remote Administration
 
 content_type: video
-content_type_display: Video
+content_type_display: Assignment Video
 
 
 tags:
@@ -71,7 +71,7 @@ Watch the complete walkthrough:
 * [Home](/)
 * [Network+ Portfolio](/network-portfolio/)
   * [Formative Modules](/network-portfolio/formative-modules/)
-  * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)**
+  * **[VIDEOS](/network-portfolio/videos/)**
   * [Study Diagrams](/network-portfolio/study-diagrams/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
