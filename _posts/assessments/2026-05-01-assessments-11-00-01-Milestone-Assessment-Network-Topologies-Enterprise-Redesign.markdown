@@ -74,7 +74,7 @@ This milestone assessment focuses on redesigning a growing enterprise network af
 
 ## Supporting Evidence
 
-**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
+> * ** Completed Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
 
 ---
 

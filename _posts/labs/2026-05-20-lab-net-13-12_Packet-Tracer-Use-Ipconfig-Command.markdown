@@ -119,7 +119,7 @@ allowfullscreen>
 
 ## Completed Lab Documentation
 
-**Completed Lab:** [View PDF]({{ page.completed_lab| relative_url }})
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 
 ---
 

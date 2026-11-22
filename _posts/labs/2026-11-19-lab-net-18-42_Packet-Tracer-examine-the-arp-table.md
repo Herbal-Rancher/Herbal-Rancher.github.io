@@ -52,7 +52,7 @@ video_id: ""
 video_url: ""
 thumbnail: ""
 
-completed_lab: ""
+completed_lab: "/assets/pdfs/module-18-lab-42-Packet-Tracer-Examine-the-ARP-Table.pdf"
 lab_pdf: ""
 permalink: /network-portfolio/videos/18-42-examine-the-arp-table/
 diagram: ""
@@ -84,7 +84,7 @@ Investigate how ARP resolves IPv4 next-hop addresses and how switches learn sour
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-**Completed Lab:** [View PDF]({{ page.completed_lab| relative_url }})
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 {% endif %}
 
 ---

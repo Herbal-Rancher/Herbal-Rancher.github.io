@@ -18,7 +18,7 @@ subcategory_display: Assessments & Discussions
 content_type: discussion
 content_type_display: Discussion
 
-pdf: /assets/pdfs/08.0-Discussion-Network-Security-Threats-Vulnerabilities.pdf
+pdf: /assets/pdfs/08-0-Discussion-Network-Security-Threats-Vulnerabilities.pdf
 permalink: /network-portfolio/formative-modules/lesson-08-0/discussion-troubleshooting-cabling-and-physical-interfaces/
 
 status: complete
@@ -66,7 +66,7 @@ A structured approach to diagnosing intermittent connectivity, slow network perf
 
 ## Supporting Evidence
 
-**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
+> * ** Completed Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
 
 ---
 

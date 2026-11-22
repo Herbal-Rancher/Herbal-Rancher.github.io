@@ -96,7 +96,7 @@ This milestone assessment presents a secure, scalable, and highly available ente
 
 ## Supporting Evidence
 
-**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
+> * ** Completed Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
 
 ---
 

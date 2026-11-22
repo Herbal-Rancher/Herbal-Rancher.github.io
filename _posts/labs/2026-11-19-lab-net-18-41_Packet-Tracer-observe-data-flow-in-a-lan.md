@@ -51,7 +51,7 @@ video_id: ""
 video_url: ""
 thumbnail: ""
 
-completed_lab: ""
+completed_lab: "/assets/pdfs/module-18-lab-41-Packet-Tracer-Observe-Data-Flow-in-a-LAN.pdf"
 lab_pdf: ""
 permalink: /network-portfolio/videos/18-41-observe-data-flow-in-a-lan/
 diagram: ""
@@ -83,7 +83,7 @@ Explore the movement of traffic through a small switched Ethernet LAN. Build a t
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-**Completed Lab:** [View PDF]({{ page.completed_lab| relative_url }})
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 {% endif %}
 
 ---

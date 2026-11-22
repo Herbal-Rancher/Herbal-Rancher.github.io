@@ -15,8 +15,8 @@ category_display: Technical Communication
 subcategory: assessments-discussions
 subcategory_display: Assessments & Discussions
 
-content_type: assessment-milestone
-content_type_display: Assessment Milestone
+content_type: assessment-summative
+content_type_display: Assessment Summative
 
 tags:
   - enterprise-network
@@ -36,7 +36,7 @@ video_id: "JACoLRf6YGw"
 video_url: "https://youtu.be/JACoLRf6YGw"
 thumbnail: "https://img.youtube.com/vi/JACoLRf6YGw/hqdefault.jpg"
 
-pdf: ""
+pdf: "/assets/pdfs/06-0-Summative-Assessment-Enterprise-Network-Technologies.pdf"
 
 topics:
   - ethernet-networking
@@ -98,7 +98,7 @@ The completed lab provides practical evidence of my understanding of enterprise 
 
 ## Supporting Evidence
 
-**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
+> * ** Completed Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
 
 ---
 

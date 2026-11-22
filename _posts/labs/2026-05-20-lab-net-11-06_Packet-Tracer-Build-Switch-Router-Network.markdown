@@ -32,7 +32,7 @@ permalink: /network-portfolio/labs/module-11-06/build-switch-router-network/
 
 status: complete
 
-pdf: "/assets/pdfs/Module-11-Lab-06-Packet-Tracer-Build-Switch-Router-Network.pdf"
+lab_pdf: "/assets/pdfs/Module-11-Lab-06-Packet-Tracer-Build-Switch-Router-Network.pdf"
 
 date: 2026-04-03 06:54:11 -0700
 
@@ -52,13 +52,19 @@ In this lab, I built a small network by connecting a router, switch, and two PCs
 <!--more-->
 ---
 
-# Network Topology
+## Network Topology
 
 <img src="{{ '/assets/images/packet-tracer/Build-Switch-Router-Network-table-image.jpg' | relative_url }}" sizes="medium">
 
 ---
 
-# Part 1: Connect Devices
+## Completed Lab Documentation
+
+> * **Completed Lab:** [View LAB PDF]({{ page.lab_pdf | relative_url }})
+
+---
+
+## Part 1: Connect Devices
 
 Connect:
 
@@ -70,7 +76,7 @@ Use proper Ethernet cables.
 
 ---
 
-# Part 2: Configure PC Addresses
+## Part 2: Configure PC Addresses
 
 Configure:
 
@@ -86,7 +92,7 @@ Configure:
 
 ---
 
-## Initial Connectivity Test
+### Initial Connectivity Test
 
 From PC-A:
 
@@ -98,7 +104,7 @@ Initial ping fails because router interfaces are not configured yet.
 
 ---
 
-# Part 3: Configure Router R1
+## Part 3: Configure Router R1
 
 Enter privileged mode:
 
@@ -147,7 +153,7 @@ banner motd "Unauthorized access is prohibited."
 
 ---
 
-## Configure Router Interfaces
+### Configure Router Interfaces
 
 Configure G0/0/0:
 
@@ -175,7 +181,7 @@ copy running-config startup-config
 
 ---
 
-# Verify Connectivity
+## Verify Connectivity
 
 From PC-A:
 
@@ -187,7 +193,7 @@ Pings should now succeed because the router is routing traffic between both netw
 
 ---
 
-# Part 4: Configure Switch S1
+## Part 4: Configure Switch S1
 
 Enter privileged mode:
 
@@ -236,7 +242,7 @@ banner motd "Unauthorized access is prohibited."
 
 ---
 
-## Configure VLAN 1 Management Interface
+### Configure VLAN 1 Management Interface
 
 ```bash
 interface vlan 1
@@ -259,7 +265,7 @@ copy running-config startup-config
 
 ---
 
-# Part 5: Display Device Information
+## Part 5: Display Device Information
 
 View IOS version:
 
@@ -299,7 +305,7 @@ show ip interface brief
 
 ---
 
-# Part 6: Configure SSH Remote Access
+## Part 6: Configure SSH Remote Access
 
 Configure domain name:
 
@@ -342,7 +348,7 @@ copy running-config startup-config
 
 ---
 
-# Part 7: Verify SSH Access
+## Part 7: Verify SSH Access
 
 From PC-A command prompt:
 
@@ -360,7 +366,7 @@ Successful login should place you at the R1 CLI remotely.
 
 ---
 
-# Troubleshooting
+## Troubleshooting
 
 If interfaces show:
 
@@ -402,7 +408,7 @@ Verify:
 
 ---
 
-# Commands Used (In Order)
+## Commands Used (In Order)
 
 ```bash
 enable
@@ -473,7 +479,7 @@ ssh -l SSHuser 192.168.1.1
 
 ---
 
-# Key Takeaways
+## Key Takeaways
 
 This lab combined:
 

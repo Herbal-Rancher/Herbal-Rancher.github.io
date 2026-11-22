@@ -34,7 +34,7 @@ permalink: /network-portfolio/labs/module-11-04/configure-initial-router-setting
 
 status: complete
 
-pdf: "/assets/pdfs/Module-11-Lab-04-Packet-Tracer-Configure-Initial-Router-Settings.pdf"
+lab_pdf: "/assets/pdfs/Module-11-Lab-04-Packet-Tracer-Configure-Initial-Router-Settings.pdf"
 
 date: 2026-04-03 04:44:11 -0700
 
@@ -61,6 +61,12 @@ Skills practiced:
 - Flash backups
 
 <!--more-->
+---
+
+## Completed Lab Documentation
+
+> * **Completed Lab:** [View LAB PDF]({{ page.lab_pdf | relative_url }})
+
 ---
 
 ## Step 1: Connect to R1 via Console

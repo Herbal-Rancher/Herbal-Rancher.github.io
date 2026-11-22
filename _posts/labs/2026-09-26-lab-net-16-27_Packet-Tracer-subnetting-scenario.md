@@ -99,7 +99,7 @@ is preconfigured.
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-- Note: [Completed Lab PDF may be available upon request]
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 {% endif %}
 
 ---

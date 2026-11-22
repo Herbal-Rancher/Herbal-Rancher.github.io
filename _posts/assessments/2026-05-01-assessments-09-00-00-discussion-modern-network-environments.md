@@ -66,7 +66,7 @@ An examination of IoT, cloud computing, SD-WAN, 5G, and AI and how these technol
 
 ## Supporting Evidence
 
-**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
+> * ** Completed Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
 
 ---
 

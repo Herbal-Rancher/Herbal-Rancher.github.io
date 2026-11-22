@@ -83,7 +83,7 @@ Build the supplied Packet Tracer topology by placing two 2960 switches and six P
 
 ## Completed Lab Documentation
 
-- Note: [Completed Lab PDF may be available upon request]
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 ---
 
 ## Key Observations

@@ -18,7 +18,7 @@ subcategory_display: Assessments & Discussions
 content_type: assessment-milestone
 content_type_display: Assessment Milestone
 
-pdf: /assets/pdfs/17-0-Milestone-Assessment-Basic-Network-Administration.pdf
+pdf: /assets/pdfs/17-0-Milestone-Assessment-Network-Troubleshooting.pdf
 permalink: /network-portfolio/formative-modules/lesson-17-0/milestone-basic-network-administration/
 
 status: complete
@@ -76,7 +76,7 @@ An enterprise network administration scenario focused on troubleshooting email, 
 
 ## Supporting Evidence
 
-**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
+> * ** Completed Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
 
 ---
 

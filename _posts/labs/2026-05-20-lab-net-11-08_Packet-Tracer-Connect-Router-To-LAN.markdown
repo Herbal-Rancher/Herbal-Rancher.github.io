@@ -66,6 +66,12 @@ This lab helped reinforce how routers connect multiple networks and how routing 
 
 ---
 
+## Completed Lab Documentation
+
+> * **Completed Lab:** [View LAB PDF]({{ page.lab_pdf | relative_url }})
+
+---
+
 # Part 1: Display Router Information
 
 Access R1:

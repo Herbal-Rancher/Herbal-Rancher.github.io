@@ -59,7 +59,7 @@ video_id: "lp7-v8yZmmk"
 video_url: "https://www.youtube.com/watch?v=lp7-v8yZmmk"
 thumbnail: "https://img.youtube.com/vi/lp7-v8yZmmk/hqdefault.jpg"
 
-completed_lab: ""
+completed_lab: "/assets/pdfs/module-18-lab-43-Packet-Tracer-TCP-and-UDP-Communications.pdf"
 lab_pdf: ""
 
 permalink: /network-portfolio/videos/18-43-tcp-and-udp-communications/
@@ -101,7 +101,7 @@ Use Packet Tracer Simulation Mode to observe simultaneous application traffic an
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-**Completed Lab:** [View PDF]({{ page.completed_lab| relative_url }})
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 {% endif %}
 
 <!-- Add the completed PDF asset path after the assignment is finished and exported. -->

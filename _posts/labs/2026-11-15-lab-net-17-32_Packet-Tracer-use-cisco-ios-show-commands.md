@@ -76,7 +76,7 @@ Explore the operational information available from a Cisco 4321 router at an ISP
 
 ## Completed Lab Documentation
 
-- Note: [Completed Lab PDF may be available upon request]
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 
 ---
 

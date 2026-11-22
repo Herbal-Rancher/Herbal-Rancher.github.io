@@ -78,7 +78,7 @@ Verify that a Packet Tracer client can reach a web server at `172.33.100.50`, th
 
 ## Completed Lab Documentation
 
-- Note: [Completed Lab PDF may be available upon request]
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 
 ---
 

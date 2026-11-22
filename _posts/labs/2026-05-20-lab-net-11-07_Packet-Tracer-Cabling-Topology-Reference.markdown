@@ -56,9 +56,15 @@ Rather than creating a full walkthrough, I documented the key concepts learned f
 <!--more-->
 ---
 
-# Cable Types
+## Completed Lab Documentation
 
-## Copper Straight-Through
+> * **Completed Lab:** [View LAB PDF]({{ page.lab_pdf | relative_url }})
+
+---
+
+## Cable Types
+
+### Copper Straight-Through
 
 Used for connecting **unlike devices**
 
@@ -71,7 +77,7 @@ Examples:
 
 ---
 
-## Copper Cross-Over
+### Copper Cross-Over
 
 Used for connecting **like devices**
 
@@ -89,7 +95,7 @@ Modern devices often support auto-MDIX, but older devices may still require cros
 
 ---
 
-## Serial Cable
+### Serial Cable
 
 Used for:
 
@@ -103,7 +109,7 @@ This simulated WAN connectivity between routers.
 
 ---
 
-## Console Cable
+### Console Cable
 
 Used for:
 
@@ -117,7 +123,7 @@ This allows direct CLI access without requiring network connectivity.
 
 ---
 
-## Coaxial Cable
+### Coaxial Cable
 
 Used for:
 
@@ -131,11 +137,11 @@ This simulated an internet service provider connection.
 
 ---
 
-# Logical vs Physical Topology
+## Logical vs Physical Topology
 
 ---
 
-## Logical Topology
+### Logical Topology
 
 Shows:
 
@@ -148,7 +154,7 @@ This is the default Packet Tracer view.
 
 ---
 
-## Physical Topology
+### Physical Topology
 
 Shows:
 
@@ -166,11 +172,11 @@ Shift + L
 
 ---
 
-# Network Layout Observations
+## Network Layout Observations
 
 ---
 
-## Enterprise Networks
+### Enterprise Networks
 
 Used:
 
@@ -185,7 +191,7 @@ Examples:
 
 ---
 
-## Home Networks
+### Home Networks
 
 Used:
 
@@ -199,7 +205,7 @@ Example:
 
 ---
 
-# Connectivity Testing
+## Connectivity Testing
 
 From Family PC:
 
@@ -226,7 +232,7 @@ Router# show ip interface brief
 
 ---
 
-# Key Takeaways
+## Key Takeaways
 
 This lab reinforced that networking is not only about IP addresses and configurations.
 

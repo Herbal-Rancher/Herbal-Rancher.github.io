@@ -53,7 +53,7 @@ video_id: ""
 video_url: ""
 thumbnail: ""
 
-completed_lab: ""
+completed_lab: "/assets/pdfs/module-18-lab-45-Packet-Tracer-Observe-Web-Request.pdf"
 lab_pdf: ""
 permalink: /network-portfolio/videos/18-45-observe-web-request/
 diagram: ""
@@ -85,7 +85,7 @@ Explore the network exchanges behind a web page request. Verify hostname resolut
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-**Completed Lab:** [View PDF]({{ page.completed_lab| relative_url }})
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 {% endif %}
 
 ---

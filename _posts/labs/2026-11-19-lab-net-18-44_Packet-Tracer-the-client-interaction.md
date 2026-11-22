@@ -50,7 +50,7 @@ video_id: ""
 video_url: ""
 thumbnail: ""
 
-completed_lab: ""
+completed_lab: "/assets/pdfs/module-18-lab-44-Packet-Tracer-The-Client-Interaction.pdf"
 lab_pdf: ""
 permalink: /network-portfolio/videos/18-44-the-client-interaction/
 diagram: ""
@@ -82,7 +82,7 @@ Follow a web request from a simulated PC to a server that provides DNS and HTTP 
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-**Completed Lab:** [View PDF]({{ page.completed_lab| relative_url }})
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 {% endif %}
 
 ---

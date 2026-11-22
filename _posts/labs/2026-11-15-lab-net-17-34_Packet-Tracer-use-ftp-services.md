@@ -78,7 +78,7 @@ Practice client–server file transfer using Packet Tracer FTP services. Connect
 
 ## Completed Lab Documentation
 
-- Note: [Completed Lab PDF may be available upon request]
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 
 ---
 

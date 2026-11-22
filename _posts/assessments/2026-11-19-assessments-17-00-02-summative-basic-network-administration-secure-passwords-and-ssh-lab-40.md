@@ -18,7 +18,7 @@ subcategory_display: Assessments & Discussions
 content_type: assessment-summative
 content_type_display: Assessment Summative
 
-pdf: /assets/pdfs/17-0-Summative-Assessment-Basic-Network-Administration.pdf
+pdf: /assets/pdfs/17-0-Summative-Assessment-Network-Troubleshooting.pdf
 permalink: /network-portfolio/formative-modules/lesson-17-0/summative-basic-network-administration-secure-passwords-and-ssh-lab-40/
 
 status: complete
@@ -66,7 +66,7 @@ A Cisco Packet Tracer security lab configuring router and switch access controls
 
 ## Supporting Evidence
 
-**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
+> * ** Completed Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
 
 ---
 

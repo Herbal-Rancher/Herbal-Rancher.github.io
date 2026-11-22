@@ -82,7 +82,7 @@ Diagnose connectivity problems across a three-router topology serving IPv4 and I
 
 ## Completed Lab Documentation
 
-- Note: [Completed Lab PDF may be available upon request]
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 
 ---
 

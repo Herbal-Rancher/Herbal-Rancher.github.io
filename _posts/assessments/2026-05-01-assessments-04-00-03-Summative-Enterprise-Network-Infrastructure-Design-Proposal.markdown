@@ -33,7 +33,7 @@ permalink: /network-portfolio/formative-modules/lesson-4-0/summative-network-inf
 
 status: complete
 
-pdf: "/assets/pdfs/04-0-Summative-Assessment-Network-Infrastructure-Design-Proposal.pdf"
+pdf: "/assets/pdfs/04-0-Summative-Assessment-Network-Troubleshooting.pdf"
 
 topics:
   - enterprise-network-design
@@ -86,7 +86,7 @@ This summative assessment presents a comprehensive enterprise network infrastruc
 
 ## Supporting Evidence
 
-**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
+> * ** Completed Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
 
 ---
 

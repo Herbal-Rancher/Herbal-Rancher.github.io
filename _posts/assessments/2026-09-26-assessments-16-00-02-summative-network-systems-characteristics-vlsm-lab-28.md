@@ -67,7 +67,7 @@ A Packet Tracer VLSM addressing exercise using the 10.1.1.0/24 network to design
 
 ## Supporting Evidence
 
-**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
+> * ** Completed Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
 
 ---
 

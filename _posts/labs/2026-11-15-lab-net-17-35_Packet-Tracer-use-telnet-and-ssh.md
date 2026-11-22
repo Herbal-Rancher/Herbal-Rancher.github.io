@@ -80,7 +80,7 @@ Verify DHCP addressing and connectivity to router HQ at `64.100.1.1`, then compa
 
 ## Completed Lab Documentation
 
-- Note: [Completed Lab PDF may be available upon request]
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 
 ---
 

@@ -29,7 +29,7 @@ tags:
 permalink: /network-portfolio/formative-modules/lesson-13-0/discussion-network-ip-addressing/
 status: complete
 
-pdf: "/assets/pdfs/4-0-Discussion-Network-Addressing-Schemes.pdf"
+pdf: "/assets/pdfs/04-0-Discussion-Network-Addressing-Schemes.pdf"
 
 topics:
   - troubleshooting
@@ -72,9 +72,18 @@ This discussion examines how networking tools and protocols are selected to diag
 
 ---
 
+## Discussion Details
+
+When a network experiences issues such as slow performance, connectivity drops, or security breaches, it is essential to 
+choose the appropriate tools and protocols to diagnose and resolve these problems effectively. The selection process should 
+consider several factors, consider that for this discussion.
+
+
+---
+
 ## Supporting Evidence
 
-**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
+> * ** Completed Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
 
 ---
 

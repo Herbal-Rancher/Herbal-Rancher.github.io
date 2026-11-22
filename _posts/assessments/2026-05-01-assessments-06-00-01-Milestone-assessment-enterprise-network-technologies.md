@@ -34,7 +34,7 @@ permalink: /network-portfolio/formative-modules/lesson-6-0/milestone-enterprise-
 
 status: complete
 
-pdf: "/assets/pdfs/6.0-Milestone-Assessment-Enterprise-Network-Technologies.pdf"
+pdf: "/assets/pdfs/06-0-Milestone-Assessment-Enterprise-Network-Technologies.pdf"
 
 topics:
   - enterprise-network-technologies
@@ -137,7 +137,7 @@ The enterprise design also demonstrates how switching features, common network p
 
 ## Supporting Evidence
 
-**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
+> * ** Completed Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
 
 ---
 

@@ -29,7 +29,7 @@ tags:
 permalink: /network-portfolio/formative-modules/lesson-3-0/discussion-physical-installation-considerations/
 status: complete
 
-pdf: "/assets/pdfs/03-0-Discussion_Physical-Installation-Considerations.pdf"
+pdf: "/assets/pdfs/03-0-Discussion_IP-Address-Subclasses.pdf"
 
 topics:
   - cable-management
@@ -59,10 +59,23 @@ This discussion examines important physical installation factors that directly i
 
 ---
 
+## Discussion Details
+
+When setting up a network, the physical installation of equipment plays a crucial role in the network's performance, reliability, and security.
+
+What are essential factors that must be considered when installing network components, focusing on areas such as cable management, environmental 
+conditions, physical security, and power supply . Consider how these factors impact overall network functionality, reliability, and ease of maintenance.
+
+* Cable Management: Can you provide examples of best practices for cable management in a server room?
+* Environmental Conditions: How do environmental conditions like temperature and humidity affect network equipment, and what measures can be taken to mitigate these effects?
+* Physical Security: Why is physical security important in a network setup, and what strategies can be implemented to ensure it?
+* Power Supply and UPS: Discuss the importance of an uninterruptible power supply (UPS) and its role in network reliability.
+
+---
+
 ## Supporting Evidence
 
-**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
-
+> * ** Completed Assessment PDF:** [View assessment]({{ page.pdf | relative_url }})
 ---
 
 ## Reflection

@@ -85,6 +85,12 @@ Goal: To establish full end-to-end connectivity across both networks using IPv4 
 
 ---
 
+## Completed Lab Documentation
+
+> * **Completed Lab:** [View LAB PDF]({{ page.lab_pdf | relative_url }})
+
+---
+
 ## Step 1: Review the Topology
 
 Before touching anything:

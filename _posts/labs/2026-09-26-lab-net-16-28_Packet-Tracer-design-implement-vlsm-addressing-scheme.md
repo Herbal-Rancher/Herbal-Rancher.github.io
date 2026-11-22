@@ -93,7 +93,7 @@ Design and implement a Variable Length Subnet Masking (VLSM) addressing scheme w
 
 ## Completed Lab Documentation
 
-
+> * **Completed Lab:** [View LAB PDF]({{ page.completed_lab | relative_url }})
 
 ---
 
