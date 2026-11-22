@@ -71,7 +71,7 @@ The assessment examines how each OSI layer contributes to communication, trouble
 
 ## Supporting Evidence
 
-Note: [This Assessment PDF may be available upon request]
+**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
 
 ---
 

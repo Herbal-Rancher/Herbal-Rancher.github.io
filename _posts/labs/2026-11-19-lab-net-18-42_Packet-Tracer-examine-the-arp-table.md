@@ -84,7 +84,7 @@ Investigate how ARP resolves IPv4 next-hop addresses and how switches learn sour
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-- Note: [Completed Lab PDF may be available upon request]
+**Completed Lab:** [View PDF]({{ page.completed_lab| relative_url }})
 {% endif %}
 
 ---

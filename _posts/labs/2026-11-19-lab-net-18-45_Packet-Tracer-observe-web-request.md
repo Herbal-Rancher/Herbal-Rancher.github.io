@@ -85,7 +85,7 @@ Explore the network exchanges behind a web page request. Verify hostname resolut
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-- Note: [Completed Lab PDF may be available upon request]
+**Completed Lab:** [View PDF]({{ page.completed_lab| relative_url }})
 {% endif %}
 
 ---

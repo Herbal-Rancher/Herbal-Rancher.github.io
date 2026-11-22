@@ -91,7 +91,7 @@ This summative assessment presents a secure and reliable switched network design
 
 ## Supporting Evidence
 
-Note: [This Assessment PDF may be available upon request]
+**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
 
 ---
 

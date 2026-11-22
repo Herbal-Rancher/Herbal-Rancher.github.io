@@ -73,7 +73,7 @@ A network monitoring scenario for a 250-employee professional-services company, 
 
 ## Supporting Evidence
 
-Note: [This Assessment PDF may be available upon request]
+**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
 
 ---
 

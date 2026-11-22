@@ -68,7 +68,7 @@ A comparison of fundamental security principles, appliances, applications, and p
 
 ## Supporting Evidence
 
-Note: [This Assessment PDF may be available upon request]
+**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
 
 ---
 

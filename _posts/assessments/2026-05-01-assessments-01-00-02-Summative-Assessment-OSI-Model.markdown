@@ -65,7 +65,7 @@ This summative assessment demonstrates understanding of the OSI model, network t
 
 ## Supporting Evidence
 
-Note: [This Assessment PDF may be available upon request]
+**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
 
 ---
 

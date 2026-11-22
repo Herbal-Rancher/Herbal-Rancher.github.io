@@ -83,7 +83,7 @@ Explore the movement of traffic through a small switched Ethernet LAN. Build a t
 ## Completed Lab Documentation
 
 {% if page.completed_lab != "" %}
-- Note: [Completed Lab PDF may be available upon request]
+**Completed Lab:** [View PDF]({{ page.completed_lab| relative_url }})
 {% endif %}
 
 ---

@@ -80,7 +80,7 @@ This milestone assessment documents a structured network incident tradeigation i
 
 ## Supporting Evidence
 
-Note: [This Assessment PDF may be available upon request]
+**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
 
 ---
 

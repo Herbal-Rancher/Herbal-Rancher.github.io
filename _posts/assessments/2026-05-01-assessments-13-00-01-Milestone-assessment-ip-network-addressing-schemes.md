@@ -91,7 +91,7 @@ identify, configure, segment, route, and troubleshoot network devices.
 
 ## Supporting Evidence
 
-#Note: [This Assessment PDF may be available upon request]
+#**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
 
 ---
 

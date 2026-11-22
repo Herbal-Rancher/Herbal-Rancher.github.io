@@ -66,7 +66,7 @@ A Cisco Packet Tracer security lab configuring router and switch access controls
 
 ## Supporting Evidence
 
-Note: [This Assessment PDF may be available upon request]
+**Completed Assessment:** [View PDF]({{ page.pdf | relative_url }})
 
 ---
 
