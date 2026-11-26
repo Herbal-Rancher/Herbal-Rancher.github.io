@@ -1,9 +1,24 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
+  {%- assign hr_path = page.path | downcase -%}
+  {%- assign hr_url = page.url | downcase -%}
+  {%- assign hr_theme = 'home' -%}
+  {%- if hr_path contains 'security-portfolio/' or hr_url contains '/security-portfolio/' or hr_path contains '_posts/security/' -%}
+    {%- assign hr_theme = 'security' -%}
+  {%- elsif hr_path contains 'bible/' or hr_url contains '/bible-study/' -%}
+    {%- assign hr_theme = 'bible' -%}
+  {%- elsif hr_path contains 'trading/' or hr_url contains '/trading/' -%}
+    {%- assign hr_theme = 'trading' -%}
+  {%- elsif hr_path contains 'network-portfolio/' or hr_url contains '/network-portfolio/' or hr_path contains '_posts/assessments/' or hr_path contains '_posts/labs/' or hr_path contains '_posts/videos/' or hr_path contains '_posts/diagrams/' or hr_path contains '_posts/test-prep/' -%}
+    {%- assign hr_theme = 'network' -%}
+  {%- endif -%}
+  {%- assign hr_theme = page.hr_theme | default: hr_theme -%}
+  {%- capture hr_head -%}{%- include head.html -%}{%- endcapture -%}
+  {%- capture hr_css -%}<link rel="stylesheet" href="{{ '/assets/css/hr-signature.css' | relative_url }}"></head>{%- endcapture -%}
+  {{ hr_head | replace: '</head>', hr_css }}
 
-  <body>
+  <body class="hr-theme-{{ hr_theme | escape }}">
 
     {%- include header.html -%}
 

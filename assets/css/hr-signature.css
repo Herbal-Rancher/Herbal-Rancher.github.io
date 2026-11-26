@@ -1,0 +1,22 @@
+/* Herbal Rancher signature identity. Dark and light theme compatible. */
+body { --hr-accent:#64283B; --hr-bright:#E8A9BA; }
+body.hr-theme-network { --hr-accent:#2563A6; --hr-bright:#91BDF2; }
+body.hr-theme-security { --hr-accent:#27835C; --hr-bright:#83D5AB; }
+body.hr-theme-bible { --hr-accent:#7952A0; --hr-bright:#C7A6F0; }
+body.hr-theme-trading { --hr-accent:#B58A35; --hr-bright:#E6C77F; }
+body .site-header { border-top:5px solid var(--hr-accent); }
+body .post-header { border-inline-start:5px solid var(--hr-accent); background:rgba(128,128,128,.06); background:color-mix(in srgb,var(--hr-accent) 11%,transparent); padding:1rem 1.25rem; border-radius:0 8px 8px 0; }
+body .post-header .post-title { margin-bottom:0; }
+body .page-content h2 { border-bottom:1px solid var(--hr-accent); padding-bottom:.25rem; }
+body .site-nav a[href*="/network-portfolio/"] { border-bottom:2px solid #2563A6; }
+body .site-nav a[href*="/security-portfolio/"] { border-bottom:2px solid #27835C; }
+body .site-nav a[href*="/bible-study/"] { border-bottom:2px solid #7952A0; }
+body .site-nav a[href*="/trading/"] { border-bottom:2px solid #B58A35; }
+body.hr-theme-network #hr-practice { border-top:4px solid var(--hr-accent); }
+body.hr-theme-network #hr-practice button:not(:disabled) { border-color:var(--hr-accent); }
+body #hr-practice button:focus-visible, body a:focus-visible { outline:2px solid var(--hr-bright); outline-offset:3px; }
+@media(max-width:600px){body .post-header{padding:.8rem 1rem;}}
+
+/* Keep the deep-wine signature visible against dark backgrounds. */
+body.hr-theme-home .site-header { border-top-color:#64283B; box-shadow:inset 0 1px 0 #C47B8C; }
+body.hr-theme-home .post-header { border-inline-start-color:#64283B; }
