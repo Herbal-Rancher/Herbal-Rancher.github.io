@@ -16,7 +16,8 @@ I'm an Information Technology student at Calbright College, documenting my journ
 
 My professional portfolio documents my journey through networking, cybersecurity, and technology studies as I develop practical skills through coursework, labs, projects, and hands-on troubleshooting.
 
-The **[NETWORK+ PORTFOLIO](/network-portfolio/)** currently serves as the foundation of this journey and will expand to include future cybersecurity studies and certification preparation.
+- **[NETWORK+ PORTFOLIO](/network-portfolio/)** — Networking education, labs, and Network+ certification preparation.
+- **[SECURITY+ PORTFOLIO](/security-portfolio/)** — Cybersecurity education, projects, and future Security+ certification preparation.
 
 ## Personal Learning Portfolio
 
@@ -51,6 +52,7 @@ If you're a California resident interested in technology careers, you may also w
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
+* [Security+](/security-portfolio/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/about/)

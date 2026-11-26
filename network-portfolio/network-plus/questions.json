@@ -1,0 +1,327 @@
+[
+  {
+    "id": "n10-1.1",
+    "objective": "1.1",
+    "prompt": "Which header is normally replaced at each routed Ethernet hop?",
+    "options": [
+      "Ethernet header",
+      "TCP header",
+      "Application payload",
+      "DNS record"
+    ],
+    "answer": 0,
+    "explanation": "Application data is carried by TCP segments or UDP datagrams, then IP packets, then link-layer frames. Routers replace link-layer headers at each routed hop; IP addresses normally persist absent NAT. TCP ports identify endpoints, not physical interfaces. TLS does not fit perfectly into one OSI layer."
+  },
+  {
+    "id": "n10-1.2",
+    "objective": "1.2",
+    "prompt": "Which storage architecture normally presents block devices to hosts?",
+    "options": [
+      "SAN",
+      "NAS",
+      "CDN",
+      "DNS"
+    ],
+    "answer": 0,
+    "explanation": "Switches learn source MAC addresses and forward frames; routers choose IP routes. A stateful firewall tracks connections; IDS alerts while IPS can block. NAS exposes file shares; SAN exposes block storage. Load balancers distribute requests and proxies mediate connections."
+  },
+  {
+    "id": "n10-1.3",
+    "objective": "1.3",
+    "prompt": "Which service model lets you manage the guest OS on a rented VM?",
+    "options": [
+      "IaaS",
+      "SaaS",
+      "PaaS",
+      "DNS"
+    ],
+    "answer": 0,
+    "explanation": "IaaS exposes virtual infrastructure, PaaS manages the runtime, SaaS delivers an application. A virtual private cloud isolates logical networks; route tables and security rules control connectivity. Public, private and hybrid deployment models differ from service models."
+  },
+  {
+    "id": "n10-1.4",
+    "objective": "1.4",
+    "prompt": "A DNS response is truncated over UDP. Which transport can the client retry on port 53?",
+    "options": [
+      "TCP",
+      "ICMP",
+      "GRE",
+      "ARP"
+    ],
+    "answer": 0,
+    "explanation": "TCP provides ordered reliable delivery; UDP does not guarantee delivery. DNS uses UDP and TCP 53; DHCPv4 uses UDP 67/68; SSH and SFTP use TCP 22; HTTPS commonly uses TCP 443 or UDP 443 for HTTP/3. ICMP and GRE use IP protocol numbers rather than transport ports."
+  },
+  {
+    "id": "n10-1.5",
+    "objective": "1.5",
+    "prompt": "Which medium is immune to electromagnetic interference along its transmission path?",
+    "options": [
+      "Optical fiber",
+      "UTP",
+      "Coaxial cable",
+      "Copper DAC"
+    ],
+    "answer": 0,
+    "explanation": "Copper Ethernet uses electrical signaling; fiber uses light. Single-mode fiber supports long distances; multimode commonly serves shorter links. Match transceiver wavelength, fiber type and link budget. DAC is useful for short rack connections. T568A and T568B specify pair placement."
+  },
+  {
+    "id": "n10-1.6",
+    "objective": "1.6",
+    "prompt": "Which architecture connects each leaf switch to every spine switch?",
+    "options": [
+      "Spine-leaf",
+      "Bus",
+      "Ring",
+      "Single hub"
+    ],
+    "answer": 0,
+    "explanation": "Star networks centralize connections; mesh provides multiple paths. Spine-leaf designs connect each leaf to each spine to provide predictable east-west paths. Three-tier campus designs separate access, distribution and core. Point-to-point links join two endpoints."
+  },
+  {
+    "id": "n10-1.7",
+    "objective": "1.7",
+    "prompt": "What is the network address of 192.168.10.77/26?",
+    "options": [
+      "192.168.10.64",
+      "192.168.10.0",
+      "192.168.10.77",
+      "192.168.10.128"
+    ],
+    "answer": 0,
+    "explanation": "IPv4 uses 32 bits. A /26 leaves six host bits: 64 addresses and normally 62 usable hosts. Network boundaries increment by 64 in the final octet. RFC1918 ranges are 10/8, 172.16/12 and 192.168/16; 169.254/16 is link-local. Longest prefix matching determines route specificity."
+  },
+  {
+    "id": "n10-1.8",
+    "objective": "1.8",
+    "prompt": "Which technology uses a VNI to identify an overlay segment?",
+    "options": [
+      "VXLAN",
+      "STP",
+      "ARP",
+      "NTP"
+    ],
+    "answer": 0,
+    "explanation": "SDN separates control decisions from forwarding; VXLAN encapsulates Layer 2 over Layer 3. Zero trust evaluates access explicitly; SASE combines network and security services. Infrastructure as code makes configuration repeatable. IPv6 uses 128-bit addresses, NDP and typically /64 LAN prefixes; dual stack runs both IP versions."
+  },
+  {
+    "id": "n10-2.1",
+    "objective": "2.1",
+    "prompt": "A /24 and /28 both match a destination. Which route wins first?",
+    "options": [
+      "/28",
+      "/24",
+      "Lowest hop count regardless of prefix",
+      "Oldest route"
+    ],
+    "answer": 0,
+    "explanation": "Routers choose longest matching prefixes before comparing route preferences for identical prefixes. OSPF is link-state, BGP is path-vector, EIGRP is advanced distance-vector. NAT changes addresses; PAT multiplexes flows using ports. A floating static route has a less preferred administrative distance."
+  },
+  {
+    "id": "n10-2.2",
+    "objective": "2.2",
+    "prompt": "Which protocol negotiates an Ethernet link aggregation group?",
+    "options": [
+      "LACP",
+      "DNS",
+      "OSPF",
+      "DHCP"
+    ],
+    "answer": 0,
+    "explanation": "Access ports normally carry one VLAN; trunks carry multiple VLANs using 802.1Q tags. STP prevents Layer 2 loops; LACP negotiates link aggregation. A Layer 3 interface or router is needed to route between VLANs. MTU mismatch can impair traffic."
+  },
+  {
+    "id": "n10-2.3",
+    "objective": "2.3",
+    "prompt": "Which action best addresses overlapping-channel interference?",
+    "options": [
+      "Plan nonoverlapping channels",
+      "Increase DHCP lease time",
+      "Change DNS server",
+      "Disable routing"
+    ],
+    "answer": 0,
+    "explanation": "Wi-Fi shares radio airtime. Channel width, interference, signal strength and client density affect performance. WPA3 provides modern authentication and encryption options; enterprise authentication commonly uses 802.1X. A site survey helps determine coverage and channel reuse."
+  },
+  {
+    "id": "n10-2.4",
+    "objective": "2.4",
+    "prompt": "Which device supplies temporary power during an outage?",
+    "options": [
+      "UPS",
+      "Patch panel",
+      "PDU alone",
+      "Transceiver"
+    ],
+    "answer": 0,
+    "explanation": "Plan rack space, power, cooling, grounding, cable paths and physical access. UPS supplies temporary power; PDU distributes power. Label both cable ends and document patch-panel mappings. Verify environmental limits and redundancy."
+  },
+  {
+    "id": "n10-3.1",
+    "objective": "3.1",
+    "prompt": "What should be prepared before a risky configuration change?",
+    "options": [
+      "Rollback plan",
+      "New SSID only",
+      "Incident closure",
+      "Delete baseline"
+    ],
+    "answer": 0,
+    "explanation": "Maintain physical and logical diagrams, IPAM, inventories, baselines and configuration backups. Changes require impact analysis, approval, validation and rollback planning. Track end-of-life and end-of-support separately."
+  },
+  {
+    "id": "n10-3.2",
+    "objective": "3.2",
+    "prompt": "Which tool provides packet-level protocol fields for analysis?",
+    "options": [
+      "Packet capture",
+      "Asset inventory",
+      "IPAM",
+      "Rack diagram"
+    ],
+    "answer": 0,
+    "explanation": "SNMP polls counters and receives notifications; syslog records events; flow telemetry summarizes conversations; packet captures show packet detail. Baselines distinguish normal variation from anomalies. SIEM correlates logs across sources."
+  },
+  {
+    "id": "n10-3.3",
+    "objective": "3.3",
+    "prompt": "Which metric specifies acceptable data loss in time?",
+    "options": [
+      "RPO",
+      "RTO",
+      "MTTR",
+      "MTBF"
+    ],
+    "answer": 0,
+    "explanation": "RPO is acceptable data loss measured in time; RTO is the target restoration time. Hot sites are more ready than cold sites. Redundancy reduces single points of failure but does not replace backups. Test recovery plans and validate restored services."
+  },
+  {
+    "id": "n10-3.4",
+    "objective": "3.4",
+    "prompt": "Which DNS record maps a hostname to IPv6?",
+    "options": [
+      "AAAA",
+      "A",
+      "MX",
+      "PTR"
+    ],
+    "answer": 0,
+    "explanation": "DHCPv4 uses Discover, Offer, Request, Acknowledge. Relays forward requests across routed boundaries. DNS A and AAAA records map names to IPv4 and IPv6; PTR supports reverse lookup. NTP synchronizes clocks. IPv6 SLAAC uses router advertisements."
+  },
+  {
+    "id": "n10-3.5",
+    "objective": "3.5",
+    "prompt": "Which approach allows management when the production network is down?",
+    "options": [
+      "Out-of-band management",
+      "Public Telnet",
+      "DNS round robin",
+      "Port mirroring alone"
+    ],
+    "answer": 0,
+    "explanation": "SSH protects remote CLI sessions; HTTPS protects web management. Out-of-band management uses a separate access path. VPNs provide protected tunnels; split tunneling routes only selected traffic through them. Restrict management access to authorized networks."
+  },
+  {
+    "id": "n10-4.1",
+    "objective": "4.1",
+    "prompt": "Which AAA function determines permitted actions?",
+    "options": [
+      "Authorization",
+      "Authentication",
+      "Accounting",
+      "Encryption"
+    ],
+    "answer": 0,
+    "explanation": "Confidentiality prevents unauthorized disclosure; integrity protects correctness; availability keeps services usable. Authentication establishes identity, authorization grants access, accounting records activity. PKI binds identities to public keys using certificates. Least privilege limits access."
+  },
+  {
+    "id": "n10-4.2",
+    "objective": "4.2",
+    "prompt": "Which attack associates a gateway IP with an unauthorized MAC address?",
+    "options": [
+      "ARP spoofing",
+      "DNS poisoning",
+      "Phishing",
+      "RF interference"
+    ],
+    "answer": 0,
+    "explanation": "ARP spoofing can redirect local traffic; rogue DHCP can supply false settings; DNS poisoning corrupts name resolution. DDoS exhausts resources; social engineering targets people. Investigate anomalies with logs and packet evidence; use segmentation and validated controls."
+  },
+  {
+    "id": "n10-4.3",
+    "objective": "4.3",
+    "prompt": "Which standard provides port-based network access authentication?",
+    "options": [
+      "802.1X",
+      "802.1Q",
+      "802.3ad",
+      "802.11ax"
+    ],
+    "answer": 0,
+    "explanation": "Disable unused services and ports, patch devices, restrict management, use ACLs and segmentation. 802.1X authenticates network access using a supplicant, authenticator and authentication server. MAC filtering alone is weak because addresses can be spoofed."
+  },
+  {
+    "id": "n10-5.1",
+    "objective": "5.1",
+    "prompt": "After a theory is confirmed, what comes next?",
+    "options": [
+      "Establish a plan of action",
+      "Close the ticket",
+      "Replace all devices",
+      "Skip verification"
+    ],
+    "answer": 0,
+    "explanation": "Identify the problem, establish a theory, test it, plan a solution, implement or escalate, verify functionality and preventive measures, document outcomes. If testing disproves a theory, establish a new one. Assess change impact before implementation."
+  },
+  {
+    "id": "n10-5.2",
+    "objective": "5.2",
+    "prompt": "Which tool measures received optical signal power?",
+    "options": [
+      "Optical power meter",
+      "Toner",
+      "Packet sniffer",
+      "DNS resolver"
+    ],
+    "answer": 0,
+    "explanation": "Check link state, cable seating, interface counters, speed and duplex, optics and power. CRC errors may indicate physical corruption. A cable certifier validates standards; a toner traces copper; an optical power meter measures received light."
+  },
+  {
+    "id": "n10-5.3",
+    "objective": "5.3",
+    "prompt": "A DHCP client self-assigns 169.254.12.4. What should be investigated first?",
+    "options": [
+      "DHCP reachability",
+      "BGP peering",
+      "TLS certificate expiration",
+      "NTP stratum"
+    ],
+    "answer": 0,
+    "explanation": "Check VLAN membership, trunk allowances, STP state, IP address, mask, gateway and route table. Duplicate addresses cause intermittent reachability. APIPA suggests a DHCP failure or unavailable server. Isolate scope before changing configuration."
+  },
+  {
+    "id": "n10-5.4",
+    "objective": "5.4",
+    "prompt": "Which metric most directly describes variation in packet arrival delay?",
+    "options": [
+      "Jitter",
+      "Bandwidth",
+      "MTU",
+      "TTL"
+    ],
+    "answer": 0,
+    "explanation": "Latency measures delay; jitter measures variation in delay; loss measures missing packets; throughput measures achieved rate. Congestion, interference and retransmissions reduce performance. Compare counters and measurements with baselines."
+  },
+  {
+    "id": "n10-5.5",
+    "objective": "5.5",
+    "prompt": "Which command directly queries DNS records?",
+    "options": [
+      "nslookup",
+      "arp",
+      "netstat",
+      "tracert"
+    ],
+    "answer": 0,
+    "explanation": "Ping tests ICMP reachability; traceroute reveals responding hops; nslookup or dig queries DNS; ipconfig or ip displays addressing; netstat or ss shows sockets. Cisco show interfaces reveals counters; show ip route shows routes. Use scanners only on authorized systems."
+  }
+]

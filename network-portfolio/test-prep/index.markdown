@@ -67,14 +67,11 @@ The goal is to make each study track repeatable:
   <div class="prep-card prep-card-future">
     <p class="prep-label">PLANNED</p>
     <h2>CompTIA Network+ Exam Prep</h2>
-    <p>Dedicated Network+ review, labs, domain drills, and exam simulations.</p>
+    <p>Dedicated Network+ review and domain drills.</p>
+    <p><a href="/network-portfolio/network-plus/">Open Network+ Study Center</a></p>
   </div>
 
-  <div class="prep-card prep-card-future">
-    <p class="prep-label">PLANNED</p>
-    <h2>CompTIA Security+ Exam Prep</h2>
-    <p>Dedicated Security+ review, security scenarios, domain drills, and exam simulations.</p>
-  </div>
+
 
 </div>
 
@@ -144,6 +141,7 @@ This keeps each certification or employment exam separate while allowing one con
   * [Study Diagrams](/network-portfolio/study-diagrams/)
   * **[NETWORK TEST READINESS LAB](/network-portfolio/network-test-readiness-lab/)**
   * [Network Troubleshooting Checklist](/network-portfolio/network-troubleshooting-checklist/)
+* [Security+](/security-portfolio/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/about/)
