@@ -18,7 +18,6 @@ subcategory_display: Reconnaissance
 content_type: video
 content_type_display: Assignment Video
 
-
 tags:
 
 - nmap
@@ -30,9 +29,9 @@ tags:
 permalink: /network-portfolio/videos/lab-7-2-8-scan-for-web-services-with-Nmap/
 status: complete
 
-video_id: "zwGWxiwK79o"
-video_url: "https://www.youtube.com/watch?v=zwGWxiwK79o"
-thumbnail: "https://img.youtube.com/vi/zwGWxiwK79o/hqdefault.jpg"
+video_id: "EIXQGfch_ms"
+video_url: "https://youtu.be/EIXQGfch_ms"
+thumbnail: "https://img.youtube.com/vi/EIXQGfch_ms/hqdefault.jpg"
 
 topics:
 
@@ -74,92 +73,58 @@ Watch the complete walkthrough:
 
 ---
 
-## Lab Objectives
+# Lab 7.2.8 — Scan for Web Services with Nmap
 
-In this lab:
+> Companion study guide for my TestOut lab walkthrough. This is an independently written learning resource, **not** a reproduction of TestOut's proprietary lab instructions. Exact screens, options and required settings depend on the lab version.
 
-* Perform a port scan against a target server
-* Identify open ports
-* Discover active network services
-* Analyze exposed services
-* Explore network reconnaissance techniques
+## Learning objectives
 
-Target Server:
+- Explain the purpose of scan for web services with nmap in network operations.
+- Apply the relevant configuration or analysis workflow in an authorized lab.
+- Verify results using observable evidence rather than assumptions.
+- Troubleshoot a failed or incomplete configuration safely.
 
-* 192.168.0.22
+## Core concepts
 
----
+**Focus:** Nmap. Connect this lab to least privilege, change control, documentation, and repeatable verification where applicable.
 
-## Technologies Used
+## Suggested hands-on workflow
 
-* Nmap
-* TCP/IP
-* Port Scanning
-* Service Discovery
-* Network Security
+1. **Record the baseline.** Note the device, interfaces, addressing, current configuration, and intended outcome.
+2. **Plan the change.** Identify dependencies, permissions, and a rollback approach.
+3. **Perform the lab task.** With authorization, scan the lab database server at 192.168.0.22 for HTTP/HTTPS service ports; interpret open/closed/filtered.
+4. **Verify.** Check the resulting configuration or packet evidence and test the expected behavior.
+5. **Document.** Capture redacted screenshots/output, observations, issues, and resolution.
+6. **Restore or save.** Save only approved changes; otherwise revert the lab environment.
 
----
+## Example commands or filters
 
-## Skills Practiced
+The following are **reference examples**, not guaranteed exact commands for this TestOut simulation. Run only those supported by your lab platform and replace placeholders with authorized values.
 
-### Network Reconnaissance
+```text
+nmap -sV -p 80,443 192.168.0.22
+nmap -Pn -p 80,443 192.168.0.22
+```
 
-Identify systems and services that are accessible on the network.
+## Verification checklist
 
-### Service Enumeration
+- [ ] Initial state and desired result documented
+- [ ] Configuration or capture completed without unintended side effects
+- [ ] Expected behavior confirmed with an independent check
+- [ ] Unexpected results investigated and explained
+- [ ] Screenshots or output sanitized before publication
+- [ ] Final state and lessons learned recorded
 
-Discover which services are actively listening for connections.
+## Troubleshooting prompts
 
-### Security Assessment
+- Is the correct device, adapter, scope, interface, zone, or traffic stream selected?
+- Are permissions, connectivity, and prerequisite services available?
+- Is a policy override, firewall, VLAN, or upstream dependency affecting results?
+- What single observation would distinguish a configuration issue from a connectivity issue?
 
-Evaluate exposed services and understand potential attack surfaces.
+## Security and operational notes
 
-### Troubleshooting
-
-Verify service availability and network communication.
-
----
-
-## Why This Lab Matters
-
-Network administrators and security analysts frequently use Nmap to discover systems, verify configurations, and identify exposed services.
-
-Understanding how to perform basic port scans helps build foundational skills in:
-
-* IT Support
-* Network Administration
-* Security Operations
-* Cybersecurity Analysis
-* Vulnerability Assessment
-
----
-
-## Key Takeaways
-
-This lab reinforced several important networking and security concepts:
-
-* Port scanning fundamentals
-* Service discovery techniques
-* Network visibility
-* Security reconnaissance
-* Attack surface awareness
-* Nmap command-line usage
-
----
-
-## Related Labs
-
-* Security | 8.2.8 Lab: Scan Using Zenmap
-* Security | 9.3.7 Lab: Poison ARP and Analyze with Wireshark
-* Security | 9.3.8 Lab: Spoof MAC Addresses with SMAC
-* Security | 9.3.9 Lab: Perform a DHCP Spoofing On-Path Attack
-
----
-
-## Continuing the Journey
-
-This lab is part of my CompTIA Network+ learning journey as I continue building hands-on networking, troubleshooting, security, and technical documentation skills through practical lab exercises and real-world scenarios.
-
+Scan only owned or explicitly authorized targets; service fingerprints are estimates.
 
 ---
 ---

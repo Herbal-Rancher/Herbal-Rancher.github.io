@@ -32,12 +32,14 @@ tags:
   - networking
   - network-plus
 
-
 permalink: /network-portfolio/labs/module-6-0/lab-6-6-6-use-nslookup/
 status: complete
 
-
 video: ""
+video_id: "fio2pcSi2SY"
+video_url: "https://youtu.be/fio2pcSi2SY"
+thumbnail: "https://img.youtube.com/vi/fio2pcSi2SY/hqdefault.jpg"
+
 pdf: ""
 diagram: ""
 
@@ -63,293 +65,59 @@ Watch the complete walkthrough:
 
 ---
 
-# Lab Objectives
+# Lab 6.6.6 — Use nslookup
 
-In this lab, I performed the following tasks:
+> Companion study guide for my TestOut lab walkthrough. This is an independently written learning resource, **not** a reproduction of TestOut's proprietary lab instructions. Exact screens, options and required settings depend on the lab version.
 
-- Query the default DNS server for the primary IP address of `corpnet.xyz`
-- Query the mail server (MX record) for `corpnet.xyz`
-- Verify DNS information using an external DNS server
+## Learning objectives
 
----
+- Explain the purpose of use nslookup in network operations.
+- Apply the relevant configuration or analysis workflow in an authorized lab.
+- Verify results using observable evidence rather than assumptions.
+- Troubleshoot a failed or incomplete configuration safely.
 
-# Windows to Linux Networking Command Conversion
+## Core concepts
 
-One of the biggest adjustments when moving from Windows to Linux networking is learning the modern Linux command equivalents.
+**Focus:** DNS troubleshooting. Connect this lab to least privilege, change control, documentation, and repeatable verification where applicable.
 
----
+## Suggested hands-on workflow
 
-## Show IP Configuration
+1. **Record the baseline.** Note the device, interfaces, addressing, current configuration, and intended outcome.
+2. **Plan the change.** Identify dependencies, permissions, and a rollback approach.
+3. **Perform the lab task.** Test forward and reverse lookups; identify which DNS server answered.
+4. **Verify.** Check the resulting configuration or packet evidence and test the expected behavior.
+5. **Document.** Capture redacted screenshots/output, observations, issues, and resolution.
+6. **Restore or save.** Save only approved changes; otherwise revert the lab environment.
 
-Windows:
+## Example commands or filters
 
-```powershell
-ipconfig
-````
-
-Linux:
-
-```bash
-ip addr
-```
-
-Short version:
-
-```bash
-ip a
-```
-
----
-
-## Show Detailed Network Information
-
-Windows:
-
-```powershell
-ipconfig /all
-```
-
-Linux:
-
-```bash
-ip addr
-ip route
-cat /etc/resolv.conf
-```
-
----
-
-## Show Routing Table
-
-Windows:
-
-```powershell
-route print
-```
-
-Linux:
-
-```bash
-ip route
-```
-
----
-
-## Flush DNS Cache
-
-Windows:
-
-```powershell
-ipconfig /flushdns
-```
-
-Linux:
-
-```bash
-resolvectl flush-caches
-```
-
----
-
-## Query DNS Records
-
-Windows:
-
-```powershell
-nslookup corpnet.xyz
-```
-
-Linux:
-
-```bash
-nslookup corpnet.xyz
-```
-
----
-
-## Test Connectivity
-
-Windows:
-
-```powershell
-ping 8.8.8.8
-```
-
-Linux:
-
-```bash
-ping 8.8.8.8
-```
-
----
-
-# Part 1: Query the Default DNS Server
-
----
-
-## Query the Primary IP Address
-
-```bash
-nslookup corpnet.xyz
-```
-
-This command queries the configured default DNS server and returns the IP address associated with the domain.
-
----
-
-# Part 2: Query the Mail Server (MX Record)
-
----
-
-## Query MX Records
-
-```bash
-nslookup -type=mx corpnet.xyz
-```
-
-This command identifies which mail server is responsible for handling email for the domain.
-
-Look for:
+The following are **reference examples**, not guaranteed exact commands for this TestOut simulation. Run only those supported by your lab platform and replace placeholders with authorized values.
 
 ```text
-mail exchanger
+nslookup example.com
+nslookup 8.8.8.8
+nslookup -type=MX example.com
 ```
 
-or:
+## Verification checklist
 
-```text
-MX preference
-```
+- [ ] Initial state and desired result documented
+- [ ] Configuration or capture completed without unintended side effects
+- [ ] Expected behavior confirmed with an independent check
+- [ ] Unexpected results investigated and explained
+- [ ] Screenshots or output sanitized before publication
+- [ ] Final state and lessons learned recorded
 
----
+## Troubleshooting prompts
 
-# Part 3: Verify Using an External DNS Server
+- Is the correct device, adapter, scope, interface, zone, or traffic stream selected?
+- Are permissions, connectivity, and prerequisite services available?
+- Is a policy override, firewall, VLAN, or upstream dependency affecting results?
+- What single observation would distinguish a configuration issue from a connectivity issue?
 
----
+## Security and operational notes
 
-## Query External DNS Server
-
-```bash
-nslookup corpnet.xyz ns1.nethost.net
-```
-
-This confirms the DNS records using an external authoritative DNS server rather than the locally configured resolver.
-
----
-
-# Common Linux Networking Commands
-
----
-
-## Show Network Interfaces
-
-```bash
-ip link
-```
-
----
-
-## Show IP Addresses
-
-```bash
-ip addr
-```
-
----
-
-## Show DNS Server Configuration
-
-```bash
-cat /etc/resolv.conf
-```
-
----
-
-## Show Active Connections
-
-```bash
-ss -tulnp
-```
-
----
-
-## Trace Network Path
-
-```bash
-traceroute google.com
-```
-
----
-
-# Troubleshooting
-
-If `nslookup` fails:
-
-Check:
-
-* network connectivity
-* DNS server configuration
-* interface status
-* routing table entries
-
----
-
-## Verify Connectivity
-
-```bash
-ping 8.8.8.8
-```
-
----
-
-## Verify DNS Server Configuration
-
-```bash
-cat /etc/resolv.conf
-```
-
----
-
-## Verify Routing Table
-
-```bash
-ip route
-```
-
----
-
-# Commands Used (In Order)
-
-```bash
-nslookup corpnet.xyz
-
-nslookup -type=mx corpnet.xyz
-
-nslookup corpnet.xyz ns1.nethost.net
-
-ip addr
-
-ip route
-
-cat /etc/resolv.conf
-
-ping 8.8.8.8
-```
-
----
-
-# Key Takeaways
-
-This lab reinforced:
-
-* DNS resolution
-* MX record identification
-* external DNS verification
-* Linux terminal networking commands
-* Windows to Linux command conversion
-
-This was one of my first labs where I began translating familiar Windows networking concepts into Linux administration workflows.
-
+Reverse lookup requires a PTR record and may not be configured.
 
 ---
 ---

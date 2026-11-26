@@ -49,9 +49,9 @@ permalink: /network-portfolio/videos/06-05-12-create-primary-secondary-dns-zones
 
 status: complete
 
-video_id: "IcGvzFyx5kE"
-video_url: "https://youtu.be/IcGvzFyx5kE"
-thumbnail: "https://img.youtube.com/vi/IcGvzFyx5kE/hqdefault.jpg"
+video_id: "_IYBWywrRSQ"
+video_url: "https://youtu.be/_IYBWywrRSQ"
+thumbnail: "https://img.youtube.com/vi/_IYBWywrRSQ/hqdefault.jpg"
 ---
 
 ## Overview
@@ -61,6 +61,20 @@ This guided walkthrough demonstrates how to create both primary and secondary fo
 <!--more-->
 
 The exercise introduces standard DNS zones, zone transfers, and the relationship between primary and secondary DNS servers in an enterprise environment.
+
+---
+
+## Preconditions
+
+The DNS server infrastructure has already been installed and configured.
+
+Use the lab instructions or environment image as a reference for:
+
+- Zone name
+- Master DNS server
+- Zone transfer settings
+
+![Create primary secondary dns zones image](/assets/images/labs/060512-create-standard-dns-zones-2.png)
 
 ---
 
@@ -82,135 +96,58 @@ Watch the complete walkthrough:
 
 ---
 
-## Preconditions
+# Lab 6.5.12 — Create Primary and Secondary DNS Zones
 
-The DNS server infrastructure has already been installed and configured.
+> Companion study guide for my TestOut lab walkthrough. This is an independently written learning resource, **not** a reproduction of TestOut's proprietary lab instructions. Exact screens, options and required settings depend on the lab version.
 
-Use the lab instructions or environment image as a reference for:
+## Learning objectives
 
-- Zone name
-- Master DNS server
-- Zone transfer settings
+- Explain the purpose of create primary and secondary dns zones in network operations.
+- Apply the relevant configuration or analysis workflow in an authorized lab.
+- Verify results using observable evidence rather than assumptions.
+- Troubleshoot a failed or incomplete configuration safely.
 
-![Create primary secondary dns zones image](/assets/images/labs/060512-create-standard-dns-zones-2.png)
+## Core concepts
 
----
+**Focus:** Windows Server DNS. Connect this lab to least privilege, change control, documentation, and repeatable verification where applicable.
 
-## Before You Begin
+## Suggested hands-on workflow
 
-DNS zones organize and store DNS records.
+1. **Record the baseline.** Note the device, interfaces, addressing, current configuration, and intended outcome.
+2. **Plan the change.** Identify dependencies, permissions, and a rollback approach.
+3. **Perform the lab task.** Create a primary zone on the authoritative server; permit transfers only to an approved secondary; create a secondary zone and verify SOA/NS and replication.
+4. **Verify.** Check the resulting configuration or packet evidence and test the expected behavior.
+5. **Document.** Capture redacted screenshots/output, observations, issues, and resolution.
+6. **Restore or save.** Save only approved changes; otherwise revert the lab environment.
 
-A **Primary Zone** contains the writable copy of the DNS database.
+## Example commands or filters
 
-A **Secondary Zone** stores a read-only copy obtained through zone transfers, providing redundancy and faster name resolution.
+The following are **reference examples**, not guaranteed exact commands for this TestOut simulation. Run only those supported by your lab platform and replace placeholders with authorized values.
 
----
+```text
+Get-DnsServerZone
+Get-DnsServerResourceRecord -ZoneName "example.internal"
+```
 
-## Objectives
+## Verification checklist
 
-In this walkthrough you will:
+- [ ] Initial state and desired result documented
+- [ ] Configuration or capture completed without unintended side effects
+- [ ] Expected behavior confirmed with an independent check
+- [ ] Unexpected results investigated and explained
+- [ ] Screenshots or output sanitized before publication
+- [ ] Final state and lessons learned recorded
 
-- Create a primary forward lookup zone.
-- Configure zone settings.
-- Allow zone transfers.
-- Create a secondary forward lookup zone.
-- Specify the master DNS server.
-- Verify successful zone replication.
+## Troubleshooting prompts
 
----
+- Is the correct device, adapter, scope, interface, zone, or traffic stream selected?
+- Are permissions, connectivity, and prerequisite services available?
+- Is a policy override, firewall, VLAN, or upstream dependency affecting results?
+- What single observation would distinguish a configuration issue from a connectivity issue?
 
-## Guided Walkthrough
+## Security and operational notes
 
-### Create the Primary Zone
-
-1. Open **DNS Manager**.
-2. Create a new **Primary Forward Lookup Zone**.
-3. Configure the required zone settings.
-4. Save the new zone.
-
----
-
-### Configure Zone Transfers
-
-1. Open the zone properties.
-2. Enable zone transfers.
-3. Apply the required transfer settings.
-
----
-
-### Create the Secondary Zone
-
-1. Create a new **Secondary Forward Lookup Zone**.
-2. Specify the master DNS server.
-3. Complete the wizard.
-4. Verify successful zone synchronization.
-
----
-
-## Verification
-
-Verify that:
-
-- The primary zone was created successfully.
-- Zone transfers are enabled.
-- The secondary zone loads correctly.
-- DNS records replicate successfully.
-
----
-
-## Skills Practiced
-
-- Windows Server Administration
-- DNS Administration
-- Primary DNS Zones
-- Secondary DNS Zones
-- Forward Lookup Zones
-- Zone Transfers
-- Enterprise DNS Configuration
-- Technical Documentation
-
----
-
-## Related Exercise
-
-Course Module
-
-- 4.0
-
-Original Exercise
-
-- Create Standard DNS Zones (Lab: 6.5.12)
-
----
-
-## Why This Matters
-
-Enterprise DNS environments commonly use multiple DNS servers for redundancy and performance.
-
-Understanding how primary and secondary zones work together helps administrators improve availability while reducing single points of failure.
-
----
-
-## Key Takeaways
-
-Primary and secondary DNS zones improve reliability by distributing DNS data across multiple servers. Properly configuring zone transfers ensures that secondary servers maintain accurate, read-only copies of the DNS database.
-
----
-
-## Related Resources
-
-Study Diagrams
-
-- DNS Resolution Process
-- Primary vs Secondary DNS Zones
-- Forward Lookup Zones
-
-Reference Tools
-
-- DNS Manager
-- nslookup
-- ipconfig /all
-
+Zone transfers should be restricted; avoid exposing internal zone data.
 
 
 ---
