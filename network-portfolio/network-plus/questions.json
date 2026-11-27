@@ -3848,5 +3848,3155 @@
     "answer": 0,
     "explanation": "Test-NetConnection can test TCP reachability; ipconfig displays settings, arp displays neighbor mappings and hostname identifies the local system.",
     "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-1.1-01",
+    "objective": "1.1",
+    "prompt": "Which concept matches this requirement: signal encoding and bit transmission?",
+    "options": [
+      "Physical layer",
+      "Data link layer",
+      "Network layer",
+      "Transport layer"
+    ],
+    "answer": 0,
+    "explanation": "Physical layer: Signal encoding and bit transmission; Data link layer: MAC addressing and frame delivery; Network layer: Logical addressing and routing; Transport layer: End-to-end port multiplexing and reliability.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.1-02",
+    "objective": "1.1",
+    "prompt": "Which description best distinguishes Physical layer from the alternatives?",
+    "options": [
+      "Signal encoding and bit transmission",
+      "MAC addressing and frame delivery",
+      "Logical addressing and routing",
+      "End-to-end port multiplexing and reliability"
+    ],
+    "answer": 0,
+    "explanation": "Physical layer: Signal encoding and bit transmission; Data link layer: MAC addressing and frame delivery; Network layer: Logical addressing and routing; Transport layer: End-to-end port multiplexing and reliability.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.1-03",
+    "objective": "1.1",
+    "prompt": "Which concept matches this requirement: mAC addressing and frame delivery?",
+    "options": [
+      "Data link layer",
+      "Physical layer",
+      "Network layer",
+      "Transport layer"
+    ],
+    "answer": 0,
+    "explanation": "Physical layer: Signal encoding and bit transmission; Data link layer: MAC addressing and frame delivery; Network layer: Logical addressing and routing; Transport layer: End-to-end port multiplexing and reliability.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.1-04",
+    "objective": "1.1",
+    "prompt": "Which description best distinguishes Data link layer from the alternatives?",
+    "options": [
+      "MAC addressing and frame delivery",
+      "Signal encoding and bit transmission",
+      "Logical addressing and routing",
+      "End-to-end port multiplexing and reliability"
+    ],
+    "answer": 0,
+    "explanation": "Physical layer: Signal encoding and bit transmission; Data link layer: MAC addressing and frame delivery; Network layer: Logical addressing and routing; Transport layer: End-to-end port multiplexing and reliability.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.1-05",
+    "objective": "1.1",
+    "prompt": "Which concept matches this requirement: logical addressing and routing?",
+    "options": [
+      "Network layer",
+      "Physical layer",
+      "Data link layer",
+      "Transport layer"
+    ],
+    "answer": 0,
+    "explanation": "Physical layer: Signal encoding and bit transmission; Data link layer: MAC addressing and frame delivery; Network layer: Logical addressing and routing; Transport layer: End-to-end port multiplexing and reliability.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.1-06",
+    "objective": "1.1",
+    "prompt": "Which description best distinguishes Network layer from the alternatives?",
+    "options": [
+      "Logical addressing and routing",
+      "Signal encoding and bit transmission",
+      "MAC addressing and frame delivery",
+      "End-to-end port multiplexing and reliability"
+    ],
+    "answer": 0,
+    "explanation": "Physical layer: Signal encoding and bit transmission; Data link layer: MAC addressing and frame delivery; Network layer: Logical addressing and routing; Transport layer: End-to-end port multiplexing and reliability.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.1-07",
+    "objective": "1.1",
+    "prompt": "Which concept matches this requirement: end-to-end port multiplexing and reliability?",
+    "options": [
+      "Transport layer",
+      "Physical layer",
+      "Data link layer",
+      "Network layer"
+    ],
+    "answer": 0,
+    "explanation": "Physical layer: Signal encoding and bit transmission; Data link layer: MAC addressing and frame delivery; Network layer: Logical addressing and routing; Transport layer: End-to-end port multiplexing and reliability.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.1-08",
+    "objective": "1.1",
+    "prompt": "Which description best distinguishes Transport layer from the alternatives?",
+    "options": [
+      "End-to-end port multiplexing and reliability",
+      "Signal encoding and bit transmission",
+      "MAC addressing and frame delivery",
+      "Logical addressing and routing"
+    ],
+    "answer": 0,
+    "explanation": "Physical layer: Signal encoding and bit transmission; Data link layer: MAC addressing and frame delivery; Network layer: Logical addressing and routing; Transport layer: End-to-end port multiplexing and reliability.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.1-09",
+    "objective": "1.1",
+    "prompt": "A colleague proposes Data link layer for a task that requires: signal encoding and bit transmission. Which alternative is the better match?",
+    "options": [
+      "Physical layer",
+      "Data link layer",
+      "Network layer",
+      "Transport layer"
+    ],
+    "answer": 0,
+    "explanation": "Physical layer: Signal encoding and bit transmission; Data link layer: MAC addressing and frame delivery; Network layer: Logical addressing and routing; Transport layer: End-to-end port multiplexing and reliability.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-1.2-01",
+    "objective": "1.2",
+    "prompt": "Which concept matches this requirement: tracks connection state to enforce policy?",
+    "options": [
+      "Stateful firewall",
+      "IDS",
+      "Load balancer",
+      "SAN"
+    ],
+    "answer": 0,
+    "explanation": "Stateful firewall: Tracks connection state to enforce policy; IDS: Alerts on suspicious traffic without inline blocking; Load balancer: Distributes client requests among healthy servers; SAN: Provides block-level storage access.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.2-02",
+    "objective": "1.2",
+    "prompt": "Which description best distinguishes Stateful firewall from the alternatives?",
+    "options": [
+      "Tracks connection state to enforce policy",
+      "Alerts on suspicious traffic without inline blocking",
+      "Distributes client requests among healthy servers",
+      "Provides block-level storage access"
+    ],
+    "answer": 0,
+    "explanation": "Stateful firewall: Tracks connection state to enforce policy; IDS: Alerts on suspicious traffic without inline blocking; Load balancer: Distributes client requests among healthy servers; SAN: Provides block-level storage access.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.2-03",
+    "objective": "1.2",
+    "prompt": "Which concept matches this requirement: alerts on suspicious traffic without inline blocking?",
+    "options": [
+      "IDS",
+      "Stateful firewall",
+      "Load balancer",
+      "SAN"
+    ],
+    "answer": 0,
+    "explanation": "Stateful firewall: Tracks connection state to enforce policy; IDS: Alerts on suspicious traffic without inline blocking; Load balancer: Distributes client requests among healthy servers; SAN: Provides block-level storage access.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.2-04",
+    "objective": "1.2",
+    "prompt": "Which description best distinguishes IDS from the alternatives?",
+    "options": [
+      "Alerts on suspicious traffic without inline blocking",
+      "Tracks connection state to enforce policy",
+      "Distributes client requests among healthy servers",
+      "Provides block-level storage access"
+    ],
+    "answer": 0,
+    "explanation": "Stateful firewall: Tracks connection state to enforce policy; IDS: Alerts on suspicious traffic without inline blocking; Load balancer: Distributes client requests among healthy servers; SAN: Provides block-level storage access.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.2-05",
+    "objective": "1.2",
+    "prompt": "Which concept matches this requirement: distributes client requests among healthy servers?",
+    "options": [
+      "Load balancer",
+      "Stateful firewall",
+      "IDS",
+      "SAN"
+    ],
+    "answer": 0,
+    "explanation": "Stateful firewall: Tracks connection state to enforce policy; IDS: Alerts on suspicious traffic without inline blocking; Load balancer: Distributes client requests among healthy servers; SAN: Provides block-level storage access.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.2-06",
+    "objective": "1.2",
+    "prompt": "Which description best distinguishes Load balancer from the alternatives?",
+    "options": [
+      "Distributes client requests among healthy servers",
+      "Tracks connection state to enforce policy",
+      "Alerts on suspicious traffic without inline blocking",
+      "Provides block-level storage access"
+    ],
+    "answer": 0,
+    "explanation": "Stateful firewall: Tracks connection state to enforce policy; IDS: Alerts on suspicious traffic without inline blocking; Load balancer: Distributes client requests among healthy servers; SAN: Provides block-level storage access.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.2-07",
+    "objective": "1.2",
+    "prompt": "Which concept matches this requirement: provides block-level storage access?",
+    "options": [
+      "SAN",
+      "Stateful firewall",
+      "IDS",
+      "Load balancer"
+    ],
+    "answer": 0,
+    "explanation": "Stateful firewall: Tracks connection state to enforce policy; IDS: Alerts on suspicious traffic without inline blocking; Load balancer: Distributes client requests among healthy servers; SAN: Provides block-level storage access.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.2-08",
+    "objective": "1.2",
+    "prompt": "Which description best distinguishes SAN from the alternatives?",
+    "options": [
+      "Provides block-level storage access",
+      "Tracks connection state to enforce policy",
+      "Alerts on suspicious traffic without inline blocking",
+      "Distributes client requests among healthy servers"
+    ],
+    "answer": 0,
+    "explanation": "Stateful firewall: Tracks connection state to enforce policy; IDS: Alerts on suspicious traffic without inline blocking; Load balancer: Distributes client requests among healthy servers; SAN: Provides block-level storage access.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.2-09",
+    "objective": "1.2",
+    "prompt": "A colleague proposes IDS for a task that requires: tracks connection state to enforce policy. Which alternative is the better match?",
+    "options": [
+      "Stateful firewall",
+      "IDS",
+      "Load balancer",
+      "SAN"
+    ],
+    "answer": 0,
+    "explanation": "Stateful firewall: Tracks connection state to enforce policy; IDS: Alerts on suspicious traffic without inline blocking; Load balancer: Distributes client requests among healthy servers; SAN: Provides block-level storage access.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-1.3-01",
+    "objective": "1.3",
+    "prompt": "Which concept matches this requirement: customer manages guest operating systems?",
+    "options": [
+      "IaaS",
+      "PaaS",
+      "SaaS",
+      "Private endpoint"
+    ],
+    "answer": 0,
+    "explanation": "IaaS: Customer manages guest operating systems; PaaS: Provider manages runtime and underlying infrastructure; SaaS: Customer consumes a hosted application; Private endpoint: Accesses a cloud service through private addressing.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.3-02",
+    "objective": "1.3",
+    "prompt": "Which description best distinguishes IaaS from the alternatives?",
+    "options": [
+      "Customer manages guest operating systems",
+      "Provider manages runtime and underlying infrastructure",
+      "Customer consumes a hosted application",
+      "Accesses a cloud service through private addressing"
+    ],
+    "answer": 0,
+    "explanation": "IaaS: Customer manages guest operating systems; PaaS: Provider manages runtime and underlying infrastructure; SaaS: Customer consumes a hosted application; Private endpoint: Accesses a cloud service through private addressing.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.3-03",
+    "objective": "1.3",
+    "prompt": "Which concept matches this requirement: provider manages runtime and underlying infrastructure?",
+    "options": [
+      "PaaS",
+      "IaaS",
+      "SaaS",
+      "Private endpoint"
+    ],
+    "answer": 0,
+    "explanation": "IaaS: Customer manages guest operating systems; PaaS: Provider manages runtime and underlying infrastructure; SaaS: Customer consumes a hosted application; Private endpoint: Accesses a cloud service through private addressing.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.3-04",
+    "objective": "1.3",
+    "prompt": "Which description best distinguishes PaaS from the alternatives?",
+    "options": [
+      "Provider manages runtime and underlying infrastructure",
+      "Customer manages guest operating systems",
+      "Customer consumes a hosted application",
+      "Accesses a cloud service through private addressing"
+    ],
+    "answer": 0,
+    "explanation": "IaaS: Customer manages guest operating systems; PaaS: Provider manages runtime and underlying infrastructure; SaaS: Customer consumes a hosted application; Private endpoint: Accesses a cloud service through private addressing.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.3-05",
+    "objective": "1.3",
+    "prompt": "Which concept matches this requirement: customer consumes a hosted application?",
+    "options": [
+      "SaaS",
+      "IaaS",
+      "PaaS",
+      "Private endpoint"
+    ],
+    "answer": 0,
+    "explanation": "IaaS: Customer manages guest operating systems; PaaS: Provider manages runtime and underlying infrastructure; SaaS: Customer consumes a hosted application; Private endpoint: Accesses a cloud service through private addressing.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.3-06",
+    "objective": "1.3",
+    "prompt": "Which description best distinguishes SaaS from the alternatives?",
+    "options": [
+      "Customer consumes a hosted application",
+      "Customer manages guest operating systems",
+      "Provider manages runtime and underlying infrastructure",
+      "Accesses a cloud service through private addressing"
+    ],
+    "answer": 0,
+    "explanation": "IaaS: Customer manages guest operating systems; PaaS: Provider manages runtime and underlying infrastructure; SaaS: Customer consumes a hosted application; Private endpoint: Accesses a cloud service through private addressing.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.3-07",
+    "objective": "1.3",
+    "prompt": "Which concept matches this requirement: accesses a cloud service through private addressing?",
+    "options": [
+      "Private endpoint",
+      "IaaS",
+      "PaaS",
+      "SaaS"
+    ],
+    "answer": 0,
+    "explanation": "IaaS: Customer manages guest operating systems; PaaS: Provider manages runtime and underlying infrastructure; SaaS: Customer consumes a hosted application; Private endpoint: Accesses a cloud service through private addressing.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.3-08",
+    "objective": "1.3",
+    "prompt": "Which description best distinguishes Private endpoint from the alternatives?",
+    "options": [
+      "Accesses a cloud service through private addressing",
+      "Customer manages guest operating systems",
+      "Provider manages runtime and underlying infrastructure",
+      "Customer consumes a hosted application"
+    ],
+    "answer": 0,
+    "explanation": "IaaS: Customer manages guest operating systems; PaaS: Provider manages runtime and underlying infrastructure; SaaS: Customer consumes a hosted application; Private endpoint: Accesses a cloud service through private addressing.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.3-09",
+    "objective": "1.3",
+    "prompt": "A colleague proposes PaaS for a task that requires: customer manages guest operating systems. Which alternative is the better match?",
+    "options": [
+      "IaaS",
+      "PaaS",
+      "SaaS",
+      "Private endpoint"
+    ],
+    "answer": 0,
+    "explanation": "IaaS: Customer manages guest operating systems; PaaS: Provider manages runtime and underlying infrastructure; SaaS: Customer consumes a hosted application; Private endpoint: Accesses a cloud service through private addressing.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-1.4-01",
+    "objective": "1.4",
+    "prompt": "Which concept matches this requirement: resolves names using port 53?",
+    "options": [
+      "DNS",
+      "SSH",
+      "SNMP",
+      "NTP"
+    ],
+    "answer": 0,
+    "explanation": "DNS: Resolves names using port 53; SSH: Encrypted remote shell on TCP 22; SNMP: Queries device management data on UDP 161; NTP: Synchronizes clocks using UDP 123.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.4-02",
+    "objective": "1.4",
+    "prompt": "Which description best distinguishes DNS from the alternatives?",
+    "options": [
+      "Resolves names using port 53",
+      "Encrypted remote shell on TCP 22",
+      "Queries device management data on UDP 161",
+      "Synchronizes clocks using UDP 123"
+    ],
+    "answer": 0,
+    "explanation": "DNS: Resolves names using port 53; SSH: Encrypted remote shell on TCP 22; SNMP: Queries device management data on UDP 161; NTP: Synchronizes clocks using UDP 123.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.4-03",
+    "objective": "1.4",
+    "prompt": "Which concept matches this requirement: encrypted remote shell on TCP 22?",
+    "options": [
+      "SSH",
+      "DNS",
+      "SNMP",
+      "NTP"
+    ],
+    "answer": 0,
+    "explanation": "DNS: Resolves names using port 53; SSH: Encrypted remote shell on TCP 22; SNMP: Queries device management data on UDP 161; NTP: Synchronizes clocks using UDP 123.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.4-04",
+    "objective": "1.4",
+    "prompt": "Which description best distinguishes SSH from the alternatives?",
+    "options": [
+      "Encrypted remote shell on TCP 22",
+      "Resolves names using port 53",
+      "Queries device management data on UDP 161",
+      "Synchronizes clocks using UDP 123"
+    ],
+    "answer": 0,
+    "explanation": "DNS: Resolves names using port 53; SSH: Encrypted remote shell on TCP 22; SNMP: Queries device management data on UDP 161; NTP: Synchronizes clocks using UDP 123.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.4-05",
+    "objective": "1.4",
+    "prompt": "Which concept matches this requirement: queries device management data on UDP 161?",
+    "options": [
+      "SNMP",
+      "DNS",
+      "SSH",
+      "NTP"
+    ],
+    "answer": 0,
+    "explanation": "DNS: Resolves names using port 53; SSH: Encrypted remote shell on TCP 22; SNMP: Queries device management data on UDP 161; NTP: Synchronizes clocks using UDP 123.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.4-06",
+    "objective": "1.4",
+    "prompt": "Which description best distinguishes SNMP from the alternatives?",
+    "options": [
+      "Queries device management data on UDP 161",
+      "Resolves names using port 53",
+      "Encrypted remote shell on TCP 22",
+      "Synchronizes clocks using UDP 123"
+    ],
+    "answer": 0,
+    "explanation": "DNS: Resolves names using port 53; SSH: Encrypted remote shell on TCP 22; SNMP: Queries device management data on UDP 161; NTP: Synchronizes clocks using UDP 123.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.4-07",
+    "objective": "1.4",
+    "prompt": "Which concept matches this requirement: synchronizes clocks using UDP 123?",
+    "options": [
+      "NTP",
+      "DNS",
+      "SSH",
+      "SNMP"
+    ],
+    "answer": 0,
+    "explanation": "DNS: Resolves names using port 53; SSH: Encrypted remote shell on TCP 22; SNMP: Queries device management data on UDP 161; NTP: Synchronizes clocks using UDP 123.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.4-08",
+    "objective": "1.4",
+    "prompt": "Which description best distinguishes NTP from the alternatives?",
+    "options": [
+      "Synchronizes clocks using UDP 123",
+      "Resolves names using port 53",
+      "Encrypted remote shell on TCP 22",
+      "Queries device management data on UDP 161"
+    ],
+    "answer": 0,
+    "explanation": "DNS: Resolves names using port 53; SSH: Encrypted remote shell on TCP 22; SNMP: Queries device management data on UDP 161; NTP: Synchronizes clocks using UDP 123.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.4-09",
+    "objective": "1.4",
+    "prompt": "A colleague proposes SSH for a task that requires: resolves names using port 53. Which alternative is the better match?",
+    "options": [
+      "DNS",
+      "SSH",
+      "SNMP",
+      "NTP"
+    ],
+    "answer": 0,
+    "explanation": "DNS: Resolves names using port 53; SSH: Encrypted remote shell on TCP 22; SNMP: Queries device management data on UDP 161; NTP: Synchronizes clocks using UDP 123.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-1.5-01",
+    "objective": "1.5",
+    "prompt": "Which concept matches this requirement: long-distance optical links with narrow core?",
+    "options": [
+      "Single-mode fiber",
+      "Multimode fiber",
+      "Twinax DAC",
+      "Cat 6A"
+    ],
+    "answer": 0,
+    "explanation": "Single-mode fiber: Long-distance optical links with narrow core; Multimode fiber: Shorter optical links with multiple propagation modes; Twinax DAC: Short direct copper connection between compatible ports; Cat 6A: Balanced copper supporting 10GBASE-T up to 100 meters.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.5-02",
+    "objective": "1.5",
+    "prompt": "Which description best distinguishes Single-mode fiber from the alternatives?",
+    "options": [
+      "Long-distance optical links with narrow core",
+      "Shorter optical links with multiple propagation modes",
+      "Short direct copper connection between compatible ports",
+      "Balanced copper supporting 10GBASE-T up to 100 meters"
+    ],
+    "answer": 0,
+    "explanation": "Single-mode fiber: Long-distance optical links with narrow core; Multimode fiber: Shorter optical links with multiple propagation modes; Twinax DAC: Short direct copper connection between compatible ports; Cat 6A: Balanced copper supporting 10GBASE-T up to 100 meters.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.5-03",
+    "objective": "1.5",
+    "prompt": "Which concept matches this requirement: shorter optical links with multiple propagation modes?",
+    "options": [
+      "Multimode fiber",
+      "Single-mode fiber",
+      "Twinax DAC",
+      "Cat 6A"
+    ],
+    "answer": 0,
+    "explanation": "Single-mode fiber: Long-distance optical links with narrow core; Multimode fiber: Shorter optical links with multiple propagation modes; Twinax DAC: Short direct copper connection between compatible ports; Cat 6A: Balanced copper supporting 10GBASE-T up to 100 meters.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.5-04",
+    "objective": "1.5",
+    "prompt": "Which description best distinguishes Multimode fiber from the alternatives?",
+    "options": [
+      "Shorter optical links with multiple propagation modes",
+      "Long-distance optical links with narrow core",
+      "Short direct copper connection between compatible ports",
+      "Balanced copper supporting 10GBASE-T up to 100 meters"
+    ],
+    "answer": 0,
+    "explanation": "Single-mode fiber: Long-distance optical links with narrow core; Multimode fiber: Shorter optical links with multiple propagation modes; Twinax DAC: Short direct copper connection between compatible ports; Cat 6A: Balanced copper supporting 10GBASE-T up to 100 meters.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.5-05",
+    "objective": "1.5",
+    "prompt": "Which concept matches this requirement: short direct copper connection between compatible ports?",
+    "options": [
+      "Twinax DAC",
+      "Single-mode fiber",
+      "Multimode fiber",
+      "Cat 6A"
+    ],
+    "answer": 0,
+    "explanation": "Single-mode fiber: Long-distance optical links with narrow core; Multimode fiber: Shorter optical links with multiple propagation modes; Twinax DAC: Short direct copper connection between compatible ports; Cat 6A: Balanced copper supporting 10GBASE-T up to 100 meters.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.5-06",
+    "objective": "1.5",
+    "prompt": "Which description best distinguishes Twinax DAC from the alternatives?",
+    "options": [
+      "Short direct copper connection between compatible ports",
+      "Long-distance optical links with narrow core",
+      "Shorter optical links with multiple propagation modes",
+      "Balanced copper supporting 10GBASE-T up to 100 meters"
+    ],
+    "answer": 0,
+    "explanation": "Single-mode fiber: Long-distance optical links with narrow core; Multimode fiber: Shorter optical links with multiple propagation modes; Twinax DAC: Short direct copper connection between compatible ports; Cat 6A: Balanced copper supporting 10GBASE-T up to 100 meters.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.5-07",
+    "objective": "1.5",
+    "prompt": "Which concept matches this requirement: balanced copper supporting 10GBASE-T up to 100 meters?",
+    "options": [
+      "Cat 6A",
+      "Single-mode fiber",
+      "Multimode fiber",
+      "Twinax DAC"
+    ],
+    "answer": 0,
+    "explanation": "Single-mode fiber: Long-distance optical links with narrow core; Multimode fiber: Shorter optical links with multiple propagation modes; Twinax DAC: Short direct copper connection between compatible ports; Cat 6A: Balanced copper supporting 10GBASE-T up to 100 meters.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.5-08",
+    "objective": "1.5",
+    "prompt": "Which description best distinguishes Cat 6A from the alternatives?",
+    "options": [
+      "Balanced copper supporting 10GBASE-T up to 100 meters",
+      "Long-distance optical links with narrow core",
+      "Shorter optical links with multiple propagation modes",
+      "Short direct copper connection between compatible ports"
+    ],
+    "answer": 0,
+    "explanation": "Single-mode fiber: Long-distance optical links with narrow core; Multimode fiber: Shorter optical links with multiple propagation modes; Twinax DAC: Short direct copper connection between compatible ports; Cat 6A: Balanced copper supporting 10GBASE-T up to 100 meters.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.5-09",
+    "objective": "1.5",
+    "prompt": "A colleague proposes Multimode fiber for a task that requires: long-distance optical links with narrow core. Which alternative is the better match?",
+    "options": [
+      "Single-mode fiber",
+      "Multimode fiber",
+      "Twinax DAC",
+      "Cat 6A"
+    ],
+    "answer": 0,
+    "explanation": "Single-mode fiber: Long-distance optical links with narrow core; Multimode fiber: Shorter optical links with multiple propagation modes; Twinax DAC: Short direct copper connection between compatible ports; Cat 6A: Balanced copper supporting 10GBASE-T up to 100 meters.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-1.6-01",
+    "objective": "1.6",
+    "prompt": "Which concept matches this requirement: predictable east-west paths through spine switches?",
+    "options": [
+      "Spine-leaf",
+      "Star",
+      "Mesh",
+      "Three-tier"
+    ],
+    "answer": 0,
+    "explanation": "Spine-leaf: Predictable east-west paths through spine switches; Star: Endpoints connect to a central device; Mesh: Multiple alternate paths between nodes; Three-tier: Access distribution and core layers.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.6-02",
+    "objective": "1.6",
+    "prompt": "Which description best distinguishes Spine-leaf from the alternatives?",
+    "options": [
+      "Predictable east-west paths through spine switches",
+      "Endpoints connect to a central device",
+      "Multiple alternate paths between nodes",
+      "Access distribution and core layers"
+    ],
+    "answer": 0,
+    "explanation": "Spine-leaf: Predictable east-west paths through spine switches; Star: Endpoints connect to a central device; Mesh: Multiple alternate paths between nodes; Three-tier: Access distribution and core layers.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.6-03",
+    "objective": "1.6",
+    "prompt": "Which concept matches this requirement: endpoints connect to a central device?",
+    "options": [
+      "Star",
+      "Spine-leaf",
+      "Mesh",
+      "Three-tier"
+    ],
+    "answer": 0,
+    "explanation": "Spine-leaf: Predictable east-west paths through spine switches; Star: Endpoints connect to a central device; Mesh: Multiple alternate paths between nodes; Three-tier: Access distribution and core layers.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.6-04",
+    "objective": "1.6",
+    "prompt": "Which description best distinguishes Star from the alternatives?",
+    "options": [
+      "Endpoints connect to a central device",
+      "Predictable east-west paths through spine switches",
+      "Multiple alternate paths between nodes",
+      "Access distribution and core layers"
+    ],
+    "answer": 0,
+    "explanation": "Spine-leaf: Predictable east-west paths through spine switches; Star: Endpoints connect to a central device; Mesh: Multiple alternate paths between nodes; Three-tier: Access distribution and core layers.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.6-05",
+    "objective": "1.6",
+    "prompt": "Which concept matches this requirement: multiple alternate paths between nodes?",
+    "options": [
+      "Mesh",
+      "Spine-leaf",
+      "Star",
+      "Three-tier"
+    ],
+    "answer": 0,
+    "explanation": "Spine-leaf: Predictable east-west paths through spine switches; Star: Endpoints connect to a central device; Mesh: Multiple alternate paths between nodes; Three-tier: Access distribution and core layers.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.6-06",
+    "objective": "1.6",
+    "prompt": "Which description best distinguishes Mesh from the alternatives?",
+    "options": [
+      "Multiple alternate paths between nodes",
+      "Predictable east-west paths through spine switches",
+      "Endpoints connect to a central device",
+      "Access distribution and core layers"
+    ],
+    "answer": 0,
+    "explanation": "Spine-leaf: Predictable east-west paths through spine switches; Star: Endpoints connect to a central device; Mesh: Multiple alternate paths between nodes; Three-tier: Access distribution and core layers.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.6-07",
+    "objective": "1.6",
+    "prompt": "Which concept matches this requirement: access distribution and core layers?",
+    "options": [
+      "Three-tier",
+      "Spine-leaf",
+      "Star",
+      "Mesh"
+    ],
+    "answer": 0,
+    "explanation": "Spine-leaf: Predictable east-west paths through spine switches; Star: Endpoints connect to a central device; Mesh: Multiple alternate paths between nodes; Three-tier: Access distribution and core layers.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.6-08",
+    "objective": "1.6",
+    "prompt": "Which description best distinguishes Three-tier from the alternatives?",
+    "options": [
+      "Access distribution and core layers",
+      "Predictable east-west paths through spine switches",
+      "Endpoints connect to a central device",
+      "Multiple alternate paths between nodes"
+    ],
+    "answer": 0,
+    "explanation": "Spine-leaf: Predictable east-west paths through spine switches; Star: Endpoints connect to a central device; Mesh: Multiple alternate paths between nodes; Three-tier: Access distribution and core layers.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.6-09",
+    "objective": "1.6",
+    "prompt": "A colleague proposes Star for a task that requires: predictable east-west paths through spine switches. Which alternative is the better match?",
+    "options": [
+      "Spine-leaf",
+      "Star",
+      "Mesh",
+      "Three-tier"
+    ],
+    "answer": 0,
+    "explanation": "Spine-leaf: Predictable east-west paths through spine switches; Star: Endpoints connect to a central device; Mesh: Multiple alternate paths between nodes; Three-tier: Access distribution and core layers.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-1.7-01",
+    "objective": "1.7",
+    "prompt": "Which concept matches this requirement: private IPv4 address space not globally routed?",
+    "options": [
+      "RFC 1918",
+      "APIPA",
+      "CIDR",
+      "VLSM"
+    ],
+    "answer": 0,
+    "explanation": "RFC 1918: Private IPv4 address space not globally routed; APIPA: Self-assigned IPv4 link-local address in 169.254/16; CIDR: Prefix length describes network bits; VLSM: Different prefix lengths allocate different subnet sizes.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.7-02",
+    "objective": "1.7",
+    "prompt": "Which description best distinguishes RFC 1918 from the alternatives?",
+    "options": [
+      "Private IPv4 address space not globally routed",
+      "Self-assigned IPv4 link-local address in 169.254/16",
+      "Prefix length describes network bits",
+      "Different prefix lengths allocate different subnet sizes"
+    ],
+    "answer": 0,
+    "explanation": "RFC 1918: Private IPv4 address space not globally routed; APIPA: Self-assigned IPv4 link-local address in 169.254/16; CIDR: Prefix length describes network bits; VLSM: Different prefix lengths allocate different subnet sizes.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.7-03",
+    "objective": "1.7",
+    "prompt": "Which concept matches this requirement: self-assigned IPv4 link-local address in 169.254/16?",
+    "options": [
+      "APIPA",
+      "RFC 1918",
+      "CIDR",
+      "VLSM"
+    ],
+    "answer": 0,
+    "explanation": "RFC 1918: Private IPv4 address space not globally routed; APIPA: Self-assigned IPv4 link-local address in 169.254/16; CIDR: Prefix length describes network bits; VLSM: Different prefix lengths allocate different subnet sizes.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.7-04",
+    "objective": "1.7",
+    "prompt": "Which description best distinguishes APIPA from the alternatives?",
+    "options": [
+      "Self-assigned IPv4 link-local address in 169.254/16",
+      "Private IPv4 address space not globally routed",
+      "Prefix length describes network bits",
+      "Different prefix lengths allocate different subnet sizes"
+    ],
+    "answer": 0,
+    "explanation": "RFC 1918: Private IPv4 address space not globally routed; APIPA: Self-assigned IPv4 link-local address in 169.254/16; CIDR: Prefix length describes network bits; VLSM: Different prefix lengths allocate different subnet sizes.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.7-05",
+    "objective": "1.7",
+    "prompt": "Which concept matches this requirement: prefix length describes network bits?",
+    "options": [
+      "CIDR",
+      "RFC 1918",
+      "APIPA",
+      "VLSM"
+    ],
+    "answer": 0,
+    "explanation": "RFC 1918: Private IPv4 address space not globally routed; APIPA: Self-assigned IPv4 link-local address in 169.254/16; CIDR: Prefix length describes network bits; VLSM: Different prefix lengths allocate different subnet sizes.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.7-06",
+    "objective": "1.7",
+    "prompt": "Which description best distinguishes CIDR from the alternatives?",
+    "options": [
+      "Prefix length describes network bits",
+      "Private IPv4 address space not globally routed",
+      "Self-assigned IPv4 link-local address in 169.254/16",
+      "Different prefix lengths allocate different subnet sizes"
+    ],
+    "answer": 0,
+    "explanation": "RFC 1918: Private IPv4 address space not globally routed; APIPA: Self-assigned IPv4 link-local address in 169.254/16; CIDR: Prefix length describes network bits; VLSM: Different prefix lengths allocate different subnet sizes.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.7-07",
+    "objective": "1.7",
+    "prompt": "Which concept matches this requirement: different prefix lengths allocate different subnet sizes?",
+    "options": [
+      "VLSM",
+      "RFC 1918",
+      "APIPA",
+      "CIDR"
+    ],
+    "answer": 0,
+    "explanation": "RFC 1918: Private IPv4 address space not globally routed; APIPA: Self-assigned IPv4 link-local address in 169.254/16; CIDR: Prefix length describes network bits; VLSM: Different prefix lengths allocate different subnet sizes.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.7-08",
+    "objective": "1.7",
+    "prompt": "Which description best distinguishes VLSM from the alternatives?",
+    "options": [
+      "Different prefix lengths allocate different subnet sizes",
+      "Private IPv4 address space not globally routed",
+      "Self-assigned IPv4 link-local address in 169.254/16",
+      "Prefix length describes network bits"
+    ],
+    "answer": 0,
+    "explanation": "RFC 1918: Private IPv4 address space not globally routed; APIPA: Self-assigned IPv4 link-local address in 169.254/16; CIDR: Prefix length describes network bits; VLSM: Different prefix lengths allocate different subnet sizes.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.7-09",
+    "objective": "1.7",
+    "prompt": "A colleague proposes APIPA for a task that requires: private IPv4 address space not globally routed. Which alternative is the better match?",
+    "options": [
+      "RFC 1918",
+      "APIPA",
+      "CIDR",
+      "VLSM"
+    ],
+    "answer": 0,
+    "explanation": "RFC 1918: Private IPv4 address space not globally routed; APIPA: Self-assigned IPv4 link-local address in 169.254/16; CIDR: Prefix length describes network bits; VLSM: Different prefix lengths allocate different subnet sizes.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-1.8-01",
+    "objective": "1.8",
+    "prompt": "Which concept matches this requirement: policy-driven selection across WAN transports?",
+    "options": [
+      "SD-WAN",
+      "VXLAN",
+      "Zero trust",
+      "IPv6 SLAAC"
+    ],
+    "answer": 0,
+    "explanation": "SD-WAN: Policy-driven selection across WAN transports; VXLAN: Encapsulates layer-two segments over an IP underlay; Zero trust: Explicit verification and least privilege without implicit network trust; IPv6 SLAAC: Host forms addresses using advertised prefixes.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.8-02",
+    "objective": "1.8",
+    "prompt": "Which description best distinguishes SD-WAN from the alternatives?",
+    "options": [
+      "Policy-driven selection across WAN transports",
+      "Encapsulates layer-two segments over an IP underlay",
+      "Explicit verification and least privilege without implicit network trust",
+      "Host forms addresses using advertised prefixes"
+    ],
+    "answer": 0,
+    "explanation": "SD-WAN: Policy-driven selection across WAN transports; VXLAN: Encapsulates layer-two segments over an IP underlay; Zero trust: Explicit verification and least privilege without implicit network trust; IPv6 SLAAC: Host forms addresses using advertised prefixes.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.8-03",
+    "objective": "1.8",
+    "prompt": "Which concept matches this requirement: encapsulates layer-two segments over an IP underlay?",
+    "options": [
+      "VXLAN",
+      "SD-WAN",
+      "Zero trust",
+      "IPv6 SLAAC"
+    ],
+    "answer": 0,
+    "explanation": "SD-WAN: Policy-driven selection across WAN transports; VXLAN: Encapsulates layer-two segments over an IP underlay; Zero trust: Explicit verification and least privilege without implicit network trust; IPv6 SLAAC: Host forms addresses using advertised prefixes.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.8-04",
+    "objective": "1.8",
+    "prompt": "Which description best distinguishes VXLAN from the alternatives?",
+    "options": [
+      "Encapsulates layer-two segments over an IP underlay",
+      "Policy-driven selection across WAN transports",
+      "Explicit verification and least privilege without implicit network trust",
+      "Host forms addresses using advertised prefixes"
+    ],
+    "answer": 0,
+    "explanation": "SD-WAN: Policy-driven selection across WAN transports; VXLAN: Encapsulates layer-two segments over an IP underlay; Zero trust: Explicit verification and least privilege without implicit network trust; IPv6 SLAAC: Host forms addresses using advertised prefixes.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.8-05",
+    "objective": "1.8",
+    "prompt": "Which concept matches this requirement: explicit verification and least privilege without implicit network trust?",
+    "options": [
+      "Zero trust",
+      "SD-WAN",
+      "VXLAN",
+      "IPv6 SLAAC"
+    ],
+    "answer": 0,
+    "explanation": "SD-WAN: Policy-driven selection across WAN transports; VXLAN: Encapsulates layer-two segments over an IP underlay; Zero trust: Explicit verification and least privilege without implicit network trust; IPv6 SLAAC: Host forms addresses using advertised prefixes.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.8-06",
+    "objective": "1.8",
+    "prompt": "Which description best distinguishes Zero trust from the alternatives?",
+    "options": [
+      "Explicit verification and least privilege without implicit network trust",
+      "Policy-driven selection across WAN transports",
+      "Encapsulates layer-two segments over an IP underlay",
+      "Host forms addresses using advertised prefixes"
+    ],
+    "answer": 0,
+    "explanation": "SD-WAN: Policy-driven selection across WAN transports; VXLAN: Encapsulates layer-two segments over an IP underlay; Zero trust: Explicit verification and least privilege without implicit network trust; IPv6 SLAAC: Host forms addresses using advertised prefixes.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.8-07",
+    "objective": "1.8",
+    "prompt": "Which concept matches this requirement: host forms addresses using advertised prefixes?",
+    "options": [
+      "IPv6 SLAAC",
+      "SD-WAN",
+      "VXLAN",
+      "Zero trust"
+    ],
+    "answer": 0,
+    "explanation": "SD-WAN: Policy-driven selection across WAN transports; VXLAN: Encapsulates layer-two segments over an IP underlay; Zero trust: Explicit verification and least privilege without implicit network trust; IPv6 SLAAC: Host forms addresses using advertised prefixes.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-1.8-08",
+    "objective": "1.8",
+    "prompt": "Which description best distinguishes IPv6 SLAAC from the alternatives?",
+    "options": [
+      "Host forms addresses using advertised prefixes",
+      "Policy-driven selection across WAN transports",
+      "Encapsulates layer-two segments over an IP underlay",
+      "Explicit verification and least privilege without implicit network trust"
+    ],
+    "answer": 0,
+    "explanation": "SD-WAN: Policy-driven selection across WAN transports; VXLAN: Encapsulates layer-two segments over an IP underlay; Zero trust: Explicit verification and least privilege without implicit network trust; IPv6 SLAAC: Host forms addresses using advertised prefixes.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-1.8-09",
+    "objective": "1.8",
+    "prompt": "A colleague proposes VXLAN for a task that requires: policy-driven selection across WAN transports. Which alternative is the better match?",
+    "options": [
+      "SD-WAN",
+      "VXLAN",
+      "Zero trust",
+      "IPv6 SLAAC"
+    ],
+    "answer": 0,
+    "explanation": "SD-WAN: Policy-driven selection across WAN transports; VXLAN: Encapsulates layer-two segments over an IP underlay; Zero trust: Explicit verification and least privilege without implicit network trust; IPv6 SLAAC: Host forms addresses using advertised prefixes.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-2.1-01",
+    "objective": "2.1",
+    "prompt": "Which concept matches this requirement: link-state routing within an autonomous system?",
+    "options": [
+      "OSPF",
+      "BGP",
+      "PAT",
+      "FHRP"
+    ],
+    "answer": 0,
+    "explanation": "OSPF: Link-state routing within an autonomous system; BGP: Policy-based path-vector routing between autonomous systems; PAT: Multiple private hosts share a public address using ports; FHRP: Provides a redundant virtual default gateway.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.1-02",
+    "objective": "2.1",
+    "prompt": "Which description best distinguishes OSPF from the alternatives?",
+    "options": [
+      "Link-state routing within an autonomous system",
+      "Policy-based path-vector routing between autonomous systems",
+      "Multiple private hosts share a public address using ports",
+      "Provides a redundant virtual default gateway"
+    ],
+    "answer": 0,
+    "explanation": "OSPF: Link-state routing within an autonomous system; BGP: Policy-based path-vector routing between autonomous systems; PAT: Multiple private hosts share a public address using ports; FHRP: Provides a redundant virtual default gateway.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.1-03",
+    "objective": "2.1",
+    "prompt": "Which concept matches this requirement: policy-based path-vector routing between autonomous systems?",
+    "options": [
+      "BGP",
+      "OSPF",
+      "PAT",
+      "FHRP"
+    ],
+    "answer": 0,
+    "explanation": "OSPF: Link-state routing within an autonomous system; BGP: Policy-based path-vector routing between autonomous systems; PAT: Multiple private hosts share a public address using ports; FHRP: Provides a redundant virtual default gateway.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.1-04",
+    "objective": "2.1",
+    "prompt": "Which description best distinguishes BGP from the alternatives?",
+    "options": [
+      "Policy-based path-vector routing between autonomous systems",
+      "Link-state routing within an autonomous system",
+      "Multiple private hosts share a public address using ports",
+      "Provides a redundant virtual default gateway"
+    ],
+    "answer": 0,
+    "explanation": "OSPF: Link-state routing within an autonomous system; BGP: Policy-based path-vector routing between autonomous systems; PAT: Multiple private hosts share a public address using ports; FHRP: Provides a redundant virtual default gateway.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.1-05",
+    "objective": "2.1",
+    "prompt": "Which concept matches this requirement: multiple private hosts share a public address using ports?",
+    "options": [
+      "PAT",
+      "OSPF",
+      "BGP",
+      "FHRP"
+    ],
+    "answer": 0,
+    "explanation": "OSPF: Link-state routing within an autonomous system; BGP: Policy-based path-vector routing between autonomous systems; PAT: Multiple private hosts share a public address using ports; FHRP: Provides a redundant virtual default gateway.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.1-06",
+    "objective": "2.1",
+    "prompt": "Which description best distinguishes PAT from the alternatives?",
+    "options": [
+      "Multiple private hosts share a public address using ports",
+      "Link-state routing within an autonomous system",
+      "Policy-based path-vector routing between autonomous systems",
+      "Provides a redundant virtual default gateway"
+    ],
+    "answer": 0,
+    "explanation": "OSPF: Link-state routing within an autonomous system; BGP: Policy-based path-vector routing between autonomous systems; PAT: Multiple private hosts share a public address using ports; FHRP: Provides a redundant virtual default gateway.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.1-07",
+    "objective": "2.1",
+    "prompt": "Which concept matches this requirement: provides a redundant virtual default gateway?",
+    "options": [
+      "FHRP",
+      "OSPF",
+      "BGP",
+      "PAT"
+    ],
+    "answer": 0,
+    "explanation": "OSPF: Link-state routing within an autonomous system; BGP: Policy-based path-vector routing between autonomous systems; PAT: Multiple private hosts share a public address using ports; FHRP: Provides a redundant virtual default gateway.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.1-08",
+    "objective": "2.1",
+    "prompt": "Which description best distinguishes FHRP from the alternatives?",
+    "options": [
+      "Provides a redundant virtual default gateway",
+      "Link-state routing within an autonomous system",
+      "Policy-based path-vector routing between autonomous systems",
+      "Multiple private hosts share a public address using ports"
+    ],
+    "answer": 0,
+    "explanation": "OSPF: Link-state routing within an autonomous system; BGP: Policy-based path-vector routing between autonomous systems; PAT: Multiple private hosts share a public address using ports; FHRP: Provides a redundant virtual default gateway.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.1-09",
+    "objective": "2.1",
+    "prompt": "A colleague proposes BGP for a task that requires: link-state routing within an autonomous system. Which alternative is the better match?",
+    "options": [
+      "OSPF",
+      "BGP",
+      "PAT",
+      "FHRP"
+    ],
+    "answer": 0,
+    "explanation": "OSPF: Link-state routing within an autonomous system; BGP: Policy-based path-vector routing between autonomous systems; PAT: Multiple private hosts share a public address using ports; FHRP: Provides a redundant virtual default gateway.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-2.2-01",
+    "objective": "2.2",
+    "prompt": "Which concept matches this requirement: tags Ethernet frames to identify VLANs?",
+    "options": [
+      "802.1Q",
+      "RSTP",
+      "LACP",
+      "Voice VLAN"
+    ],
+    "answer": 0,
+    "explanation": "802.1Q: Tags Ethernet frames to identify VLANs; RSTP: Converges loop-free switched topology rapidly; LACP: Negotiates aggregation of compatible links; Voice VLAN: Separates voice traffic from ordinary access data.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.2-02",
+    "objective": "2.2",
+    "prompt": "Which description best distinguishes 802.1Q from the alternatives?",
+    "options": [
+      "Tags Ethernet frames to identify VLANs",
+      "Converges loop-free switched topology rapidly",
+      "Negotiates aggregation of compatible links",
+      "Separates voice traffic from ordinary access data"
+    ],
+    "answer": 0,
+    "explanation": "802.1Q: Tags Ethernet frames to identify VLANs; RSTP: Converges loop-free switched topology rapidly; LACP: Negotiates aggregation of compatible links; Voice VLAN: Separates voice traffic from ordinary access data.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.2-03",
+    "objective": "2.2",
+    "prompt": "Which concept matches this requirement: converges loop-free switched topology rapidly?",
+    "options": [
+      "RSTP",
+      "802.1Q",
+      "LACP",
+      "Voice VLAN"
+    ],
+    "answer": 0,
+    "explanation": "802.1Q: Tags Ethernet frames to identify VLANs; RSTP: Converges loop-free switched topology rapidly; LACP: Negotiates aggregation of compatible links; Voice VLAN: Separates voice traffic from ordinary access data.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.2-04",
+    "objective": "2.2",
+    "prompt": "Which description best distinguishes RSTP from the alternatives?",
+    "options": [
+      "Converges loop-free switched topology rapidly",
+      "Tags Ethernet frames to identify VLANs",
+      "Negotiates aggregation of compatible links",
+      "Separates voice traffic from ordinary access data"
+    ],
+    "answer": 0,
+    "explanation": "802.1Q: Tags Ethernet frames to identify VLANs; RSTP: Converges loop-free switched topology rapidly; LACP: Negotiates aggregation of compatible links; Voice VLAN: Separates voice traffic from ordinary access data.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.2-05",
+    "objective": "2.2",
+    "prompt": "Which concept matches this requirement: negotiates aggregation of compatible links?",
+    "options": [
+      "LACP",
+      "802.1Q",
+      "RSTP",
+      "Voice VLAN"
+    ],
+    "answer": 0,
+    "explanation": "802.1Q: Tags Ethernet frames to identify VLANs; RSTP: Converges loop-free switched topology rapidly; LACP: Negotiates aggregation of compatible links; Voice VLAN: Separates voice traffic from ordinary access data.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.2-06",
+    "objective": "2.2",
+    "prompt": "Which description best distinguishes LACP from the alternatives?",
+    "options": [
+      "Negotiates aggregation of compatible links",
+      "Tags Ethernet frames to identify VLANs",
+      "Converges loop-free switched topology rapidly",
+      "Separates voice traffic from ordinary access data"
+    ],
+    "answer": 0,
+    "explanation": "802.1Q: Tags Ethernet frames to identify VLANs; RSTP: Converges loop-free switched topology rapidly; LACP: Negotiates aggregation of compatible links; Voice VLAN: Separates voice traffic from ordinary access data.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.2-07",
+    "objective": "2.2",
+    "prompt": "Which concept matches this requirement: separates voice traffic from ordinary access data?",
+    "options": [
+      "Voice VLAN",
+      "802.1Q",
+      "RSTP",
+      "LACP"
+    ],
+    "answer": 0,
+    "explanation": "802.1Q: Tags Ethernet frames to identify VLANs; RSTP: Converges loop-free switched topology rapidly; LACP: Negotiates aggregation of compatible links; Voice VLAN: Separates voice traffic from ordinary access data.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.2-08",
+    "objective": "2.2",
+    "prompt": "Which description best distinguishes Voice VLAN from the alternatives?",
+    "options": [
+      "Separates voice traffic from ordinary access data",
+      "Tags Ethernet frames to identify VLANs",
+      "Converges loop-free switched topology rapidly",
+      "Negotiates aggregation of compatible links"
+    ],
+    "answer": 0,
+    "explanation": "802.1Q: Tags Ethernet frames to identify VLANs; RSTP: Converges loop-free switched topology rapidly; LACP: Negotiates aggregation of compatible links; Voice VLAN: Separates voice traffic from ordinary access data.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.2-09",
+    "objective": "2.2",
+    "prompt": "A colleague proposes RSTP for a task that requires: tags Ethernet frames to identify VLANs. Which alternative is the better match?",
+    "options": [
+      "802.1Q",
+      "RSTP",
+      "LACP",
+      "Voice VLAN"
+    ],
+    "answer": 0,
+    "explanation": "802.1Q: Tags Ethernet frames to identify VLANs; RSTP: Converges loop-free switched topology rapidly; LACP: Negotiates aggregation of compatible links; Voice VLAN: Separates voice traffic from ordinary access data.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-2.3-01",
+    "objective": "2.3",
+    "prompt": "Which concept matches this requirement: uses SAE for password-based wireless authentication?",
+    "options": [
+      "WPA3-Personal",
+      "WPA2-Enterprise",
+      "Directional antenna",
+      "Channel planning"
+    ],
+    "answer": 0,
+    "explanation": "WPA3-Personal: Uses SAE for password-based wireless authentication; WPA2-Enterprise: Uses 802.1X authentication with an authentication server; Directional antenna: Concentrates radio energy toward a specific area; Channel planning: Reduces interference by coordinating frequency use.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.3-02",
+    "objective": "2.3",
+    "prompt": "Which description best distinguishes WPA3-Personal from the alternatives?",
+    "options": [
+      "Uses SAE for password-based wireless authentication",
+      "Uses 802.1X authentication with an authentication server",
+      "Concentrates radio energy toward a specific area",
+      "Reduces interference by coordinating frequency use"
+    ],
+    "answer": 0,
+    "explanation": "WPA3-Personal: Uses SAE for password-based wireless authentication; WPA2-Enterprise: Uses 802.1X authentication with an authentication server; Directional antenna: Concentrates radio energy toward a specific area; Channel planning: Reduces interference by coordinating frequency use.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.3-03",
+    "objective": "2.3",
+    "prompt": "Which concept matches this requirement: uses 802.1X authentication with an authentication server?",
+    "options": [
+      "WPA2-Enterprise",
+      "WPA3-Personal",
+      "Directional antenna",
+      "Channel planning"
+    ],
+    "answer": 0,
+    "explanation": "WPA3-Personal: Uses SAE for password-based wireless authentication; WPA2-Enterprise: Uses 802.1X authentication with an authentication server; Directional antenna: Concentrates radio energy toward a specific area; Channel planning: Reduces interference by coordinating frequency use.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.3-04",
+    "objective": "2.3",
+    "prompt": "Which description best distinguishes WPA2-Enterprise from the alternatives?",
+    "options": [
+      "Uses 802.1X authentication with an authentication server",
+      "Uses SAE for password-based wireless authentication",
+      "Concentrates radio energy toward a specific area",
+      "Reduces interference by coordinating frequency use"
+    ],
+    "answer": 0,
+    "explanation": "WPA3-Personal: Uses SAE for password-based wireless authentication; WPA2-Enterprise: Uses 802.1X authentication with an authentication server; Directional antenna: Concentrates radio energy toward a specific area; Channel planning: Reduces interference by coordinating frequency use.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.3-05",
+    "objective": "2.3",
+    "prompt": "Which concept matches this requirement: concentrates radio energy toward a specific area?",
+    "options": [
+      "Directional antenna",
+      "WPA3-Personal",
+      "WPA2-Enterprise",
+      "Channel planning"
+    ],
+    "answer": 0,
+    "explanation": "WPA3-Personal: Uses SAE for password-based wireless authentication; WPA2-Enterprise: Uses 802.1X authentication with an authentication server; Directional antenna: Concentrates radio energy toward a specific area; Channel planning: Reduces interference by coordinating frequency use.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.3-06",
+    "objective": "2.3",
+    "prompt": "Which description best distinguishes Directional antenna from the alternatives?",
+    "options": [
+      "Concentrates radio energy toward a specific area",
+      "Uses SAE for password-based wireless authentication",
+      "Uses 802.1X authentication with an authentication server",
+      "Reduces interference by coordinating frequency use"
+    ],
+    "answer": 0,
+    "explanation": "WPA3-Personal: Uses SAE for password-based wireless authentication; WPA2-Enterprise: Uses 802.1X authentication with an authentication server; Directional antenna: Concentrates radio energy toward a specific area; Channel planning: Reduces interference by coordinating frequency use.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.3-07",
+    "objective": "2.3",
+    "prompt": "Which concept matches this requirement: reduces interference by coordinating frequency use?",
+    "options": [
+      "Channel planning",
+      "WPA3-Personal",
+      "WPA2-Enterprise",
+      "Directional antenna"
+    ],
+    "answer": 0,
+    "explanation": "WPA3-Personal: Uses SAE for password-based wireless authentication; WPA2-Enterprise: Uses 802.1X authentication with an authentication server; Directional antenna: Concentrates radio energy toward a specific area; Channel planning: Reduces interference by coordinating frequency use.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.3-08",
+    "objective": "2.3",
+    "prompt": "Which description best distinguishes Channel planning from the alternatives?",
+    "options": [
+      "Reduces interference by coordinating frequency use",
+      "Uses SAE for password-based wireless authentication",
+      "Uses 802.1X authentication with an authentication server",
+      "Concentrates radio energy toward a specific area"
+    ],
+    "answer": 0,
+    "explanation": "WPA3-Personal: Uses SAE for password-based wireless authentication; WPA2-Enterprise: Uses 802.1X authentication with an authentication server; Directional antenna: Concentrates radio energy toward a specific area; Channel planning: Reduces interference by coordinating frequency use.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.3-09",
+    "objective": "2.3",
+    "prompt": "A colleague proposes WPA2-Enterprise for a task that requires: uses SAE for password-based wireless authentication. Which alternative is the better match?",
+    "options": [
+      "WPA3-Personal",
+      "WPA2-Enterprise",
+      "Directional antenna",
+      "Channel planning"
+    ],
+    "answer": 0,
+    "explanation": "WPA3-Personal: Uses SAE for password-based wireless authentication; WPA2-Enterprise: Uses 802.1X authentication with an authentication server; Directional antenna: Concentrates radio energy toward a specific area; Channel planning: Reduces interference by coordinating frequency use.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-2.4-01",
+    "objective": "2.4",
+    "prompt": "Which concept matches this requirement: provides temporary power during an outage?",
+    "options": [
+      "UPS",
+      "PDU",
+      "Patch panel",
+      "Hot aisle"
+    ],
+    "answer": 0,
+    "explanation": "UPS: Provides temporary power during an outage; PDU: Distributes electrical power to rack equipment; Patch panel: Terminates and organizes permanent cabling; Hot aisle: Collects warm exhaust from equipment racks.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.4-02",
+    "objective": "2.4",
+    "prompt": "Which description best distinguishes UPS from the alternatives?",
+    "options": [
+      "Provides temporary power during an outage",
+      "Distributes electrical power to rack equipment",
+      "Terminates and organizes permanent cabling",
+      "Collects warm exhaust from equipment racks"
+    ],
+    "answer": 0,
+    "explanation": "UPS: Provides temporary power during an outage; PDU: Distributes electrical power to rack equipment; Patch panel: Terminates and organizes permanent cabling; Hot aisle: Collects warm exhaust from equipment racks.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.4-03",
+    "objective": "2.4",
+    "prompt": "Which concept matches this requirement: distributes electrical power to rack equipment?",
+    "options": [
+      "PDU",
+      "UPS",
+      "Patch panel",
+      "Hot aisle"
+    ],
+    "answer": 0,
+    "explanation": "UPS: Provides temporary power during an outage; PDU: Distributes electrical power to rack equipment; Patch panel: Terminates and organizes permanent cabling; Hot aisle: Collects warm exhaust from equipment racks.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.4-04",
+    "objective": "2.4",
+    "prompt": "Which description best distinguishes PDU from the alternatives?",
+    "options": [
+      "Distributes electrical power to rack equipment",
+      "Provides temporary power during an outage",
+      "Terminates and organizes permanent cabling",
+      "Collects warm exhaust from equipment racks"
+    ],
+    "answer": 0,
+    "explanation": "UPS: Provides temporary power during an outage; PDU: Distributes electrical power to rack equipment; Patch panel: Terminates and organizes permanent cabling; Hot aisle: Collects warm exhaust from equipment racks.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.4-05",
+    "objective": "2.4",
+    "prompt": "Which concept matches this requirement: terminates and organizes permanent cabling?",
+    "options": [
+      "Patch panel",
+      "UPS",
+      "PDU",
+      "Hot aisle"
+    ],
+    "answer": 0,
+    "explanation": "UPS: Provides temporary power during an outage; PDU: Distributes electrical power to rack equipment; Patch panel: Terminates and organizes permanent cabling; Hot aisle: Collects warm exhaust from equipment racks.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.4-06",
+    "objective": "2.4",
+    "prompt": "Which description best distinguishes Patch panel from the alternatives?",
+    "options": [
+      "Terminates and organizes permanent cabling",
+      "Provides temporary power during an outage",
+      "Distributes electrical power to rack equipment",
+      "Collects warm exhaust from equipment racks"
+    ],
+    "answer": 0,
+    "explanation": "UPS: Provides temporary power during an outage; PDU: Distributes electrical power to rack equipment; Patch panel: Terminates and organizes permanent cabling; Hot aisle: Collects warm exhaust from equipment racks.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.4-07",
+    "objective": "2.4",
+    "prompt": "Which concept matches this requirement: collects warm exhaust from equipment racks?",
+    "options": [
+      "Hot aisle",
+      "UPS",
+      "PDU",
+      "Patch panel"
+    ],
+    "answer": 0,
+    "explanation": "UPS: Provides temporary power during an outage; PDU: Distributes electrical power to rack equipment; Patch panel: Terminates and organizes permanent cabling; Hot aisle: Collects warm exhaust from equipment racks.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-2.4-08",
+    "objective": "2.4",
+    "prompt": "Which description best distinguishes Hot aisle from the alternatives?",
+    "options": [
+      "Collects warm exhaust from equipment racks",
+      "Provides temporary power during an outage",
+      "Distributes electrical power to rack equipment",
+      "Terminates and organizes permanent cabling"
+    ],
+    "answer": 0,
+    "explanation": "UPS: Provides temporary power during an outage; PDU: Distributes electrical power to rack equipment; Patch panel: Terminates and organizes permanent cabling; Hot aisle: Collects warm exhaust from equipment racks.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-2.4-09",
+    "objective": "2.4",
+    "prompt": "A colleague proposes PDU for a task that requires: provides temporary power during an outage. Which alternative is the better match?",
+    "options": [
+      "UPS",
+      "PDU",
+      "Patch panel",
+      "Hot aisle"
+    ],
+    "answer": 0,
+    "explanation": "UPS: Provides temporary power during an outage; PDU: Distributes electrical power to rack equipment; Patch panel: Terminates and organizes permanent cabling; Hot aisle: Collects warm exhaust from equipment racks.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-3.1-01",
+    "objective": "3.1",
+    "prompt": "Which concept matches this requirement: records normal behavior for later comparison?",
+    "options": [
+      "Baseline",
+      "Change approval",
+      "IPAM",
+      "Logical diagram"
+    ],
+    "answer": 0,
+    "explanation": "Baseline: Records normal behavior for later comparison; Change approval: Authorizes planned modifications before implementation; IPAM: Tracks address allocations and utilization; Logical diagram: Shows VLANs subnets and routing relationships.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.1-02",
+    "objective": "3.1",
+    "prompt": "Which description best distinguishes Baseline from the alternatives?",
+    "options": [
+      "Records normal behavior for later comparison",
+      "Authorizes planned modifications before implementation",
+      "Tracks address allocations and utilization",
+      "Shows VLANs subnets and routing relationships"
+    ],
+    "answer": 0,
+    "explanation": "Baseline: Records normal behavior for later comparison; Change approval: Authorizes planned modifications before implementation; IPAM: Tracks address allocations and utilization; Logical diagram: Shows VLANs subnets and routing relationships.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.1-03",
+    "objective": "3.1",
+    "prompt": "Which concept matches this requirement: authorizes planned modifications before implementation?",
+    "options": [
+      "Change approval",
+      "Baseline",
+      "IPAM",
+      "Logical diagram"
+    ],
+    "answer": 0,
+    "explanation": "Baseline: Records normal behavior for later comparison; Change approval: Authorizes planned modifications before implementation; IPAM: Tracks address allocations and utilization; Logical diagram: Shows VLANs subnets and routing relationships.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.1-04",
+    "objective": "3.1",
+    "prompt": "Which description best distinguishes Change approval from the alternatives?",
+    "options": [
+      "Authorizes planned modifications before implementation",
+      "Records normal behavior for later comparison",
+      "Tracks address allocations and utilization",
+      "Shows VLANs subnets and routing relationships"
+    ],
+    "answer": 0,
+    "explanation": "Baseline: Records normal behavior for later comparison; Change approval: Authorizes planned modifications before implementation; IPAM: Tracks address allocations and utilization; Logical diagram: Shows VLANs subnets and routing relationships.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.1-05",
+    "objective": "3.1",
+    "prompt": "Which concept matches this requirement: tracks address allocations and utilization?",
+    "options": [
+      "IPAM",
+      "Baseline",
+      "Change approval",
+      "Logical diagram"
+    ],
+    "answer": 0,
+    "explanation": "Baseline: Records normal behavior for later comparison; Change approval: Authorizes planned modifications before implementation; IPAM: Tracks address allocations and utilization; Logical diagram: Shows VLANs subnets and routing relationships.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.1-06",
+    "objective": "3.1",
+    "prompt": "Which description best distinguishes IPAM from the alternatives?",
+    "options": [
+      "Tracks address allocations and utilization",
+      "Records normal behavior for later comparison",
+      "Authorizes planned modifications before implementation",
+      "Shows VLANs subnets and routing relationships"
+    ],
+    "answer": 0,
+    "explanation": "Baseline: Records normal behavior for later comparison; Change approval: Authorizes planned modifications before implementation; IPAM: Tracks address allocations and utilization; Logical diagram: Shows VLANs subnets and routing relationships.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.1-07",
+    "objective": "3.1",
+    "prompt": "Which concept matches this requirement: shows VLANs subnets and routing relationships?",
+    "options": [
+      "Logical diagram",
+      "Baseline",
+      "Change approval",
+      "IPAM"
+    ],
+    "answer": 0,
+    "explanation": "Baseline: Records normal behavior for later comparison; Change approval: Authorizes planned modifications before implementation; IPAM: Tracks address allocations and utilization; Logical diagram: Shows VLANs subnets and routing relationships.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.1-08",
+    "objective": "3.1",
+    "prompt": "Which description best distinguishes Logical diagram from the alternatives?",
+    "options": [
+      "Shows VLANs subnets and routing relationships",
+      "Records normal behavior for later comparison",
+      "Authorizes planned modifications before implementation",
+      "Tracks address allocations and utilization"
+    ],
+    "answer": 0,
+    "explanation": "Baseline: Records normal behavior for later comparison; Change approval: Authorizes planned modifications before implementation; IPAM: Tracks address allocations and utilization; Logical diagram: Shows VLANs subnets and routing relationships.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.1-09",
+    "objective": "3.1",
+    "prompt": "A colleague proposes Change approval for a task that requires: records normal behavior for later comparison. Which alternative is the better match?",
+    "options": [
+      "Baseline",
+      "Change approval",
+      "IPAM",
+      "Logical diagram"
+    ],
+    "answer": 0,
+    "explanation": "Baseline: Records normal behavior for later comparison; Change approval: Authorizes planned modifications before implementation; IPAM: Tracks address allocations and utilization; Logical diagram: Shows VLANs subnets and routing relationships.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-3.2-01",
+    "objective": "3.2",
+    "prompt": "Which concept matches this requirement: supports authenticated and encrypted management messages?",
+    "options": [
+      "SNMPv3",
+      "Flow records",
+      "Syslog",
+      "Packet capture"
+    ],
+    "answer": 0,
+    "explanation": "SNMPv3: Supports authenticated and encrypted management messages; Flow records: Summarize conversations and traffic volume; Syslog: Collects timestamped device event messages; Packet capture: Records individual frames or packets for inspection.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.2-02",
+    "objective": "3.2",
+    "prompt": "Which description best distinguishes SNMPv3 from the alternatives?",
+    "options": [
+      "Supports authenticated and encrypted management messages",
+      "Summarize conversations and traffic volume",
+      "Collects timestamped device event messages",
+      "Records individual frames or packets for inspection"
+    ],
+    "answer": 0,
+    "explanation": "SNMPv3: Supports authenticated and encrypted management messages; Flow records: Summarize conversations and traffic volume; Syslog: Collects timestamped device event messages; Packet capture: Records individual frames or packets for inspection.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.2-03",
+    "objective": "3.2",
+    "prompt": "Which concept matches this requirement: summarize conversations and traffic volume?",
+    "options": [
+      "Flow records",
+      "SNMPv3",
+      "Syslog",
+      "Packet capture"
+    ],
+    "answer": 0,
+    "explanation": "SNMPv3: Supports authenticated and encrypted management messages; Flow records: Summarize conversations and traffic volume; Syslog: Collects timestamped device event messages; Packet capture: Records individual frames or packets for inspection.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.2-04",
+    "objective": "3.2",
+    "prompt": "Which description best distinguishes Flow records from the alternatives?",
+    "options": [
+      "Summarize conversations and traffic volume",
+      "Supports authenticated and encrypted management messages",
+      "Collects timestamped device event messages",
+      "Records individual frames or packets for inspection"
+    ],
+    "answer": 0,
+    "explanation": "SNMPv3: Supports authenticated and encrypted management messages; Flow records: Summarize conversations and traffic volume; Syslog: Collects timestamped device event messages; Packet capture: Records individual frames or packets for inspection.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.2-05",
+    "objective": "3.2",
+    "prompt": "Which concept matches this requirement: collects timestamped device event messages?",
+    "options": [
+      "Syslog",
+      "SNMPv3",
+      "Flow records",
+      "Packet capture"
+    ],
+    "answer": 0,
+    "explanation": "SNMPv3: Supports authenticated and encrypted management messages; Flow records: Summarize conversations and traffic volume; Syslog: Collects timestamped device event messages; Packet capture: Records individual frames or packets for inspection.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.2-06",
+    "objective": "3.2",
+    "prompt": "Which description best distinguishes Syslog from the alternatives?",
+    "options": [
+      "Collects timestamped device event messages",
+      "Supports authenticated and encrypted management messages",
+      "Summarize conversations and traffic volume",
+      "Records individual frames or packets for inspection"
+    ],
+    "answer": 0,
+    "explanation": "SNMPv3: Supports authenticated and encrypted management messages; Flow records: Summarize conversations and traffic volume; Syslog: Collects timestamped device event messages; Packet capture: Records individual frames or packets for inspection.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.2-07",
+    "objective": "3.2",
+    "prompt": "Which concept matches this requirement: records individual frames or packets for inspection?",
+    "options": [
+      "Packet capture",
+      "SNMPv3",
+      "Flow records",
+      "Syslog"
+    ],
+    "answer": 0,
+    "explanation": "SNMPv3: Supports authenticated and encrypted management messages; Flow records: Summarize conversations and traffic volume; Syslog: Collects timestamped device event messages; Packet capture: Records individual frames or packets for inspection.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.2-08",
+    "objective": "3.2",
+    "prompt": "Which description best distinguishes Packet capture from the alternatives?",
+    "options": [
+      "Records individual frames or packets for inspection",
+      "Supports authenticated and encrypted management messages",
+      "Summarize conversations and traffic volume",
+      "Collects timestamped device event messages"
+    ],
+    "answer": 0,
+    "explanation": "SNMPv3: Supports authenticated and encrypted management messages; Flow records: Summarize conversations and traffic volume; Syslog: Collects timestamped device event messages; Packet capture: Records individual frames or packets for inspection.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.2-09",
+    "objective": "3.2",
+    "prompt": "A colleague proposes Flow records for a task that requires: supports authenticated and encrypted management messages. Which alternative is the better match?",
+    "options": [
+      "SNMPv3",
+      "Flow records",
+      "Syslog",
+      "Packet capture"
+    ],
+    "answer": 0,
+    "explanation": "SNMPv3: Supports authenticated and encrypted management messages; Flow records: Summarize conversations and traffic volume; Syslog: Collects timestamped device event messages; Packet capture: Records individual frames or packets for inspection.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-3.3-01",
+    "objective": "3.3",
+    "prompt": "Which concept matches this requirement: maximum tolerable data loss measured in time?",
+    "options": [
+      "RPO",
+      "RTO",
+      "Hot site",
+      "Cold site"
+    ],
+    "answer": 0,
+    "explanation": "RPO: Maximum tolerable data loss measured in time; RTO: Target time to restore a service; Hot site: Recovery location with ready infrastructure; Cold site: Recovery location requiring substantial setup.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.3-02",
+    "objective": "3.3",
+    "prompt": "Which description best distinguishes RPO from the alternatives?",
+    "options": [
+      "Maximum tolerable data loss measured in time",
+      "Target time to restore a service",
+      "Recovery location with ready infrastructure",
+      "Recovery location requiring substantial setup"
+    ],
+    "answer": 0,
+    "explanation": "RPO: Maximum tolerable data loss measured in time; RTO: Target time to restore a service; Hot site: Recovery location with ready infrastructure; Cold site: Recovery location requiring substantial setup.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.3-03",
+    "objective": "3.3",
+    "prompt": "Which concept matches this requirement: target time to restore a service?",
+    "options": [
+      "RTO",
+      "RPO",
+      "Hot site",
+      "Cold site"
+    ],
+    "answer": 0,
+    "explanation": "RPO: Maximum tolerable data loss measured in time; RTO: Target time to restore a service; Hot site: Recovery location with ready infrastructure; Cold site: Recovery location requiring substantial setup.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.3-04",
+    "objective": "3.3",
+    "prompt": "Which description best distinguishes RTO from the alternatives?",
+    "options": [
+      "Target time to restore a service",
+      "Maximum tolerable data loss measured in time",
+      "Recovery location with ready infrastructure",
+      "Recovery location requiring substantial setup"
+    ],
+    "answer": 0,
+    "explanation": "RPO: Maximum tolerable data loss measured in time; RTO: Target time to restore a service; Hot site: Recovery location with ready infrastructure; Cold site: Recovery location requiring substantial setup.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.3-05",
+    "objective": "3.3",
+    "prompt": "Which concept matches this requirement: recovery location with ready infrastructure?",
+    "options": [
+      "Hot site",
+      "RPO",
+      "RTO",
+      "Cold site"
+    ],
+    "answer": 0,
+    "explanation": "RPO: Maximum tolerable data loss measured in time; RTO: Target time to restore a service; Hot site: Recovery location with ready infrastructure; Cold site: Recovery location requiring substantial setup.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.3-06",
+    "objective": "3.3",
+    "prompt": "Which description best distinguishes Hot site from the alternatives?",
+    "options": [
+      "Recovery location with ready infrastructure",
+      "Maximum tolerable data loss measured in time",
+      "Target time to restore a service",
+      "Recovery location requiring substantial setup"
+    ],
+    "answer": 0,
+    "explanation": "RPO: Maximum tolerable data loss measured in time; RTO: Target time to restore a service; Hot site: Recovery location with ready infrastructure; Cold site: Recovery location requiring substantial setup.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.3-07",
+    "objective": "3.3",
+    "prompt": "Which concept matches this requirement: recovery location requiring substantial setup?",
+    "options": [
+      "Cold site",
+      "RPO",
+      "RTO",
+      "Hot site"
+    ],
+    "answer": 0,
+    "explanation": "RPO: Maximum tolerable data loss measured in time; RTO: Target time to restore a service; Hot site: Recovery location with ready infrastructure; Cold site: Recovery location requiring substantial setup.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.3-08",
+    "objective": "3.3",
+    "prompt": "Which description best distinguishes Cold site from the alternatives?",
+    "options": [
+      "Recovery location requiring substantial setup",
+      "Maximum tolerable data loss measured in time",
+      "Target time to restore a service",
+      "Recovery location with ready infrastructure"
+    ],
+    "answer": 0,
+    "explanation": "RPO: Maximum tolerable data loss measured in time; RTO: Target time to restore a service; Hot site: Recovery location with ready infrastructure; Cold site: Recovery location requiring substantial setup.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.3-09",
+    "objective": "3.3",
+    "prompt": "A colleague proposes RTO for a task that requires: maximum tolerable data loss measured in time. Which alternative is the better match?",
+    "options": [
+      "RPO",
+      "RTO",
+      "Hot site",
+      "Cold site"
+    ],
+    "answer": 0,
+    "explanation": "RPO: Maximum tolerable data loss measured in time; RTO: Target time to restore a service; Hot site: Recovery location with ready infrastructure; Cold site: Recovery location requiring substantial setup.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-3.4-01",
+    "objective": "3.4",
+    "prompt": "Which concept matches this requirement: forwards DHCP requests across routed boundaries?",
+    "options": [
+      "DHCP relay",
+      "AAAA record",
+      "PTR record",
+      "Router advertisement"
+    ],
+    "answer": 0,
+    "explanation": "DHCP relay: Forwards DHCP requests across routed boundaries; AAAA record: Maps a hostname to an IPv6 address; PTR record: Supports reverse DNS lookup; Router advertisement: Communicates IPv6 prefixes and default router information.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.4-02",
+    "objective": "3.4",
+    "prompt": "Which description best distinguishes DHCP relay from the alternatives?",
+    "options": [
+      "Forwards DHCP requests across routed boundaries",
+      "Maps a hostname to an IPv6 address",
+      "Supports reverse DNS lookup",
+      "Communicates IPv6 prefixes and default router information"
+    ],
+    "answer": 0,
+    "explanation": "DHCP relay: Forwards DHCP requests across routed boundaries; AAAA record: Maps a hostname to an IPv6 address; PTR record: Supports reverse DNS lookup; Router advertisement: Communicates IPv6 prefixes and default router information.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.4-03",
+    "objective": "3.4",
+    "prompt": "Which concept matches this requirement: maps a hostname to an IPv6 address?",
+    "options": [
+      "AAAA record",
+      "DHCP relay",
+      "PTR record",
+      "Router advertisement"
+    ],
+    "answer": 0,
+    "explanation": "DHCP relay: Forwards DHCP requests across routed boundaries; AAAA record: Maps a hostname to an IPv6 address; PTR record: Supports reverse DNS lookup; Router advertisement: Communicates IPv6 prefixes and default router information.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.4-04",
+    "objective": "3.4",
+    "prompt": "Which description best distinguishes AAAA record from the alternatives?",
+    "options": [
+      "Maps a hostname to an IPv6 address",
+      "Forwards DHCP requests across routed boundaries",
+      "Supports reverse DNS lookup",
+      "Communicates IPv6 prefixes and default router information"
+    ],
+    "answer": 0,
+    "explanation": "DHCP relay: Forwards DHCP requests across routed boundaries; AAAA record: Maps a hostname to an IPv6 address; PTR record: Supports reverse DNS lookup; Router advertisement: Communicates IPv6 prefixes and default router information.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.4-05",
+    "objective": "3.4",
+    "prompt": "Which concept matches this requirement: supports reverse DNS lookup?",
+    "options": [
+      "PTR record",
+      "DHCP relay",
+      "AAAA record",
+      "Router advertisement"
+    ],
+    "answer": 0,
+    "explanation": "DHCP relay: Forwards DHCP requests across routed boundaries; AAAA record: Maps a hostname to an IPv6 address; PTR record: Supports reverse DNS lookup; Router advertisement: Communicates IPv6 prefixes and default router information.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.4-06",
+    "objective": "3.4",
+    "prompt": "Which description best distinguishes PTR record from the alternatives?",
+    "options": [
+      "Supports reverse DNS lookup",
+      "Forwards DHCP requests across routed boundaries",
+      "Maps a hostname to an IPv6 address",
+      "Communicates IPv6 prefixes and default router information"
+    ],
+    "answer": 0,
+    "explanation": "DHCP relay: Forwards DHCP requests across routed boundaries; AAAA record: Maps a hostname to an IPv6 address; PTR record: Supports reverse DNS lookup; Router advertisement: Communicates IPv6 prefixes and default router information.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.4-07",
+    "objective": "3.4",
+    "prompt": "Which concept matches this requirement: communicates IPv6 prefixes and default router information?",
+    "options": [
+      "Router advertisement",
+      "DHCP relay",
+      "AAAA record",
+      "PTR record"
+    ],
+    "answer": 0,
+    "explanation": "DHCP relay: Forwards DHCP requests across routed boundaries; AAAA record: Maps a hostname to an IPv6 address; PTR record: Supports reverse DNS lookup; Router advertisement: Communicates IPv6 prefixes and default router information.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.4-08",
+    "objective": "3.4",
+    "prompt": "Which description best distinguishes Router advertisement from the alternatives?",
+    "options": [
+      "Communicates IPv6 prefixes and default router information",
+      "Forwards DHCP requests across routed boundaries",
+      "Maps a hostname to an IPv6 address",
+      "Supports reverse DNS lookup"
+    ],
+    "answer": 0,
+    "explanation": "DHCP relay: Forwards DHCP requests across routed boundaries; AAAA record: Maps a hostname to an IPv6 address; PTR record: Supports reverse DNS lookup; Router advertisement: Communicates IPv6 prefixes and default router information.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.4-09",
+    "objective": "3.4",
+    "prompt": "A colleague proposes AAAA record for a task that requires: forwards DHCP requests across routed boundaries. Which alternative is the better match?",
+    "options": [
+      "DHCP relay",
+      "AAAA record",
+      "PTR record",
+      "Router advertisement"
+    ],
+    "answer": 0,
+    "explanation": "DHCP relay: Forwards DHCP requests across routed boundaries; AAAA record: Maps a hostname to an IPv6 address; PTR record: Supports reverse DNS lookup; Router advertisement: Communicates IPv6 prefixes and default router information.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-3.5-01",
+    "objective": "3.5",
+    "prompt": "Which concept matches this requirement: encrypted command-line remote administration?",
+    "options": [
+      "SSH",
+      "Console",
+      "API",
+      "Jump host"
+    ],
+    "answer": 0,
+    "explanation": "SSH: Encrypted command-line remote administration; Console: Local management independent of production IP connectivity; API: Programmatic access to management functions; Jump host: Controlled intermediary for administrative access.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.5-02",
+    "objective": "3.5",
+    "prompt": "Which description best distinguishes SSH from the alternatives?",
+    "options": [
+      "Encrypted command-line remote administration",
+      "Local management independent of production IP connectivity",
+      "Programmatic access to management functions",
+      "Controlled intermediary for administrative access"
+    ],
+    "answer": 0,
+    "explanation": "SSH: Encrypted command-line remote administration; Console: Local management independent of production IP connectivity; API: Programmatic access to management functions; Jump host: Controlled intermediary for administrative access.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.5-03",
+    "objective": "3.5",
+    "prompt": "Which concept matches this requirement: local management independent of production IP connectivity?",
+    "options": [
+      "Console",
+      "SSH",
+      "API",
+      "Jump host"
+    ],
+    "answer": 0,
+    "explanation": "SSH: Encrypted command-line remote administration; Console: Local management independent of production IP connectivity; API: Programmatic access to management functions; Jump host: Controlled intermediary for administrative access.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.5-04",
+    "objective": "3.5",
+    "prompt": "Which description best distinguishes Console from the alternatives?",
+    "options": [
+      "Local management independent of production IP connectivity",
+      "Encrypted command-line remote administration",
+      "Programmatic access to management functions",
+      "Controlled intermediary for administrative access"
+    ],
+    "answer": 0,
+    "explanation": "SSH: Encrypted command-line remote administration; Console: Local management independent of production IP connectivity; API: Programmatic access to management functions; Jump host: Controlled intermediary for administrative access.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.5-05",
+    "objective": "3.5",
+    "prompt": "Which concept matches this requirement: programmatic access to management functions?",
+    "options": [
+      "API",
+      "SSH",
+      "Console",
+      "Jump host"
+    ],
+    "answer": 0,
+    "explanation": "SSH: Encrypted command-line remote administration; Console: Local management independent of production IP connectivity; API: Programmatic access to management functions; Jump host: Controlled intermediary for administrative access.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.5-06",
+    "objective": "3.5",
+    "prompt": "Which description best distinguishes API from the alternatives?",
+    "options": [
+      "Programmatic access to management functions",
+      "Encrypted command-line remote administration",
+      "Local management independent of production IP connectivity",
+      "Controlled intermediary for administrative access"
+    ],
+    "answer": 0,
+    "explanation": "SSH: Encrypted command-line remote administration; Console: Local management independent of production IP connectivity; API: Programmatic access to management functions; Jump host: Controlled intermediary for administrative access.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.5-07",
+    "objective": "3.5",
+    "prompt": "Which concept matches this requirement: controlled intermediary for administrative access?",
+    "options": [
+      "Jump host",
+      "SSH",
+      "Console",
+      "API"
+    ],
+    "answer": 0,
+    "explanation": "SSH: Encrypted command-line remote administration; Console: Local management independent of production IP connectivity; API: Programmatic access to management functions; Jump host: Controlled intermediary for administrative access.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-3.5-08",
+    "objective": "3.5",
+    "prompt": "Which description best distinguishes Jump host from the alternatives?",
+    "options": [
+      "Controlled intermediary for administrative access",
+      "Encrypted command-line remote administration",
+      "Local management independent of production IP connectivity",
+      "Programmatic access to management functions"
+    ],
+    "answer": 0,
+    "explanation": "SSH: Encrypted command-line remote administration; Console: Local management independent of production IP connectivity; API: Programmatic access to management functions; Jump host: Controlled intermediary for administrative access.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-3.5-09",
+    "objective": "3.5",
+    "prompt": "A colleague proposes Console for a task that requires: encrypted command-line remote administration. Which alternative is the better match?",
+    "options": [
+      "SSH",
+      "Console",
+      "API",
+      "Jump host"
+    ],
+    "answer": 0,
+    "explanation": "SSH: Encrypted command-line remote administration; Console: Local management independent of production IP connectivity; API: Programmatic access to management functions; Jump host: Controlled intermediary for administrative access.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-4.1-01",
+    "objective": "4.1",
+    "prompt": "Which concept matches this requirement: grants only permissions needed for a task?",
+    "options": [
+      "Least privilege",
+      "MFA",
+      "PKI",
+      "Encryption"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege: Grants only permissions needed for a task; MFA: Requires authentication factors from different categories; PKI: Uses certificates and trust chains to bind identities to keys; Encryption: Protects confidentiality of data using cryptographic keys.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-4.1-02",
+    "objective": "4.1",
+    "prompt": "Which description best distinguishes Least privilege from the alternatives?",
+    "options": [
+      "Grants only permissions needed for a task",
+      "Requires authentication factors from different categories",
+      "Uses certificates and trust chains to bind identities to keys",
+      "Protects confidentiality of data using cryptographic keys"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege: Grants only permissions needed for a task; MFA: Requires authentication factors from different categories; PKI: Uses certificates and trust chains to bind identities to keys; Encryption: Protects confidentiality of data using cryptographic keys.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-4.1-03",
+    "objective": "4.1",
+    "prompt": "Which concept matches this requirement: requires authentication factors from different categories?",
+    "options": [
+      "MFA",
+      "Least privilege",
+      "PKI",
+      "Encryption"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege: Grants only permissions needed for a task; MFA: Requires authentication factors from different categories; PKI: Uses certificates and trust chains to bind identities to keys; Encryption: Protects confidentiality of data using cryptographic keys.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-4.1-04",
+    "objective": "4.1",
+    "prompt": "Which description best distinguishes MFA from the alternatives?",
+    "options": [
+      "Requires authentication factors from different categories",
+      "Grants only permissions needed for a task",
+      "Uses certificates and trust chains to bind identities to keys",
+      "Protects confidentiality of data using cryptographic keys"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege: Grants only permissions needed for a task; MFA: Requires authentication factors from different categories; PKI: Uses certificates and trust chains to bind identities to keys; Encryption: Protects confidentiality of data using cryptographic keys.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-4.1-05",
+    "objective": "4.1",
+    "prompt": "Which concept matches this requirement: uses certificates and trust chains to bind identities to keys?",
+    "options": [
+      "PKI",
+      "Least privilege",
+      "MFA",
+      "Encryption"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege: Grants only permissions needed for a task; MFA: Requires authentication factors from different categories; PKI: Uses certificates and trust chains to bind identities to keys; Encryption: Protects confidentiality of data using cryptographic keys.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-4.1-06",
+    "objective": "4.1",
+    "prompt": "Which description best distinguishes PKI from the alternatives?",
+    "options": [
+      "Uses certificates and trust chains to bind identities to keys",
+      "Grants only permissions needed for a task",
+      "Requires authentication factors from different categories",
+      "Protects confidentiality of data using cryptographic keys"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege: Grants only permissions needed for a task; MFA: Requires authentication factors from different categories; PKI: Uses certificates and trust chains to bind identities to keys; Encryption: Protects confidentiality of data using cryptographic keys.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-4.1-07",
+    "objective": "4.1",
+    "prompt": "Which concept matches this requirement: protects confidentiality of data using cryptographic keys?",
+    "options": [
+      "Encryption",
+      "Least privilege",
+      "MFA",
+      "PKI"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege: Grants only permissions needed for a task; MFA: Requires authentication factors from different categories; PKI: Uses certificates and trust chains to bind identities to keys; Encryption: Protects confidentiality of data using cryptographic keys.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-4.1-08",
+    "objective": "4.1",
+    "prompt": "Which description best distinguishes Encryption from the alternatives?",
+    "options": [
+      "Protects confidentiality of data using cryptographic keys",
+      "Grants only permissions needed for a task",
+      "Requires authentication factors from different categories",
+      "Uses certificates and trust chains to bind identities to keys"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege: Grants only permissions needed for a task; MFA: Requires authentication factors from different categories; PKI: Uses certificates and trust chains to bind identities to keys; Encryption: Protects confidentiality of data using cryptographic keys.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-4.1-09",
+    "objective": "4.1",
+    "prompt": "A colleague proposes MFA for a task that requires: grants only permissions needed for a task. Which alternative is the better match?",
+    "options": [
+      "Least privilege",
+      "MFA",
+      "PKI",
+      "Encryption"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege: Grants only permissions needed for a task; MFA: Requires authentication factors from different categories; PKI: Uses certificates and trust chains to bind identities to keys; Encryption: Protects confidentiality of data using cryptographic keys.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-4.2-01",
+    "objective": "4.2",
+    "prompt": "Which concept matches this requirement: falsifies IPv4 neighbor mappings?",
+    "options": [
+      "ARP poisoning",
+      "Rogue DHCP",
+      "Evil twin",
+      "DDoS"
+    ],
+    "answer": 0,
+    "explanation": "ARP poisoning: Falsifies IPv4 neighbor mappings; Rogue DHCP: Supplies unauthorized client network settings; Evil twin: Imitates a legitimate wireless access point; DDoS: Overwhelms resources using distributed traffic sources.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-4.2-02",
+    "objective": "4.2",
+    "prompt": "Which description best distinguishes ARP poisoning from the alternatives?",
+    "options": [
+      "Falsifies IPv4 neighbor mappings",
+      "Supplies unauthorized client network settings",
+      "Imitates a legitimate wireless access point",
+      "Overwhelms resources using distributed traffic sources"
+    ],
+    "answer": 0,
+    "explanation": "ARP poisoning: Falsifies IPv4 neighbor mappings; Rogue DHCP: Supplies unauthorized client network settings; Evil twin: Imitates a legitimate wireless access point; DDoS: Overwhelms resources using distributed traffic sources.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-4.2-03",
+    "objective": "4.2",
+    "prompt": "Which concept matches this requirement: supplies unauthorized client network settings?",
+    "options": [
+      "Rogue DHCP",
+      "ARP poisoning",
+      "Evil twin",
+      "DDoS"
+    ],
+    "answer": 0,
+    "explanation": "ARP poisoning: Falsifies IPv4 neighbor mappings; Rogue DHCP: Supplies unauthorized client network settings; Evil twin: Imitates a legitimate wireless access point; DDoS: Overwhelms resources using distributed traffic sources.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-4.2-04",
+    "objective": "4.2",
+    "prompt": "Which description best distinguishes Rogue DHCP from the alternatives?",
+    "options": [
+      "Supplies unauthorized client network settings",
+      "Falsifies IPv4 neighbor mappings",
+      "Imitates a legitimate wireless access point",
+      "Overwhelms resources using distributed traffic sources"
+    ],
+    "answer": 0,
+    "explanation": "ARP poisoning: Falsifies IPv4 neighbor mappings; Rogue DHCP: Supplies unauthorized client network settings; Evil twin: Imitates a legitimate wireless access point; DDoS: Overwhelms resources using distributed traffic sources.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-4.2-05",
+    "objective": "4.2",
+    "prompt": "Which concept matches this requirement: imitates a legitimate wireless access point?",
+    "options": [
+      "Evil twin",
+      "ARP poisoning",
+      "Rogue DHCP",
+      "DDoS"
+    ],
+    "answer": 0,
+    "explanation": "ARP poisoning: Falsifies IPv4 neighbor mappings; Rogue DHCP: Supplies unauthorized client network settings; Evil twin: Imitates a legitimate wireless access point; DDoS: Overwhelms resources using distributed traffic sources.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-4.2-06",
+    "objective": "4.2",
+    "prompt": "Which description best distinguishes Evil twin from the alternatives?",
+    "options": [
+      "Imitates a legitimate wireless access point",
+      "Falsifies IPv4 neighbor mappings",
+      "Supplies unauthorized client network settings",
+      "Overwhelms resources using distributed traffic sources"
+    ],
+    "answer": 0,
+    "explanation": "ARP poisoning: Falsifies IPv4 neighbor mappings; Rogue DHCP: Supplies unauthorized client network settings; Evil twin: Imitates a legitimate wireless access point; DDoS: Overwhelms resources using distributed traffic sources.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-4.2-07",
+    "objective": "4.2",
+    "prompt": "Which concept matches this requirement: overwhelms resources using distributed traffic sources?",
+    "options": [
+      "DDoS",
+      "ARP poisoning",
+      "Rogue DHCP",
+      "Evil twin"
+    ],
+    "answer": 0,
+    "explanation": "ARP poisoning: Falsifies IPv4 neighbor mappings; Rogue DHCP: Supplies unauthorized client network settings; Evil twin: Imitates a legitimate wireless access point; DDoS: Overwhelms resources using distributed traffic sources.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-4.2-08",
+    "objective": "4.2",
+    "prompt": "Which description best distinguishes DDoS from the alternatives?",
+    "options": [
+      "Overwhelms resources using distributed traffic sources",
+      "Falsifies IPv4 neighbor mappings",
+      "Supplies unauthorized client network settings",
+      "Imitates a legitimate wireless access point"
+    ],
+    "answer": 0,
+    "explanation": "ARP poisoning: Falsifies IPv4 neighbor mappings; Rogue DHCP: Supplies unauthorized client network settings; Evil twin: Imitates a legitimate wireless access point; DDoS: Overwhelms resources using distributed traffic sources.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-4.2-09",
+    "objective": "4.2",
+    "prompt": "A colleague proposes Rogue DHCP for a task that requires: falsifies IPv4 neighbor mappings. Which alternative is the better match?",
+    "options": [
+      "ARP poisoning",
+      "Rogue DHCP",
+      "Evil twin",
+      "DDoS"
+    ],
+    "answer": 0,
+    "explanation": "ARP poisoning: Falsifies IPv4 neighbor mappings; Rogue DHCP: Supplies unauthorized client network settings; Evil twin: Imitates a legitimate wireless access point; DDoS: Overwhelms resources using distributed traffic sources.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-4.3-01",
+    "objective": "4.3",
+    "prompt": "Which concept matches this requirement: controls port access through identity authentication?",
+    "options": [
+      "802.1X",
+      "ACL",
+      "Screened subnet",
+      "NAC"
+    ],
+    "answer": 0,
+    "explanation": "802.1X: Controls port access through identity authentication; ACL: Permits or denies traffic using defined match rules; Screened subnet: Isolates externally accessible services from internal networks; NAC: Evaluates endpoint access policy and posture.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-4.3-02",
+    "objective": "4.3",
+    "prompt": "Which description best distinguishes 802.1X from the alternatives?",
+    "options": [
+      "Controls port access through identity authentication",
+      "Permits or denies traffic using defined match rules",
+      "Isolates externally accessible services from internal networks",
+      "Evaluates endpoint access policy and posture"
+    ],
+    "answer": 0,
+    "explanation": "802.1X: Controls port access through identity authentication; ACL: Permits or denies traffic using defined match rules; Screened subnet: Isolates externally accessible services from internal networks; NAC: Evaluates endpoint access policy and posture.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-4.3-03",
+    "objective": "4.3",
+    "prompt": "Which concept matches this requirement: permits or denies traffic using defined match rules?",
+    "options": [
+      "ACL",
+      "802.1X",
+      "Screened subnet",
+      "NAC"
+    ],
+    "answer": 0,
+    "explanation": "802.1X: Controls port access through identity authentication; ACL: Permits or denies traffic using defined match rules; Screened subnet: Isolates externally accessible services from internal networks; NAC: Evaluates endpoint access policy and posture.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-4.3-04",
+    "objective": "4.3",
+    "prompt": "Which description best distinguishes ACL from the alternatives?",
+    "options": [
+      "Permits or denies traffic using defined match rules",
+      "Controls port access through identity authentication",
+      "Isolates externally accessible services from internal networks",
+      "Evaluates endpoint access policy and posture"
+    ],
+    "answer": 0,
+    "explanation": "802.1X: Controls port access through identity authentication; ACL: Permits or denies traffic using defined match rules; Screened subnet: Isolates externally accessible services from internal networks; NAC: Evaluates endpoint access policy and posture.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-4.3-05",
+    "objective": "4.3",
+    "prompt": "Which concept matches this requirement: isolates externally accessible services from internal networks?",
+    "options": [
+      "Screened subnet",
+      "802.1X",
+      "ACL",
+      "NAC"
+    ],
+    "answer": 0,
+    "explanation": "802.1X: Controls port access through identity authentication; ACL: Permits or denies traffic using defined match rules; Screened subnet: Isolates externally accessible services from internal networks; NAC: Evaluates endpoint access policy and posture.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-4.3-06",
+    "objective": "4.3",
+    "prompt": "Which description best distinguishes Screened subnet from the alternatives?",
+    "options": [
+      "Isolates externally accessible services from internal networks",
+      "Controls port access through identity authentication",
+      "Permits or denies traffic using defined match rules",
+      "Evaluates endpoint access policy and posture"
+    ],
+    "answer": 0,
+    "explanation": "802.1X: Controls port access through identity authentication; ACL: Permits or denies traffic using defined match rules; Screened subnet: Isolates externally accessible services from internal networks; NAC: Evaluates endpoint access policy and posture.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-4.3-07",
+    "objective": "4.3",
+    "prompt": "Which concept matches this requirement: evaluates endpoint access policy and posture?",
+    "options": [
+      "NAC",
+      "802.1X",
+      "ACL",
+      "Screened subnet"
+    ],
+    "answer": 0,
+    "explanation": "802.1X: Controls port access through identity authentication; ACL: Permits or denies traffic using defined match rules; Screened subnet: Isolates externally accessible services from internal networks; NAC: Evaluates endpoint access policy and posture.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-4.3-08",
+    "objective": "4.3",
+    "prompt": "Which description best distinguishes NAC from the alternatives?",
+    "options": [
+      "Evaluates endpoint access policy and posture",
+      "Controls port access through identity authentication",
+      "Permits or denies traffic using defined match rules",
+      "Isolates externally accessible services from internal networks"
+    ],
+    "answer": 0,
+    "explanation": "802.1X: Controls port access through identity authentication; ACL: Permits or denies traffic using defined match rules; Screened subnet: Isolates externally accessible services from internal networks; NAC: Evaluates endpoint access policy and posture.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-4.3-09",
+    "objective": "4.3",
+    "prompt": "A colleague proposes ACL for a task that requires: controls port access through identity authentication. Which alternative is the better match?",
+    "options": [
+      "802.1X",
+      "ACL",
+      "Screened subnet",
+      "NAC"
+    ],
+    "answer": 0,
+    "explanation": "802.1X: Controls port access through identity authentication; ACL: Permits or denies traffic using defined match rules; Screened subnet: Isolates externally accessible services from internal networks; NAC: Evaluates endpoint access policy and posture.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-5.1-01",
+    "objective": "5.1",
+    "prompt": "Which concept matches this requirement: collect symptoms scope and recent changes?",
+    "options": [
+      "Identify problem",
+      "Test theory",
+      "Verify functionality",
+      "Document findings"
+    ],
+    "answer": 0,
+    "explanation": "Identify problem: Collect symptoms scope and recent changes; Test theory: Use evidence to confirm or reject suspected cause; Verify functionality: Confirm service restoration and check side effects; Document findings: Record cause actions and outcome for future reference.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.1-02",
+    "objective": "5.1",
+    "prompt": "Which description best distinguishes Identify problem from the alternatives?",
+    "options": [
+      "Collect symptoms scope and recent changes",
+      "Use evidence to confirm or reject suspected cause",
+      "Confirm service restoration and check side effects",
+      "Record cause actions and outcome for future reference"
+    ],
+    "answer": 0,
+    "explanation": "Identify problem: Collect symptoms scope and recent changes; Test theory: Use evidence to confirm or reject suspected cause; Verify functionality: Confirm service restoration and check side effects; Document findings: Record cause actions and outcome for future reference.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.1-03",
+    "objective": "5.1",
+    "prompt": "Which concept matches this requirement: use evidence to confirm or reject suspected cause?",
+    "options": [
+      "Test theory",
+      "Identify problem",
+      "Verify functionality",
+      "Document findings"
+    ],
+    "answer": 0,
+    "explanation": "Identify problem: Collect symptoms scope and recent changes; Test theory: Use evidence to confirm or reject suspected cause; Verify functionality: Confirm service restoration and check side effects; Document findings: Record cause actions and outcome for future reference.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.1-04",
+    "objective": "5.1",
+    "prompt": "Which description best distinguishes Test theory from the alternatives?",
+    "options": [
+      "Use evidence to confirm or reject suspected cause",
+      "Collect symptoms scope and recent changes",
+      "Confirm service restoration and check side effects",
+      "Record cause actions and outcome for future reference"
+    ],
+    "answer": 0,
+    "explanation": "Identify problem: Collect symptoms scope and recent changes; Test theory: Use evidence to confirm or reject suspected cause; Verify functionality: Confirm service restoration and check side effects; Document findings: Record cause actions and outcome for future reference.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.1-05",
+    "objective": "5.1",
+    "prompt": "Which concept matches this requirement: confirm service restoration and check side effects?",
+    "options": [
+      "Verify functionality",
+      "Identify problem",
+      "Test theory",
+      "Document findings"
+    ],
+    "answer": 0,
+    "explanation": "Identify problem: Collect symptoms scope and recent changes; Test theory: Use evidence to confirm or reject suspected cause; Verify functionality: Confirm service restoration and check side effects; Document findings: Record cause actions and outcome for future reference.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.1-06",
+    "objective": "5.1",
+    "prompt": "Which description best distinguishes Verify functionality from the alternatives?",
+    "options": [
+      "Confirm service restoration and check side effects",
+      "Collect symptoms scope and recent changes",
+      "Use evidence to confirm or reject suspected cause",
+      "Record cause actions and outcome for future reference"
+    ],
+    "answer": 0,
+    "explanation": "Identify problem: Collect symptoms scope and recent changes; Test theory: Use evidence to confirm or reject suspected cause; Verify functionality: Confirm service restoration and check side effects; Document findings: Record cause actions and outcome for future reference.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.1-07",
+    "objective": "5.1",
+    "prompt": "Which concept matches this requirement: record cause actions and outcome for future reference?",
+    "options": [
+      "Document findings",
+      "Identify problem",
+      "Test theory",
+      "Verify functionality"
+    ],
+    "answer": 0,
+    "explanation": "Identify problem: Collect symptoms scope and recent changes; Test theory: Use evidence to confirm or reject suspected cause; Verify functionality: Confirm service restoration and check side effects; Document findings: Record cause actions and outcome for future reference.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.1-08",
+    "objective": "5.1",
+    "prompt": "Which description best distinguishes Document findings from the alternatives?",
+    "options": [
+      "Record cause actions and outcome for future reference",
+      "Collect symptoms scope and recent changes",
+      "Use evidence to confirm or reject suspected cause",
+      "Confirm service restoration and check side effects"
+    ],
+    "answer": 0,
+    "explanation": "Identify problem: Collect symptoms scope and recent changes; Test theory: Use evidence to confirm or reject suspected cause; Verify functionality: Confirm service restoration and check side effects; Document findings: Record cause actions and outcome for future reference.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.1-09",
+    "objective": "5.1",
+    "prompt": "A colleague proposes Test theory for a task that requires: collect symptoms scope and recent changes. Which alternative is the better match?",
+    "options": [
+      "Identify problem",
+      "Test theory",
+      "Verify functionality",
+      "Document findings"
+    ],
+    "answer": 0,
+    "explanation": "Identify problem: Collect symptoms scope and recent changes; Test theory: Use evidence to confirm or reject suspected cause; Verify functionality: Confirm service restoration and check side effects; Document findings: Record cause actions and outcome for future reference.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-5.2-01",
+    "objective": "5.2",
+    "prompt": "Which concept matches this requirement: detects incorrect conductor pin assignments?",
+    "options": [
+      "Wire map tester",
+      "OTDR",
+      "CRC errors",
+      "Duplex mismatch"
+    ],
+    "answer": 0,
+    "explanation": "Wire map tester: Detects incorrect conductor pin assignments; OTDR: Locates optical fiber faults by reflected light; CRC errors: Indicate frames failing integrity checks; Duplex mismatch: Can cause collisions and poor throughput on Ethernet.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.2-02",
+    "objective": "5.2",
+    "prompt": "Which description best distinguishes Wire map tester from the alternatives?",
+    "options": [
+      "Detects incorrect conductor pin assignments",
+      "Locates optical fiber faults by reflected light",
+      "Indicate frames failing integrity checks",
+      "Can cause collisions and poor throughput on Ethernet"
+    ],
+    "answer": 0,
+    "explanation": "Wire map tester: Detects incorrect conductor pin assignments; OTDR: Locates optical fiber faults by reflected light; CRC errors: Indicate frames failing integrity checks; Duplex mismatch: Can cause collisions and poor throughput on Ethernet.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.2-03",
+    "objective": "5.2",
+    "prompt": "Which concept matches this requirement: locates optical fiber faults by reflected light?",
+    "options": [
+      "OTDR",
+      "Wire map tester",
+      "CRC errors",
+      "Duplex mismatch"
+    ],
+    "answer": 0,
+    "explanation": "Wire map tester: Detects incorrect conductor pin assignments; OTDR: Locates optical fiber faults by reflected light; CRC errors: Indicate frames failing integrity checks; Duplex mismatch: Can cause collisions and poor throughput on Ethernet.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.2-04",
+    "objective": "5.2",
+    "prompt": "Which description best distinguishes OTDR from the alternatives?",
+    "options": [
+      "Locates optical fiber faults by reflected light",
+      "Detects incorrect conductor pin assignments",
+      "Indicate frames failing integrity checks",
+      "Can cause collisions and poor throughput on Ethernet"
+    ],
+    "answer": 0,
+    "explanation": "Wire map tester: Detects incorrect conductor pin assignments; OTDR: Locates optical fiber faults by reflected light; CRC errors: Indicate frames failing integrity checks; Duplex mismatch: Can cause collisions and poor throughput on Ethernet.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.2-05",
+    "objective": "5.2",
+    "prompt": "Which concept matches this requirement: indicate frames failing integrity checks?",
+    "options": [
+      "CRC errors",
+      "Wire map tester",
+      "OTDR",
+      "Duplex mismatch"
+    ],
+    "answer": 0,
+    "explanation": "Wire map tester: Detects incorrect conductor pin assignments; OTDR: Locates optical fiber faults by reflected light; CRC errors: Indicate frames failing integrity checks; Duplex mismatch: Can cause collisions and poor throughput on Ethernet.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.2-06",
+    "objective": "5.2",
+    "prompt": "Which description best distinguishes CRC errors from the alternatives?",
+    "options": [
+      "Indicate frames failing integrity checks",
+      "Detects incorrect conductor pin assignments",
+      "Locates optical fiber faults by reflected light",
+      "Can cause collisions and poor throughput on Ethernet"
+    ],
+    "answer": 0,
+    "explanation": "Wire map tester: Detects incorrect conductor pin assignments; OTDR: Locates optical fiber faults by reflected light; CRC errors: Indicate frames failing integrity checks; Duplex mismatch: Can cause collisions and poor throughput on Ethernet.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.2-07",
+    "objective": "5.2",
+    "prompt": "Which concept matches this requirement: can cause collisions and poor throughput on Ethernet?",
+    "options": [
+      "Duplex mismatch",
+      "Wire map tester",
+      "OTDR",
+      "CRC errors"
+    ],
+    "answer": 0,
+    "explanation": "Wire map tester: Detects incorrect conductor pin assignments; OTDR: Locates optical fiber faults by reflected light; CRC errors: Indicate frames failing integrity checks; Duplex mismatch: Can cause collisions and poor throughput on Ethernet.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.2-08",
+    "objective": "5.2",
+    "prompt": "Which description best distinguishes Duplex mismatch from the alternatives?",
+    "options": [
+      "Can cause collisions and poor throughput on Ethernet",
+      "Detects incorrect conductor pin assignments",
+      "Locates optical fiber faults by reflected light",
+      "Indicate frames failing integrity checks"
+    ],
+    "answer": 0,
+    "explanation": "Wire map tester: Detects incorrect conductor pin assignments; OTDR: Locates optical fiber faults by reflected light; CRC errors: Indicate frames failing integrity checks; Duplex mismatch: Can cause collisions and poor throughput on Ethernet.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.2-09",
+    "objective": "5.2",
+    "prompt": "A colleague proposes OTDR for a task that requires: detects incorrect conductor pin assignments. Which alternative is the better match?",
+    "options": [
+      "Wire map tester",
+      "OTDR",
+      "CRC errors",
+      "Duplex mismatch"
+    ],
+    "answer": 0,
+    "explanation": "Wire map tester: Detects incorrect conductor pin assignments; OTDR: Locates optical fiber faults by reflected light; CRC errors: Indicate frames failing integrity checks; Duplex mismatch: Can cause collisions and poor throughput on Ethernet.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-5.3-01",
+    "objective": "5.3",
+    "prompt": "Which concept matches this requirement: prevents new clients obtaining leases when pool is full?",
+    "options": [
+      "DHCP exhaustion",
+      "Wrong default gateway",
+      "VLAN mismatch",
+      "Duplicate IP"
+    ],
+    "answer": 0,
+    "explanation": "DHCP exhaustion: Prevents new clients obtaining leases when pool is full; Wrong default gateway: Prevents off-subnet access despite local connectivity; VLAN mismatch: Places endpoints in unintended broadcast domains; Duplicate IP: Causes conflicting address ownership and intermittent reachability.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.3-02",
+    "objective": "5.3",
+    "prompt": "Which description best distinguishes DHCP exhaustion from the alternatives?",
+    "options": [
+      "Prevents new clients obtaining leases when pool is full",
+      "Prevents off-subnet access despite local connectivity",
+      "Places endpoints in unintended broadcast domains",
+      "Causes conflicting address ownership and intermittent reachability"
+    ],
+    "answer": 0,
+    "explanation": "DHCP exhaustion: Prevents new clients obtaining leases when pool is full; Wrong default gateway: Prevents off-subnet access despite local connectivity; VLAN mismatch: Places endpoints in unintended broadcast domains; Duplicate IP: Causes conflicting address ownership and intermittent reachability.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.3-03",
+    "objective": "5.3",
+    "prompt": "Which concept matches this requirement: prevents off-subnet access despite local connectivity?",
+    "options": [
+      "Wrong default gateway",
+      "DHCP exhaustion",
+      "VLAN mismatch",
+      "Duplicate IP"
+    ],
+    "answer": 0,
+    "explanation": "DHCP exhaustion: Prevents new clients obtaining leases when pool is full; Wrong default gateway: Prevents off-subnet access despite local connectivity; VLAN mismatch: Places endpoints in unintended broadcast domains; Duplicate IP: Causes conflicting address ownership and intermittent reachability.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.3-04",
+    "objective": "5.3",
+    "prompt": "Which description best distinguishes Wrong default gateway from the alternatives?",
+    "options": [
+      "Prevents off-subnet access despite local connectivity",
+      "Prevents new clients obtaining leases when pool is full",
+      "Places endpoints in unintended broadcast domains",
+      "Causes conflicting address ownership and intermittent reachability"
+    ],
+    "answer": 0,
+    "explanation": "DHCP exhaustion: Prevents new clients obtaining leases when pool is full; Wrong default gateway: Prevents off-subnet access despite local connectivity; VLAN mismatch: Places endpoints in unintended broadcast domains; Duplicate IP: Causes conflicting address ownership and intermittent reachability.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.3-05",
+    "objective": "5.3",
+    "prompt": "Which concept matches this requirement: places endpoints in unintended broadcast domains?",
+    "options": [
+      "VLAN mismatch",
+      "DHCP exhaustion",
+      "Wrong default gateway",
+      "Duplicate IP"
+    ],
+    "answer": 0,
+    "explanation": "DHCP exhaustion: Prevents new clients obtaining leases when pool is full; Wrong default gateway: Prevents off-subnet access despite local connectivity; VLAN mismatch: Places endpoints in unintended broadcast domains; Duplicate IP: Causes conflicting address ownership and intermittent reachability.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.3-06",
+    "objective": "5.3",
+    "prompt": "Which description best distinguishes VLAN mismatch from the alternatives?",
+    "options": [
+      "Places endpoints in unintended broadcast domains",
+      "Prevents new clients obtaining leases when pool is full",
+      "Prevents off-subnet access despite local connectivity",
+      "Causes conflicting address ownership and intermittent reachability"
+    ],
+    "answer": 0,
+    "explanation": "DHCP exhaustion: Prevents new clients obtaining leases when pool is full; Wrong default gateway: Prevents off-subnet access despite local connectivity; VLAN mismatch: Places endpoints in unintended broadcast domains; Duplicate IP: Causes conflicting address ownership and intermittent reachability.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.3-07",
+    "objective": "5.3",
+    "prompt": "Which concept matches this requirement: causes conflicting address ownership and intermittent reachability?",
+    "options": [
+      "Duplicate IP",
+      "DHCP exhaustion",
+      "Wrong default gateway",
+      "VLAN mismatch"
+    ],
+    "answer": 0,
+    "explanation": "DHCP exhaustion: Prevents new clients obtaining leases when pool is full; Wrong default gateway: Prevents off-subnet access despite local connectivity; VLAN mismatch: Places endpoints in unintended broadcast domains; Duplicate IP: Causes conflicting address ownership and intermittent reachability.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.3-08",
+    "objective": "5.3",
+    "prompt": "Which description best distinguishes Duplicate IP from the alternatives?",
+    "options": [
+      "Causes conflicting address ownership and intermittent reachability",
+      "Prevents new clients obtaining leases when pool is full",
+      "Prevents off-subnet access despite local connectivity",
+      "Places endpoints in unintended broadcast domains"
+    ],
+    "answer": 0,
+    "explanation": "DHCP exhaustion: Prevents new clients obtaining leases when pool is full; Wrong default gateway: Prevents off-subnet access despite local connectivity; VLAN mismatch: Places endpoints in unintended broadcast domains; Duplicate IP: Causes conflicting address ownership and intermittent reachability.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.3-09",
+    "objective": "5.3",
+    "prompt": "A colleague proposes Wrong default gateway for a task that requires: prevents new clients obtaining leases when pool is full. Which alternative is the better match?",
+    "options": [
+      "DHCP exhaustion",
+      "Wrong default gateway",
+      "VLAN mismatch",
+      "Duplicate IP"
+    ],
+    "answer": 0,
+    "explanation": "DHCP exhaustion: Prevents new clients obtaining leases when pool is full; Wrong default gateway: Prevents off-subnet access despite local connectivity; VLAN mismatch: Places endpoints in unintended broadcast domains; Duplicate IP: Causes conflicting address ownership and intermittent reachability.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-5.4-01",
+    "objective": "5.4",
+    "prompt": "Which concept matches this requirement: measures delay across a path?",
+    "options": [
+      "Latency",
+      "Jitter",
+      "Packet loss",
+      "Congestion"
+    ],
+    "answer": 0,
+    "explanation": "Latency: Measures delay across a path; Jitter: Measures variation in packet delay; Packet loss: Measures packets failing to reach destination; Congestion: Occurs when offered traffic exceeds available forwarding capacity.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.4-02",
+    "objective": "5.4",
+    "prompt": "Which description best distinguishes Latency from the alternatives?",
+    "options": [
+      "Measures delay across a path",
+      "Measures variation in packet delay",
+      "Measures packets failing to reach destination",
+      "Occurs when offered traffic exceeds available forwarding capacity"
+    ],
+    "answer": 0,
+    "explanation": "Latency: Measures delay across a path; Jitter: Measures variation in packet delay; Packet loss: Measures packets failing to reach destination; Congestion: Occurs when offered traffic exceeds available forwarding capacity.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.4-03",
+    "objective": "5.4",
+    "prompt": "Which concept matches this requirement: measures variation in packet delay?",
+    "options": [
+      "Jitter",
+      "Latency",
+      "Packet loss",
+      "Congestion"
+    ],
+    "answer": 0,
+    "explanation": "Latency: Measures delay across a path; Jitter: Measures variation in packet delay; Packet loss: Measures packets failing to reach destination; Congestion: Occurs when offered traffic exceeds available forwarding capacity.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.4-04",
+    "objective": "5.4",
+    "prompt": "Which description best distinguishes Jitter from the alternatives?",
+    "options": [
+      "Measures variation in packet delay",
+      "Measures delay across a path",
+      "Measures packets failing to reach destination",
+      "Occurs when offered traffic exceeds available forwarding capacity"
+    ],
+    "answer": 0,
+    "explanation": "Latency: Measures delay across a path; Jitter: Measures variation in packet delay; Packet loss: Measures packets failing to reach destination; Congestion: Occurs when offered traffic exceeds available forwarding capacity.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.4-05",
+    "objective": "5.4",
+    "prompt": "Which concept matches this requirement: measures packets failing to reach destination?",
+    "options": [
+      "Packet loss",
+      "Latency",
+      "Jitter",
+      "Congestion"
+    ],
+    "answer": 0,
+    "explanation": "Latency: Measures delay across a path; Jitter: Measures variation in packet delay; Packet loss: Measures packets failing to reach destination; Congestion: Occurs when offered traffic exceeds available forwarding capacity.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.4-06",
+    "objective": "5.4",
+    "prompt": "Which description best distinguishes Packet loss from the alternatives?",
+    "options": [
+      "Measures packets failing to reach destination",
+      "Measures delay across a path",
+      "Measures variation in packet delay",
+      "Occurs when offered traffic exceeds available forwarding capacity"
+    ],
+    "answer": 0,
+    "explanation": "Latency: Measures delay across a path; Jitter: Measures variation in packet delay; Packet loss: Measures packets failing to reach destination; Congestion: Occurs when offered traffic exceeds available forwarding capacity.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.4-07",
+    "objective": "5.4",
+    "prompt": "Which concept matches this requirement: occurs when offered traffic exceeds available forwarding capacity?",
+    "options": [
+      "Congestion",
+      "Latency",
+      "Jitter",
+      "Packet loss"
+    ],
+    "answer": 0,
+    "explanation": "Latency: Measures delay across a path; Jitter: Measures variation in packet delay; Packet loss: Measures packets failing to reach destination; Congestion: Occurs when offered traffic exceeds available forwarding capacity.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.4-08",
+    "objective": "5.4",
+    "prompt": "Which description best distinguishes Congestion from the alternatives?",
+    "options": [
+      "Occurs when offered traffic exceeds available forwarding capacity",
+      "Measures delay across a path",
+      "Measures variation in packet delay",
+      "Measures packets failing to reach destination"
+    ],
+    "answer": 0,
+    "explanation": "Latency: Measures delay across a path; Jitter: Measures variation in packet delay; Packet loss: Measures packets failing to reach destination; Congestion: Occurs when offered traffic exceeds available forwarding capacity.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.4-09",
+    "objective": "5.4",
+    "prompt": "A colleague proposes Jitter for a task that requires: measures delay across a path. Which alternative is the better match?",
+    "options": [
+      "Latency",
+      "Jitter",
+      "Packet loss",
+      "Congestion"
+    ],
+    "answer": 0,
+    "explanation": "Latency: Measures delay across a path; Jitter: Measures variation in packet delay; Packet loss: Measures packets failing to reach destination; Congestion: Occurs when offered traffic exceeds available forwarding capacity.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v05-5.5-01",
+    "objective": "5.5",
+    "prompt": "Which concept matches this requirement: reveals responding hops toward a destination?",
+    "options": [
+      "traceroute",
+      "nslookup",
+      "tcpdump",
+      "ipconfig"
+    ],
+    "answer": 0,
+    "explanation": "traceroute: Reveals responding hops toward a destination; nslookup: Queries DNS records; tcpdump: Captures packets for protocol inspection; ipconfig: Displays Windows IP configuration.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.5-02",
+    "objective": "5.5",
+    "prompt": "Which description best distinguishes traceroute from the alternatives?",
+    "options": [
+      "Reveals responding hops toward a destination",
+      "Queries DNS records",
+      "Captures packets for protocol inspection",
+      "Displays Windows IP configuration"
+    ],
+    "answer": 0,
+    "explanation": "traceroute: Reveals responding hops toward a destination; nslookup: Queries DNS records; tcpdump: Captures packets for protocol inspection; ipconfig: Displays Windows IP configuration.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.5-03",
+    "objective": "5.5",
+    "prompt": "Which concept matches this requirement: queries DNS records?",
+    "options": [
+      "nslookup",
+      "traceroute",
+      "tcpdump",
+      "ipconfig"
+    ],
+    "answer": 0,
+    "explanation": "traceroute: Reveals responding hops toward a destination; nslookup: Queries DNS records; tcpdump: Captures packets for protocol inspection; ipconfig: Displays Windows IP configuration.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.5-04",
+    "objective": "5.5",
+    "prompt": "Which description best distinguishes nslookup from the alternatives?",
+    "options": [
+      "Queries DNS records",
+      "Reveals responding hops toward a destination",
+      "Captures packets for protocol inspection",
+      "Displays Windows IP configuration"
+    ],
+    "answer": 0,
+    "explanation": "traceroute: Reveals responding hops toward a destination; nslookup: Queries DNS records; tcpdump: Captures packets for protocol inspection; ipconfig: Displays Windows IP configuration.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.5-05",
+    "objective": "5.5",
+    "prompt": "Which concept matches this requirement: captures packets for protocol inspection?",
+    "options": [
+      "tcpdump",
+      "traceroute",
+      "nslookup",
+      "ipconfig"
+    ],
+    "answer": 0,
+    "explanation": "traceroute: Reveals responding hops toward a destination; nslookup: Queries DNS records; tcpdump: Captures packets for protocol inspection; ipconfig: Displays Windows IP configuration.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.5-06",
+    "objective": "5.5",
+    "prompt": "Which description best distinguishes tcpdump from the alternatives?",
+    "options": [
+      "Captures packets for protocol inspection",
+      "Reveals responding hops toward a destination",
+      "Queries DNS records",
+      "Displays Windows IP configuration"
+    ],
+    "answer": 0,
+    "explanation": "traceroute: Reveals responding hops toward a destination; nslookup: Queries DNS records; tcpdump: Captures packets for protocol inspection; ipconfig: Displays Windows IP configuration.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.5-07",
+    "objective": "5.5",
+    "prompt": "Which concept matches this requirement: displays Windows IP configuration?",
+    "options": [
+      "ipconfig",
+      "traceroute",
+      "nslookup",
+      "tcpdump"
+    ],
+    "answer": 0,
+    "explanation": "traceroute: Reveals responding hops toward a destination; nslookup: Queries DNS records; tcpdump: Captures packets for protocol inspection; ipconfig: Displays Windows IP configuration.",
+    "difficulty": "application"
+  },
+  {
+    "id": "n10-v05-5.5-08",
+    "objective": "5.5",
+    "prompt": "Which description best distinguishes ipconfig from the alternatives?",
+    "options": [
+      "Displays Windows IP configuration",
+      "Reveals responding hops toward a destination",
+      "Queries DNS records",
+      "Captures packets for protocol inspection"
+    ],
+    "answer": 0,
+    "explanation": "traceroute: Reveals responding hops toward a destination; nslookup: Queries DNS records; tcpdump: Captures packets for protocol inspection; ipconfig: Displays Windows IP configuration.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v05-5.5-09",
+    "objective": "5.5",
+    "prompt": "A colleague proposes nslookup for a task that requires: reveals responding hops toward a destination. Which alternative is the better match?",
+    "options": [
+      "traceroute",
+      "nslookup",
+      "tcpdump",
+      "ipconfig"
+    ],
+    "answer": 0,
+    "explanation": "traceroute: Reveals responding hops toward a destination; nslookup: Queries DNS records; tcpdump: Captures packets for protocol inspection; ipconfig: Displays Windows IP configuration.",
+    "difficulty": "analysis"
   }
 ]

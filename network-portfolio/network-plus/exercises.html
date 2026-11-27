@@ -1,0 +1,14 @@
+---
+layout: page
+title: Network+ Interactive Learning Lab
+hr_theme: network
+permalink: /network-portfolio/network-plus/exercises/
+---
+<p><a href="../">Study Center</a> · <a href="../practice/">Practice Center</a> · <a href="../review/">Objective review</a></p>
+<style>#hr-lab section{border:1px solid #2563A6;border-radius:12px;padding:1rem;margin:1rem 0}#hr-lab button,#hr-lab input,#hr-lab select{font:inherit;padding:.4rem;margin:.3rem;max-width:95%}#hr-lab label{display:block}#hr-lab pre{white-space:pre-wrap}</style>
+<div id="hr-lab" data-cards="{{ '/network-portfolio/network-plus/flashcards.json' | relative_url }}">
+<section><h2>Rapid review</h2><label>Objective <select id="fc-filter"><option value="all">All</option></select></label><h3 id="fc-front">Loading cards…</h3><p id="fc-back" hidden></p><button id="fc-reveal">Reveal answer</button><button id="fc-next">Next card</button></section>
+<section><h2>IPv4 subnetting</h2><p id="v4-task"></p><form id="v4-form"><label>Network address <input name="network" required></label><label>Broadcast address <input name="broadcast" required></label><label>Usable host count <input name="hosts" type="number" required></label><button>Check</button></form><button id="v4-new">New scenario</button><p id="v4-result" role="status"></p></section>
+<section><h2>IPv6 subnetting</h2><p id="v6-task"></p><form id="v6-form"><label>Fourth hextet of requested /64 (hexadecimal) <input name="hex" required maxlength="4"></label><button>Check</button></form><button id="v6-new">New scenario</button><p id="v6-result" role="status"></p></section>
+<section><h2>Performance-based practice</h2><p>Original guided exercises, not official exam simulations.</p><label>Scenario <select id="pb-select"></select></label><pre id="pb-task"></pre><form id="pb-form"><div id="pb-fields"></div><button>Check configuration</button></form><p id="pb-result" role="status"></p></section>
+</div><script src="{{ '/network-portfolio/network-plus/exercises.js' | relative_url }}" defer></script>

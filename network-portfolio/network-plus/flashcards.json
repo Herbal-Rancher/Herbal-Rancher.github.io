@@ -1,0 +1,502 @@
+[
+  {
+    "objective": "1.1",
+    "front": "Physical layer",
+    "back": "Signal encoding and bit transmission"
+  },
+  {
+    "objective": "1.1",
+    "front": "Data link layer",
+    "back": "MAC addressing and frame delivery"
+  },
+  {
+    "objective": "1.1",
+    "front": "Network layer",
+    "back": "Logical addressing and routing"
+  },
+  {
+    "objective": "1.1",
+    "front": "Transport layer",
+    "back": "End-to-end port multiplexing and reliability"
+  },
+  {
+    "objective": "1.2",
+    "front": "Stateful firewall",
+    "back": "Tracks connection state to enforce policy"
+  },
+  {
+    "objective": "1.2",
+    "front": "IDS",
+    "back": "Alerts on suspicious traffic without inline blocking"
+  },
+  {
+    "objective": "1.2",
+    "front": "Load balancer",
+    "back": "Distributes client requests among healthy servers"
+  },
+  {
+    "objective": "1.2",
+    "front": "SAN",
+    "back": "Provides block-level storage access"
+  },
+  {
+    "objective": "1.3",
+    "front": "IaaS",
+    "back": "Customer manages guest operating systems"
+  },
+  {
+    "objective": "1.3",
+    "front": "PaaS",
+    "back": "Provider manages runtime and underlying infrastructure"
+  },
+  {
+    "objective": "1.3",
+    "front": "SaaS",
+    "back": "Customer consumes a hosted application"
+  },
+  {
+    "objective": "1.3",
+    "front": "Private endpoint",
+    "back": "Accesses a cloud service through private addressing"
+  },
+  {
+    "objective": "1.4",
+    "front": "DNS",
+    "back": "Resolves names using port 53"
+  },
+  {
+    "objective": "1.4",
+    "front": "SSH",
+    "back": "Encrypted remote shell on TCP 22"
+  },
+  {
+    "objective": "1.4",
+    "front": "SNMP",
+    "back": "Queries device management data on UDP 161"
+  },
+  {
+    "objective": "1.4",
+    "front": "NTP",
+    "back": "Synchronizes clocks using UDP 123"
+  },
+  {
+    "objective": "1.5",
+    "front": "Single-mode fiber",
+    "back": "Long-distance optical links with narrow core"
+  },
+  {
+    "objective": "1.5",
+    "front": "Multimode fiber",
+    "back": "Shorter optical links with multiple propagation modes"
+  },
+  {
+    "objective": "1.5",
+    "front": "Twinax DAC",
+    "back": "Short direct copper connection between compatible ports"
+  },
+  {
+    "objective": "1.5",
+    "front": "Cat 6A",
+    "back": "Balanced copper supporting 10GBASE-T up to 100 meters"
+  },
+  {
+    "objective": "1.6",
+    "front": "Spine-leaf",
+    "back": "Predictable east-west paths through spine switches"
+  },
+  {
+    "objective": "1.6",
+    "front": "Star",
+    "back": "Endpoints connect to a central device"
+  },
+  {
+    "objective": "1.6",
+    "front": "Mesh",
+    "back": "Multiple alternate paths between nodes"
+  },
+  {
+    "objective": "1.6",
+    "front": "Three-tier",
+    "back": "Access distribution and core layers"
+  },
+  {
+    "objective": "1.7",
+    "front": "RFC 1918",
+    "back": "Private IPv4 address space not globally routed"
+  },
+  {
+    "objective": "1.7",
+    "front": "APIPA",
+    "back": "Self-assigned IPv4 link-local address in 169.254/16"
+  },
+  {
+    "objective": "1.7",
+    "front": "CIDR",
+    "back": "Prefix length describes network bits"
+  },
+  {
+    "objective": "1.7",
+    "front": "VLSM",
+    "back": "Different prefix lengths allocate different subnet sizes"
+  },
+  {
+    "objective": "1.8",
+    "front": "SD-WAN",
+    "back": "Policy-driven selection across WAN transports"
+  },
+  {
+    "objective": "1.8",
+    "front": "VXLAN",
+    "back": "Encapsulates layer-two segments over an IP underlay"
+  },
+  {
+    "objective": "1.8",
+    "front": "Zero trust",
+    "back": "Explicit verification and least privilege without implicit network trust"
+  },
+  {
+    "objective": "1.8",
+    "front": "IPv6 SLAAC",
+    "back": "Host forms addresses using advertised prefixes"
+  },
+  {
+    "objective": "2.1",
+    "front": "OSPF",
+    "back": "Link-state routing within an autonomous system"
+  },
+  {
+    "objective": "2.1",
+    "front": "BGP",
+    "back": "Policy-based path-vector routing between autonomous systems"
+  },
+  {
+    "objective": "2.1",
+    "front": "PAT",
+    "back": "Multiple private hosts share a public address using ports"
+  },
+  {
+    "objective": "2.1",
+    "front": "FHRP",
+    "back": "Provides a redundant virtual default gateway"
+  },
+  {
+    "objective": "2.2",
+    "front": "802.1Q",
+    "back": "Tags Ethernet frames to identify VLANs"
+  },
+  {
+    "objective": "2.2",
+    "front": "RSTP",
+    "back": "Converges loop-free switched topology rapidly"
+  },
+  {
+    "objective": "2.2",
+    "front": "LACP",
+    "back": "Negotiates aggregation of compatible links"
+  },
+  {
+    "objective": "2.2",
+    "front": "Voice VLAN",
+    "back": "Separates voice traffic from ordinary access data"
+  },
+  {
+    "objective": "2.3",
+    "front": "WPA3-Personal",
+    "back": "Uses SAE for password-based wireless authentication"
+  },
+  {
+    "objective": "2.3",
+    "front": "WPA2-Enterprise",
+    "back": "Uses 802.1X authentication with an authentication server"
+  },
+  {
+    "objective": "2.3",
+    "front": "Directional antenna",
+    "back": "Concentrates radio energy toward a specific area"
+  },
+  {
+    "objective": "2.3",
+    "front": "Channel planning",
+    "back": "Reduces interference by coordinating frequency use"
+  },
+  {
+    "objective": "2.4",
+    "front": "UPS",
+    "back": "Provides temporary power during an outage"
+  },
+  {
+    "objective": "2.4",
+    "front": "PDU",
+    "back": "Distributes electrical power to rack equipment"
+  },
+  {
+    "objective": "2.4",
+    "front": "Patch panel",
+    "back": "Terminates and organizes permanent cabling"
+  },
+  {
+    "objective": "2.4",
+    "front": "Hot aisle",
+    "back": "Collects warm exhaust from equipment racks"
+  },
+  {
+    "objective": "3.1",
+    "front": "Baseline",
+    "back": "Records normal behavior for later comparison"
+  },
+  {
+    "objective": "3.1",
+    "front": "Change approval",
+    "back": "Authorizes planned modifications before implementation"
+  },
+  {
+    "objective": "3.1",
+    "front": "IPAM",
+    "back": "Tracks address allocations and utilization"
+  },
+  {
+    "objective": "3.1",
+    "front": "Logical diagram",
+    "back": "Shows VLANs subnets and routing relationships"
+  },
+  {
+    "objective": "3.2",
+    "front": "SNMPv3",
+    "back": "Supports authenticated and encrypted management messages"
+  },
+  {
+    "objective": "3.2",
+    "front": "Flow records",
+    "back": "Summarize conversations and traffic volume"
+  },
+  {
+    "objective": "3.2",
+    "front": "Syslog",
+    "back": "Collects timestamped device event messages"
+  },
+  {
+    "objective": "3.2",
+    "front": "Packet capture",
+    "back": "Records individual frames or packets for inspection"
+  },
+  {
+    "objective": "3.3",
+    "front": "RPO",
+    "back": "Maximum tolerable data loss measured in time"
+  },
+  {
+    "objective": "3.3",
+    "front": "RTO",
+    "back": "Target time to restore a service"
+  },
+  {
+    "objective": "3.3",
+    "front": "Hot site",
+    "back": "Recovery location with ready infrastructure"
+  },
+  {
+    "objective": "3.3",
+    "front": "Cold site",
+    "back": "Recovery location requiring substantial setup"
+  },
+  {
+    "objective": "3.4",
+    "front": "DHCP relay",
+    "back": "Forwards DHCP requests across routed boundaries"
+  },
+  {
+    "objective": "3.4",
+    "front": "AAAA record",
+    "back": "Maps a hostname to an IPv6 address"
+  },
+  {
+    "objective": "3.4",
+    "front": "PTR record",
+    "back": "Supports reverse DNS lookup"
+  },
+  {
+    "objective": "3.4",
+    "front": "Router advertisement",
+    "back": "Communicates IPv6 prefixes and default router information"
+  },
+  {
+    "objective": "3.5",
+    "front": "SSH",
+    "back": "Encrypted command-line remote administration"
+  },
+  {
+    "objective": "3.5",
+    "front": "Console",
+    "back": "Local management independent of production IP connectivity"
+  },
+  {
+    "objective": "3.5",
+    "front": "API",
+    "back": "Programmatic access to management functions"
+  },
+  {
+    "objective": "3.5",
+    "front": "Jump host",
+    "back": "Controlled intermediary for administrative access"
+  },
+  {
+    "objective": "4.1",
+    "front": "Least privilege",
+    "back": "Grants only permissions needed for a task"
+  },
+  {
+    "objective": "4.1",
+    "front": "MFA",
+    "back": "Requires authentication factors from different categories"
+  },
+  {
+    "objective": "4.1",
+    "front": "PKI",
+    "back": "Uses certificates and trust chains to bind identities to keys"
+  },
+  {
+    "objective": "4.1",
+    "front": "Encryption",
+    "back": "Protects confidentiality of data using cryptographic keys"
+  },
+  {
+    "objective": "4.2",
+    "front": "ARP poisoning",
+    "back": "Falsifies IPv4 neighbor mappings"
+  },
+  {
+    "objective": "4.2",
+    "front": "Rogue DHCP",
+    "back": "Supplies unauthorized client network settings"
+  },
+  {
+    "objective": "4.2",
+    "front": "Evil twin",
+    "back": "Imitates a legitimate wireless access point"
+  },
+  {
+    "objective": "4.2",
+    "front": "DDoS",
+    "back": "Overwhelms resources using distributed traffic sources"
+  },
+  {
+    "objective": "4.3",
+    "front": "802.1X",
+    "back": "Controls port access through identity authentication"
+  },
+  {
+    "objective": "4.3",
+    "front": "ACL",
+    "back": "Permits or denies traffic using defined match rules"
+  },
+  {
+    "objective": "4.3",
+    "front": "Screened subnet",
+    "back": "Isolates externally accessible services from internal networks"
+  },
+  {
+    "objective": "4.3",
+    "front": "NAC",
+    "back": "Evaluates endpoint access policy and posture"
+  },
+  {
+    "objective": "5.1",
+    "front": "Identify problem",
+    "back": "Collect symptoms scope and recent changes"
+  },
+  {
+    "objective": "5.1",
+    "front": "Test theory",
+    "back": "Use evidence to confirm or reject suspected cause"
+  },
+  {
+    "objective": "5.1",
+    "front": "Verify functionality",
+    "back": "Confirm service restoration and check side effects"
+  },
+  {
+    "objective": "5.1",
+    "front": "Document findings",
+    "back": "Record cause actions and outcome for future reference"
+  },
+  {
+    "objective": "5.2",
+    "front": "Wire map tester",
+    "back": "Detects incorrect conductor pin assignments"
+  },
+  {
+    "objective": "5.2",
+    "front": "OTDR",
+    "back": "Locates optical fiber faults by reflected light"
+  },
+  {
+    "objective": "5.2",
+    "front": "CRC errors",
+    "back": "Indicate frames failing integrity checks"
+  },
+  {
+    "objective": "5.2",
+    "front": "Duplex mismatch",
+    "back": "Can cause collisions and poor throughput on Ethernet"
+  },
+  {
+    "objective": "5.3",
+    "front": "DHCP exhaustion",
+    "back": "Prevents new clients obtaining leases when pool is full"
+  },
+  {
+    "objective": "5.3",
+    "front": "Wrong default gateway",
+    "back": "Prevents off-subnet access despite local connectivity"
+  },
+  {
+    "objective": "5.3",
+    "front": "VLAN mismatch",
+    "back": "Places endpoints in unintended broadcast domains"
+  },
+  {
+    "objective": "5.3",
+    "front": "Duplicate IP",
+    "back": "Causes conflicting address ownership and intermittent reachability"
+  },
+  {
+    "objective": "5.4",
+    "front": "Latency",
+    "back": "Measures delay across a path"
+  },
+  {
+    "objective": "5.4",
+    "front": "Jitter",
+    "back": "Measures variation in packet delay"
+  },
+  {
+    "objective": "5.4",
+    "front": "Packet loss",
+    "back": "Measures packets failing to reach destination"
+  },
+  {
+    "objective": "5.4",
+    "front": "Congestion",
+    "back": "Occurs when offered traffic exceeds available forwarding capacity"
+  },
+  {
+    "objective": "5.5",
+    "front": "traceroute",
+    "back": "Reveals responding hops toward a destination"
+  },
+  {
+    "objective": "5.5",
+    "front": "nslookup",
+    "back": "Queries DNS records"
+  },
+  {
+    "objective": "5.5",
+    "front": "tcpdump",
+    "back": "Captures packets for protocol inspection"
+  },
+  {
+    "objective": "5.5",
+    "front": "ipconfig",
+    "back": "Displays Windows IP configuration"
+  }
+]

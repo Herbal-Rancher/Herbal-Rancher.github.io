@@ -29,6 +29,10 @@ Independent CompTIA N10-009 learning resource. Follow your Udemy course, review 
 - [Troubleshooting checklist](/network-portfolio/network-troubleshooting-checklist/) — structured diagnostics.
 - [Network+ Practice Center](/network-portfolio/network-plus/practice/) — test, diagnose and retest.
 
+## Interactive learning
+
+- [Rapid review and interactive exercises](/network-portfolio/network-plus/exercises/) — flashcards, IPv4/IPv6 subnetting and performance-based practice.
+
 ## Development status
 
-All 25 objectives have starter review notes and 275 original practice questions in total. Filter by objective and difficulty, retest missed questions, and review progress. The v0.4 preview adds scenario analysis and export-only progress. Further deep dives, flashcards and full simulations remain planned. Udemy section mapping is provisional, especially section 2; section 27 is practical labs.
+v0.5 includes 500 practice questions, expanded objective notes, rapid review and interactive exercises. Progress is export-only. Udemy section mapping is provisional, especially section 2; section 27 is practical labs.
