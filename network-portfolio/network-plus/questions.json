@@ -10,7 +10,8 @@
       "DNS record"
     ],
     "answer": 0,
-    "explanation": "Application data is carried by TCP segments or UDP datagrams, then IP packets, then link-layer frames. Routers replace link-layer headers at each routed hop; IP addresses normally persist absent NAT. TCP ports identify endpoints, not physical interfaces. TLS does not fit perfectly into one OSI layer."
+    "explanation": "Application data is carried by TCP segments or UDP datagrams, then IP packets, then link-layer frames. Routers replace link-layer headers at each routed hop; IP addresses normally persist absent NAT. TCP ports identify endpoints, not physical interfaces. TLS does not fit perfectly into one OSI layer.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-1.2",
@@ -23,7 +24,8 @@
       "DNS"
     ],
     "answer": 0,
-    "explanation": "Switches learn source MAC addresses and forward frames; routers choose IP routes. A stateful firewall tracks connections; IDS alerts while IPS can block. NAS exposes file shares; SAN exposes block storage. Load balancers distribute requests and proxies mediate connections."
+    "explanation": "Switches learn source MAC addresses and forward frames; routers choose IP routes. A stateful firewall tracks connections; IDS alerts while IPS can block. NAS exposes file shares; SAN exposes block storage. Load balancers distribute requests and proxies mediate connections.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-1.3",
@@ -36,7 +38,8 @@
       "DNS"
     ],
     "answer": 0,
-    "explanation": "IaaS exposes virtual infrastructure, PaaS manages the runtime, SaaS delivers an application. A virtual private cloud isolates logical networks; route tables and security rules control connectivity. Public, private and hybrid deployment models differ from service models."
+    "explanation": "IaaS exposes virtual infrastructure, PaaS manages the runtime, SaaS delivers an application. A virtual private cloud isolates logical networks; route tables and security rules control connectivity. Public, private and hybrid deployment models differ from service models.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-1.4",
@@ -49,7 +52,8 @@
       "ARP"
     ],
     "answer": 0,
-    "explanation": "TCP provides ordered reliable delivery; UDP does not guarantee delivery. DNS uses UDP and TCP 53; DHCPv4 uses UDP 67/68; SSH and SFTP use TCP 22; HTTPS commonly uses TCP 443 or UDP 443 for HTTP/3. ICMP and GRE use IP protocol numbers rather than transport ports."
+    "explanation": "TCP provides ordered reliable delivery; UDP does not guarantee delivery. DNS uses UDP and TCP 53; DHCPv4 uses UDP 67/68; SSH and SFTP use TCP 22; HTTPS commonly uses TCP 443 or UDP 443 for HTTP/3. ICMP and GRE use IP protocol numbers rather than transport ports.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-1.5",
@@ -62,7 +66,8 @@
       "Copper DAC"
     ],
     "answer": 0,
-    "explanation": "Copper Ethernet uses electrical signaling; fiber uses light. Single-mode fiber supports long distances; multimode commonly serves shorter links. Match transceiver wavelength, fiber type and link budget. DAC is useful for short rack connections. T568A and T568B specify pair placement."
+    "explanation": "Copper Ethernet uses electrical signaling; fiber uses light. Single-mode fiber supports long distances; multimode commonly serves shorter links. Match transceiver wavelength, fiber type and link budget. DAC is useful for short rack connections. T568A and T568B specify pair placement.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-1.6",
@@ -75,7 +80,8 @@
       "Single hub"
     ],
     "answer": 0,
-    "explanation": "Star networks centralize connections; mesh provides multiple paths. Spine-leaf designs connect each leaf to each spine to provide predictable east-west paths. Three-tier campus designs separate access, distribution and core. Point-to-point links join two endpoints."
+    "explanation": "Star networks centralize connections; mesh provides multiple paths. Spine-leaf designs connect each leaf to each spine to provide predictable east-west paths. Three-tier campus designs separate access, distribution and core. Point-to-point links join two endpoints.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-1.7",
@@ -88,7 +94,8 @@
       "192.168.10.128"
     ],
     "answer": 0,
-    "explanation": "IPv4 uses 32 bits. A /26 leaves six host bits: 64 addresses and normally 62 usable hosts. Network boundaries increment by 64 in the final octet. RFC1918 ranges are 10/8, 172.16/12 and 192.168/16; 169.254/16 is link-local. Longest prefix matching determines route specificity."
+    "explanation": "IPv4 uses 32 bits. A /26 leaves six host bits: 64 addresses and normally 62 usable hosts. Network boundaries increment by 64 in the final octet. RFC1918 ranges are 10/8, 172.16/12 and 192.168/16; 169.254/16 is link-local. Longest prefix matching determines route specificity.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-1.8",
@@ -101,7 +108,8 @@
       "NTP"
     ],
     "answer": 0,
-    "explanation": "SDN separates control decisions from forwarding; VXLAN encapsulates Layer 2 over Layer 3. Zero trust evaluates access explicitly; SASE combines network and security services. Infrastructure as code makes configuration repeatable. IPv6 uses 128-bit addresses, NDP and typically /64 LAN prefixes; dual stack runs both IP versions."
+    "explanation": "SDN separates control decisions from forwarding; VXLAN encapsulates Layer 2 over Layer 3. Zero trust evaluates access explicitly; SASE combines network and security services. Infrastructure as code makes configuration repeatable. IPv6 uses 128-bit addresses, NDP and typically /64 LAN prefixes; dual stack runs both IP versions.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-2.1",
@@ -114,7 +122,8 @@
       "Oldest route"
     ],
     "answer": 0,
-    "explanation": "Routers choose longest matching prefixes before comparing route preferences for identical prefixes. OSPF is link-state, BGP is path-vector, EIGRP is advanced distance-vector. NAT changes addresses; PAT multiplexes flows using ports. A floating static route has a less preferred administrative distance."
+    "explanation": "Routers choose longest matching prefixes before comparing route preferences for identical prefixes. OSPF is link-state, BGP is path-vector, EIGRP is advanced distance-vector. NAT changes addresses; PAT multiplexes flows using ports. A floating static route has a less preferred administrative distance.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-2.2",
@@ -127,7 +136,8 @@
       "DHCP"
     ],
     "answer": 0,
-    "explanation": "Access ports normally carry one VLAN; trunks carry multiple VLANs using 802.1Q tags. STP prevents Layer 2 loops; LACP negotiates link aggregation. A Layer 3 interface or router is needed to route between VLANs. MTU mismatch can impair traffic."
+    "explanation": "Access ports normally carry one VLAN; trunks carry multiple VLANs using 802.1Q tags. STP prevents Layer 2 loops; LACP negotiates link aggregation. A Layer 3 interface or router is needed to route between VLANs. MTU mismatch can impair traffic.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-2.3",
@@ -140,7 +150,8 @@
       "Disable routing"
     ],
     "answer": 0,
-    "explanation": "Wi-Fi shares radio airtime. Channel width, interference, signal strength and client density affect performance. WPA3 provides modern authentication and encryption options; enterprise authentication commonly uses 802.1X. A site survey helps determine coverage and channel reuse."
+    "explanation": "Wi-Fi shares radio airtime. Channel width, interference, signal strength and client density affect performance. WPA3 provides modern authentication and encryption options; enterprise authentication commonly uses 802.1X. A site survey helps determine coverage and channel reuse.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-2.4",
@@ -153,7 +164,8 @@
       "Transceiver"
     ],
     "answer": 0,
-    "explanation": "Plan rack space, power, cooling, grounding, cable paths and physical access. UPS supplies temporary power; PDU distributes power. Label both cable ends and document patch-panel mappings. Verify environmental limits and redundancy."
+    "explanation": "Plan rack space, power, cooling, grounding, cable paths and physical access. UPS supplies temporary power; PDU distributes power. Label both cable ends and document patch-panel mappings. Verify environmental limits and redundancy.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-3.1",
@@ -166,7 +178,8 @@
       "Delete baseline"
     ],
     "answer": 0,
-    "explanation": "Maintain physical and logical diagrams, IPAM, inventories, baselines and configuration backups. Changes require impact analysis, approval, validation and rollback planning. Track end-of-life and end-of-support separately."
+    "explanation": "Maintain physical and logical diagrams, IPAM, inventories, baselines and configuration backups. Changes require impact analysis, approval, validation and rollback planning. Track end-of-life and end-of-support separately.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-3.2",
@@ -179,7 +192,8 @@
       "Rack diagram"
     ],
     "answer": 0,
-    "explanation": "SNMP polls counters and receives notifications; syslog records events; flow telemetry summarizes conversations; packet captures show packet detail. Baselines distinguish normal variation from anomalies. SIEM correlates logs across sources."
+    "explanation": "SNMP polls counters and receives notifications; syslog records events; flow telemetry summarizes conversations; packet captures show packet detail. Baselines distinguish normal variation from anomalies. SIEM correlates logs across sources.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-3.3",
@@ -192,7 +206,8 @@
       "MTBF"
     ],
     "answer": 0,
-    "explanation": "RPO is acceptable data loss measured in time; RTO is the target restoration time. Hot sites are more ready than cold sites. Redundancy reduces single points of failure but does not replace backups. Test recovery plans and validate restored services."
+    "explanation": "RPO is acceptable data loss measured in time; RTO is the target restoration time. Hot sites are more ready than cold sites. Redundancy reduces single points of failure but does not replace backups. Test recovery plans and validate restored services.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-3.4",
@@ -205,7 +220,8 @@
       "PTR"
     ],
     "answer": 0,
-    "explanation": "DHCPv4 uses Discover, Offer, Request, Acknowledge. Relays forward requests across routed boundaries. DNS A and AAAA records map names to IPv4 and IPv6; PTR supports reverse lookup. NTP synchronizes clocks. IPv6 SLAAC uses router advertisements."
+    "explanation": "DHCPv4 uses Discover, Offer, Request, Acknowledge. Relays forward requests across routed boundaries. DNS A and AAAA records map names to IPv4 and IPv6; PTR supports reverse lookup. NTP synchronizes clocks. IPv6 SLAAC uses router advertisements.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-3.5",
@@ -218,7 +234,8 @@
       "Port mirroring alone"
     ],
     "answer": 0,
-    "explanation": "SSH protects remote CLI sessions; HTTPS protects web management. Out-of-band management uses a separate access path. VPNs provide protected tunnels; split tunneling routes only selected traffic through them. Restrict management access to authorized networks."
+    "explanation": "SSH protects remote CLI sessions; HTTPS protects web management. Out-of-band management uses a separate access path. VPNs provide protected tunnels; split tunneling routes only selected traffic through them. Restrict management access to authorized networks.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-4.1",
@@ -231,7 +248,8 @@
       "Encryption"
     ],
     "answer": 0,
-    "explanation": "Confidentiality prevents unauthorized disclosure; integrity protects correctness; availability keeps services usable. Authentication establishes identity, authorization grants access, accounting records activity. PKI binds identities to public keys using certificates. Least privilege limits access."
+    "explanation": "Confidentiality prevents unauthorized disclosure; integrity protects correctness; availability keeps services usable. Authentication establishes identity, authorization grants access, accounting records activity. PKI binds identities to public keys using certificates. Least privilege limits access.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-4.2",
@@ -244,7 +262,8 @@
       "RF interference"
     ],
     "answer": 0,
-    "explanation": "ARP spoofing can redirect local traffic; rogue DHCP can supply false settings; DNS poisoning corrupts name resolution. DDoS exhausts resources; social engineering targets people. Investigate anomalies with logs and packet evidence; use segmentation and validated controls."
+    "explanation": "ARP spoofing can redirect local traffic; rogue DHCP can supply false settings; DNS poisoning corrupts name resolution. DDoS exhausts resources; social engineering targets people. Investigate anomalies with logs and packet evidence; use segmentation and validated controls.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-4.3",
@@ -257,7 +276,8 @@
       "802.11ax"
     ],
     "answer": 0,
-    "explanation": "Disable unused services and ports, patch devices, restrict management, use ACLs and segmentation. 802.1X authenticates network access using a supplicant, authenticator and authentication server. MAC filtering alone is weak because addresses can be spoofed."
+    "explanation": "Disable unused services and ports, patch devices, restrict management, use ACLs and segmentation. 802.1X authenticates network access using a supplicant, authenticator and authentication server. MAC filtering alone is weak because addresses can be spoofed.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-5.1",
@@ -270,7 +290,8 @@
       "Skip verification"
     ],
     "answer": 0,
-    "explanation": "Identify the problem, establish a theory, test it, plan a solution, implement or escalate, verify functionality and preventive measures, document outcomes. If testing disproves a theory, establish a new one. Assess change impact before implementation."
+    "explanation": "Identify the problem, establish a theory, test it, plan a solution, implement or escalate, verify functionality and preventive measures, document outcomes. If testing disproves a theory, establish a new one. Assess change impact before implementation.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-5.2",
@@ -283,7 +304,8 @@
       "DNS resolver"
     ],
     "answer": 0,
-    "explanation": "Check link state, cable seating, interface counters, speed and duplex, optics and power. CRC errors may indicate physical corruption. A cable certifier validates standards; a toner traces copper; an optical power meter measures received light."
+    "explanation": "Check link state, cable seating, interface counters, speed and duplex, optics and power. CRC errors may indicate physical corruption. A cable certifier validates standards; a toner traces copper; an optical power meter measures received light.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-5.3",
@@ -296,7 +318,8 @@
       "NTP stratum"
     ],
     "answer": 0,
-    "explanation": "Check VLAN membership, trunk allowances, STP state, IP address, mask, gateway and route table. Duplicate addresses cause intermittent reachability. APIPA suggests a DHCP failure or unavailable server. Isolate scope before changing configuration."
+    "explanation": "Check VLAN membership, trunk allowances, STP state, IP address, mask, gateway and route table. Duplicate addresses cause intermittent reachability. APIPA suggests a DHCP failure or unavailable server. Isolate scope before changing configuration.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-5.4",
@@ -309,7 +332,8 @@
       "TTL"
     ],
     "answer": 0,
-    "explanation": "Latency measures delay; jitter measures variation in delay; loss measures missing packets; throughput measures achieved rate. Congestion, interference and retransmissions reduce performance. Compare counters and measurements with baselines."
+    "explanation": "Latency measures delay; jitter measures variation in delay; loss measures missing packets; throughput measures achieved rate. Congestion, interference and retransmissions reduce performance. Compare counters and measurements with baselines.",
+    "difficulty": "comprehension"
   },
   {
     "id": "n10-5.5",
@@ -322,6 +346,3507 @@
       "tracert"
     ],
     "answer": 0,
-    "explanation": "Ping tests ICMP reachability; traceroute reveals responding hops; nslookup or dig queries DNS; ipconfig or ip displays addressing; netstat or ss shows sockets. Cisco show interfaces reveals counters; show ip route shows routes. Use scanners only on authorized systems."
+    "explanation": "Ping tests ICMP reachability; traceroute reveals responding hops; nslookup or dig queries DNS; ipconfig or ip displays addressing; netstat or ss shows sockets. Cisco show interfaces reveals counters; show ip route shows routes. Use scanners only on authorized systems.",
+    "difficulty": "comprehension"
+  },
+  {
+    "id": "n10-v03-1.1-k1",
+    "objective": "1.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: signals and bit transmission?",
+    "options": [
+      "Physical",
+      "Data link",
+      "Network",
+      "Transport"
+    ],
+    "answer": 0,
+    "explanation": "Physical: Signals and bit transmission. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.1-k2",
+    "objective": "1.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: local frame delivery using MAC addresses?",
+    "options": [
+      "Data link",
+      "Physical",
+      "Session",
+      "Application"
+    ],
+    "answer": 0,
+    "explanation": "Data link: Local frame delivery using MAC addresses. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.1-k3",
+    "objective": "1.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: forwarding packets between IP networks?",
+    "options": [
+      "Network",
+      "Transport",
+      "Presentation",
+      "Physical"
+    ],
+    "answer": 0,
+    "explanation": "Network: Forwarding packets between IP networks. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.1-k4",
+    "objective": "1.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: end-to-end multiplexing using ports?",
+    "options": [
+      "Transport",
+      "Network",
+      "Session",
+      "Data link"
+    ],
+    "answer": 0,
+    "explanation": "Transport: End-to-end multiplexing using ports. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.1-k5",
+    "objective": "1.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: conceptual layer for representation and encoding?",
+    "options": [
+      "Presentation",
+      "Physical",
+      "Network",
+      "Transport"
+    ],
+    "answer": 0,
+    "explanation": "Presentation: Conceptual layer for representation and encoding. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.2-k1",
+    "objective": "1.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: detects suspicious traffic and raises alerts without inline blocking?",
+    "options": [
+      "IDS",
+      "IPS",
+      "Router",
+      "NAS"
+    ],
+    "answer": 0,
+    "explanation": "IDS: Detects suspicious traffic and raises alerts without inline blocking. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.2-k2",
+    "objective": "1.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: inline inspection capable of dropping malicious traffic?",
+    "options": [
+      "IPS",
+      "IDS",
+      "NAS",
+      "CDN"
+    ],
+    "answer": 0,
+    "explanation": "IPS: Inline inspection capable of dropping malicious traffic. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.2-k3",
+    "objective": "1.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: shared file-level storage over a network?",
+    "options": [
+      "NAS",
+      "SAN",
+      "Proxy",
+      "Router"
+    ],
+    "answer": 0,
+    "explanation": "NAS: Shared file-level storage over a network. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.2-k4",
+    "objective": "1.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: distributes incoming requests among healthy servers?",
+    "options": [
+      "Load balancer",
+      "DNS resolver",
+      "Toner",
+      "UPS"
+    ],
+    "answer": 0,
+    "explanation": "Load balancer: Distributes incoming requests among healthy servers. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.2-k5",
+    "objective": "1.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: prioritizes delay-sensitive traffic during contention?",
+    "options": [
+      "QoS",
+      "TTL",
+      "NAT",
+      "DHCP"
+    ],
+    "answer": 0,
+    "explanation": "QoS: Prioritizes delay-sensitive traffic during contention. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.3-k1",
+    "objective": "1.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: managed application runtime without managing guest operating systems?",
+    "options": [
+      "PaaS",
+      "IaaS",
+      "SaaS",
+      "Colocation"
+    ],
+    "answer": 0,
+    "explanation": "PaaS: Managed application runtime without managing guest operating systems. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.3-k2",
+    "objective": "1.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: provider-operated application consumed by end users?",
+    "options": [
+      "SaaS",
+      "IaaS",
+      "PaaS",
+      "NFV"
+    ],
+    "answer": 0,
+    "explanation": "SaaS: Provider-operated application consumed by end users. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.3-k3",
+    "objective": "1.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: allows private IPv4 workloads to initiate external connections using translated addresses?",
+    "options": [
+      "NAT gateway",
+      "Internet gateway alone",
+      "DNS zone",
+      "Hypervisor snapshot"
+    ],
+    "answer": 0,
+    "explanation": "NAT gateway: Allows private IPv4 workloads to initiate external connections using translated addresses. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.3-k4",
+    "objective": "1.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: automatically adjusting capacity as demand rises and falls?",
+    "options": [
+      "Elasticity",
+      "Multitenancy",
+      "Encryption",
+      "Segmentation"
+    ],
+    "answer": 0,
+    "explanation": "Elasticity: Automatically adjusting capacity as demand rises and falls. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.3-k5",
+    "objective": "1.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: running network functions as software rather than dedicated appliances?",
+    "options": [
+      "NFV",
+      "VLSM",
+      "STP",
+      "PoE"
+    ],
+    "answer": 0,
+    "explanation": "NFV: Running network functions as software rather than dedicated appliances. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.4-k1",
+    "objective": "1.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: secure remote shell, typically TCP 22?",
+    "options": [
+      "SSH",
+      "Telnet",
+      "TFTP",
+      "SNMP"
+    ],
+    "answer": 0,
+    "explanation": "SSH: Secure remote shell, typically TCP 22. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.4-k2",
+    "objective": "1.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: clock synchronization, typically UDP 123?",
+    "options": [
+      "NTP",
+      "DNS",
+      "SMB",
+      "SIP"
+    ],
+    "answer": 0,
+    "explanation": "NTP: Clock synchronization, typically UDP 123. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.4-k3",
+    "objective": "1.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: windows-style file sharing, typically TCP 445?",
+    "options": [
+      "SMB",
+      "SMTP",
+      "LDAP",
+      "NTP"
+    ],
+    "answer": 0,
+    "explanation": "SMB: Windows-style file sharing, typically TCP 445. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.4-k4",
+    "objective": "1.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: iP control and diagnostic messages without TCP or UDP ports?",
+    "options": [
+      "ICMP",
+      "TCP",
+      "UDP",
+      "SFTP"
+    ],
+    "answer": 0,
+    "explanation": "ICMP: IP control and diagnostic messages without TCP or UDP ports. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.4-k5",
+    "objective": "1.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: multiple locations advertise the same destination address and routing selects one?",
+    "options": [
+      "Anycast",
+      "Broadcast",
+      "Multicast",
+      "Unicast to a unique host"
+    ],
+    "answer": 0,
+    "explanation": "Anycast: Multiple locations advertise the same destination address and routing selects one. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.5-k1",
+    "objective": "1.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: optical medium suited to long-distance links with a small core?",
+    "options": [
+      "Single-mode fiber",
+      "Multimode fiber",
+      "UTP",
+      "Coaxial cable"
+    ],
+    "answer": 0,
+    "explanation": "Single-mode fiber: Optical medium suited to long-distance links with a small core. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.5-k2",
+    "objective": "1.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: short direct-attach copper link between compatible switch ports?",
+    "options": [
+      "DAC",
+      "RJ11 telephone lead",
+      "Single-mode patch cord",
+      "Coaxial F connector"
+    ],
+    "answer": 0,
+    "explanation": "DAC: Short direct-attach copper link between compatible switch ports. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.5-k3",
+    "objective": "1.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: compact fiber connector commonly used with SFP optics?",
+    "options": [
+      "LC",
+      "RJ45",
+      "BNC",
+      "F-type"
+    ],
+    "answer": 0,
+    "explanation": "LC: Compact fiber connector commonly used with SFP optics. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.5-k4",
+    "objective": "1.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: cable jacket rated for applicable environmental air-handling spaces?",
+    "options": [
+      "Plenum-rated cable",
+      "Ordinary patch cable",
+      "Unrated coax",
+      "Outdoor-only cable"
+    ],
+    "answer": 0,
+    "explanation": "Plenum-rated cable: Cable jacket rated for applicable environmental air-handling spaces. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.5-k5",
+    "objective": "1.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: pluggable form factor commonly supporting multiple high-speed lanes?",
+    "options": [
+      "QSFP",
+      "RJ11",
+      "SC connector",
+      "BNC"
+    ],
+    "answer": 0,
+    "explanation": "QSFP: Pluggable form factor commonly supporting multiple high-speed lanes. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.6-k1",
+    "objective": "1.6",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: data center fabric where each leaf connects to every spine?",
+    "options": [
+      "Spine-leaf",
+      "Single star",
+      "Point-to-point",
+      "Bus"
+    ],
+    "answer": 0,
+    "explanation": "Spine-leaf: Data center fabric where each leaf connects to every spine. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.6-k2",
+    "objective": "1.6",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: traffic between workloads inside a data center?",
+    "options": [
+      "East-west",
+      "North-south",
+      "Broadcast only",
+      "Out-of-band only"
+    ],
+    "answer": 0,
+    "explanation": "East-west: Traffic between workloads inside a data center. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.6-k3",
+    "objective": "1.6",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: campus tier connecting end devices?",
+    "options": [
+      "Access layer",
+      "Core layer",
+      "WAN edge",
+      "Distribution layer"
+    ],
+    "answer": 0,
+    "explanation": "Access layer: Campus tier connecting end devices. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.6-k4",
+    "objective": "1.6",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: combines core and distribution roles?",
+    "options": [
+      "Collapsed core",
+      "Full mesh",
+      "Three independent tiers",
+      "Point-to-point"
+    ],
+    "answer": 0,
+    "explanation": "Collapsed core: Combines core and distribution roles. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.6-k5",
+    "objective": "1.6",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: every node has a direct link to every other node?",
+    "options": [
+      "Full mesh",
+      "Star",
+      "Bus",
+      "Ring"
+    ],
+    "answer": 0,
+    "explanation": "Full mesh: Every node has a direct link to every other node. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.7-k1",
+    "objective": "1.7",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: iPv4 link-local self-assignment in 169.254.0.0/16?",
+    "options": [
+      "APIPA",
+      "Loopback",
+      "Multicast",
+      "Public unicast"
+    ],
+    "answer": 0,
+    "explanation": "APIPA: IPv4 link-local self-assignment in 169.254.0.0/16. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.7-k2",
+    "objective": "1.7",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: private IPv4 ranges including 10.0.0.0/8?",
+    "options": [
+      "RFC1918",
+      "127.0.0.0/8",
+      "224.0.0.0/4",
+      "169.254.0.0/16"
+    ],
+    "answer": 0,
+    "explanation": "RFC1918: Private IPv4 ranges including 10.0.0.0/8. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.7-k3",
+    "objective": "1.7",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: local IPv4 testing using 127.0.0.1?",
+    "options": [
+      "Loopback",
+      "Default gateway",
+      "Broadcast",
+      "Multicast"
+    ],
+    "answer": 0,
+    "explanation": "Loopback: Local IPv4 testing using 127.0.0.1. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.7-k4",
+    "objective": "1.7",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: allocating different prefix lengths according to subnet size needs?",
+    "options": [
+      "VLSM",
+      "Classful addressing",
+      "PAT",
+      "STP"
+    ],
+    "answer": 0,
+    "explanation": "VLSM: Allocating different prefix lengths according to subnet size needs. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.7-k5",
+    "objective": "1.7",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: prefix-length notation independent of historical address classes?",
+    "options": [
+      "CIDR",
+      "DNSSEC",
+      "LACP",
+      "SLAAC"
+    ],
+    "answer": 0,
+    "explanation": "CIDR: Prefix-length notation independent of historical address classes. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.8-k1",
+    "objective": "1.8",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: layer 2 overlay encapsulated across an IP underlay?",
+    "options": [
+      "VXLAN",
+      "STP",
+      "NTP",
+      "PoE"
+    ],
+    "answer": 0,
+    "explanation": "VXLAN: Layer 2 overlay encapsulated across an IP underlay. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.8-k2",
+    "objective": "1.8",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: central policy and application-aware selection across WAN transports?",
+    "options": [
+      "SD-WAN",
+      "NAS",
+      "DHCP relay",
+      "Traditional hub only"
+    ],
+    "answer": 0,
+    "explanation": "SD-WAN: Central policy and application-aware selection across WAN transports. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.8-k3",
+    "objective": "1.8",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: translation allowing IPv6 clients to communicate with IPv4 services?",
+    "options": [
+      "NAT64",
+      "Dual stack",
+      "802.1Q",
+      "LACP"
+    ],
+    "answer": 0,
+    "explanation": "NAT64: Translation allowing IPv6 clients to communicate with IPv4 services. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.8-k4",
+    "objective": "1.8",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: running IPv4 and IPv6 concurrently?",
+    "options": [
+      "Dual stack",
+      "NAT64 only",
+      "IPv4-only routing",
+      "STP"
+    ],
+    "answer": 0,
+    "explanation": "Dual stack: Running IPv4 and IPv6 concurrently. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.8-k5",
+    "objective": "1.8",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: version-controlled declarative or scripted infrastructure configuration?",
+    "options": [
+      "Infrastructure as code",
+      "Manual-only configuration",
+      "Packet capture",
+      "Cable certification"
+    ],
+    "answer": 0,
+    "explanation": "Infrastructure as code: Version-controlled declarative or scripted infrastructure configuration. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.1-k1",
+    "objective": "2.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: link-state interior routing using a shortest-path calculation?",
+    "options": [
+      "OSPF",
+      "BGP",
+      "Static routing",
+      "PAT"
+    ],
+    "answer": 0,
+    "explanation": "OSPF: Link-state interior routing using a shortest-path calculation. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.1-k2",
+    "objective": "2.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: policy-oriented routing between autonomous systems?",
+    "options": [
+      "BGP",
+      "STP",
+      "DHCP",
+      "OSPF"
+    ],
+    "answer": 0,
+    "explanation": "BGP: Policy-oriented routing between autonomous systems. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.1-k3",
+    "objective": "2.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: many internal connections share a public address using transport identifiers?",
+    "options": [
+      "PAT",
+      "Static one-to-one NAT",
+      "FHRP",
+      "VLAN tagging"
+    ],
+    "answer": 0,
+    "explanation": "PAT: Many internal connections share a public address using transport identifiers. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.1-k4",
+    "objective": "2.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: redundant default gateway service using a shared virtual IP?",
+    "options": [
+      "FHRP",
+      "LACP",
+      "DNSSEC",
+      "SNMP"
+    ],
+    "answer": 0,
+    "explanation": "FHRP: Redundant default gateway service using a shared virtual IP. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.1-k5",
+    "objective": "2.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: logical router interface often associated with an 802.1Q VLAN?",
+    "options": [
+      "Subinterface",
+      "Physical patch panel",
+      "DNS alias",
+      "Loopback test address"
+    ],
+    "answer": 0,
+    "explanation": "Subinterface: Logical router interface often associated with an 802.1Q VLAN. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.2-k1",
+    "objective": "2.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: identifies VLAN membership on tagged Ethernet frames?",
+    "options": [
+      "802.1Q",
+      "802.1X",
+      "LACP",
+      "WPA3"
+    ],
+    "answer": 0,
+    "explanation": "802.1Q: Identifies VLAN membership on tagged Ethernet frames. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.2-k2",
+    "objective": "2.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: logical Layer 3 interface associated with a switch VLAN?",
+    "options": [
+      "SVI",
+      "Trunk cable",
+      "MAC table",
+      "Patch panel"
+    ],
+    "answer": 0,
+    "explanation": "SVI: Logical Layer 3 interface associated with a switch VLAN. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.2-k3",
+    "objective": "2.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: negotiates aggregation of compatible physical links?",
+    "options": [
+      "LACP",
+      "STP",
+      "NTP",
+      "DHCP"
+    ],
+    "answer": 0,
+    "explanation": "LACP: Negotiates aggregation of compatible physical links. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.2-k4",
+    "objective": "2.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: prevents Layer 2 forwarding loops by selecting a loop-free topology?",
+    "options": [
+      "STP",
+      "PAT",
+      "DNS",
+      "BGP"
+    ],
+    "answer": 0,
+    "explanation": "STP: Prevents Layer 2 forwarding loops by selecting a loop-free topology. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.2-k5",
+    "objective": "2.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: maximum packet size supported by an interface at the relevant layer?",
+    "options": [
+      "MTU",
+      "TTL",
+      "Jitter",
+      "Port number"
+    ],
+    "answer": 0,
+    "explanation": "MTU: Maximum packet size supported by an interface at the relevant layer. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.3-k1",
+    "objective": "2.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: identifier of a particular wireless basic service set, commonly an AP radio MAC?",
+    "options": [
+      "BSSID",
+      "SSID",
+      "VLAN ID",
+      "IP prefix"
+    ],
+    "answer": 0,
+    "explanation": "BSSID: Identifier of a particular wireless basic service set, commonly an AP radio MAC. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.3-k2",
+    "objective": "2.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: concentrates radio energy toward a particular direction?",
+    "options": [
+      "Directional antenna",
+      "Omnidirectional antenna",
+      "Patch panel",
+      "UPS"
+    ],
+    "answer": 0,
+    "explanation": "Directional antenna: Concentrates radio energy toward a particular direction. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.3-k3",
+    "objective": "2.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: uses SAE for password-based Wi-Fi authentication?",
+    "options": [
+      "WPA3-Personal",
+      "WEP",
+      "Open Wi-Fi",
+      "802.1Q"
+    ],
+    "answer": 0,
+    "explanation": "WPA3-Personal: Uses SAE for password-based Wi-Fi authentication. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.3-k4",
+    "objective": "2.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: web-based guest access or acceptance workflow?",
+    "options": [
+      "Captive portal",
+      "LACP",
+      "NTP",
+      "Fiber distribution panel"
+    ],
+    "answer": 0,
+    "explanation": "Captive portal: Web-based guest access or acceptance workflow. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.3-k5",
+    "objective": "2.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: encourages capable clients to use a preferred frequency band?",
+    "options": [
+      "Band steering",
+      "DNS forwarding",
+      "VLAN hopping",
+      "Port mirroring"
+    ],
+    "answer": 0,
+    "explanation": "Band steering: Encourages capable clients to use a preferred frequency band. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.4-k1",
+    "objective": "2.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: main facility distribution point for network cabling?",
+    "options": [
+      "MDF",
+      "IDF",
+      "PDU",
+      "UPS"
+    ],
+    "answer": 0,
+    "explanation": "MDF: Main facility distribution point for network cabling. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.4-k2",
+    "objective": "2.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: intermediate distribution point serving a local area or floor?",
+    "options": [
+      "IDF",
+      "MDF",
+      "NAT gateway",
+      "DNS server"
+    ],
+    "answer": 0,
+    "explanation": "IDF: Intermediate distribution point serving a local area or floor. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.4-k3",
+    "objective": "2.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: temporary electrical power during an outage?",
+    "options": [
+      "UPS",
+      "Patch panel",
+      "PDU without battery",
+      "Rack rail"
+    ],
+    "answer": 0,
+    "explanation": "UPS: Temporary electrical power during an outage. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.4-k4",
+    "objective": "2.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: distributes electrical power to rack equipment?",
+    "options": [
+      "PDU",
+      "UPS battery alone",
+      "Fiber panel",
+      "Toner"
+    ],
+    "answer": 0,
+    "explanation": "PDU: Distributes electrical power to rack equipment. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-2.4-k5",
+    "objective": "2.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: organizes and terminates permanent copper cabling?",
+    "options": [
+      "Patch panel",
+      "Router",
+      "Firewall",
+      "Load balancer"
+    ],
+    "answer": 0,
+    "explanation": "Patch panel: Organizes and terminates permanent copper cabling. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.1-k1",
+    "objective": "3.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: tracks IP allocations and address space utilization?",
+    "options": [
+      "IPAM",
+      "SIEM",
+      "SLA",
+      "UPS"
+    ],
+    "answer": 0,
+    "explanation": "IPAM: Tracks IP allocations and address space utilization. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.1-k2",
+    "objective": "3.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: defines agreed service performance and availability commitments?",
+    "options": [
+      "SLA",
+      "MIB",
+      "VLAN",
+      "RPO alone"
+    ],
+    "answer": 0,
+    "explanation": "SLA: Defines agreed service performance and availability commitments. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.1-k3",
+    "objective": "3.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: approved reference configuration used for comparison?",
+    "options": [
+      "Golden configuration",
+      "Unverified running configuration",
+      "Packet capture",
+      "Cable map"
+    ],
+    "answer": 0,
+    "explanation": "Golden configuration: Approved reference configuration used for comparison. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.1-k4",
+    "objective": "3.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: records proposed work, approvals and impact before implementation?",
+    "options": [
+      "Change request",
+      "ARP cache",
+      "DNS query",
+      "SNMP trap"
+    ],
+    "answer": 0,
+    "explanation": "Change request: Records proposed work, approvals and impact before implementation. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.1-k5",
+    "objective": "3.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: tracks devices, software, licenses and support information?",
+    "options": [
+      "Asset inventory",
+      "Routing table",
+      "MAC table",
+      "Packet payload"
+    ],
+    "answer": 0,
+    "explanation": "Asset inventory: Tracks devices, software, licenses and support information. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.2-k1",
+    "objective": "3.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: authenticated and encrypted SNMP management messages?",
+    "options": [
+      "SNMPv3 authPriv",
+      "SNMPv2c community only",
+      "Plain syslog",
+      "LLDP"
+    ],
+    "answer": 0,
+    "explanation": "SNMPv3 authPriv: Authenticated and encrypted SNMP management messages. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.2-k2",
+    "objective": "3.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: unsolicited event notification from a managed device?",
+    "options": [
+      "SNMP trap",
+      "DNS query",
+      "DHCP lease",
+      "TCP handshake"
+    ],
+    "answer": 0,
+    "explanation": "SNMP trap: Unsolicited event notification from a managed device. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.2-k3",
+    "objective": "3.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: summarized conversations and traffic volumes without full packet payloads?",
+    "options": [
+      "Flow data",
+      "Full packet capture",
+      "Rack diagram",
+      "Cable test"
+    ],
+    "answer": 0,
+    "explanation": "Flow data: Summarized conversations and traffic volumes without full packet payloads. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.2-k4",
+    "objective": "3.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: copies switch traffic to a monitoring interface?",
+    "options": [
+      "Port mirroring",
+      "PAT",
+      "VLSM",
+      "FHRP"
+    ],
+    "answer": 0,
+    "explanation": "Port mirroring: Copies switch traffic to a monitoring interface. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.2-k5",
+    "objective": "3.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: correlates security events from multiple log sources?",
+    "options": [
+      "SIEM",
+      "UPS",
+      "Patch panel",
+      "DHCP scope"
+    ],
+    "answer": 0,
+    "explanation": "SIEM: Correlates security events from multiple log sources. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.3-k1",
+    "objective": "3.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: maximum acceptable data loss expressed as time?",
+    "options": [
+      "RPO",
+      "RTO",
+      "MTTR",
+      "MTBF"
+    ],
+    "answer": 0,
+    "explanation": "RPO: Maximum acceptable data loss expressed as time. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.3-k2",
+    "objective": "3.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: target duration to restore service after disruption?",
+    "options": [
+      "RTO",
+      "RPO",
+      "MTBF",
+      "TTL"
+    ],
+    "answer": 0,
+    "explanation": "RTO: Target duration to restore service after disruption. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.3-k3",
+    "objective": "3.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: average operating time between failures for repairable equipment?",
+    "options": [
+      "MTBF",
+      "MTTR",
+      "RPO",
+      "RTO"
+    ],
+    "answer": 0,
+    "explanation": "MTBF: Average operating time between failures for repairable equipment. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.3-k4",
+    "objective": "3.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: recovery facility equipped for rapid service resumption?",
+    "options": [
+      "Hot site",
+      "Cold site",
+      "Empty rack",
+      "Offline tape alone"
+    ],
+    "answer": 0,
+    "explanation": "Hot site: Recovery facility equipped for rapid service resumption. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.3-k5",
+    "objective": "3.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: standby system takes over when the active system fails?",
+    "options": [
+      "Active-passive",
+      "Active-active",
+      "Single standalone host",
+      "Cold archive"
+    ],
+    "answer": 0,
+    "explanation": "Active-passive: Standby system takes over when the active system fails. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.4-k1",
+    "objective": "3.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: forwards client address requests across routed subnet boundaries?",
+    "options": [
+      "DHCP relay",
+      "DNS resolver",
+      "NTP server",
+      "STP root"
+    ],
+    "answer": 0,
+    "explanation": "DHCP relay: Forwards client address requests across routed subnet boundaries. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.4-k2",
+    "objective": "3.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: dNS record containing an IPv6 address?",
+    "options": [
+      "AAAA",
+      "A",
+      "MX",
+      "PTR"
+    ],
+    "answer": 0,
+    "explanation": "AAAA: DNS record containing an IPv6 address. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.4-k3",
+    "objective": "3.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: dNS record commonly used for reverse address-to-name lookup?",
+    "options": [
+      "PTR",
+      "MX",
+      "AAAA",
+      "TXT"
+    ],
+    "answer": 0,
+    "explanation": "PTR: DNS record commonly used for reverse address-to-name lookup. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.4-k4",
+    "objective": "3.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: authenticates DNS data origin and integrity through signatures?",
+    "options": [
+      "DNSSEC",
+      "DoH alone",
+      "DHCP",
+      "NAT"
+    ],
+    "answer": 0,
+    "explanation": "DNSSEC: Authenticates DNS data origin and integrity through signatures. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.4-k5",
+    "objective": "3.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: iPv6 host address configuration using router advertisements?",
+    "options": [
+      "SLAAC",
+      "DHCPv4",
+      "PAT",
+      "SNMP"
+    ],
+    "answer": 0,
+    "explanation": "SLAAC: IPv6 host address configuration using router advertisements. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.5-k1",
+    "objective": "3.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: separate management path independent of the production forwarding network?",
+    "options": [
+      "Out-of-band management",
+      "In-band management",
+      "Split tunnel",
+      "Port mirroring"
+    ],
+    "answer": 0,
+    "explanation": "Out-of-band management: Separate management path independent of the production forwarding network. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.5-k2",
+    "objective": "3.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: controlled intermediary for administrative connections?",
+    "options": [
+      "Jump host",
+      "DHCP relay",
+      "CDN",
+      "Wireless repeater"
+    ],
+    "answer": 0,
+    "explanation": "Jump host: Controlled intermediary for administrative connections. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.5-k3",
+    "objective": "3.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: only selected traffic traverses the remote access VPN?",
+    "options": [
+      "Split tunnel",
+      "Full tunnel",
+      "Site-to-site only",
+      "Port mirroring"
+    ],
+    "answer": 0,
+    "explanation": "Split tunnel: Only selected traffic traverses the remote access VPN. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.5-k4",
+    "objective": "3.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: encrypted connection between network gateways?",
+    "options": [
+      "Site-to-site VPN",
+      "Clientless browser portal",
+      "Console cable",
+      "Local loopback"
+    ],
+    "answer": 0,
+    "explanation": "Site-to-site VPN: Encrypted connection between network gateways. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-3.5-k5",
+    "objective": "3.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: direct local device management independent of configured IP reachability?",
+    "options": [
+      "Console",
+      "SSH over production LAN",
+      "HTTPS over WAN",
+      "SNMP polling"
+    ],
+    "answer": 0,
+    "explanation": "Console: Direct local device management independent of configured IP reachability. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.1-k1",
+    "objective": "4.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: grant only permissions needed for a task?",
+    "options": [
+      "Least privilege",
+      "Single sign-on",
+      "Geofencing",
+      "Encryption at rest"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege: Grant only permissions needed for a task. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.1-k2",
+    "objective": "4.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: authentication using distinct factor categories?",
+    "options": [
+      "MFA",
+      "Two passwords",
+      "One PIN",
+      "Shared account"
+    ],
+    "answer": 0,
+    "explanation": "MFA: Authentication using distinct factor categories. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.1-k3",
+    "objective": "4.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: centralized AAA commonly used for network device administration?",
+    "options": [
+      "TACACS+",
+      "DNSSEC",
+      "NTP",
+      "STP"
+    ],
+    "answer": 0,
+    "explanation": "TACACS+: Centralized AAA commonly used for network device administration. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.1-k4",
+    "objective": "4.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: decoy resource intended to attract and observe suspicious activity?",
+    "options": [
+      "Honeypot",
+      "Production database",
+      "PDU",
+      "DHCP relay"
+    ],
+    "answer": 0,
+    "explanation": "Honeypot: Decoy resource intended to attract and observe suspicious activity. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.1-k5",
+    "objective": "4.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: protection against unauthorized modification?",
+    "options": [
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Elasticity"
+    ],
+    "answer": 0,
+    "explanation": "Integrity: Protection against unauthorized modification. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.2-k1",
+    "objective": "4.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: unauthorized service distributes incorrect client network settings?",
+    "options": [
+      "Rogue DHCP",
+      "DNS poisoning",
+      "MAC flooding",
+      "Tailgating"
+    ],
+    "answer": 0,
+    "explanation": "Rogue DHCP: Unauthorized service distributes incorrect client network settings. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.2-k2",
+    "objective": "4.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: impersonating a legitimate wireless network to attract clients?",
+    "options": [
+      "Evil twin",
+      "VLAN hopping",
+      "Cable attenuation",
+      "DNSSEC"
+    ],
+    "answer": 0,
+    "explanation": "Evil twin: Impersonating a legitimate wireless network to attract clients. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.2-k3",
+    "objective": "4.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: false address mappings redirect local IPv4 traffic?",
+    "options": [
+      "ARP poisoning",
+      "NTP drift",
+      "DNS zone transfer",
+      "PoE overload"
+    ],
+    "answer": 0,
+    "explanation": "ARP poisoning: False address mappings redirect local IPv4 traffic. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.2-k4",
+    "objective": "4.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: excessive learned source addresses exhaust switch forwarding table capacity?",
+    "options": [
+      "MAC flooding",
+      "ARP timeout alone",
+      "DNS poisoning",
+      "Phishing email"
+    ],
+    "answer": 0,
+    "explanation": "MAC flooding: Excessive learned source addresses exhaust switch forwarding table capacity. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.2-k5",
+    "objective": "4.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: distributed sources overwhelm a service or network resource?",
+    "options": [
+      "DDoS",
+      "Tailgating",
+      "Shoulder surfing",
+      "Cable fault"
+    ],
+    "answer": 0,
+    "explanation": "DDoS: Distributed sources overwhelm a service or network resource. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.3-k1",
+    "objective": "4.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: authenticates devices or users before granting normal port access?",
+    "options": [
+      "802.1X",
+      "802.1Q",
+      "802.11h",
+      "LACP"
+    ],
+    "answer": 0,
+    "explanation": "802.1X: Authenticates devices or users before granting normal port access. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.3-k2",
+    "objective": "4.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: rule set permitting or denying traffic based on specified criteria?",
+    "options": [
+      "ACL",
+      "MIB",
+      "SLA",
+      "PDU"
+    ],
+    "answer": 0,
+    "explanation": "ACL: Rule set permitting or denying traffic based on specified criteria. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.3-k3",
+    "objective": "4.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: separated network zone for externally accessible services?",
+    "options": [
+      "Screened subnet",
+      "Unrestricted internal LAN",
+      "Console port",
+      "Loopback interface"
+    ],
+    "answer": 0,
+    "explanation": "Screened subnet: Separated network zone for externally accessible services. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.3-k4",
+    "objective": "4.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: limits or controls learned source MAC addresses on switch ports?",
+    "options": [
+      "Port security",
+      "DNSSEC",
+      "NAT64",
+      "NTP"
+    ],
+    "answer": 0,
+    "explanation": "Port security: Limits or controls learned source MAC addresses on switch ports. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-4.3-k5",
+    "objective": "4.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: replacing cryptographic keys according to policy or compromise response?",
+    "options": [
+      "Key rotation",
+      "VLAN tagging",
+      "Cable tracing",
+      "Route summarization"
+    ],
+    "answer": 0,
+    "explanation": "Key rotation: Replacing cryptographic keys according to policy or compromise response. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.1-k1",
+    "objective": "5.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: gather symptoms, scope and recent changes before selecting a cause?",
+    "options": [
+      "Identify problem",
+      "Implement solution",
+      "Close ticket",
+      "Replace hardware immediately"
+    ],
+    "answer": 0,
+    "explanation": "Identify problem: Gather symptoms, scope and recent changes before selecting a cause. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.1-k2",
+    "objective": "5.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: collect evidence to confirm or reject a suspected cause?",
+    "options": [
+      "Test theory",
+      "Document final resolution",
+      "Implement untested change",
+      "Ignore symptoms"
+    ],
+    "answer": 0,
+    "explanation": "Test theory: Collect evidence to confirm or reject a suspected cause. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.1-k3",
+    "objective": "5.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: assess impact and rollback before applying a confirmed fix?",
+    "options": [
+      "Plan action",
+      "Close ticket",
+      "Skip approvals",
+      "Erase logs"
+    ],
+    "answer": 0,
+    "explanation": "Plan action: Assess impact and rollback before applying a confirmed fix. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.1-k4",
+    "objective": "5.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: confirm restored service and check for unintended effects after a fix?",
+    "options": [
+      "Verify functionality",
+      "Guess root cause",
+      "Skip testing",
+      "Disable monitoring"
+    ],
+    "answer": 0,
+    "explanation": "Verify functionality: Confirm restored service and check for unintended effects after a fix. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.1-k5",
+    "objective": "5.1",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: record findings, changes and lessons for future incidents?",
+    "options": [
+      "Document outcomes",
+      "Discard evidence",
+      "Repeat random changes",
+      "Close without notes"
+    ],
+    "answer": 0,
+    "explanation": "Document outcomes: Record findings, changes and lessons for future incidents. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.2-k1",
+    "objective": "5.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: frames fail integrity checks, potentially indicating link corruption?",
+    "options": [
+      "CRC errors",
+      "DNS NXDOMAIN",
+      "DHCP lease expiry",
+      "NTP offset"
+    ],
+    "answer": 0,
+    "explanation": "CRC errors: Frames fail integrity checks, potentially indicating link corruption. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.2-k2",
+    "objective": "5.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: total available switch power for attached powered devices?",
+    "options": [
+      "PoE budget",
+      "MTU",
+      "VLAN count",
+      "DNS TTL"
+    ],
+    "answer": 0,
+    "explanation": "PoE budget: Total available switch power for attached powered devices. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.2-k3",
+    "objective": "5.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: interface intentionally disabled by configuration?",
+    "options": [
+      "Administratively down",
+      "Optical attenuation alone",
+      "DHCP exhaustion",
+      "DNS failure"
+    ],
+    "answer": 0,
+    "explanation": "Administratively down: Interface intentionally disabled by configuration. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.2-k4",
+    "objective": "5.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: unwanted coupling of signals between conductors?",
+    "options": [
+      "Crosstalk",
+      "Jitter buffer",
+      "Routing metric",
+      "DNS cache"
+    ],
+    "answer": 0,
+    "explanation": "Crosstalk: Unwanted coupling of signals between conductors. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.2-k5",
+    "objective": "5.2",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: fiber transmit and receive paths incorrectly paired?",
+    "options": [
+      "TX/RX reversal",
+      "Wrong DNS suffix",
+      "Duplicate IP",
+      "Expired lease"
+    ],
+    "answer": 0,
+    "explanation": "TX/RX reversal: Fiber transmit and receive paths incorrectly paired. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.3-k1",
+    "objective": "5.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: no available dynamic leases remain in the configured scope?",
+    "options": [
+      "DHCP pool exhaustion",
+      "DNS cache miss",
+      "STP root election",
+      "NTP drift"
+    ],
+    "answer": 0,
+    "explanation": "DHCP pool exhaustion: No available dynamic leases remain in the configured scope. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.3-k2",
+    "objective": "5.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: host can reach local subnet but sends remote traffic toward wrong next hop?",
+    "options": [
+      "Incorrect gateway",
+      "Fiber break on all links",
+      "DNS only failure",
+      "Duplicate hostname alone"
+    ],
+    "answer": 0,
+    "explanation": "Incorrect gateway: Host can reach local subnet but sends remote traffic toward wrong next hop. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.3-k3",
+    "objective": "5.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: two devices claim the same address causing intermittent delivery?",
+    "options": [
+      "Duplicate IP",
+      "Normal DHCP renewal",
+      "Correct VLAN trunk",
+      "NTP synchronization"
+    ],
+    "answer": 0,
+    "explanation": "Duplicate IP: Two devices claim the same address causing intermittent delivery. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.3-k4",
+    "objective": "5.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: switch port places a host in the wrong broadcast domain?",
+    "options": [
+      "Incorrect VLAN",
+      "Correct subnet routing",
+      "DNSSEC validation",
+      "PoE negotiation"
+    ],
+    "answer": 0,
+    "explanation": "Incorrect VLAN: Switch port places a host in the wrong broadcast domain. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.3-k5",
+    "objective": "5.3",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: router lacks a matching route for otherwise unknown destinations?",
+    "options": [
+      "Missing default route",
+      "CRC error",
+      "SSID mismatch",
+      "Cable attenuation"
+    ],
+    "answer": 0,
+    "explanation": "Missing default route: Router lacks a matching route for otherwise unknown destinations. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.4-k1",
+    "objective": "5.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: offered traffic exceeds available forwarding capacity?",
+    "options": [
+      "Congestion",
+      "DNS record expiry",
+      "Wrong rack size",
+      "Certificate renewal"
+    ],
+    "answer": 0,
+    "explanation": "Congestion: Offered traffic exceeds available forwarding capacity. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.4-k2",
+    "objective": "5.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: elapsed time for data to travel between points?",
+    "options": [
+      "Latency",
+      "Jitter",
+      "Bandwidth",
+      "Packet count"
+    ],
+    "answer": 0,
+    "explanation": "Latency: Elapsed time for data to travel between points. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.4-k3",
+    "objective": "5.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: actual achieved data transfer rate?",
+    "options": [
+      "Throughput",
+      "Nominal link capacity",
+      "TTL",
+      "RPO"
+    ],
+    "answer": 0,
+    "explanation": "Throughput: Actual achieved data transfer rate. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.4-k4",
+    "objective": "5.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: nearby wireless channels share spectrum and interfere?",
+    "options": [
+      "Channel overlap",
+      "DNS recursion",
+      "VLAN tagging",
+      "NAT translation"
+    ],
+    "answer": 0,
+    "explanation": "Channel overlap: Nearby wireless channels share spectrum and interfere. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.4-k5",
+    "objective": "5.4",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: client fails to transition smoothly between access points?",
+    "options": [
+      "Roaming issue",
+      "DHCP reservation alone",
+      "Fiber polarity",
+      "Static route metric"
+    ],
+    "answer": 0,
+    "explanation": "Roaming issue: Client fails to transition smoothly between access points. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.5-k1",
+    "objective": "5.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: traces an unidentified copper cable to its termination?",
+    "options": [
+      "Toner",
+      "Wi-Fi analyzer",
+      "DNS resolver",
+      "Optical power meter"
+    ],
+    "answer": 0,
+    "explanation": "Toner: Traces an unidentified copper cable to its termination. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.5-k2",
+    "objective": "5.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: visible light helps locate breaks or bends in fiber?",
+    "options": [
+      "Visual fault locator",
+      "Toner",
+      "SNMP collector",
+      "Packet analyzer"
+    ],
+    "answer": 0,
+    "explanation": "Visual fault locator: Visible light helps locate breaks or bends in fiber. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.5-k3",
+    "objective": "5.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: inspect learned MAC addresses and associated switch ports on Cisco IOS?",
+    "options": [
+      "show mac address-table",
+      "show ip route",
+      "show clock",
+      "show version"
+    ],
+    "answer": 0,
+    "explanation": "show mac address-table: Inspect learned MAC addresses and associated switch ports on Cisco IOS. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.5-k4",
+    "objective": "5.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: capture and inspect packets from a command-line interface?",
+    "options": [
+      "tcpdump",
+      "dig",
+      "ipconfig",
+      "tracert"
+    ],
+    "answer": 0,
+    "explanation": "tcpdump: Capture and inspect packets from a command-line interface. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-5.5-k5",
+    "objective": "5.5",
+    "difficulty": "knowledge",
+    "prompt": "Which term best matches this networking requirement or observation: measure nearby wireless channels and signal conditions?",
+    "options": [
+      "Wi-Fi analyzer",
+      "Cable toner",
+      "DNS lookup",
+      "Rack diagram"
+    ],
+    "answer": 0,
+    "explanation": "Wi-Fi analyzer: Measure nearby wireless channels and signal conditions. The other choices describe different technologies or conditions and do not match this defining characteristic."
+  },
+  {
+    "id": "n10-v03-1.1-c1",
+    "objective": "1.1",
+    "difficulty": "application",
+    "prompt": "A capture shows the destination MAC changes at a router but the destination IP stays the same. Which layer is being rebuilt for the next hop?",
+    "options": [
+      "Data link",
+      "Application",
+      "Session",
+      "Transport"
+    ],
+    "answer": 0,
+    "explanation": "A router constructs a new local frame for the next link while normally retaining the destination IP."
+  },
+  {
+    "id": "n10-v03-1.1-c2",
+    "objective": "1.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Data link?",
+    "options": [
+      "Local frame delivery using MAC addresses",
+      "Signals and bit transmission",
+      "Forwarding packets between IP networks",
+      "End-to-end multiplexing using ports"
+    ],
+    "answer": 0,
+    "explanation": "Data link refers to local frame delivery using MAC addresses. The alternatives instead describe Physical, Network, Transport."
+  },
+  {
+    "id": "n10-v03-1.1-c3",
+    "objective": "1.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Network?",
+    "options": [
+      "Forwarding packets between IP networks",
+      "Signals and bit transmission",
+      "Local frame delivery using MAC addresses",
+      "End-to-end multiplexing using ports"
+    ],
+    "answer": 0,
+    "explanation": "Network refers to forwarding packets between IP networks. The alternatives instead describe Physical, Data link, Transport."
+  },
+  {
+    "id": "n10-v03-1.1-c4",
+    "objective": "1.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Transport?",
+    "options": [
+      "End-to-end multiplexing using ports",
+      "Signals and bit transmission",
+      "Local frame delivery using MAC addresses",
+      "Forwarding packets between IP networks"
+    ],
+    "answer": 0,
+    "explanation": "Transport refers to end-to-end multiplexing using ports. The alternatives instead describe Physical, Data link, Network."
+  },
+  {
+    "id": "n10-v03-1.2-c1",
+    "objective": "1.2",
+    "difficulty": "application",
+    "prompt": "A web service has three replicas. One stops responding and requests must be sent only to healthy replicas. What should perform this function?",
+    "options": [
+      "Health-checking load balancer",
+      "NAS",
+      "Toner",
+      "NTP server"
+    ],
+    "answer": 0,
+    "explanation": "Health checks allow a load balancer to remove an unavailable backend from rotation."
+  },
+  {
+    "id": "n10-v03-1.2-c2",
+    "objective": "1.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes IPS?",
+    "options": [
+      "Inline inspection capable of dropping malicious traffic",
+      "Detects suspicious traffic and raises alerts without inline blocking",
+      "Shared file-level storage over a network",
+      "Distributes incoming requests among healthy servers"
+    ],
+    "answer": 0,
+    "explanation": "IPS refers to inline inspection capable of dropping malicious traffic. The alternatives instead describe IDS, NAS, Load balancer."
+  },
+  {
+    "id": "n10-v03-1.2-c3",
+    "objective": "1.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes NAS?",
+    "options": [
+      "Shared file-level storage over a network",
+      "Detects suspicious traffic and raises alerts without inline blocking",
+      "Inline inspection capable of dropping malicious traffic",
+      "Distributes incoming requests among healthy servers"
+    ],
+    "answer": 0,
+    "explanation": "NAS refers to shared file-level storage over a network. The alternatives instead describe IDS, IPS, Load balancer."
+  },
+  {
+    "id": "n10-v03-1.2-c4",
+    "objective": "1.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Load balancer?",
+    "options": [
+      "Distributes incoming requests among healthy servers",
+      "Detects suspicious traffic and raises alerts without inline blocking",
+      "Inline inspection capable of dropping malicious traffic",
+      "Shared file-level storage over a network"
+    ],
+    "answer": 0,
+    "explanation": "Load balancer refers to distributes incoming requests among healthy servers. The alternatives instead describe IDS, IPS, NAS."
+  },
+  {
+    "id": "n10-v03-1.3-c1",
+    "objective": "1.3",
+    "difficulty": "application",
+    "prompt": "Private cloud instances need outbound package updates but must not accept unsolicited internet connections. Which component is most appropriate for IPv4 egress?",
+    "options": [
+      "NAT gateway",
+      "Public IP on every instance",
+      "Layer 2 hub",
+      "DNS zone transfer"
+    ],
+    "answer": 0,
+    "explanation": "A NAT gateway supports outbound translations; routing and security rules must also permit the traffic."
+  },
+  {
+    "id": "n10-v03-1.3-c2",
+    "objective": "1.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes SaaS?",
+    "options": [
+      "Provider-operated application consumed by end users",
+      "Managed application runtime without managing guest operating systems",
+      "Allows private IPv4 workloads to initiate external connections using translated addresses",
+      "Automatically adjusting capacity as demand rises and falls"
+    ],
+    "answer": 0,
+    "explanation": "SaaS refers to provider-operated application consumed by end users. The alternatives instead describe PaaS, NAT gateway, Elasticity."
+  },
+  {
+    "id": "n10-v03-1.3-c3",
+    "objective": "1.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes NAT gateway?",
+    "options": [
+      "Allows private IPv4 workloads to initiate external connections using translated addresses",
+      "Managed application runtime without managing guest operating systems",
+      "Provider-operated application consumed by end users",
+      "Automatically adjusting capacity as demand rises and falls"
+    ],
+    "answer": 0,
+    "explanation": "NAT gateway refers to allows private IPv4 workloads to initiate external connections using translated addresses. The alternatives instead describe PaaS, SaaS, Elasticity."
+  },
+  {
+    "id": "n10-v03-1.3-c4",
+    "objective": "1.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Elasticity?",
+    "options": [
+      "Automatically adjusting capacity as demand rises and falls",
+      "Managed application runtime without managing guest operating systems",
+      "Provider-operated application consumed by end users",
+      "Allows private IPv4 workloads to initiate external connections using translated addresses"
+    ],
+    "answer": 0,
+    "explanation": "Elasticity refers to automatically adjusting capacity as demand rises and falls. The alternatives instead describe PaaS, SaaS, NAT gateway."
+  },
+  {
+    "id": "n10-v03-1.4-c1",
+    "objective": "1.4",
+    "difficulty": "application",
+    "prompt": "A firewall permits UDP 53 but large DNS responses fail when clients retry over TCP. Which additional destination port and transport should be permitted to the resolver?",
+    "options": [
+      "TCP 53",
+      "TCP 25",
+      "UDP 123",
+      "TCP 445"
+    ],
+    "answer": 0,
+    "explanation": "DNS can retry truncated UDP responses using TCP on port 53."
+  },
+  {
+    "id": "n10-v03-1.4-c2",
+    "objective": "1.4",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes NTP?",
+    "options": [
+      "Clock synchronization, typically UDP 123",
+      "Secure remote shell, typically TCP 22",
+      "Windows-style file sharing, typically TCP 445",
+      "IP control and diagnostic messages without TCP or UDP ports"
+    ],
+    "answer": 0,
+    "explanation": "NTP refers to clock synchronization, typically UDP 123. The alternatives instead describe SSH, SMB, ICMP."
+  },
+  {
+    "id": "n10-v03-1.4-c3",
+    "objective": "1.4",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes SMB?",
+    "options": [
+      "Windows-style file sharing, typically TCP 445",
+      "Secure remote shell, typically TCP 22",
+      "Clock synchronization, typically UDP 123",
+      "IP control and diagnostic messages without TCP or UDP ports"
+    ],
+    "answer": 0,
+    "explanation": "SMB refers to windows-style file sharing, typically TCP 445. The alternatives instead describe SSH, NTP, ICMP."
+  },
+  {
+    "id": "n10-v03-1.4-c4",
+    "objective": "1.4",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes ICMP?",
+    "options": [
+      "IP control and diagnostic messages without TCP or UDP ports",
+      "Secure remote shell, typically TCP 22",
+      "Clock synchronization, typically UDP 123",
+      "Windows-style file sharing, typically TCP 445"
+    ],
+    "answer": 0,
+    "explanation": "ICMP refers to iP control and diagnostic messages without TCP or UDP ports. The alternatives instead describe SSH, NTP, SMB."
+  },
+  {
+    "id": "n10-v03-1.5-c1",
+    "objective": "1.5",
+    "difficulty": "application",
+    "prompt": "Two buildings are 4 km apart and the route passes near heavy electrical equipment. Which medium is the best starting choice?",
+    "options": [
+      "Single-mode fiber",
+      "Unshielded copper Ethernet",
+      "Passive DAC",
+      "RJ11 telephone cable"
+    ],
+    "answer": 0,
+    "explanation": "Single-mode fiber supports long links and is immune to electromagnetic interference along the optical path; select compatible optics and verify link budget."
+  },
+  {
+    "id": "n10-v03-1.5-c2",
+    "objective": "1.5",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes DAC?",
+    "options": [
+      "Short direct-attach copper link between compatible switch ports",
+      "Optical medium suited to long-distance links with a small core",
+      "Compact fiber connector commonly used with SFP optics",
+      "Cable jacket rated for applicable environmental air-handling spaces"
+    ],
+    "answer": 0,
+    "explanation": "DAC refers to short direct-attach copper link between compatible switch ports. The alternatives instead describe Single-mode fiber, LC, Plenum-rated cable."
+  },
+  {
+    "id": "n10-v03-1.5-c3",
+    "objective": "1.5",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes LC?",
+    "options": [
+      "Compact fiber connector commonly used with SFP optics",
+      "Optical medium suited to long-distance links with a small core",
+      "Short direct-attach copper link between compatible switch ports",
+      "Cable jacket rated for applicable environmental air-handling spaces"
+    ],
+    "answer": 0,
+    "explanation": "LC refers to compact fiber connector commonly used with SFP optics. The alternatives instead describe Single-mode fiber, DAC, Plenum-rated cable."
+  },
+  {
+    "id": "n10-v03-1.5-c4",
+    "objective": "1.5",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Plenum-rated cable?",
+    "options": [
+      "Cable jacket rated for applicable environmental air-handling spaces",
+      "Optical medium suited to long-distance links with a small core",
+      "Short direct-attach copper link between compatible switch ports",
+      "Compact fiber connector commonly used with SFP optics"
+    ],
+    "answer": 0,
+    "explanation": "Plenum-rated cable refers to cable jacket rated for applicable environmental air-handling spaces. The alternatives instead describe Single-mode fiber, DAC, LC."
+  },
+  {
+    "id": "n10-v03-1.6-c1",
+    "objective": "1.6",
+    "difficulty": "application",
+    "prompt": "A data center needs predictable paths between racks and high east-west capacity. Which topology is most appropriate?",
+    "options": [
+      "Spine-leaf",
+      "Single shared bus",
+      "One access switch for all racks",
+      "Daisy chain"
+    ],
+    "answer": 0,
+    "explanation": "A spine-leaf fabric gives leaf switches multiple paths through spines and supports scalable east-west traffic."
+  },
+  {
+    "id": "n10-v03-1.6-c2",
+    "objective": "1.6",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes East-west?",
+    "options": [
+      "Traffic between workloads inside a data center",
+      "Data center fabric where each leaf connects to every spine",
+      "Campus tier connecting end devices",
+      "Combines core and distribution roles"
+    ],
+    "answer": 0,
+    "explanation": "East-west refers to traffic between workloads inside a data center. The alternatives instead describe Spine-leaf, Access layer, Collapsed core."
+  },
+  {
+    "id": "n10-v03-1.6-c3",
+    "objective": "1.6",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Access layer?",
+    "options": [
+      "Campus tier connecting end devices",
+      "Data center fabric where each leaf connects to every spine",
+      "Traffic between workloads inside a data center",
+      "Combines core and distribution roles"
+    ],
+    "answer": 0,
+    "explanation": "Access layer refers to campus tier connecting end devices. The alternatives instead describe Spine-leaf, East-west, Collapsed core."
+  },
+  {
+    "id": "n10-v03-1.6-c4",
+    "objective": "1.6",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Collapsed core?",
+    "options": [
+      "Combines core and distribution roles",
+      "Data center fabric where each leaf connects to every spine",
+      "Traffic between workloads inside a data center",
+      "Campus tier connecting end devices"
+    ],
+    "answer": 0,
+    "explanation": "Collapsed core refers to combines core and distribution roles. The alternatives instead describe Spine-leaf, East-west, Access layer."
+  },
+  {
+    "id": "n10-v03-1.7-c1",
+    "objective": "1.7",
+    "difficulty": "application",
+    "prompt": "A subnet must support 50 conventional IPv4 hosts. What is the smallest prefix that fits?",
+    "options": [
+      "/26",
+      "/27",
+      "/28",
+      "/29"
+    ],
+    "answer": 0,
+    "explanation": "Six host bits give 64 addresses, 62 usable after network and broadcast addresses."
+  },
+  {
+    "id": "n10-v03-1.7-c2",
+    "objective": "1.7",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes RFC1918?",
+    "options": [
+      "Private IPv4 ranges including 10.0.0.0/8",
+      "IPv4 link-local self-assignment in 169.254.0.0/16",
+      "Local IPv4 testing using 127.0.0.1",
+      "Allocating different prefix lengths according to subnet size needs"
+    ],
+    "answer": 0,
+    "explanation": "RFC1918 refers to private IPv4 ranges including 10.0.0.0/8. The alternatives instead describe APIPA, Loopback, VLSM."
+  },
+  {
+    "id": "n10-v03-1.7-c3",
+    "objective": "1.7",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Loopback?",
+    "options": [
+      "Local IPv4 testing using 127.0.0.1",
+      "IPv4 link-local self-assignment in 169.254.0.0/16",
+      "Private IPv4 ranges including 10.0.0.0/8",
+      "Allocating different prefix lengths according to subnet size needs"
+    ],
+    "answer": 0,
+    "explanation": "Loopback refers to local IPv4 testing using 127.0.0.1. The alternatives instead describe APIPA, RFC1918, VLSM."
+  },
+  {
+    "id": "n10-v03-1.7-c4",
+    "objective": "1.7",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes VLSM?",
+    "options": [
+      "Allocating different prefix lengths according to subnet size needs",
+      "IPv4 link-local self-assignment in 169.254.0.0/16",
+      "Private IPv4 ranges including 10.0.0.0/8",
+      "Local IPv4 testing using 127.0.0.1"
+    ],
+    "answer": 0,
+    "explanation": "VLSM refers to allocating different prefix lengths according to subnet size needs. The alternatives instead describe APIPA, RFC1918, Loopback."
+  },
+  {
+    "id": "n10-v03-1.8-c1",
+    "objective": "1.8",
+    "difficulty": "application",
+    "prompt": "An IPv6-only client needs to reach an IPv4-only server through a translation service. Which technology is appropriate?",
+    "options": [
+      "NAT64",
+      "LACP",
+      "STP",
+      "802.1Q"
+    ],
+    "answer": 0,
+    "explanation": "NAT64 translates between IPv6 and IPv4; DNS64 may assist name-based access."
+  },
+  {
+    "id": "n10-v03-1.8-c2",
+    "objective": "1.8",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes SD-WAN?",
+    "options": [
+      "Central policy and application-aware selection across WAN transports",
+      "Layer 2 overlay encapsulated across an IP underlay",
+      "Translation allowing IPv6 clients to communicate with IPv4 services",
+      "Running IPv4 and IPv6 concurrently"
+    ],
+    "answer": 0,
+    "explanation": "SD-WAN refers to central policy and application-aware selection across WAN transports. The alternatives instead describe VXLAN, NAT64, Dual stack."
+  },
+  {
+    "id": "n10-v03-1.8-c3",
+    "objective": "1.8",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes NAT64?",
+    "options": [
+      "Translation allowing IPv6 clients to communicate with IPv4 services",
+      "Layer 2 overlay encapsulated across an IP underlay",
+      "Central policy and application-aware selection across WAN transports",
+      "Running IPv4 and IPv6 concurrently"
+    ],
+    "answer": 0,
+    "explanation": "NAT64 refers to translation allowing IPv6 clients to communicate with IPv4 services. The alternatives instead describe VXLAN, SD-WAN, Dual stack."
+  },
+  {
+    "id": "n10-v03-1.8-c4",
+    "objective": "1.8",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Dual stack?",
+    "options": [
+      "Running IPv4 and IPv6 concurrently",
+      "Layer 2 overlay encapsulated across an IP underlay",
+      "Central policy and application-aware selection across WAN transports",
+      "Translation allowing IPv6 clients to communicate with IPv4 services"
+    ],
+    "answer": 0,
+    "explanation": "Dual stack refers to running IPv4 and IPv6 concurrently. The alternatives instead describe VXLAN, SD-WAN, NAT64."
+  },
+  {
+    "id": "n10-v03-2.1-c1",
+    "objective": "2.1",
+    "difficulty": "application",
+    "prompt": "A router has routes to 10.20.0.0/16 and 10.20.30.0/24. Which is used for 10.20.30.45?",
+    "options": [
+      "10.20.30.0/24",
+      "10.20.0.0/16",
+      "Default route",
+      "Both equally"
+    ],
+    "answer": 0,
+    "explanation": "Longest prefix match selects the more specific /24 regardless of the administrative distance of the less specific route."
+  },
+  {
+    "id": "n10-v03-2.1-c2",
+    "objective": "2.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes BGP?",
+    "options": [
+      "Policy-oriented routing between autonomous systems",
+      "Link-state interior routing using a shortest-path calculation",
+      "Many internal connections share a public address using transport identifiers",
+      "Redundant default gateway service using a shared virtual IP"
+    ],
+    "answer": 0,
+    "explanation": "BGP refers to policy-oriented routing between autonomous systems. The alternatives instead describe OSPF, PAT, FHRP."
+  },
+  {
+    "id": "n10-v03-2.1-c3",
+    "objective": "2.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes PAT?",
+    "options": [
+      "Many internal connections share a public address using transport identifiers",
+      "Link-state interior routing using a shortest-path calculation",
+      "Policy-oriented routing between autonomous systems",
+      "Redundant default gateway service using a shared virtual IP"
+    ],
+    "answer": 0,
+    "explanation": "PAT refers to many internal connections share a public address using transport identifiers. The alternatives instead describe OSPF, BGP, FHRP."
+  },
+  {
+    "id": "n10-v03-2.1-c4",
+    "objective": "2.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes FHRP?",
+    "options": [
+      "Redundant default gateway service using a shared virtual IP",
+      "Link-state interior routing using a shortest-path calculation",
+      "Policy-oriented routing between autonomous systems",
+      "Many internal connections share a public address using transport identifiers"
+    ],
+    "answer": 0,
+    "explanation": "FHRP refers to redundant default gateway service using a shared virtual IP. The alternatives instead describe OSPF, BGP, PAT."
+  },
+  {
+    "id": "n10-v03-2.2-c1",
+    "objective": "2.2",
+    "difficulty": "application",
+    "prompt": "VLAN 30 works within each switch but not between switches. Other VLANs work over the trunk. What should be checked first?",
+    "options": [
+      "Whether VLAN 30 is allowed on the trunk",
+      "DNS MX record",
+      "NTP stratum",
+      "UPS battery"
+    ],
+    "answer": 0,
+    "explanation": "The working trunk and other VLANs narrow the issue to VLAN-specific forwarding or configuration."
+  },
+  {
+    "id": "n10-v03-2.2-c2",
+    "objective": "2.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes SVI?",
+    "options": [
+      "Logical Layer 3 interface associated with a switch VLAN",
+      "Identifies VLAN membership on tagged Ethernet frames",
+      "Negotiates aggregation of compatible physical links",
+      "Prevents Layer 2 forwarding loops by selecting a loop-free topology"
+    ],
+    "answer": 0,
+    "explanation": "SVI refers to logical Layer 3 interface associated with a switch VLAN. The alternatives instead describe 802.1Q, LACP, STP."
+  },
+  {
+    "id": "n10-v03-2.2-c3",
+    "objective": "2.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes LACP?",
+    "options": [
+      "Negotiates aggregation of compatible physical links",
+      "Identifies VLAN membership on tagged Ethernet frames",
+      "Logical Layer 3 interface associated with a switch VLAN",
+      "Prevents Layer 2 forwarding loops by selecting a loop-free topology"
+    ],
+    "answer": 0,
+    "explanation": "LACP refers to negotiates aggregation of compatible physical links. The alternatives instead describe 802.1Q, SVI, STP."
+  },
+  {
+    "id": "n10-v03-2.2-c4",
+    "objective": "2.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes STP?",
+    "options": [
+      "Prevents Layer 2 forwarding loops by selecting a loop-free topology",
+      "Identifies VLAN membership on tagged Ethernet frames",
+      "Logical Layer 3 interface associated with a switch VLAN",
+      "Negotiates aggregation of compatible physical links"
+    ],
+    "answer": 0,
+    "explanation": "STP refers to prevents Layer 2 forwarding loops by selecting a loop-free topology. The alternatives instead describe 802.1Q, SVI, LACP."
+  },
+  {
+    "id": "n10-v03-2.3-c1",
+    "objective": "2.3",
+    "difficulty": "application",
+    "prompt": "Three nearby 2.4 GHz APs in a US deployment use 20 MHz channels. Which conventional channel plan minimizes overlap?",
+    "options": [
+      "1, 6, 11",
+      "1, 2, 3",
+      "4, 5, 6",
+      "9, 10, 11"
+    ],
+    "answer": 0,
+    "explanation": "Channels 1, 6 and 11 are the conventional nonoverlapping 20 MHz plan in the US."
+  },
+  {
+    "id": "n10-v03-2.3-c2",
+    "objective": "2.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Directional antenna?",
+    "options": [
+      "Concentrates radio energy toward a particular direction",
+      "Identifier of a particular wireless basic service set, commonly an AP radio MAC",
+      "Uses SAE for password-based Wi-Fi authentication",
+      "Web-based guest access or acceptance workflow"
+    ],
+    "answer": 0,
+    "explanation": "Directional antenna refers to concentrates radio energy toward a particular direction. The alternatives instead describe BSSID, WPA3-Personal, Captive portal."
+  },
+  {
+    "id": "n10-v03-2.3-c3",
+    "objective": "2.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes WPA3-Personal?",
+    "options": [
+      "Uses SAE for password-based Wi-Fi authentication",
+      "Identifier of a particular wireless basic service set, commonly an AP radio MAC",
+      "Concentrates radio energy toward a particular direction",
+      "Web-based guest access or acceptance workflow"
+    ],
+    "answer": 0,
+    "explanation": "WPA3-Personal refers to uses SAE for password-based Wi-Fi authentication. The alternatives instead describe BSSID, Directional antenna, Captive portal."
+  },
+  {
+    "id": "n10-v03-2.3-c4",
+    "objective": "2.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Captive portal?",
+    "options": [
+      "Web-based guest access or acceptance workflow",
+      "Identifier of a particular wireless basic service set, commonly an AP radio MAC",
+      "Concentrates radio energy toward a particular direction",
+      "Uses SAE for password-based Wi-Fi authentication"
+    ],
+    "answer": 0,
+    "explanation": "Captive portal refers to web-based guest access or acceptance workflow. The alternatives instead describe BSSID, Directional antenna, WPA3-Personal."
+  },
+  {
+    "id": "n10-v03-2.4-c1",
+    "objective": "2.4",
+    "difficulty": "application",
+    "prompt": "A rack needs to remain powered during a brief utility interruption. Which device provides stored energy?",
+    "options": [
+      "UPS",
+      "Passive PDU",
+      "Patch panel",
+      "Fiber tray"
+    ],
+    "answer": 0,
+    "explanation": "A UPS supplies temporary power; a passive PDU distributes power but does not store it."
+  },
+  {
+    "id": "n10-v03-2.4-c2",
+    "objective": "2.4",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes IDF?",
+    "options": [
+      "Intermediate distribution point serving a local area or floor",
+      "Main facility distribution point for network cabling",
+      "Temporary electrical power during an outage",
+      "Distributes electrical power to rack equipment"
+    ],
+    "answer": 0,
+    "explanation": "IDF refers to intermediate distribution point serving a local area or floor. The alternatives instead describe MDF, UPS, PDU."
+  },
+  {
+    "id": "n10-v03-2.4-c3",
+    "objective": "2.4",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes UPS?",
+    "options": [
+      "Temporary electrical power during an outage",
+      "Main facility distribution point for network cabling",
+      "Intermediate distribution point serving a local area or floor",
+      "Distributes electrical power to rack equipment"
+    ],
+    "answer": 0,
+    "explanation": "UPS refers to temporary electrical power during an outage. The alternatives instead describe MDF, IDF, PDU."
+  },
+  {
+    "id": "n10-v03-2.4-c4",
+    "objective": "2.4",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes PDU?",
+    "options": [
+      "Distributes electrical power to rack equipment",
+      "Main facility distribution point for network cabling",
+      "Intermediate distribution point serving a local area or floor",
+      "Temporary electrical power during an outage"
+    ],
+    "answer": 0,
+    "explanation": "PDU refers to distributes electrical power to rack equipment. The alternatives instead describe MDF, IDF, UPS."
+  },
+  {
+    "id": "n10-v03-3.1-c1",
+    "objective": "3.1",
+    "difficulty": "application",
+    "prompt": "A switch configuration changed overnight. Which artifact best identifies deviations from the approved settings?",
+    "options": [
+      "Golden configuration",
+      "Wireless heat map",
+      "Asset serial number",
+      "SLA alone"
+    ],
+    "answer": 0,
+    "explanation": "Comparing the running configuration to an approved baseline identifies configuration drift."
+  },
+  {
+    "id": "n10-v03-3.1-c2",
+    "objective": "3.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes SLA?",
+    "options": [
+      "Defines agreed service performance and availability commitments",
+      "Tracks IP allocations and address space utilization",
+      "Approved reference configuration used for comparison",
+      "Records proposed work, approvals and impact before implementation"
+    ],
+    "answer": 0,
+    "explanation": "SLA refers to defines agreed service performance and availability commitments. The alternatives instead describe IPAM, Golden configuration, Change request."
+  },
+  {
+    "id": "n10-v03-3.1-c3",
+    "objective": "3.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Golden configuration?",
+    "options": [
+      "Approved reference configuration used for comparison",
+      "Tracks IP allocations and address space utilization",
+      "Defines agreed service performance and availability commitments",
+      "Records proposed work, approvals and impact before implementation"
+    ],
+    "answer": 0,
+    "explanation": "Golden configuration refers to approved reference configuration used for comparison. The alternatives instead describe IPAM, SLA, Change request."
+  },
+  {
+    "id": "n10-v03-3.1-c4",
+    "objective": "3.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Change request?",
+    "options": [
+      "Records proposed work, approvals and impact before implementation",
+      "Tracks IP allocations and address space utilization",
+      "Defines agreed service performance and availability commitments",
+      "Approved reference configuration used for comparison"
+    ],
+    "answer": 0,
+    "explanation": "Change request refers to records proposed work, approvals and impact before implementation. The alternatives instead describe IPAM, SLA, Golden configuration."
+  },
+  {
+    "id": "n10-v03-3.2-c1",
+    "objective": "3.2",
+    "difficulty": "application",
+    "prompt": "A team needs to inspect TCP retransmissions and individual packet headers. Which collection method is best?",
+    "options": [
+      "Packet capture",
+      "Flow summary alone",
+      "Asset inventory",
+      "Rack diagram"
+    ],
+    "answer": 0,
+    "explanation": "Packet captures provide individual headers and timing; flow summaries aggregate conversations."
+  },
+  {
+    "id": "n10-v03-3.2-c2",
+    "objective": "3.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes SNMP trap?",
+    "options": [
+      "Unsolicited event notification from a managed device",
+      "Authenticated and encrypted SNMP management messages",
+      "Summarized conversations and traffic volumes without full packet payloads",
+      "Copies switch traffic to a monitoring interface"
+    ],
+    "answer": 0,
+    "explanation": "SNMP trap refers to unsolicited event notification from a managed device. The alternatives instead describe SNMPv3 authPriv, Flow data, Port mirroring."
+  },
+  {
+    "id": "n10-v03-3.2-c3",
+    "objective": "3.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Flow data?",
+    "options": [
+      "Summarized conversations and traffic volumes without full packet payloads",
+      "Authenticated and encrypted SNMP management messages",
+      "Unsolicited event notification from a managed device",
+      "Copies switch traffic to a monitoring interface"
+    ],
+    "answer": 0,
+    "explanation": "Flow data refers to summarized conversations and traffic volumes without full packet payloads. The alternatives instead describe SNMPv3 authPriv, SNMP trap, Port mirroring."
+  },
+  {
+    "id": "n10-v03-3.2-c4",
+    "objective": "3.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Port mirroring?",
+    "options": [
+      "Copies switch traffic to a monitoring interface",
+      "Authenticated and encrypted SNMP management messages",
+      "Unsolicited event notification from a managed device",
+      "Summarized conversations and traffic volumes without full packet payloads"
+    ],
+    "answer": 0,
+    "explanation": "Port mirroring refers to copies switch traffic to a monitoring interface. The alternatives instead describe SNMPv3 authPriv, SNMP trap, Flow data."
+  },
+  {
+    "id": "n10-v03-3.3-c1",
+    "objective": "3.3",
+    "difficulty": "application",
+    "prompt": "Backups run every 15 minutes and service must return within two hours. Which pair describes the targets?",
+    "options": [
+      "RPO 15 minutes, RTO 2 hours",
+      "RPO 2 hours, RTO 15 minutes",
+      "MTBF 15 minutes, TTL 2 hours",
+      "RTO 15 minutes, MTU 2 hours"
+    ],
+    "answer": 0,
+    "explanation": "RPO is tolerable data loss and RTO is target restoration time; backup frequency alone does not guarantee recovery."
+  },
+  {
+    "id": "n10-v03-3.3-c2",
+    "objective": "3.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes RTO?",
+    "options": [
+      "Target duration to restore service after disruption",
+      "Maximum acceptable data loss expressed as time",
+      "Average operating time between failures for repairable equipment",
+      "Recovery facility equipped for rapid service resumption"
+    ],
+    "answer": 0,
+    "explanation": "RTO refers to target duration to restore service after disruption. The alternatives instead describe RPO, MTBF, Hot site."
+  },
+  {
+    "id": "n10-v03-3.3-c3",
+    "objective": "3.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes MTBF?",
+    "options": [
+      "Average operating time between failures for repairable equipment",
+      "Maximum acceptable data loss expressed as time",
+      "Target duration to restore service after disruption",
+      "Recovery facility equipped for rapid service resumption"
+    ],
+    "answer": 0,
+    "explanation": "MTBF refers to average operating time between failures for repairable equipment. The alternatives instead describe RPO, RTO, Hot site."
+  },
+  {
+    "id": "n10-v03-3.3-c4",
+    "objective": "3.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Hot site?",
+    "options": [
+      "Recovery facility equipped for rapid service resumption",
+      "Maximum acceptable data loss expressed as time",
+      "Target duration to restore service after disruption",
+      "Average operating time between failures for repairable equipment"
+    ],
+    "answer": 0,
+    "explanation": "Hot site refers to recovery facility equipped for rapid service resumption. The alternatives instead describe RPO, RTO, MTBF."
+  },
+  {
+    "id": "n10-v03-3.4-c1",
+    "objective": "3.4",
+    "difficulty": "application",
+    "prompt": "A new VLAN has no DHCP leases; the server works for other VLANs and is on another subnet. What should be checked?",
+    "options": [
+      "DHCP relay on the new gateway",
+      "MX record",
+      "NTP server",
+      "Fiber connector type"
+    ],
+    "answer": 0,
+    "explanation": "DHCP broadcasts need a relay to reach a server across a router."
+  },
+  {
+    "id": "n10-v03-3.4-c2",
+    "objective": "3.4",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes AAAA?",
+    "options": [
+      "DNS record containing an IPv6 address",
+      "Forwards client address requests across routed subnet boundaries",
+      "DNS record commonly used for reverse address-to-name lookup",
+      "Authenticates DNS data origin and integrity through signatures"
+    ],
+    "answer": 0,
+    "explanation": "AAAA refers to dNS record containing an IPv6 address. The alternatives instead describe DHCP relay, PTR, DNSSEC."
+  },
+  {
+    "id": "n10-v03-3.4-c3",
+    "objective": "3.4",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes PTR?",
+    "options": [
+      "DNS record commonly used for reverse address-to-name lookup",
+      "Forwards client address requests across routed subnet boundaries",
+      "DNS record containing an IPv6 address",
+      "Authenticates DNS data origin and integrity through signatures"
+    ],
+    "answer": 0,
+    "explanation": "PTR refers to dNS record commonly used for reverse address-to-name lookup. The alternatives instead describe DHCP relay, AAAA, DNSSEC."
+  },
+  {
+    "id": "n10-v03-3.4-c4",
+    "objective": "3.4",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes DNSSEC?",
+    "options": [
+      "Authenticates DNS data origin and integrity through signatures",
+      "Forwards client address requests across routed subnet boundaries",
+      "DNS record containing an IPv6 address",
+      "DNS record commonly used for reverse address-to-name lookup"
+    ],
+    "answer": 0,
+    "explanation": "DNSSEC refers to authenticates DNS data origin and integrity through signatures. The alternatives instead describe DHCP relay, AAAA, PTR."
+  },
+  {
+    "id": "n10-v03-3.5-c1",
+    "objective": "3.5",
+    "difficulty": "application",
+    "prompt": "A routing change disconnects production management access. Which previously provisioned path is most useful?",
+    "options": [
+      "Independent out-of-band console network",
+      "SSH over the broken route",
+      "Production DNS",
+      "Same failed VPN"
+    ],
+    "answer": 0,
+    "explanation": "An independent management path avoids reliance on the failed production route."
+  },
+  {
+    "id": "n10-v03-3.5-c2",
+    "objective": "3.5",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Jump host?",
+    "options": [
+      "Controlled intermediary for administrative connections",
+      "Separate management path independent of the production forwarding network",
+      "Only selected traffic traverses the remote access VPN",
+      "Encrypted connection between network gateways"
+    ],
+    "answer": 0,
+    "explanation": "Jump host refers to controlled intermediary for administrative connections. The alternatives instead describe Out-of-band management, Split tunnel, Site-to-site VPN."
+  },
+  {
+    "id": "n10-v03-3.5-c3",
+    "objective": "3.5",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Split tunnel?",
+    "options": [
+      "Only selected traffic traverses the remote access VPN",
+      "Separate management path independent of the production forwarding network",
+      "Controlled intermediary for administrative connections",
+      "Encrypted connection between network gateways"
+    ],
+    "answer": 0,
+    "explanation": "Split tunnel refers to only selected traffic traverses the remote access VPN. The alternatives instead describe Out-of-band management, Jump host, Site-to-site VPN."
+  },
+  {
+    "id": "n10-v03-3.5-c4",
+    "objective": "3.5",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Site-to-site VPN?",
+    "options": [
+      "Encrypted connection between network gateways",
+      "Separate management path independent of the production forwarding network",
+      "Controlled intermediary for administrative connections",
+      "Only selected traffic traverses the remote access VPN"
+    ],
+    "answer": 0,
+    "explanation": "Site-to-site VPN refers to encrypted connection between network gateways. The alternatives instead describe Out-of-band management, Jump host, Split tunnel."
+  },
+  {
+    "id": "n10-v03-4.1-c1",
+    "objective": "4.1",
+    "difficulty": "application",
+    "prompt": "A technician needs read-only monitoring but no configuration privileges. Which principle guides the access grant?",
+    "options": [
+      "Least privilege",
+      "Full administrative access",
+      "Shared credentials",
+      "Open guest access"
+    ],
+    "answer": 0,
+    "explanation": "Grant only the permissions necessary for monitoring."
+  },
+  {
+    "id": "n10-v03-4.1-c2",
+    "objective": "4.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes MFA?",
+    "options": [
+      "Authentication using distinct factor categories",
+      "Grant only permissions needed for a task",
+      "Centralized AAA commonly used for network device administration",
+      "Decoy resource intended to attract and observe suspicious activity"
+    ],
+    "answer": 0,
+    "explanation": "MFA refers to authentication using distinct factor categories. The alternatives instead describe Least privilege, TACACS+, Honeypot."
+  },
+  {
+    "id": "n10-v03-4.1-c3",
+    "objective": "4.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes TACACS+?",
+    "options": [
+      "Centralized AAA commonly used for network device administration",
+      "Grant only permissions needed for a task",
+      "Authentication using distinct factor categories",
+      "Decoy resource intended to attract and observe suspicious activity"
+    ],
+    "answer": 0,
+    "explanation": "TACACS+ refers to centralized AAA commonly used for network device administration. The alternatives instead describe Least privilege, MFA, Honeypot."
+  },
+  {
+    "id": "n10-v03-4.1-c4",
+    "objective": "4.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Honeypot?",
+    "options": [
+      "Decoy resource intended to attract and observe suspicious activity",
+      "Grant only permissions needed for a task",
+      "Authentication using distinct factor categories",
+      "Centralized AAA commonly used for network device administration"
+    ],
+    "answer": 0,
+    "explanation": "Honeypot refers to decoy resource intended to attract and observe suspicious activity. The alternatives instead describe Least privilege, MFA, TACACS+."
+  },
+  {
+    "id": "n10-v03-4.2-c1",
+    "objective": "4.2",
+    "difficulty": "application",
+    "prompt": "Clients suddenly receive a wrong default gateway from an unexpected DHCP server. What is the likely cause?",
+    "options": [
+      "Rogue DHCP service",
+      "DNSSEC validation",
+      "Normal STP convergence",
+      "Fiber attenuation"
+    ],
+    "answer": 0,
+    "explanation": "An unauthorized DHCP server can supply incorrect gateway and DNS options."
+  },
+  {
+    "id": "n10-v03-4.2-c2",
+    "objective": "4.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Evil twin?",
+    "options": [
+      "Impersonating a legitimate wireless network to attract clients",
+      "Unauthorized service distributes incorrect client network settings",
+      "False address mappings redirect local IPv4 traffic",
+      "Excessive learned source addresses exhaust switch forwarding table capacity"
+    ],
+    "answer": 0,
+    "explanation": "Evil twin refers to impersonating a legitimate wireless network to attract clients. The alternatives instead describe Rogue DHCP, ARP poisoning, MAC flooding."
+  },
+  {
+    "id": "n10-v03-4.2-c3",
+    "objective": "4.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes ARP poisoning?",
+    "options": [
+      "False address mappings redirect local IPv4 traffic",
+      "Unauthorized service distributes incorrect client network settings",
+      "Impersonating a legitimate wireless network to attract clients",
+      "Excessive learned source addresses exhaust switch forwarding table capacity"
+    ],
+    "answer": 0,
+    "explanation": "ARP poisoning refers to false address mappings redirect local IPv4 traffic. The alternatives instead describe Rogue DHCP, Evil twin, MAC flooding."
+  },
+  {
+    "id": "n10-v03-4.2-c4",
+    "objective": "4.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes MAC flooding?",
+    "options": [
+      "Excessive learned source addresses exhaust switch forwarding table capacity",
+      "Unauthorized service distributes incorrect client network settings",
+      "Impersonating a legitimate wireless network to attract clients",
+      "False address mappings redirect local IPv4 traffic"
+    ],
+    "answer": 0,
+    "explanation": "MAC flooding refers to excessive learned source addresses exhaust switch forwarding table capacity. The alternatives instead describe Rogue DHCP, Evil twin, ARP poisoning."
+  },
+  {
+    "id": "n10-v03-4.3-c1",
+    "objective": "4.3",
+    "difficulty": "application",
+    "prompt": "A public web server must be reachable from the internet but isolated from employee workstations. Which design is best?",
+    "options": [
+      "Screened subnet with restrictive firewall rules",
+      "Same unrestricted employee VLAN",
+      "Disable all logging",
+      "Expose management interfaces"
+    ],
+    "answer": 0,
+    "explanation": "A separate zone and explicit traffic policy limit access to internal resources."
+  },
+  {
+    "id": "n10-v03-4.3-c2",
+    "objective": "4.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes ACL?",
+    "options": [
+      "Rule set permitting or denying traffic based on specified criteria",
+      "Authenticates devices or users before granting normal port access",
+      "Separated network zone for externally accessible services",
+      "Limits or controls learned source MAC addresses on switch ports"
+    ],
+    "answer": 0,
+    "explanation": "ACL refers to rule set permitting or denying traffic based on specified criteria. The alternatives instead describe 802.1X, Screened subnet, Port security."
+  },
+  {
+    "id": "n10-v03-4.3-c3",
+    "objective": "4.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Screened subnet?",
+    "options": [
+      "Separated network zone for externally accessible services",
+      "Authenticates devices or users before granting normal port access",
+      "Rule set permitting or denying traffic based on specified criteria",
+      "Limits or controls learned source MAC addresses on switch ports"
+    ],
+    "answer": 0,
+    "explanation": "Screened subnet refers to separated network zone for externally accessible services. The alternatives instead describe 802.1X, ACL, Port security."
+  },
+  {
+    "id": "n10-v03-4.3-c4",
+    "objective": "4.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Port security?",
+    "options": [
+      "Limits or controls learned source MAC addresses on switch ports",
+      "Authenticates devices or users before granting normal port access",
+      "Rule set permitting or denying traffic based on specified criteria",
+      "Separated network zone for externally accessible services"
+    ],
+    "answer": 0,
+    "explanation": "Port security refers to limits or controls learned source MAC addresses on switch ports. The alternatives instead describe 802.1X, ACL, Screened subnet."
+  },
+  {
+    "id": "n10-v03-5.1-c1",
+    "objective": "5.1",
+    "difficulty": "application",
+    "prompt": "A proposed switch replacement may disconnect an entire floor. The fault is confirmed. What should happen before replacement?",
+    "options": [
+      "Plan impact, maintenance window and rollback",
+      "Close the incident",
+      "Replace without notice",
+      "Delete the configuration backup"
+    ],
+    "answer": 0,
+    "explanation": "Planning limits unintended outages and establishes recovery steps before implementation."
+  },
+  {
+    "id": "n10-v03-5.1-c2",
+    "objective": "5.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Test theory?",
+    "options": [
+      "Collect evidence to confirm or reject a suspected cause",
+      "Gather symptoms, scope and recent changes before selecting a cause",
+      "Assess impact and rollback before applying a confirmed fix",
+      "Confirm restored service and check for unintended effects after a fix"
+    ],
+    "answer": 0,
+    "explanation": "Test theory refers to collect evidence to confirm or reject a suspected cause. The alternatives instead describe Identify problem, Plan action, Verify functionality."
+  },
+  {
+    "id": "n10-v03-5.1-c3",
+    "objective": "5.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Plan action?",
+    "options": [
+      "Assess impact and rollback before applying a confirmed fix",
+      "Gather symptoms, scope and recent changes before selecting a cause",
+      "Collect evidence to confirm or reject a suspected cause",
+      "Confirm restored service and check for unintended effects after a fix"
+    ],
+    "answer": 0,
+    "explanation": "Plan action refers to assess impact and rollback before applying a confirmed fix. The alternatives instead describe Identify problem, Test theory, Verify functionality."
+  },
+  {
+    "id": "n10-v03-5.1-c4",
+    "objective": "5.1",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Verify functionality?",
+    "options": [
+      "Confirm restored service and check for unintended effects after a fix",
+      "Gather symptoms, scope and recent changes before selecting a cause",
+      "Collect evidence to confirm or reject a suspected cause",
+      "Assess impact and rollback before applying a confirmed fix"
+    ],
+    "answer": 0,
+    "explanation": "Verify functionality refers to confirm restored service and check for unintended effects after a fix. The alternatives instead describe Identify problem, Test theory, Plan action."
+  },
+  {
+    "id": "n10-v03-5.2-c1",
+    "objective": "5.2",
+    "difficulty": "application",
+    "prompt": "New APs stop powering on after several others are connected. Data links work with externally powered devices. What should be checked?",
+    "options": [
+      "Remaining PoE power budget",
+      "DNS TTL",
+      "OSPF cost",
+      "IPv6 prefix length"
+    ],
+    "answer": 0,
+    "explanation": "The pattern suggests the switch may lack remaining power capacity for additional powered devices."
+  },
+  {
+    "id": "n10-v03-5.2-c2",
+    "objective": "5.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes PoE budget?",
+    "options": [
+      "Total available switch power for attached powered devices",
+      "Frames fail integrity checks, potentially indicating link corruption",
+      "Interface intentionally disabled by configuration",
+      "Unwanted coupling of signals between conductors"
+    ],
+    "answer": 0,
+    "explanation": "PoE budget refers to total available switch power for attached powered devices. The alternatives instead describe CRC errors, Administratively down, Crosstalk."
+  },
+  {
+    "id": "n10-v03-5.2-c3",
+    "objective": "5.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Administratively down?",
+    "options": [
+      "Interface intentionally disabled by configuration",
+      "Frames fail integrity checks, potentially indicating link corruption",
+      "Total available switch power for attached powered devices",
+      "Unwanted coupling of signals between conductors"
+    ],
+    "answer": 0,
+    "explanation": "Administratively down refers to interface intentionally disabled by configuration. The alternatives instead describe CRC errors, PoE budget, Crosstalk."
+  },
+  {
+    "id": "n10-v03-5.2-c4",
+    "objective": "5.2",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Crosstalk?",
+    "options": [
+      "Unwanted coupling of signals between conductors",
+      "Frames fail integrity checks, potentially indicating link corruption",
+      "Total available switch power for attached powered devices",
+      "Interface intentionally disabled by configuration"
+    ],
+    "answer": 0,
+    "explanation": "Crosstalk refers to unwanted coupling of signals between conductors. The alternatives instead describe CRC errors, PoE budget, Administratively down."
+  },
+  {
+    "id": "n10-v03-5.3-c1",
+    "objective": "5.3",
+    "difficulty": "application",
+    "prompt": "A host at 192.168.10.20/24 uses gateway 192.168.20.1. Local peers respond but remote networks fail. What is wrong?",
+    "options": [
+      "Gateway is outside the local subnet",
+      "DNS must use TCP only",
+      "The host is multicast",
+      "The prefix is /32"
+    ],
+    "answer": 0,
+    "explanation": "A conventional IPv4 host needs a reachable next hop on its local subnet."
+  },
+  {
+    "id": "n10-v03-5.3-c2",
+    "objective": "5.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Incorrect gateway?",
+    "options": [
+      "Host can reach local subnet but sends remote traffic toward wrong next hop",
+      "No available dynamic leases remain in the configured scope",
+      "Two devices claim the same address causing intermittent delivery",
+      "Switch port places a host in the wrong broadcast domain"
+    ],
+    "answer": 0,
+    "explanation": "Incorrect gateway refers to host can reach local subnet but sends remote traffic toward wrong next hop. The alternatives instead describe DHCP pool exhaustion, Duplicate IP, Incorrect VLAN."
+  },
+  {
+    "id": "n10-v03-5.3-c3",
+    "objective": "5.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Duplicate IP?",
+    "options": [
+      "Two devices claim the same address causing intermittent delivery",
+      "No available dynamic leases remain in the configured scope",
+      "Host can reach local subnet but sends remote traffic toward wrong next hop",
+      "Switch port places a host in the wrong broadcast domain"
+    ],
+    "answer": 0,
+    "explanation": "Duplicate IP refers to two devices claim the same address causing intermittent delivery. The alternatives instead describe DHCP pool exhaustion, Incorrect gateway, Incorrect VLAN."
+  },
+  {
+    "id": "n10-v03-5.3-c4",
+    "objective": "5.3",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Incorrect VLAN?",
+    "options": [
+      "Switch port places a host in the wrong broadcast domain",
+      "No available dynamic leases remain in the configured scope",
+      "Host can reach local subnet but sends remote traffic toward wrong next hop",
+      "Two devices claim the same address causing intermittent delivery"
+    ],
+    "answer": 0,
+    "explanation": "Incorrect VLAN refers to switch port places a host in the wrong broadcast domain. The alternatives instead describe DHCP pool exhaustion, Incorrect gateway, Duplicate IP."
+  },
+  {
+    "id": "n10-v03-5.4-c1",
+    "objective": "5.4",
+    "difficulty": "application",
+    "prompt": "Voice packets arrive with delays varying from 10 to 110 ms despite negligible loss. Which metric is the issue?",
+    "options": [
+      "Jitter",
+      "DNS TTL",
+      "MTU",
+      "RPO"
+    ],
+    "answer": 0,
+    "explanation": "Jitter measures variation in packet delay and can disrupt real-time audio."
+  },
+  {
+    "id": "n10-v03-5.4-c2",
+    "objective": "5.4",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Latency?",
+    "options": [
+      "Elapsed time for data to travel between points",
+      "Offered traffic exceeds available forwarding capacity",
+      "Actual achieved data transfer rate",
+      "Nearby wireless channels share spectrum and interfere"
+    ],
+    "answer": 0,
+    "explanation": "Latency refers to elapsed time for data to travel between points. The alternatives instead describe Congestion, Throughput, Channel overlap."
+  },
+  {
+    "id": "n10-v03-5.4-c3",
+    "objective": "5.4",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Throughput?",
+    "options": [
+      "Actual achieved data transfer rate",
+      "Offered traffic exceeds available forwarding capacity",
+      "Elapsed time for data to travel between points",
+      "Nearby wireless channels share spectrum and interfere"
+    ],
+    "answer": 0,
+    "explanation": "Throughput refers to actual achieved data transfer rate. The alternatives instead describe Congestion, Latency, Channel overlap."
+  },
+  {
+    "id": "n10-v03-5.4-c4",
+    "objective": "5.4",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Channel overlap?",
+    "options": [
+      "Nearby wireless channels share spectrum and interfere",
+      "Offered traffic exceeds available forwarding capacity",
+      "Elapsed time for data to travel between points",
+      "Actual achieved data transfer rate"
+    ],
+    "answer": 0,
+    "explanation": "Channel overlap refers to nearby wireless channels share spectrum and interfere. The alternatives instead describe Congestion, Latency, Throughput."
+  },
+  {
+    "id": "n10-v03-5.5-c1",
+    "objective": "5.5",
+    "difficulty": "application",
+    "prompt": "A Windows host reaches a server by IP but not by hostname. Which tool directly tests DNS resolution?",
+    "options": [
+      "nslookup",
+      "arp",
+      "netstat",
+      "Cable toner"
+    ],
+    "answer": 0,
+    "explanation": "nslookup queries DNS and helps distinguish name resolution from basic IP reachability."
+  },
+  {
+    "id": "n10-v03-5.5-c2",
+    "objective": "5.5",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes Visual fault locator?",
+    "options": [
+      "Visible light helps locate breaks or bends in fiber",
+      "Traces an unidentified copper cable to its termination",
+      "Inspect learned MAC addresses and associated switch ports on Cisco IOS",
+      "Capture and inspect packets from a command-line interface"
+    ],
+    "answer": 0,
+    "explanation": "Visual fault locator refers to visible light helps locate breaks or bends in fiber. The alternatives instead describe Toner, show mac address-table, tcpdump."
+  },
+  {
+    "id": "n10-v03-5.5-c3",
+    "objective": "5.5",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes show mac address-table?",
+    "options": [
+      "Inspect learned MAC addresses and associated switch ports on Cisco IOS",
+      "Traces an unidentified copper cable to its termination",
+      "Visible light helps locate breaks or bends in fiber",
+      "Capture and inspect packets from a command-line interface"
+    ],
+    "answer": 0,
+    "explanation": "show mac address-table refers to inspect learned MAC addresses and associated switch ports on Cisco IOS. The alternatives instead describe Toner, Visual fault locator, tcpdump."
+  },
+  {
+    "id": "n10-v03-5.5-c4",
+    "objective": "5.5",
+    "difficulty": "comprehension",
+    "prompt": "Which statement accurately describes tcpdump?",
+    "options": [
+      "Capture and inspect packets from a command-line interface",
+      "Traces an unidentified copper cable to its termination",
+      "Visible light helps locate breaks or bends in fiber",
+      "Inspect learned MAC addresses and associated switch ports on Cisco IOS"
+    ],
+    "answer": 0,
+    "explanation": "tcpdump refers to capture and inspect packets from a command-line interface. The alternatives instead describe Toner, Visual fault locator, show mac address-table."
+  },
+  {
+    "id": "n10-v04-1.1-01",
+    "objective": "1.1",
+    "prompt": "A capture shows valid Ethernet frames but TCP retransmissions after a remote firewall change. Which layer should you investigate for blocked destination ports?",
+    "options": [
+      "Transport",
+      "Physical",
+      "Data link",
+      "Presentation"
+    ],
+    "answer": 0,
+    "explanation": "TCP ports are transport-layer identifiers; valid frames do not establish end-to-end delivery. Physical and data link concern local transmission; presentation concerns representation.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-1.2-01",
+    "objective": "1.2",
+    "prompt": "A web service needs requests distributed among three healthy backend servers. Which component directly provides this function?",
+    "options": [
+      "Load balancer",
+      "NAS",
+      "DHCP relay",
+      "Layer 2 access switch"
+    ],
+    "answer": 0,
+    "explanation": "A load balancer selects backend servers; NAS provides file storage, a relay forwards DHCP, and an access switch forwards local frames.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-1.3-01",
+    "objective": "1.3",
+    "prompt": "Private cloud instances need outbound internet access without accepting unsolicited inbound connections. Which gateway is appropriate?",
+    "options": [
+      "NAT gateway",
+      "DNS resolver",
+      "Direct private circuit alone",
+      "Layer 2 bridge"
+    ],
+    "answer": 0,
+    "explanation": "A NAT gateway translates outbound connections and permits return traffic; DNS resolves names, a circuit provides connectivity, and a bridge forwards frames.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-1.4-01",
+    "objective": "1.4",
+    "prompt": "A firewall allows UDP 53 but blocks TCP 53. Small DNS replies work while some large replies fail. What should be allowed?",
+    "options": [
+      "TCP 53",
+      "TCP 25",
+      "UDP 67",
+      "TCP 445"
+    ],
+    "answer": 0,
+    "explanation": "DNS can retry truncated UDP replies over TCP 53. The other ports serve mail, DHCP and SMB respectively.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-1.5-01",
+    "objective": "1.5",
+    "prompt": "A campus link crosses a high-interference industrial area over 2 km. Which medium is most appropriate?",
+    "options": [
+      "Single-mode fiber",
+      "Passive DAC",
+      "Cat 6 copper",
+      "USB cable"
+    ],
+    "answer": 0,
+    "explanation": "Single-mode fiber supports long optical links and resists electromagnetic interference. DAC and copper Ethernet have much shorter typical reach; USB is not a campus backbone medium.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-1.6-01",
+    "objective": "1.6",
+    "prompt": "A data center needs predictable paths between server racks with substantial east-west traffic. Which architecture fits?",
+    "options": [
+      "Spine-leaf",
+      "Single hub",
+      "Daisy chain",
+      "Point-to-point link between two hosts"
+    ],
+    "answer": 0,
+    "explanation": "Spine-leaf provides multiple paths and consistent hop counts between racks; the alternatives lack comparable fabric scalability.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-1.7-01",
+    "objective": "1.7",
+    "prompt": "A host has address 192.0.2.77/27. Which is its network address?",
+    "options": [
+      "192.0.2.64",
+      "192.0.2.32",
+      "192.0.2.77",
+      "192.0.2.96"
+    ],
+    "answer": 0,
+    "explanation": "A /27 has blocks of 32; 77 falls in 64–95. The other boundaries are different subnets and 77 is a host address.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-1.8-01",
+    "objective": "1.8",
+    "prompt": "An IPv6-only client must reach an IPv4-only server through a translation service. Which technology addresses this?",
+    "options": [
+      "NAT64",
+      "LACP",
+      "STP",
+      "802.1X"
+    ],
+    "answer": 0,
+    "explanation": "NAT64 translates between IPv6 and IPv4. LACP aggregates links, STP prevents bridging loops, and 802.1X controls access.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-2.1-01",
+    "objective": "2.1",
+    "prompt": "A routing table has 198.51.100.0/24 and 198.51.100.128/25. Which prefix matches 198.51.100.200 most specifically?",
+    "options": [
+      "/25",
+      "/24",
+      "Default route",
+      "Neither"
+    ],
+    "answer": 0,
+    "explanation": "Longest prefix match selects /25; /24 is less specific and default is least specific.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-2.2-01",
+    "objective": "2.2",
+    "prompt": "Two switches carry VLANs 10 and 20 across one link, but VLAN 20 is absent from the allowed list. What change restores that VLAN?",
+    "options": [
+      "Permit VLAN 20 on the trunk",
+      "Change every host to VLAN 10",
+      "Disable STP",
+      "Change DNS"
+    ],
+    "answer": 0,
+    "explanation": "The trunk must permit VLAN 20. Moving hosts changes segmentation, disabling STP risks loops, and DNS is unrelated.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-2.3-01",
+    "objective": "2.3",
+    "prompt": "An office has three nearby 2.4 GHz APs using 20 MHz channels in the US. Which plan minimizes mutual overlap?",
+    "options": [
+      "1, 6, 11",
+      "1, 2, 3",
+      "4, 5, 6",
+      "All on channel 6"
+    ],
+    "answer": 0,
+    "explanation": "Channels 1, 6 and 11 are the conventional non-overlapping plan; adjacent channels overlap and identical channels contend.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-2.4-01",
+    "objective": "2.4",
+    "prompt": "A rack must keep switches running during a brief utility outage. Which device provides temporary power?",
+    "options": [
+      "UPS",
+      "Passive patch panel",
+      "Fiber tray",
+      "Ordinary PDU"
+    ],
+    "answer": 0,
+    "explanation": "A UPS supplies stored energy; a basic PDU distributes power and the other devices organize cabling.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-3.1-01",
+    "objective": "3.1",
+    "prompt": "A firmware update breaks connectivity. Which artifact best supports restoration of the prior settings?",
+    "options": [
+      "Pre-change configuration backup",
+      "Asset purchase invoice",
+      "Wireless heat map",
+      "Rack elevation"
+    ],
+    "answer": 0,
+    "explanation": "A configuration backup preserves settings; the other documents describe assets, coverage or physical placement.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-3.2-01",
+    "objective": "3.2",
+    "prompt": "An analyst needs to identify which endpoints consume the most bandwidth without recording payloads. Which source is best?",
+    "options": [
+      "Flow records",
+      "Full packet payload capture",
+      "Rack diagram",
+      "DNS zone file"
+    ],
+    "answer": 0,
+    "explanation": "Flow records summarize endpoints and byte counts; payload capture is unnecessary, and diagrams and zone files do not measure traffic.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-3.3-01",
+    "objective": "3.3",
+    "prompt": "Backups occur every four hours and recovery takes 45 minutes. Which metric describes the potential four-hour data loss window?",
+    "options": [
+      "RPO",
+      "RTO",
+      "MTTR",
+      "MTBF"
+    ],
+    "answer": 0,
+    "explanation": "RPO concerns recoverable data age; RTO concerns restoration time, MTTR repair time and MTBF reliability intervals.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-3.4-01",
+    "objective": "3.4",
+    "prompt": "A mail administrator needs DNS to identify the receiving mail servers for a domain. Which record is appropriate?",
+    "options": [
+      "MX",
+      "PTR",
+      "AAAA",
+      "CNAME"
+    ],
+    "answer": 0,
+    "explanation": "MX specifies mail exchangers; PTR supports reverse lookup, AAAA stores IPv6 addresses and CNAME aliases names.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-3.5-01",
+    "objective": "3.5",
+    "prompt": "A router loses its production network connection but its console server is reachable on a separate management network. Which method is this?",
+    "options": [
+      "Out-of-band management",
+      "Split tunneling",
+      "In-band management",
+      "Port mirroring"
+    ],
+    "answer": 0,
+    "explanation": "The separate management path is out-of-band; in-band shares production connectivity, split tunneling selects VPN routes and mirroring copies traffic.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-4.1-01",
+    "objective": "4.1",
+    "prompt": "A help desk employee should reset passwords but not modify firewall policies. Which principle directly limits permissions?",
+    "options": [
+      "Least privilege",
+      "Data locality",
+      "Availability",
+      "Geofencing"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege limits access to required duties; locality concerns data location, availability service access and geofencing geographic conditions.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-4.2-01",
+    "objective": "4.2",
+    "prompt": "A workstation receives false gateway MAC mappings from another LAN host. Which attack best explains this?",
+    "options": [
+      "ARP poisoning",
+      "DNS zone transfer",
+      "Wireless jamming",
+      "Password spraying"
+    ],
+    "answer": 0,
+    "explanation": "ARP poisoning falsifies IPv4-to-MAC mappings; the alternatives target DNS data, radio availability or credentials.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-4.3-01",
+    "objective": "4.3",
+    "prompt": "Guest devices must reach the internet but never internal file servers. Which design best enforces this?",
+    "options": [
+      "Separate guest VLAN with restrictive firewall policy",
+      "Shared VLAN with a different SSID only",
+      "Disable logging",
+      "Increase DHCP lease time"
+    ],
+    "answer": 0,
+    "explanation": "Segmentation plus enforced policy limits paths; SSID alone need not isolate traffic, and logging or leases do not enforce access.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-5.1-01",
+    "objective": "5.1",
+    "prompt": "A technician suspects a damaged patch cable. Before replacing a switch, what should happen next?",
+    "options": [
+      "Test the cable hypothesis with a known-good cable",
+      "Close the ticket",
+      "Change all VLANs",
+      "Erase the switch configuration"
+    ],
+    "answer": 0,
+    "explanation": "A controlled test verifies the suspected cause before broader changes; the alternatives are premature or disruptive.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-5.2-01",
+    "objective": "5.2",
+    "prompt": "A copper link negotiates at 100 Mbps instead of 1 Gbps after a cable replacement. Which test is most useful first?",
+    "options": [
+      "Verify all four wire pairs with a cable tester",
+      "Query an MX record",
+      "Change the default route",
+      "Reset NTP"
+    ],
+    "answer": 0,
+    "explanation": "Gigabit copper Ethernet requires four pairs; a wire-map test can reveal faults. DNS, routing and time do not determine physical negotiation.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-5.3-01",
+    "objective": "5.3",
+    "prompt": "A host reaches peers in its own subnet but cannot reach any remote subnet. Its configured gateway is outside its local prefix. What should be corrected?",
+    "options": [
+      "Default gateway address",
+      "DNS TXT record",
+      "Switch hostname",
+      "NTP stratum"
+    ],
+    "answer": 0,
+    "explanation": "A conventional gateway must be reachable on the local link; the other settings do not repair next-hop reachability.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-5.4-01",
+    "objective": "5.4",
+    "prompt": "A WAN link reaches capacity during backups and voice delay rises. Which change most directly protects voice during congestion?",
+    "options": [
+      "QoS prioritization",
+      "Longer DNS TTL",
+      "Larger DHCP pool",
+      "Change rack height"
+    ],
+    "answer": 0,
+    "explanation": "QoS schedules delay-sensitive traffic preferentially; the alternatives do not control congested queues.",
+    "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v04-5.5-01",
+    "objective": "5.5",
+    "prompt": "A Windows client resolves a hostname but TCP 443 connections fail. Which command directly tests that destination port?",
+    "options": [
+      "Test-NetConnection host.example -Port 443",
+      "ipconfig /all",
+      "arp -a",
+      "hostname"
+    ],
+    "answer": 0,
+    "explanation": "Test-NetConnection can test TCP reachability; ipconfig displays settings, arp displays neighbor mappings and hostname identifies the local system.",
+    "difficulty": "analysis"
   }
 ]

@@ -31,4 +31,4 @@ Independent CompTIA N10-009 learning resource. Follow your Udemy course, review 
 
 ## Development status
 
-All 25 objectives have starter review notes and one original question each. Deep dives, expanded question banks, course-aligned lesson tracking and full simulations are planned, not yet implemented. Udemy section mapping is provisional, especially section 2; section 27 is practical labs.
+All 25 objectives have starter review notes and 275 original practice questions in total. Filter by objective and difficulty, retest missed questions, and review progress. The v0.4 preview adds scenario analysis and export-only progress. Further deep dives, flashcards and full simulations remain planned. Udemy section mapping is provisional, especially section 2; section 27 is practical labs.

@@ -1,0 +1,5 @@
+# Network+ v0.3 — initial expansion
+
+Back up or commit your repository, then merge the overlay at its root. No deletions. Run `bundle exec jekyll serve` and open `/network-portfolio/network-plus/practice/`. Test domain and objective filters, session length, missed retest, export/import and review links. Export existing progress before testing import. Existing storage key and 25 question IDs are unchanged.
+
+250 items: 25 existing, 125 new concept recognition, 75 reverse concept comparisons, 25 applied scenarios. Ten items per objective; not exam-weighted. Questions are independent educational exercises, not actual exam questions. The public N10-009 objectives guided topic selection; commercial PDFs are not included. Some questions intentionally revisit the same concept in different directions. Review notes remain introductory. Full simulations, flashcards, timed exams and deeper distractor explanations remain future work. No browser or Jekyll build was run; JSON and JavaScript syntax checked.
