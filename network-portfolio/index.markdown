@@ -2,12 +2,13 @@
 layout: page
 title: "Network+"
 permalink: /network-portfolio/
+hr_theme: network
 ---
 
+---
+---
+---
 
----
----
----
 
 Welcome to my Network+ portfolio page! This is where I document my learning, hands-on labs, and technical labs as I progress through my IT coursework.
 
@@ -29,7 +30,8 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 
 ## Certification Study Centers
 
-* **[Network+ Certification Study Center](/network-portfolio/network-plus/)** — Structured objective reviews and learning paths.
+* **[Network+ Certification Study Center](/network-portfolio/network-plus/)** — Objective review and interactive practice.
+* **[Security+ Certification Study Center - TBD](/security-portfolio/security-plus/)** — Objective review and interactive practice.
 
 ## Learning Structure
 
@@ -40,8 +42,9 @@ The portfolio is organized into three primary sections that connect theory, visu
 * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)** — Coursework, learning activities, and competency-based exercises completed throughout my studies.
 * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)** — Narration-free demonstrations of labs, Packet Tracer activities, troubleshooting exercises, and technical projects.
 * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)** — AI-assisted visual resources that simplify networking concepts, protocols, architectures, and troubleshooting workflows.
-* **[TEST READINESS LAB](/test-readiness-lab/)** — Interactive test preparation for the SF 1041 Technology Engineer – Networks exam and CompTIA Network+, with challenging scenario-based questions and readiness-focused practice.
 * **[NETWORK TROUBLESHOOTING CHECKLIST](/network-portfolio/network-troubleshooting-checklist/)** - Interactive IT Network Technician Troubleshooting checklist to easily and effectively troubleshoot any network problems.
+- [**NETWORK+ CERTIFICATION STUDY CENTER**](/network-portfolio/network-plus/) — Comprehensive certification study guides, exam objective reviews, interactive learning resources, and structured learning paths.
+- [**TEST READINESS LAB**](/test-readiness-lab/) — Interactive certification and career examination preparation, featuring Network+, SF 1041 Networks Specialty, scenario-based questions, and mastery tracking.
 
 ---
 ---
@@ -50,13 +53,17 @@ The portfolio is organized into three primary sections that connect theory, visu
 
 ## Network+ Learning Journey
 
+My [Network+ portfolio](/network-portfolio/) remains a separate learning journey. Its [Network+ Certification Study Center](/network-portfolio/network-plus/) includes foundational networking topics that support my network administration studies.
+
 This section organizes my hands-on CompTIA Network+ studies into topic areas and skill paths. Labs include TestOut exercises, Cisco networking concepts, troubleshooting scenarios, security analysis, packet captures, remote administration, and technical documentation.
 
+**Learn. Practice. Test. Retest. Master.**
+
 ---
 ---
 ---
 
-{% assign posts = site.posts | where_exp: "post", "post.portfolio != 'security-plus'" %}
+{% assign posts = site.posts %}
 {% assign category_order = "networking-fundamentals|infrastructure|security|systems-administration|technical-communication" | split: "|" %}
 
 
@@ -159,13 +166,13 @@ more<p><strong>Skills Practiced:</strong> [
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-  * [Test Readiness Lab](/test-readiness-lab/)
+  * [Network Test Readiness Lab](/network-portfolio/network-test-readiness-lab/)
   * [Network Troubleshooting Checklist](/network-portfolio/network-troubleshooting-checklist/)
 * [Security+ Portfolio](/security-portfolio/)
   * [Formative Modules](/security-portfolio/formative-modules/)
   * [Videos](/security-portfolio/videos/)
   * [Study Diagrams](/security-portfolio/study-diagrams/)
-  * [Test Readiness Lab](/test-readiness-lab/)
+  * [Security Test Readiness Lab](/security-portfolio/security-test-readiness-lab/)
   * [Security Troubleshooting Checklist](/security-portfolio/security-troubleshooting-checklist/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
