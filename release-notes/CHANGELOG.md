@@ -1,0 +1,50 @@
+# v0.2
+
+Canonical testing gateway; three compatibility redirects; four bordered cards; Network+ domain navigation; six Security+ stubs; portfolio filtering; cross-links. Existing engines and banks unchanged.
+
+Changed files:
+- _posts/test-prep/2026-09-11-testprep-01-sf-1041-network-exam-prep.md
+- _posts/test-prep/2026-09-11-testprep-03-sf-1041-test-engine.md
+- _posts/test-prep/2026-09-12-testprep-02-sf-1041-targeted-review.md
+- _posts/test-prep/domains/2026-09-12-testprep-04-domain-1-routing-eigrp.md
+- _posts/test-prep/domains/2026-09-12-testprep-05-domain-2-switching-vlans.md
+- _posts/test-prep/domains/2026-09-12-testprep-06-domain-3-wireless-802-1x.md
+- _posts/test-prep/domains/2026-09-12-testprep-07-domain-4-firewalls-security.md
+- _posts/test-prep/domains/2026-09-12-testprep-08-domain-5-services-monitoring.md
+- _posts/test-prep/domains/2026-09-12-testprep-09-domain-6-troubleshooting.md
+- _posts/test-prep/domains/2026-09-12-testprep-10-domain-7-mfp-documentation.md
+- assets/css/hr-signature.css
+- network-portfolio/index.markdown
+- network-portfolio/network-plus/index.md
+- network-portfolio/network-plus/practice.html
+- network-portfolio/network-plus/review.md
+- network-portfolio/network-troubleshooting/index.markdown
+- network-portfolio/test-prep/index.markdown
+- security-portfolio/cybersecurity-projects/index.md
+- security-portfolio/formative-modules/index.md
+- security-portfolio/index.markdown
+- security-portfolio/security-plus/index.md
+- security-portfolio/security-troubleshooting-checklist/index.md
+- security-portfolio/study-diagrams/index.md
+- security-portfolio/videos/index.md
+- test-readiness-redirects/legacy-1.html
+- test-readiness-redirects/legacy-2.html
+- test-readiness-redirects/legacy-3.html
+Additional link fixes:
+- 404.html
+- TBD.html
+- Trading/07-lessons-learned.md
+- Trading/01-roadmap.md
+- Trading/03-vocabulary.md
+- Trading/02-tradeway-step-1.md
+- Trading/05-trading-labs.md
+- Trading/04-chart-basics.md
+- Trading/06-watchlist.md
+- _posts/bible/2026-08-02-10-genesis-01-observation.markdown
+- _posts/labs/2026-05-20-lab-net-15-24_Packet-Tracer-compare-in-band-out-of-band-management-access.markdown
+- _posts/labs/2026-05-20-lab-net-15-25_Packet-Tracer-use-ping-command.markdown
+- _posts/labs/2026-05-20-lab-net-15-22_Packet-Tracer-troubleshoot-default-gateway-issues.markdown
+- _posts/labs/2026-05-20-lab-net-15-21_Packet-Tracer-secure-network-devices.markdown
+- _posts/labs/2026-05-20-lab-net-11-06_Packet-Tracer-Build-Switch-Router-Network.markdown
+- _posts/labs/2026-05-20-lab-net-15-23_Packet-Tracer-troubleshoot-connectivity-issues.markdown
+- _posts/bible/old/2026-04-01-Bible-study-Genesis-1.markdown

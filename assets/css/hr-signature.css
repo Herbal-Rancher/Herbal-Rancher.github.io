@@ -20,3 +20,15 @@ body #hr-practice button:focus-visible, body a:focus-visible { outline:2px solid
 /* Keep the deep-wine signature visible against dark backgrounds. */
 body.hr-theme-home .site-header { border-top-color:#64283B; box-shadow:inset 0 1px 0 #C47B8C; }
 body.hr-theme-home .post-header { border-inline-start-color:#64283B; }
+
+/* Shared fully bordered learning cards */
+.prep-grid {display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:1rem;margin:1.25rem 0 2rem}
+.prep-card {--card-accent:var(--hr-accent);border:1px solid var(--card-accent);border-top:5px solid var(--card-accent);border-radius:14px;padding:1.15rem;display:flex;flex-direction:column;min-width:0;background:color-mix(in srgb,var(--card-accent) 4%,transparent)}
+.prep-network {--card-accent:#2563A6}.prep-security {--card-accent:#27835C}
+body .page-content .prep-card h2 {border-bottom:1px solid var(--card-accent);padding-bottom:.35rem;margin-top:0}
+.prep-label {font-size:.75rem;letter-spacing:.06em;font-weight:700}
+.prep-actions {margin-top:auto;display:flex;flex-wrap:wrap;gap:.65rem;align-items:center}
+.prep-button {display:inline-block;border:1px solid var(--card-accent);border-radius:8px;padding:.65rem .9rem;font-weight:600;text-decoration:none;color:inherit}
+.prep-button:hover {background:var(--card-accent);color:white;text-decoration:none}
+.prep-planned {font-style:italic}
+body .post-header:has(.post-title:empty) {display:none}

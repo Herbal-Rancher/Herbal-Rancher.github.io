@@ -157,10 +157,10 @@ I’m learning that slowing down isn’t falling behind ... it’s how I can beg
 
 <div style="text-align:center; margin: 30px 0;">
 
-  <a href="/assets/images/zbible/study-diagrams/genesis-1-detailed-image-description.png" target="_blank">
+  <a href="/assets/images/bible/study-diagrams/genesis-1-detailed-image-description.png" target="_blank">
 
     <img
-      src="/assets/images/zbible/study-diagrams/genesis-1-detailed-image-description.png"
+      src="/assets/images/bible/study-diagrams/genesis-1-detailed-image-description.png"
       alt="Genesis 1 AI Description Artwork"
       style="
         width:200%;

@@ -1,32 +1,34 @@
 ---
 layout: page
-title: "Herbal Rancher | Network+ Certification Study Center"
+title: Network+ Certification Study Center
 permalink: /network-portfolio/network-plus/
+hr_theme: network
 ---
 
 *Learn. Practice. Test. Retest. Master.*
 
-Established November 26, 2026. Independent N10-009 learning resource; not affiliated with CompTIA or Udemy.
+Independent CompTIA N10-009 learning resource. Follow your Udemy course, review the corresponding objectives, apply skills in existing labs, then assess and retest. No affiliation with CompTIA or Udemy.
 
-## Start studying
+[Network+ Portfolio](/network-portfolio/) · [Test Readiness Lab](/test-readiness-lab/) · [Start practice](/network-portfolio/network-plus/practice/)
 
-- [Objective review — all 25 objectives](/network-portfolio/network-plus/review/)
-- [Interactive practice and missed-question retesting](/network-portfolio/network-plus/practice/)
-- [Existing SF 1041 preparation](/network-portfolio/sf-1041-network-exam-prep/)
-- [Existing troubleshooting workspace](/network-portfolio/network-troubleshooting-checklist/)
-- [Study diagrams](/network-portfolio/study-diagrams/)
-- [Security+ Journey framework](/security-portfolio/)
+## Choose a learning domain
 
-## Study cycle
+<div class="prep-grid" markdown="0">
+<section class="prep-card prep-network"><p class="prep-label">DOMAIN 1 · 23%</p><h2>Networking Concepts</h2><p>OSI, appliances, cloud, ports, media, topology, addressing and modern networking.</p><p>Udemy sections: 2–8, 13</p><div class="prep-actions"><a class="prep-button" href="/network-portfolio/network-plus/review/#objective-1-1">Review objectives →</a></div></section>
+<section class="prep-card prep-network"><p class="prep-label">DOMAIN 2 · 20%</p><h2>Network Implementation</h2><p>Routing, switching, wireless and physical installation.</p><p>Udemy sections: 9–12</p><div class="prep-actions"><a class="prep-button" href="/network-portfolio/network-plus/review/#objective-2-1">Review objectives →</a></div></section>
+<section class="prep-card prep-network"><p class="prep-label">DOMAIN 3 · 19%</p><h2>Network Operations</h2><p>Documentation, monitoring, recovery, IP services and management.</p><p>Udemy sections: 14–18</p><div class="prep-actions"><a class="prep-button" href="/network-portfolio/network-plus/review/#objective-3-1">Review objectives →</a></div></section>
+<section class="prep-card prep-network"><p class="prep-label">DOMAIN 4 · 14%</p><h2>Network Security</h2><p>Security concepts, attacks and defenses.</p><p>Udemy sections: 19–21</p><div class="prep-actions"><a class="prep-button" href="/network-portfolio/network-plus/review/#objective-4-1">Review objectives →</a></div></section>
+<section class="prep-card prep-network"><p class="prep-label">DOMAIN 5 · 24%</p><h2>Network Troubleshooting</h2><p>Methodology, physical and service issues, performance and tools.</p><p>Udemy sections: 22–26</p><div class="prep-actions"><a class="prep-button" href="/network-portfolio/network-plus/review/#objective-5-1">Review objectives →</a></div></section>
+</div>
 
-Watch the corresponding course section, review the objective, practice a related lab, test independently, review mistakes, and retest. Aim for consistent mastery rather than memorizing answers.
+## Apply and assess
 
-| Domain | Exam weight | Udemy sections |
-|---|---:|---|
-| Networking concepts | 23% | 2–8, 13 |
-| Implementation | 20% | 9–12 |
-| Operations | 19% | 14–18 |
-| Security | 14% | 19–21 |
-| Troubleshooting | 24% | 22–26 |
+- [Formative modules](/network-portfolio/formative-modules/) — existing coursework and assessments.
+- [Video walkthroughs](/network-portfolio/videos/) — practical demonstrations.
+- [Study diagrams](/network-portfolio/study-diagrams/) — visual learning resources.
+- [Troubleshooting checklist](/network-portfolio/network-troubleshooting-checklist/) — structured diagnostics.
+- [Network+ Practice Center](/network-portfolio/network-plus/practice/) — test, diagnose and retest.
 
-Section 27 provides practical labs. Section 2 mapping is provisional. Release 0.1 contains starter notes and 25 original questions, not a full exam simulator or complete study guide.
+## Development status
+
+All 25 objectives have starter review notes and one original question each. Deep dives, expanded question banks, course-aligned lesson tracking and full simulations are planned, not yet implemented. Udemy section mapping is provisional, especially section 2; section 27 is practical labs.

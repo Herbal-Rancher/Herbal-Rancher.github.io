@@ -79,7 +79,7 @@ This Packet Tracer lab focuses on securing Cisco router and switch management wh
 
 ## Preconditions
 
-![Packet Tracer Lab 21 - Secure Network Devices - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-lab-21.png)
+![Packet Tracer Lab 21 - Secure Network Devices - Preconditions](/assets/images/packet-tracer/cisco-lab-topology-module-15-Lab-21.png)
 
 ---
 

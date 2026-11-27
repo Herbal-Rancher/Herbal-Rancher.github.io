@@ -227,7 +227,7 @@ _______________________________________________________________
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-  * [Network Test Readiness Lab](/network-portfolio/network-test-readiness-lab/)
+  * [Test Readiness Lab](/test-readiness-lab/)
   * **[NETWORK TROUBLESHOOTING CHECKLIST](/network-portfolio/network-troubleshooting-checklist/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

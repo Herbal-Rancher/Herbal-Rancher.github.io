@@ -29,7 +29,7 @@ To learn more about my background, learning philosophy, use of AI tools, and cre
 
 ## Certification Study Centers
 
-* **[Network+ Certification Study Center](/network-portfolio/network-plus/)** — Objective review and interactive practice.
+* **[Network+ Certification Study Center](/network-portfolio/network-plus/)** — Structured objective reviews and learning paths.
 
 ## Learning Structure
 
@@ -40,7 +40,7 @@ The portfolio is organized into three primary sections that connect theory, visu
 * **[FORMATIVE MODULES](/network-portfolio/formative-modules/)** — Coursework, learning activities, and competency-based exercises completed throughout my studies.
 * **[VIDEO WALKTHROUGHS](/network-portfolio/videos/)** — Narration-free demonstrations of labs, Packet Tracer activities, troubleshooting exercises, and technical projects.
 * **[STUDY DIAGRAMS](/network-portfolio/study-diagrams/)** — AI-assisted visual resources that simplify networking concepts, protocols, architectures, and troubleshooting workflows.
-* **[NETWORK TEST READINESS LAB](/network-portfolio/network-test-readiness-lab/)** — Interactive test preparation for the SF 1041 Technology Engineer – Networks exam and CompTIA Network+, with challenging scenario-based questions and readiness-focused practice.
+* **[TEST READINESS LAB](/test-readiness-lab/)** — Interactive test preparation for the SF 1041 Technology Engineer – Networks exam and CompTIA Network+, with challenging scenario-based questions and readiness-focused practice.
 * **[NETWORK TROUBLESHOOTING CHECKLIST](/network-portfolio/network-troubleshooting-checklist/)** - Interactive IT Network Technician Troubleshooting checklist to easily and effectively troubleshoot any network problems.
 
 ---
@@ -56,7 +56,7 @@ This section organizes my hands-on CompTIA Network+ studies into topic areas and
 ---
 ---
 
-{% assign posts = site.posts %}
+{% assign posts = site.posts | where_exp: "post", "post.portfolio != 'security-plus'" %}
 {% assign category_order = "networking-fundamentals|infrastructure|security|systems-administration|technical-communication" | split: "|" %}
 
 
@@ -159,13 +159,13 @@ more<p><strong>Skills Practiced:</strong> [
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-  * [Network Test Readiness Lab](/network-portfolio/network-test-readiness-lab/)
+  * [Test Readiness Lab](/test-readiness-lab/)
   * [Network Troubleshooting Checklist](/network-portfolio/network-troubleshooting-checklist/)
 * [Security+ Portfolio](/security-portfolio/)
   * [Formative Modules](/security-portfolio/formative-modules/)
   * [Videos](/security-portfolio/videos/)
   * [Study Diagrams](/security-portfolio/study-diagrams/)
-  * [Security Test Readiness Lab](/security-portfolio/security-test-readiness-lab/)
+  * [Test Readiness Lab](/test-readiness-lab/)
   * [Security Troubleshooting Checklist](/security-portfolio/security-troubleshooting-checklist/)
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)

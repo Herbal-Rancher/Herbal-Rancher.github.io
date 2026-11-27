@@ -15,7 +15,7 @@ status: active
 ---
 
 <div class="prep-nav">
-  <a href="/network-portfolio/network-readiness-lab/">Test Readiness Lab</a> ·······
+  <a href="/test-readiness-lab/">Test Readiness Lab</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/">Exam Prep</a> ·······
   <a href="/network-portfolio/sf-1041-network-exam-prep/review/">Targeted Review</a> ·······
   <a href="/network-portfolio/sf-1041-practice-engine/">Practice Test Engine</a>
@@ -159,7 +159,7 @@ A VLAN alone is not a complete security policy. A router, firewall, or Layer 3 A
   * [Formative Modules](/network-portfolio/formative-modules/)
   * [Videos](/network-portfolio/videos/)
   * [Study Diagrams](/network-portfolio/study-diagrams/)
-  * **[NETWORK TEST READINESS LAB](/network-portfolio/network-readiness-lab/)**
+  * **[TEST READINESS LAB](/test-readiness-lab/)**
 * [Trading+](/trading/)
 * [Bible Study](/bible-study/)
 * [About the Portfolio](/about/)

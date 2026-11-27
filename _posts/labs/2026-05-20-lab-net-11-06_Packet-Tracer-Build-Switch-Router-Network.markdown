@@ -54,7 +54,7 @@ In this lab, I built a small network by connecting a router, switch, and two PCs
 
 ## Network Topology
 
-<img src="{{ '/assets/images/packet-tracer/Build-Switch-Router-Network-table-image.jpg' | relative_url }}" sizes="medium">
+<img src="{{ '/assets/images/packet-tracer/Build-Switch-Router-Network-Table-Image.jpg' | relative_url }}" sizes="medium">
 
 ---
 
