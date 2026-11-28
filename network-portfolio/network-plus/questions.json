@@ -6998,5 +6998,3505 @@
     "answer": 0,
     "explanation": "traceroute: Reveals responding hops toward a destination; nslookup: Queries DNS records; tcpdump: Captures packets for protocol inspection; ipconfig: Displays Windows IP configuration.",
     "difficulty": "analysis"
+  },
+  {
+    "id": "n10-v06-1.1-01",
+    "objective": "1.1",
+    "prompt": "A frame arrives with a bad FCS — which answer best fits?",
+    "options": [
+      "Application",
+      "Transport",
+      "Network",
+      "Data link"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Data link is the best match for this situation. A switch uses destination MAC addresses within a VLAN; a router uses destination IP prefixes between networks. TCP sequence numbers support ordered delivery; UDP has no built-in retransmission. Session and presentation functions include dialogue management and representation, though real protocols span layers."
+  },
+  {
+    "id": "n10-v06-1.1-02",
+    "objective": "1.1",
+    "prompt": "A router decrements IPv4 TTL — which answer best fits?",
+    "options": [
+      "Presentation",
+      "Physical",
+      "Network",
+      "Session"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Network is the best match for this situation. A switch uses destination MAC addresses within a VLAN; a router uses destination IP prefixes between networks. TCP sequence numbers support ordered delivery; UDP has no built-in retransmission. Session and presentation functions include dialogue management and representation, though real protocols span layers."
+  },
+  {
+    "id": "n10-v06-1.1-03",
+    "objective": "1.1",
+    "prompt": "A TCP receiver detects missing sequence numbers — which answer best fits?",
+    "options": [
+      "Physical",
+      "Transport",
+      "Data link",
+      "Presentation"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Transport is the best match for this situation. A switch uses destination MAC addresses within a VLAN; a router uses destination IP prefixes between networks. TCP sequence numbers support ordered delivery; UDP has no built-in retransmission. Session and presentation functions include dialogue management and representation, though real protocols span layers."
+  },
+  {
+    "id": "n10-v06-1.1-04",
+    "objective": "1.1",
+    "prompt": "A fiber receiver loses optical signal — which answer best fits?",
+    "options": [
+      "Physical",
+      "Application",
+      "Session",
+      "Network"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Physical is the best match for this situation. A switch uses destination MAC addresses within a VLAN; a router uses destination IP prefixes between networks. TCP sequence numbers support ordered delivery; UDP has no built-in retransmission. Session and presentation functions include dialogue management and representation, though real protocols span layers."
+  },
+  {
+    "id": "n10-v06-1.1-05",
+    "objective": "1.1",
+    "prompt": "A client encodes text as UTF-8 — which answer best fits?",
+    "options": [
+      "Transport",
+      "Network",
+      "Physical",
+      "Presentation"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Presentation is the best match for this situation. A switch uses destination MAC addresses within a VLAN; a router uses destination IP prefixes between networks. TCP sequence numbers support ordered delivery; UDP has no built-in retransmission. Session and presentation functions include dialogue management and representation, though real protocols span layers."
+  },
+  {
+    "id": "n10-v06-1.1-06",
+    "objective": "1.1",
+    "prompt": "A switch learns a source MAC — which answer best fits?",
+    "options": [
+      "Application",
+      "Transport",
+      "Data link",
+      "Session"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Data link is the best match for this situation. A switch uses destination MAC addresses within a VLAN; a router uses destination IP prefixes between networks. TCP sequence numbers support ordered delivery; UDP has no built-in retransmission. Session and presentation functions include dialogue management and representation, though real protocols span layers."
+  },
+  {
+    "id": "n10-v06-1.1-07",
+    "objective": "1.1",
+    "prompt": "A browser sends an HTTP request — which answer best fits?",
+    "options": [
+      "Data link",
+      "Network",
+      "Physical",
+      "Application"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Application is the best match for this situation. A switch uses destination MAC addresses within a VLAN; a router uses destination IP prefixes between networks. TCP sequence numbers support ordered delivery; UDP has no built-in retransmission. Session and presentation functions include dialogue management and representation, though real protocols span layers."
+  },
+  {
+    "id": "n10-v06-1.1-08",
+    "objective": "1.1",
+    "prompt": "A dialogue is established and managed between applications in the OSI abstraction — which answer best fits?",
+    "options": [
+      "Physical",
+      "Network",
+      "Session",
+      "Data link"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Session is the best match for this situation. A switch uses destination MAC addresses within a VLAN; a router uses destination IP prefixes between networks. TCP sequence numbers support ordered delivery; UDP has no built-in retransmission. Session and presentation functions include dialogue management and representation, though real protocols span layers."
+  },
+  {
+    "id": "n10-v06-1.1-09",
+    "objective": "1.1",
+    "prompt": "A host multiplexes connections by TCP port — which answer best fits?",
+    "options": [
+      "Data link",
+      "Presentation",
+      "Transport",
+      "Physical"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Transport is the best match for this situation. A switch uses destination MAC addresses within a VLAN; a router uses destination IP prefixes between networks. TCP sequence numbers support ordered delivery; UDP has no built-in retransmission. Session and presentation functions include dialogue management and representation, though real protocols span layers."
+  },
+  {
+    "id": "n10-v06-1.1-10",
+    "objective": "1.1",
+    "prompt": "A router forwards to a different Ethernet segment without NAT; which address normally changes — which answer best fits?",
+    "options": [
+      "Destination MAC",
+      "Destination IP",
+      "TCP destination port",
+      "Application URL"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "Destination MAC is the best match for this situation. A switch uses destination MAC addresses within a VLAN; a router uses destination IP prefixes between networks. TCP sequence numbers support ordered delivery; UDP has no built-in retransmission. Session and presentation functions include dialogue management and representation, though real protocols span layers."
+  },
+  {
+    "id": "n10-v06-1.2-01",
+    "objective": "1.2",
+    "prompt": "A website needs cached static assets near global users — which answer best fits?",
+    "options": [
+      "CDN",
+      "Wireless controller",
+      "DHCP relay",
+      "SAN"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "CDN is the best match for this situation. A proxy terminates or mediates application connections; a load balancer distributes requests. A CDN caches content near consumers. QoS prioritizes traffic under contention, and TTL limits forwarding lifetime. Wireless controllers coordinate AP configuration. Virtual appliances perform similar functions in software."
+  },
+  {
+    "id": "n10-v06-1.2-02",
+    "objective": "1.2",
+    "prompt": "A security sensor must block malicious packets inline — which answer best fits?",
+    "options": [
+      "Passive IDS",
+      "NAS",
+      "DNS resolver",
+      "IPS"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "IPS is the best match for this situation. A proxy terminates or mediates application connections; a load balancer distributes requests. A CDN caches content near consumers. QoS prioritizes traffic under contention, and TTL limits forwarding lifetime. Wireless controllers coordinate AP configuration. Virtual appliances perform similar functions in software."
+  },
+  {
+    "id": "n10-v06-1.2-03",
+    "objective": "1.2",
+    "prompt": "A service needs requests distributed across healthy servers — which answer best fits?",
+    "options": [
+      "SAN",
+      "Repeater",
+      "Load balancer",
+      "Patch panel"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Load balancer is the best match for this situation. A proxy terminates or mediates application connections; a load balancer distributes requests. A CDN caches content near consumers. QoS prioritizes traffic under contention, and TTL limits forwarding lifetime. Wireless controllers coordinate AP configuration. Virtual appliances perform similar functions in software."
+  },
+  {
+    "id": "n10-v06-1.2-04",
+    "objective": "1.2",
+    "prompt": "A host needs shared file access via SMB — which answer best fits?",
+    "options": [
+      "IPS",
+      "SAN block LUN",
+      "NAS",
+      "Router"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "NAS is the best match for this situation. A proxy terminates or mediates application connections; a load balancer distributes requests. A CDN caches content near consumers. QoS prioritizes traffic under contention, and TTL limits forwarding lifetime. Wireless controllers coordinate AP configuration. Virtual appliances perform similar functions in software."
+  },
+  {
+    "id": "n10-v06-1.2-05",
+    "objective": "1.2",
+    "prompt": "A branch needs encrypted connectivity over the internet — which answer best fits?",
+    "options": [
+      "NAS",
+      "CDN",
+      "Hub",
+      "VPN"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "VPN is the best match for this situation. A proxy terminates or mediates application connections; a load balancer distributes requests. A CDN caches content near consumers. QoS prioritizes traffic under contention, and TTL limits forwarding lifetime. Wireless controllers coordinate AP configuration. Virtual appliances perform similar functions in software."
+  },
+  {
+    "id": "n10-v06-1.2-06",
+    "objective": "1.2",
+    "prompt": "A campus needs centralized AP configuration — which answer best fits?",
+    "options": [
+      "Cable tester",
+      "SAN",
+      "Wireless controller",
+      "NAT pool"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Wireless controller is the best match for this situation. A proxy terminates or mediates application connections; a load balancer distributes requests. A CDN caches content near consumers. QoS prioritizes traffic under contention, and TTL limits forwarding lifetime. Wireless controllers coordinate AP configuration. Virtual appliances perform similar functions in software."
+  },
+  {
+    "id": "n10-v06-1.2-07",
+    "objective": "1.2",
+    "prompt": "A policy must prioritize voice during congestion — which answer best fits?",
+    "options": [
+      "ARP",
+      "TTL",
+      "QoS",
+      "DNS"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "QoS is the best match for this situation. A proxy terminates or mediates application connections; a load balancer distributes requests. A CDN caches content near consumers. QoS prioritizes traffic under contention, and TTL limits forwarding lifetime. Wireless controllers coordinate AP configuration. Virtual appliances perform similar functions in software."
+  },
+  {
+    "id": "n10-v06-1.2-08",
+    "objective": "1.2",
+    "prompt": "A client must access web resources through an intermediary — which answer best fits?",
+    "options": [
+      "Optical splitter",
+      "Proxy",
+      "DHCP scope",
+      "Patch panel"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "Proxy is the best match for this situation. A proxy terminates or mediates application connections; a load balancer distributes requests. A CDN caches content near consumers. QoS prioritizes traffic under contention, and TTL limits forwarding lifetime. Wireless controllers coordinate AP configuration. Virtual appliances perform similar functions in software."
+  },
+  {
+    "id": "n10-v06-1.2-09",
+    "objective": "1.2",
+    "prompt": "A server needs remote block storage — which answer best fits?",
+    "options": [
+      "SAN",
+      "CDN",
+      "AP",
+      "DNS cache"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "SAN is the best match for this situation. A proxy terminates or mediates application connections; a load balancer distributes requests. A CDN caches content near consumers. QoS prioritizes traffic under contention, and TTL limits forwarding lifetime. Wireless controllers coordinate AP configuration. Virtual appliances perform similar functions in software."
+  },
+  {
+    "id": "n10-v06-1.2-10",
+    "objective": "1.2",
+    "prompt": "A packet must not circulate indefinitely through routers — which answer best fits?",
+    "options": [
+      "VLAN tag",
+      "TCP port",
+      "SSID",
+      "TTL"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "TTL is the best match for this situation. A proxy terminates or mediates application connections; a load balancer distributes requests. A CDN caches content near consumers. QoS prioritizes traffic under contention, and TTL limits forwarding lifetime. Wireless controllers coordinate AP configuration. Virtual appliances perform similar functions in software."
+  },
+  {
+    "id": "n10-v06-1.3-01",
+    "objective": "1.3",
+    "prompt": "Private IPv4 instances need outbound internet without unsolicited inbound sessions — which answer best fits?",
+    "options": [
+      "Storage snapshot",
+      "Wireless AP",
+      "Public DNS zone",
+      "NAT gateway"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "NAT gateway is the best match for this situation. A VPC is a logical network with subnets and routing. Internet gateways provide internet paths; NAT gateways commonly allow outbound connections from private IPv4 subnets. Security groups and subnet ACLs differ by provider; verify statefulness. Elasticity adjusts capacity with demand, while scalability is the ability to grow. NFV implements network functions in software."
+  },
+  {
+    "id": "n10-v06-1.3-02",
+    "objective": "1.3",
+    "prompt": "A business rents VMs and patches guest OSs — which answer best fits?",
+    "options": [
+      "SaaS",
+      "CDN",
+      "PaaS",
+      "IaaS"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "IaaS is the best match for this situation. A VPC is a logical network with subnets and routing. Internet gateways provide internet paths; NAT gateways commonly allow outbound connections from private IPv4 subnets. Security groups and subnet ACLs differ by provider; verify statefulness. Elasticity adjusts capacity with demand, while scalability is the ability to grow. NFV implements network functions in software."
+  },
+  {
+    "id": "n10-v06-1.3-03",
+    "objective": "1.3",
+    "prompt": "A developer deploys code without managing the runtime OS — which answer best fits?",
+    "options": [
+      "Colocation",
+      "PaaS",
+      "IaaS",
+      "SaaS"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "PaaS is the best match for this situation. A VPC is a logical network with subnets and routing. Internet gateways provide internet paths; NAT gateways commonly allow outbound connections from private IPv4 subnets. Security groups and subnet ACLs differ by provider; verify statefulness. Elasticity adjusts capacity with demand, while scalability is the ability to grow. NFV implements network functions in software."
+  },
+  {
+    "id": "n10-v06-1.3-04",
+    "objective": "1.3",
+    "prompt": "A company uses a hosted email application — which answer best fits?",
+    "options": [
+      "PaaS",
+      "NFV",
+      "IaaS",
+      "SaaS"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "SaaS is the best match for this situation. A VPC is a logical network with subnets and routing. Internet gateways provide internet paths; NAT gateways commonly allow outbound connections from private IPv4 subnets. Security groups and subnet ACLs differ by provider; verify statefulness. Elasticity adjusts capacity with demand, while scalability is the ability to grow. NFV implements network functions in software."
+  },
+  {
+    "id": "n10-v06-1.3-05",
+    "objective": "1.3",
+    "prompt": "Capacity automatically shrinks after a demand spike — which answer best fits?",
+    "options": [
+      "Elasticity",
+      "Deduplication",
+      "Static routing",
+      "Multicast"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Elasticity is the best match for this situation. A VPC is a logical network with subnets and routing. Internet gateways provide internet paths; NAT gateways commonly allow outbound connections from private IPv4 subnets. Security groups and subnet ACLs differ by provider; verify statefulness. Elasticity adjusts capacity with demand, while scalability is the ability to grow. NFV implements network functions in software."
+  },
+  {
+    "id": "n10-v06-1.3-06",
+    "objective": "1.3",
+    "prompt": "A provider shares infrastructure while isolating customers — which answer best fits?",
+    "options": [
+      "Port mirroring",
+      "Multitenancy",
+      "Loopback",
+      "Anycast"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Multitenancy is the best match for this situation. A VPC is a logical network with subnets and routing. Internet gateways provide internet paths; NAT gateways commonly allow outbound connections from private IPv4 subnets. Security groups and subnet ACLs differ by provider; verify statefulness. Elasticity adjusts capacity with demand, while scalability is the ability to grow. NFV implements network functions in software."
+  },
+  {
+    "id": "n10-v06-1.3-07",
+    "objective": "1.3",
+    "prompt": "A company links its own data center to public cloud resources — which answer best fits?",
+    "options": [
+      "Peer-to-peer LAN",
+      "Public-only deployment",
+      "Private-only cloud",
+      "Hybrid cloud"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Hybrid cloud is the best match for this situation. A VPC is a logical network with subnets and routing. Internet gateways provide internet paths; NAT gateways commonly allow outbound connections from private IPv4 subnets. Security groups and subnet ACLs differ by provider; verify statefulness. Elasticity adjusts capacity with demand, while scalability is the ability to grow. NFV implements network functions in software."
+  },
+  {
+    "id": "n10-v06-1.3-08",
+    "objective": "1.3",
+    "prompt": "A virtual firewall replaces a dedicated appliance — which answer best fits?",
+    "options": [
+      "NFV",
+      "STP",
+      "PoE",
+      "VLSM"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "NFV is the best match for this situation. A VPC is a logical network with subnets and routing. Internet gateways provide internet paths; NAT gateways commonly allow outbound connections from private IPv4 subnets. Security groups and subnet ACLs differ by provider; verify statefulness. Elasticity adjusts capacity with demand, while scalability is the ability to grow. NFV implements network functions in software."
+  },
+  {
+    "id": "n10-v06-1.3-09",
+    "objective": "1.3",
+    "prompt": "A predictable private circuit to a cloud provider is required — which answer best fits?",
+    "options": [
+      "DNS forwarding",
+      "Public Wi-Fi",
+      "Dedicated cloud connection",
+      "APIPA"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Dedicated cloud connection is the best match for this situation. A VPC is a logical network with subnets and routing. Internet gateways provide internet paths; NAT gateways commonly allow outbound connections from private IPv4 subnets. Security groups and subnet ACLs differ by provider; verify statefulness. Elasticity adjusts capacity with demand, while scalability is the ability to grow. NFV implements network functions in software."
+  },
+  {
+    "id": "n10-v06-1.3-10",
+    "objective": "1.3",
+    "prompt": "A subnet has no route to an internet gateway; what should be inspected first — which answer best fits?",
+    "options": [
+      "Keyboard layout",
+      "NTP stratum",
+      "File permissions",
+      "Route table"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "Route table is the best match for this situation. A VPC is a logical network with subnets and routing. Internet gateways provide internet paths; NAT gateways commonly allow outbound connections from private IPv4 subnets. Security groups and subnet ACLs differ by provider; verify statefulness. Elasticity adjusts capacity with demand, while scalability is the ability to grow. NFV implements network functions in software."
+  },
+  {
+    "id": "n10-v06-1.4-01",
+    "objective": "1.4",
+    "prompt": "A firewall must allow secure shell administration — which answer best fits?",
+    "options": [
+      "TCP 22",
+      "UDP 69",
+      "TCP 23",
+      "UDP 123"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "TCP 22 is the best match for this situation. TCP establishes connections; UDP sends datagrams. DNS uses UDP and TCP 53; DHCP uses UDP 67/68. SSH/SFTP use TCP 22; HTTPS normally TCP 443 (HTTP/3 uses QUIC over UDP). SMTP submission commonly uses 587 with STARTTLS, implicit TLS 465. IPsec ESP protects payloads, AH authenticates without encryption, IKE negotiates security associations. GRE alone does not encrypt."
+  },
+  {
+    "id": "n10-v06-1.4-02",
+    "objective": "1.4",
+    "prompt": "A DNS zone transfer needs its normal transport — which answer best fits?",
+    "options": [
+      "UDP 67",
+      "TCP 53",
+      "UDP 161",
+      "TCP 445"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "TCP 53 is the best match for this situation. TCP establishes connections; UDP sends datagrams. DNS uses UDP and TCP 53; DHCP uses UDP 67/68. SSH/SFTP use TCP 22; HTTPS normally TCP 443 (HTTP/3 uses QUIC over UDP). SMTP submission commonly uses 587 with STARTTLS, implicit TLS 465. IPsec ESP protects payloads, AH authenticates without encryption, IKE negotiates security associations. GRE alone does not encrypt."
+  },
+  {
+    "id": "n10-v06-1.4-03",
+    "objective": "1.4",
+    "prompt": "A device sends an SNMP notification to a manager — which answer best fits?",
+    "options": [
+      "UDP 162",
+      "UDP 68",
+      "TCP 3389",
+      "TCP 389"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "UDP 162 is the best match for this situation. TCP establishes connections; UDP sends datagrams. DNS uses UDP and TCP 53; DHCP uses UDP 67/68. SSH/SFTP use TCP 22; HTTPS normally TCP 443 (HTTP/3 uses QUIC over UDP). SMTP submission commonly uses 587 with STARTTLS, implicit TLS 465. IPsec ESP protects payloads, AH authenticates without encryption, IKE negotiates security associations. GRE alone does not encrypt."
+  },
+  {
+    "id": "n10-v06-1.4-04",
+    "objective": "1.4",
+    "prompt": "A workstation synchronizes its clock — which answer best fits?",
+    "options": [
+      "UDP 123",
+      "TCP 25",
+      "UDP 69",
+      "TCP 1433"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "UDP 123 is the best match for this situation. TCP establishes connections; UDP sends datagrams. DNS uses UDP and TCP 53; DHCP uses UDP 67/68. SSH/SFTP use TCP 22; HTTPS normally TCP 443 (HTTP/3 uses QUIC over UDP). SMTP submission commonly uses 587 with STARTTLS, implicit TLS 465. IPsec ESP protects payloads, AH authenticates without encryption, IKE negotiates security associations. GRE alone does not encrypt."
+  },
+  {
+    "id": "n10-v06-1.4-05",
+    "objective": "1.4",
+    "prompt": "A Windows client opens an SMB share — which answer best fits?",
+    "options": [
+      "TCP 636",
+      "TCP 445",
+      "TCP 21",
+      "UDP 514"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "TCP 445 is the best match for this situation. TCP establishes connections; UDP sends datagrams. DNS uses UDP and TCP 53; DHCP uses UDP 67/68. SSH/SFTP use TCP 22; HTTPS normally TCP 443 (HTTP/3 uses QUIC over UDP). SMTP submission commonly uses 587 with STARTTLS, implicit TLS 465. IPsec ESP protects payloads, AH authenticates without encryption, IKE negotiates security associations. GRE alone does not encrypt."
+  },
+  {
+    "id": "n10-v06-1.4-06",
+    "objective": "1.4",
+    "prompt": "A client submits mail using STARTTLS on the submission service — which answer best fits?",
+    "options": [
+      "UDP 53",
+      "TCP 23",
+      "UDP 67",
+      "TCP 587"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "TCP 587 is the best match for this situation. TCP establishes connections; UDP sends datagrams. DNS uses UDP and TCP 53; DHCP uses UDP 67/68. SSH/SFTP use TCP 22; HTTPS normally TCP 443 (HTTP/3 uses QUIC over UDP). SMTP submission commonly uses 587 with STARTTLS, implicit TLS 465. IPsec ESP protects payloads, AH authenticates without encryption, IKE negotiates security associations. GRE alone does not encrypt."
+  },
+  {
+    "id": "n10-v06-1.4-07",
+    "objective": "1.4",
+    "prompt": "A remote desktop client uses the default service port — which answer best fits?",
+    "options": [
+      "5061",
+      "110",
+      "161",
+      "3389"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "3389 is the best match for this situation. TCP establishes connections; UDP sends datagrams. DNS uses UDP and TCP 53; DHCP uses UDP 67/68. SSH/SFTP use TCP 22; HTTPS normally TCP 443 (HTTP/3 uses QUIC over UDP). SMTP submission commonly uses 587 with STARTTLS, implicit TLS 465. IPsec ESP protects payloads, AH authenticates without encryption, IKE negotiates security associations. GRE alone does not encrypt."
+  },
+  {
+    "id": "n10-v06-1.4-08",
+    "objective": "1.4",
+    "prompt": "A packet is delivered to one of several servers advertising the same address — which answer best fits?",
+    "options": [
+      "Anycast",
+      "Unicast to every server",
+      "Multicast",
+      "Broadcast"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "Anycast is the best match for this situation. TCP establishes connections; UDP sends datagrams. DNS uses UDP and TCP 53; DHCP uses UDP 67/68. SSH/SFTP use TCP 22; HTTPS normally TCP 443 (HTTP/3 uses QUIC over UDP). SMTP submission commonly uses 587 with STARTTLS, implicit TLS 465. IPsec ESP protects payloads, AH authenticates without encryption, IKE negotiates security associations. GRE alone does not encrypt."
+  },
+  {
+    "id": "n10-v06-1.4-09",
+    "objective": "1.4",
+    "prompt": "A tunnel needs confidentiality for IP payloads — which answer best fits?",
+    "options": [
+      "ICMP",
+      "ARP",
+      "GRE alone",
+      "IPsec ESP with encryption"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "IPsec ESP with encryption is the best match for this situation. TCP establishes connections; UDP sends datagrams. DNS uses UDP and TCP 53; DHCP uses UDP 67/68. SSH/SFTP use TCP 22; HTTPS normally TCP 443 (HTTP/3 uses QUIC over UDP). SMTP submission commonly uses 587 with STARTTLS, implicit TLS 465. IPsec ESP protects payloads, AH authenticates without encryption, IKE negotiates security associations. GRE alone does not encrypt."
+  },
+  {
+    "id": "n10-v06-1.4-10",
+    "objective": "1.4",
+    "prompt": "A phone uses SIP over TLS on its conventional port — which answer best fits?",
+    "options": [
+      "123",
+      "69",
+      "389",
+      "5061"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "5061 is the best match for this situation. TCP establishes connections; UDP sends datagrams. DNS uses UDP and TCP 53; DHCP uses UDP 67/68. SSH/SFTP use TCP 22; HTTPS normally TCP 443 (HTTP/3 uses QUIC over UDP). SMTP submission commonly uses 587 with STARTTLS, implicit TLS 465. IPsec ESP protects payloads, AH authenticates without encryption, IKE negotiates security associations. GRE alone does not encrypt."
+  },
+  {
+    "id": "n10-v06-1.5-01",
+    "objective": "1.5",
+    "prompt": "A 10 km optical link needs a suitable medium — which answer best fits?",
+    "options": [
+      "RJ11 telephone cord",
+      "Passive short DAC",
+      "Multimode patch cord alone",
+      "Single-mode fiber"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Single-mode fiber is the best match for this situation. Single-mode fiber supports long optical paths; multimode is common for shorter links. Match wavelength, fiber type, connector and supported speed at both ends. DAC is useful for short rack links. Copper Ethernet distance depends on the standard; typical balanced twisted-pair channels are 100 m. Plenum rating concerns fire/smoke requirements, not speed."
+  },
+  {
+    "id": "n10-v06-1.5-02",
+    "objective": "1.5",
+    "prompt": "Two adjacent rack switches need a short inexpensive supported link — which answer best fits?",
+    "options": [
+      "Telephone modem",
+      "Coax TV drop",
+      "Satellite",
+      "DAC"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "DAC is the best match for this situation. Single-mode fiber supports long optical paths; multimode is common for shorter links. Match wavelength, fiber type, connector and supported speed at both ends. DAC is useful for short rack links. Copper Ethernet distance depends on the standard; typical balanced twisted-pair channels are 100 m. Plenum rating concerns fire/smoke requirements, not speed."
+  },
+  {
+    "id": "n10-v06-1.5-03",
+    "objective": "1.5",
+    "prompt": "A cable runs through an environmental air-handling space requiring plenum rating — which answer best fits?",
+    "options": [
+      "Plenum-rated cable",
+      "Any higher-speed cable",
+      "Unrated patch cord",
+      "Any shielded cable"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Plenum-rated cable is the best match for this situation. Single-mode fiber supports long optical paths; multimode is common for shorter links. Match wavelength, fiber type, connector and supported speed at both ends. DAC is useful for short rack links. Copper Ethernet distance depends on the standard; typical balanced twisted-pair channels are 100 m. Plenum rating concerns fire/smoke requirements, not speed."
+  },
+  {
+    "id": "n10-v06-1.5-04",
+    "objective": "1.5",
+    "prompt": "A duplex optical link uses small latch connectors — which answer best fits?",
+    "options": [
+      "RJ11",
+      "LC",
+      "F-type",
+      "BNC"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "LC is the best match for this situation. Single-mode fiber supports long optical paths; multimode is common for shorter links. Match wavelength, fiber type, connector and supported speed at both ends. DAC is useful for short rack links. Copper Ethernet distance depends on the standard; typical balanced twisted-pair channels are 100 m. Plenum rating concerns fire/smoke requirements, not speed."
+  },
+  {
+    "id": "n10-v06-1.5-05",
+    "objective": "1.5",
+    "prompt": "A parallel optical assembly uses a multifiber connector — which answer best fits?",
+    "options": [
+      "RJ45",
+      "F-type",
+      "MPO",
+      "RJ11"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "MPO is the best match for this situation. Single-mode fiber supports long optical paths; multimode is common for shorter links. Match wavelength, fiber type, connector and supported speed at both ends. DAC is useful for short rack links. Copper Ethernet distance depends on the standard; typical balanced twisted-pair channels are 100 m. Plenum rating concerns fire/smoke requirements, not speed."
+  },
+  {
+    "id": "n10-v06-1.5-06",
+    "objective": "1.5",
+    "prompt": "A coax cable modem uses a threaded connector — which answer best fits?",
+    "options": [
+      "MPO",
+      "F-type",
+      "SC",
+      "LC"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "F-type is the best match for this situation. Single-mode fiber supports long optical paths; multimode is common for shorter links. Match wavelength, fiber type, connector and supported speed at both ends. DAC is useful for short rack links. Copper Ethernet distance depends on the standard; typical balanced twisted-pair channels are 100 m. Plenum rating concerns fire/smoke requirements, not speed."
+  },
+  {
+    "id": "n10-v06-1.5-07",
+    "objective": "1.5",
+    "prompt": "A 40G switch port uses a supported quad-lane module form factor — which answer best fits?",
+    "options": [
+      "BNC",
+      "RJ11",
+      "QSFP",
+      "ST"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "QSFP is the best match for this situation. Single-mode fiber supports long optical paths; multimode is common for shorter links. Match wavelength, fiber type, connector and supported speed at both ends. DAC is useful for short rack links. Copper Ethernet distance depends on the standard; typical balanced twisted-pair channels are 100 m. Plenum rating concerns fire/smoke requirements, not speed."
+  },
+  {
+    "id": "n10-v06-1.5-08",
+    "objective": "1.5",
+    "prompt": "A storage fabric uses a dedicated optical protocol — which answer best fits?",
+    "options": [
+      "Fibre Channel",
+      "SMTP",
+      "SIP",
+      "DHCP"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "Fibre Channel is the best match for this situation. Single-mode fiber supports long optical paths; multimode is common for shorter links. Match wavelength, fiber type, connector and supported speed at both ends. DAC is useful for short rack links. Copper Ethernet distance depends on the standard; typical balanced twisted-pair channels are 100 m. Plenum rating concerns fire/smoke requirements, not speed."
+  },
+  {
+    "id": "n10-v06-1.5-09",
+    "objective": "1.5",
+    "prompt": "A copper run crosses strong electrical interference; which medium avoids electromagnetic pickup — which answer best fits?",
+    "options": [
+      "Unshielded copper",
+      "Coax with broken shield",
+      "Telephone pair",
+      "Fiber"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "Fiber is the best match for this situation. Single-mode fiber supports long optical paths; multimode is common for shorter links. Match wavelength, fiber type, connector and supported speed at both ends. DAC is useful for short rack links. Copper Ethernet distance depends on the standard; typical balanced twisted-pair channels are 100 m. Plenum rating concerns fire/smoke requirements, not speed."
+  },
+  {
+    "id": "n10-v06-1.5-10",
+    "objective": "1.5",
+    "prompt": "Two optics have incompatible wavelengths; what is the appropriate fix — which answer best fits?",
+    "options": [
+      "Use compatible optics and fiber",
+      "Disable STP",
+      "Change DNS",
+      "Increase DHCP lease"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "Use compatible optics and fiber is the best match for this situation. Single-mode fiber supports long optical paths; multimode is common for shorter links. Match wavelength, fiber type, connector and supported speed at both ends. DAC is useful for short rack links. Copper Ethernet distance depends on the standard; typical balanced twisted-pair channels are 100 m. Plenum rating concerns fire/smoke requirements, not speed."
+  },
+  {
+    "id": "n10-v06-1.6-01",
+    "objective": "1.6",
+    "prompt": "Servers exchange traffic within a data center — which answer best fits?",
+    "options": [
+      "East-west",
+      "Out-of-band only",
+      "North-south",
+      "Broadcast-only"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "East-west is the best match for this situation. A three-tier campus separates access, distribution and core. A collapsed core combines distribution and core. Spine-leaf fabrics connect each leaf to every spine, supporting predictable east-west paths. Mesh improves path redundancy but adds links and management. North-south traffic crosses a network boundary; east-west moves among internal workloads."
+  },
+  {
+    "id": "n10-v06-1.6-02",
+    "objective": "1.6",
+    "prompt": "A user accesses an external internet service — which answer best fits?",
+    "options": [
+      "North-south",
+      "East-west only",
+      "Storage-only",
+      "Loopback"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "North-south is the best match for this situation. A three-tier campus separates access, distribution and core. A collapsed core combines distribution and core. Spine-leaf fabrics connect each leaf to every spine, supporting predictable east-west paths. Mesh improves path redundancy but adds links and management. North-south traffic crosses a network boundary; east-west moves among internal workloads."
+  },
+  {
+    "id": "n10-v06-1.6-03",
+    "objective": "1.6",
+    "prompt": "Every leaf connects to every spine — which answer best fits?",
+    "options": [
+      "Single hub",
+      "Spine-leaf",
+      "Ring only",
+      "Bus"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Spine-leaf is the best match for this situation. A three-tier campus separates access, distribution and core. A collapsed core combines distribution and core. Spine-leaf fabrics connect each leaf to every spine, supporting predictable east-west paths. Mesh improves path redundancy but adds links and management. North-south traffic crosses a network boundary; east-west moves among internal workloads."
+  },
+  {
+    "id": "n10-v06-1.6-04",
+    "objective": "1.6",
+    "prompt": "A small campus combines distribution and core — which answer best fits?",
+    "options": [
+      "Full mesh",
+      "Collapsed core",
+      "Bus",
+      "Point-to-point WAN only"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Collapsed core is the best match for this situation. A three-tier campus separates access, distribution and core. A collapsed core combines distribution and core. Spine-leaf fabrics connect each leaf to every spine, supporting predictable east-west paths. Mesh improves path redundancy but adds links and management. North-south traffic crosses a network boundary; east-west moves among internal workloads."
+  },
+  {
+    "id": "n10-v06-1.6-05",
+    "objective": "1.6",
+    "prompt": "Endpoint ports attach at which campus tier — which answer best fits?",
+    "options": [
+      "Internet edge only",
+      "Core",
+      "Access",
+      "Spine only"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Access is the best match for this situation. A three-tier campus separates access, distribution and core. A collapsed core combines distribution and core. Spine-leaf fabrics connect each leaf to every spine, supporting predictable east-west paths. Mesh improves path redundancy but adds links and management. North-south traffic crosses a network boundary; east-west moves among internal workloads."
+  },
+  {
+    "id": "n10-v06-1.6-06",
+    "objective": "1.6",
+    "prompt": "A backbone provides fast interdistribution forwarding — which answer best fits?",
+    "options": [
+      "Access",
+      "Endpoint NIC",
+      "Patch cord",
+      "Core"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Core is the best match for this situation. A three-tier campus separates access, distribution and core. A collapsed core combines distribution and core. Spine-leaf fabrics connect each leaf to every spine, supporting predictable east-west paths. Mesh improves path redundancy but adds links and management. North-south traffic crosses a network boundary; east-west moves among internal workloads."
+  },
+  {
+    "id": "n10-v06-1.6-07",
+    "objective": "1.6",
+    "prompt": "A branch WAN has one central site and multiple remote sites — which answer best fits?",
+    "options": [
+      "Bus",
+      "Full mesh",
+      "Ring",
+      "Hub and spoke"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Hub and spoke is the best match for this situation. A three-tier campus separates access, distribution and core. A collapsed core combines distribution and core. Spine-leaf fabrics connect each leaf to every spine, supporting predictable east-west paths. Mesh improves path redundancy but adds links and management. North-south traffic crosses a network boundary; east-west moves among internal workloads."
+  },
+  {
+    "id": "n10-v06-1.6-08",
+    "objective": "1.6",
+    "prompt": "Two sites have one dedicated direct link — which answer best fits?",
+    "options": [
+      "Point-to-point",
+      "Full mesh",
+      "Spine-leaf",
+      "Three-tier campus"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "Point-to-point is the best match for this situation. A three-tier campus separates access, distribution and core. A collapsed core combines distribution and core. Spine-leaf fabrics connect each leaf to every spine, supporting predictable east-west paths. Mesh improves path redundancy but adds links and management. North-south traffic crosses a network boundary; east-west moves among internal workloads."
+  },
+  {
+    "id": "n10-v06-1.6-09",
+    "objective": "1.6",
+    "prompt": "Every site has direct links to all other sites — which answer best fits?",
+    "options": [
+      "Single spoke",
+      "Full mesh",
+      "Bus",
+      "Star"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "Full mesh is the best match for this situation. A three-tier campus separates access, distribution and core. A collapsed core combines distribution and core. Spine-leaf fabrics connect each leaf to every spine, supporting predictable east-west paths. Mesh improves path redundancy but adds links and management. North-south traffic crosses a network boundary; east-west moves among internal workloads."
+  },
+  {
+    "id": "n10-v06-1.6-10",
+    "objective": "1.6",
+    "prompt": "A network mixes star access with mesh WAN — which answer best fits?",
+    "options": [
+      "Pure ring",
+      "Single point-to-point",
+      "Hybrid topology",
+      "Pure bus"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Hybrid topology is the best match for this situation. A three-tier campus separates access, distribution and core. A collapsed core combines distribution and core. Spine-leaf fabrics connect each leaf to every spine, supporting predictable east-west paths. Mesh improves path redundancy but adds links and management. North-south traffic crosses a network boundary; east-west moves among internal workloads."
+  },
+  {
+    "id": "n10-v06-1.7-01",
+    "objective": "1.7",
+    "prompt": "A LAN needs 50 usable IPv4 addresses — which answer best fits?",
+    "options": [
+      "/28",
+      "/30",
+      "/26",
+      "/27"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "/26 is the best match for this situation. CIDR prefixes identify network bits; the remaining bits identify addresses. For ordinary /30 or larger LAN subnets, usable hosts are 2^(32-prefix)-2; /31 point-to-point links are a special case. VLSM assigns different prefix sizes. Private ranges are 10/8, 172.16/12 and 192.168/16; 169.254/16 is link-local. Classful ranges are historical, not modern route selection."
+  },
+  {
+    "id": "n10-v06-1.7-02",
+    "objective": "1.7",
+    "prompt": "A LAN needs 100 usable IPv4 addresses — which answer best fits?",
+    "options": [
+      "/27",
+      "/29",
+      "/25",
+      "/26"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "/25 is the best match for this situation. CIDR prefixes identify network bits; the remaining bits identify addresses. For ordinary /30 or larger LAN subnets, usable hosts are 2^(32-prefix)-2; /31 point-to-point links are a special case. VLSM assigns different prefix sizes. Private ranges are 10/8, 172.16/12 and 192.168/16; 169.254/16 is link-local. Classful ranges are historical, not modern route selection."
+  },
+  {
+    "id": "n10-v06-1.7-03",
+    "objective": "1.7",
+    "prompt": "A host is 192.168.5.77/26; identify its network — which answer best fits?",
+    "options": [
+      "192.168.5.128",
+      "192.168.5.0",
+      "192.168.5.77",
+      "192.168.5.64"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "192.168.5.64 is the best match for this situation. CIDR prefixes identify network bits; the remaining bits identify addresses. For ordinary /30 or larger LAN subnets, usable hosts are 2^(32-prefix)-2; /31 point-to-point links are a special case. VLSM assigns different prefix sizes. Private ranges are 10/8, 172.16/12 and 192.168/16; 169.254/16 is link-local. Classful ranges are historical, not modern route selection."
+  },
+  {
+    "id": "n10-v06-1.7-04",
+    "objective": "1.7",
+    "prompt": "A host is 192.168.5.77/26; identify broadcast — which answer best fits?",
+    "options": [
+      "192.168.5.255",
+      "192.168.5.126",
+      "192.168.5.63",
+      "192.168.5.127"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "192.168.5.127 is the best match for this situation. CIDR prefixes identify network bits; the remaining bits identify addresses. For ordinary /30 or larger LAN subnets, usable hosts are 2^(32-prefix)-2; /31 point-to-point links are a special case. VLSM assigns different prefix sizes. Private ranges are 10/8, 172.16/12 and 192.168/16; 169.254/16 is link-local. Classful ranges are historical, not modern route selection."
+  },
+  {
+    "id": "n10-v06-1.7-05",
+    "objective": "1.7",
+    "prompt": "A /28 LAN has how many conventional usable hosts — which answer best fits?",
+    "options": [
+      "16",
+      "30",
+      "14",
+      "62"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "14 is the best match for this situation. CIDR prefixes identify network bits; the remaining bits identify addresses. For ordinary /30 or larger LAN subnets, usable hosts are 2^(32-prefix)-2; /31 point-to-point links are a special case. VLSM assigns different prefix sizes. Private ranges are 10/8, 172.16/12 and 192.168/16; 169.254/16 is link-local. Classful ranges are historical, not modern route selection."
+  },
+  {
+    "id": "n10-v06-1.7-06",
+    "objective": "1.7",
+    "prompt": "A /27 mask ends in which decimal octet — which answer best fits?",
+    "options": [
+      "224",
+      "248",
+      "240",
+      "192"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "224 is the best match for this situation. CIDR prefixes identify network bits; the remaining bits identify addresses. For ordinary /30 or larger LAN subnets, usable hosts are 2^(32-prefix)-2; /31 point-to-point links are a special case. VLSM assigns different prefix sizes. Private ranges are 10/8, 172.16/12 and 192.168/16; 169.254/16 is link-local. Classful ranges are historical, not modern route selection."
+  },
+  {
+    "id": "n10-v06-1.7-07",
+    "objective": "1.7",
+    "prompt": "Which address is within RFC1918 space — which answer best fits?",
+    "options": [
+      "169.254.5.8",
+      "172.32.5.8",
+      "172.31.5.8",
+      "8.8.8.8"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "172.31.5.8 is the best match for this situation. CIDR prefixes identify network bits; the remaining bits identify addresses. For ordinary /30 or larger LAN subnets, usable hosts are 2^(32-prefix)-2; /31 point-to-point links are a special case. VLSM assigns different prefix sizes. Private ranges are 10/8, 172.16/12 and 192.168/16; 169.254/16 is link-local. Classful ranges are historical, not modern route selection."
+  },
+  {
+    "id": "n10-v06-1.7-08",
+    "objective": "1.7",
+    "prompt": "A host self-assigns 169.254.7.9; which address category is this — which answer best fits?",
+    "options": [
+      "Multicast",
+      "Loopback",
+      "Public unicast",
+      "IPv4 link-local"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "IPv4 link-local is the best match for this situation. CIDR prefixes identify network bits; the remaining bits identify addresses. For ordinary /30 or larger LAN subnets, usable hosts are 2^(32-prefix)-2; /31 point-to-point links are a special case. VLSM assigns different prefix sizes. Private ranges are 10/8, 172.16/12 and 192.168/16; 169.254/16 is link-local. Classful ranges are historical, not modern route selection."
+  },
+  {
+    "id": "n10-v06-1.7-09",
+    "objective": "1.7",
+    "prompt": "A router needs to aggregate 10.4.0.0/24 and 10.4.1.0/24 — which answer best fits?",
+    "options": [
+      "10.4.0.0/25",
+      "10.4.1.0/24",
+      "10.4.0.0/32",
+      "10.4.0.0/23"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "10.4.0.0/23 is the best match for this situation. CIDR prefixes identify network bits; the remaining bits identify addresses. For ordinary /30 or larger LAN subnets, usable hosts are 2^(32-prefix)-2; /31 point-to-point links are a special case. VLSM assigns different prefix sizes. Private ranges are 10/8, 172.16/12 and 192.168/16; 169.254/16 is link-local. Classful ranges are historical, not modern route selection."
+  },
+  {
+    "id": "n10-v06-1.7-10",
+    "objective": "1.7",
+    "prompt": "A design allocates /26 and /28 networks from one block — which answer best fits?",
+    "options": [
+      "VLSM",
+      "PAT",
+      "Classful-only addressing",
+      "Anycast"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "VLSM is the best match for this situation. CIDR prefixes identify network bits; the remaining bits identify addresses. For ordinary /30 or larger LAN subnets, usable hosts are 2^(32-prefix)-2; /31 point-to-point links are a special case. VLSM assigns different prefix sizes. Private ranges are 10/8, 172.16/12 and 192.168/16; 169.254/16 is link-local. Classful ranges are historical, not modern route selection."
+  },
+  {
+    "id": "n10-v06-1.8-01",
+    "objective": "1.8",
+    "prompt": "A branch chooses WAN links by application latency policy — which answer best fits?",
+    "options": [
+      "ARP",
+      "SD-WAN",
+      "STP",
+      "TFTP"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "SD-WAN is the best match for this situation. SDN separates control logic from forwarding; SD-WAN selects paths based on policy and application needs. VXLAN carries layer-2 frames over IP overlays. SASE combines WAN and cloud security capabilities; SSE focuses on security services. Zero trust requires explicit policy decisions. IaC uses versioned desired state and detects drift. IPv6 transition uses dual stack, tunneling or NAT64 as appropriate."
+  },
+  {
+    "id": "n10-v06-1.8-02",
+    "objective": "1.8",
+    "prompt": "A data center carries Ethernet segments over an IP fabric — which answer best fits?",
+    "options": [
+      "DHCPv4",
+      "SMTP",
+      "VXLAN",
+      "NTP"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "VXLAN is the best match for this situation. SDN separates control logic from forwarding; SD-WAN selects paths based on policy and application needs. VXLAN carries layer-2 frames over IP overlays. SASE combines WAN and cloud security capabilities; SSE focuses on security services. Zero trust requires explicit policy decisions. IaC uses versioned desired state and detects drift. IPv6 transition uses dual stack, tunneling or NAT64 as appropriate."
+  },
+  {
+    "id": "n10-v06-1.8-03",
+    "objective": "1.8",
+    "prompt": "An IPv6-only client needs access to an IPv4-only service through translation — which answer best fits?",
+    "options": [
+      "LLDP",
+      "NAT64",
+      "PAT for IPv4 only",
+      "STP"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "NAT64 is the best match for this situation. SDN separates control logic from forwarding; SD-WAN selects paths based on policy and application needs. VXLAN carries layer-2 frames over IP overlays. SASE combines WAN and cloud security capabilities; SSE focuses on security services. Zero trust requires explicit policy decisions. IaC uses versioned desired state and detects drift. IPv6 transition uses dual stack, tunneling or NAT64 as appropriate."
+  },
+  {
+    "id": "n10-v06-1.8-04",
+    "objective": "1.8",
+    "prompt": "A host runs both IPv4 and IPv6 natively — which answer best fits?",
+    "options": [
+      "APIPA",
+      "Tunneling only",
+      "Dual stack",
+      "NAT64 only"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Dual stack is the best match for this situation. SDN separates control logic from forwarding; SD-WAN selects paths based on policy and application needs. VXLAN carries layer-2 frames over IP overlays. SASE combines WAN and cloud security capabilities; SSE focuses on security services. Zero trust requires explicit policy decisions. IaC uses versioned desired state and detects drift. IPv6 transition uses dual stack, tunneling or NAT64 as appropriate."
+  },
+  {
+    "id": "n10-v06-1.8-05",
+    "objective": "1.8",
+    "prompt": "A device configuration differs from the versioned desired state — which answer best fits?",
+    "options": [
+      "Configuration drift",
+      "Jitter",
+      "Multicast",
+      "CRC"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Configuration drift is the best match for this situation. SDN separates control logic from forwarding; SD-WAN selects paths based on policy and application needs. VXLAN carries layer-2 frames over IP overlays. SASE combines WAN and cloud security capabilities; SSE focuses on security services. Zero trust requires explicit policy decisions. IaC uses versioned desired state and detects drift. IPv6 transition uses dual stack, tunneling or NAT64 as appropriate."
+  },
+  {
+    "id": "n10-v06-1.8-06",
+    "objective": "1.8",
+    "prompt": "A new branch device configures itself from a central service — which answer best fits?",
+    "options": [
+      "Port mirroring",
+      "Zero-touch provisioning",
+      "Cable certification",
+      "Manual console only"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Zero-touch provisioning is the best match for this situation. SDN separates control logic from forwarding; SD-WAN selects paths based on policy and application needs. VXLAN carries layer-2 frames over IP overlays. SASE combines WAN and cloud security capabilities; SSE focuses on security services. Zero trust requires explicit policy decisions. IaC uses versioned desired state and detects drift. IPv6 transition uses dual stack, tunneling or NAT64 as appropriate."
+  },
+  {
+    "id": "n10-v06-1.8-07",
+    "objective": "1.8",
+    "prompt": "A change must be reviewed before merging into the main configuration — which answer best fits?",
+    "options": [
+      "Increase MTU",
+      "Clear ARP",
+      "Version control branch and review",
+      "Disable logging"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Version control branch and review is the best match for this situation. SDN separates control logic from forwarding; SD-WAN selects paths based on policy and application needs. VXLAN carries layer-2 frames over IP overlays. SASE combines WAN and cloud security capabilities; SSE focuses on security services. Zero trust requires explicit policy decisions. IaC uses versioned desired state and detects drift. IPv6 transition uses dual stack, tunneling or NAT64 as appropriate."
+  },
+  {
+    "id": "n10-v06-1.8-08",
+    "objective": "1.8",
+    "prompt": "A user is authenticated and authorized for each protected resource based on policy — which answer best fits?",
+    "options": [
+      "Hub and spoke",
+      "Implicit LAN trust",
+      "Zero trust",
+      "Open guest access"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Zero trust is the best match for this situation. SDN separates control logic from forwarding; SD-WAN selects paths based on policy and application needs. VXLAN carries layer-2 frames over IP overlays. SASE combines WAN and cloud security capabilities; SSE focuses on security services. Zero trust requires explicit policy decisions. IaC uses versioned desired state and detects drift. IPv6 transition uses dual stack, tunneling or NAT64 as appropriate."
+  },
+  {
+    "id": "n10-v06-1.8-09",
+    "objective": "1.8",
+    "prompt": "Cloud-delivered security services without WAN transport integration are requested — which answer best fits?",
+    "options": [
+      "SSE",
+      "VLSM",
+      "FHRP",
+      "PoE"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "SSE is the best match for this situation. SDN separates control logic from forwarding; SD-WAN selects paths based on policy and application needs. VXLAN carries layer-2 frames over IP overlays. SASE combines WAN and cloud security capabilities; SSE focuses on security services. Zero trust requires explicit policy decisions. IaC uses versioned desired state and detects drift. IPv6 transition uses dual stack, tunneling or NAT64 as appropriate."
+  },
+  {
+    "id": "n10-v06-1.8-10",
+    "objective": "1.8",
+    "prompt": "A /60 IPv6 allocation contains how many /64 subnets — which answer best fits?",
+    "options": [
+      "16",
+      "256",
+      "64",
+      "4"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "16 is the best match for this situation. SDN separates control logic from forwarding; SD-WAN selects paths based on policy and application needs. VXLAN carries layer-2 frames over IP overlays. SASE combines WAN and cloud security capabilities; SSE focuses on security services. Zero trust requires explicit policy decisions. IaC uses versioned desired state and detects drift. IPv6 transition uses dual stack, tunneling or NAT64 as appropriate."
+  },
+  {
+    "id": "n10-v06-2.1-01",
+    "objective": "2.1",
+    "prompt": "A /24 and /16 both match a destination — which answer best fits?",
+    "options": [
+      "Lowest MAC",
+      "/24 route",
+      "/16 route",
+      "Default route always"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "/24 route is the best match for this situation. Forwarding uses longest prefix first. For competing routes to the same prefix, administrative distance selects the source and protocol metrics select paths within a protocol. OSPF uses link state, EIGRP uses DUAL, BGP exchanges policy-based reachability. NAT translates addresses; PAT also distinguishes flows by ports. FHRP provides a shared gateway IP."
+  },
+  {
+    "id": "n10-v06-2.1-02",
+    "objective": "2.1",
+    "prompt": "Two OSPF paths to the same prefix differ in cost — which answer best fits?",
+    "options": [
+      "Higher cost always",
+      "Lower VLAN ID",
+      "Higher TCP port",
+      "Lower OSPF cost"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Lower OSPF cost is the best match for this situation. Forwarding uses longest prefix first. For competing routes to the same prefix, administrative distance selects the source and protocol metrics select paths within a protocol. OSPF uses link state, EIGRP uses DUAL, BGP exchanges policy-based reachability. NAT translates addresses; PAT also distinguishes flows by ports. FHRP provides a shared gateway IP."
+  },
+  {
+    "id": "n10-v06-2.1-03",
+    "objective": "2.1",
+    "prompt": "A backup static route should lose to the primary dynamic route — which answer best fits?",
+    "options": [
+      "Higher administrative distance",
+      "Shorter cable",
+      "Lower administrative distance",
+      "Higher MTU"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Higher administrative distance is the best match for this situation. Forwarding uses longest prefix first. For competing routes to the same prefix, administrative distance selects the source and protocol metrics select paths within a protocol. OSPF uses link state, EIGRP uses DUAL, BGP exchanges policy-based reachability. NAT translates addresses; PAT also distinguishes flows by ports. FHRP provides a shared gateway IP."
+  },
+  {
+    "id": "n10-v06-2.1-04",
+    "objective": "2.1",
+    "prompt": "Two autonomous systems exchange reachability policy — which answer best fits?",
+    "options": [
+      "STP",
+      "DHCP",
+      "BGP",
+      "LLDP"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "BGP is the best match for this situation. Forwarding uses longest prefix first. For competing routes to the same prefix, administrative distance selects the source and protocol metrics select paths within a protocol. OSPF uses link state, EIGRP uses DUAL, BGP exchanges policy-based reachability. NAT translates addresses; PAT also distinguishes flows by ports. FHRP provides a shared gateway IP."
+  },
+  {
+    "id": "n10-v06-2.1-05",
+    "objective": "2.1",
+    "prompt": "A routing protocol floods link-state information — which answer best fits?",
+    "options": [
+      "FTP",
+      "OSPF",
+      "ARP",
+      "DNS"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "OSPF is the best match for this situation. Forwarding uses longest prefix first. For competing routes to the same prefix, administrative distance selects the source and protocol metrics select paths within a protocol. OSPF uses link state, EIGRP uses DUAL, BGP exchanges policy-based reachability. NAT translates addresses; PAT also distinguishes flows by ports. FHRP provides a shared gateway IP."
+  },
+  {
+    "id": "n10-v06-2.1-06",
+    "objective": "2.1",
+    "prompt": "A Cisco routing protocol uses DUAL — which answer best fits?",
+    "options": [
+      "NTP",
+      "BGP",
+      "STP",
+      "EIGRP"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "EIGRP is the best match for this situation. Forwarding uses longest prefix first. For competing routes to the same prefix, administrative distance selects the source and protocol metrics select paths within a protocol. OSPF uses link state, EIGRP uses DUAL, BGP exchanges policy-based reachability. NAT translates addresses; PAT also distinguishes flows by ports. FHRP provides a shared gateway IP."
+  },
+  {
+    "id": "n10-v06-2.1-07",
+    "objective": "2.1",
+    "prompt": "Multiple inside hosts share one public IPv4 address using ports — which answer best fits?",
+    "options": [
+      "STP",
+      "Static one-to-one NAT only",
+      "PAT",
+      "VLAN pruning"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "PAT is the best match for this situation. Forwarding uses longest prefix first. For competing routes to the same prefix, administrative distance selects the source and protocol metrics select paths within a protocol. OSPF uses link state, EIGRP uses DUAL, BGP exchanges policy-based reachability. NAT translates addresses; PAT also distinguishes flows by ports. FHRP provides a shared gateway IP."
+  },
+  {
+    "id": "n10-v06-2.1-08",
+    "objective": "2.1",
+    "prompt": "Two routers present a shared default gateway — which answer best fits?",
+    "options": [
+      "FHRP",
+      "LACP",
+      "DNS round robin only",
+      "SNMP"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "FHRP is the best match for this situation. Forwarding uses longest prefix first. For competing routes to the same prefix, administrative distance selects the source and protocol metrics select paths within a protocol. OSPF uses link state, EIGRP uses DUAL, BGP exchanges policy-based reachability. NAT translates addresses; PAT also distinguishes flows by ports. FHRP provides a shared gateway IP."
+  },
+  {
+    "id": "n10-v06-2.1-09",
+    "objective": "2.1",
+    "prompt": "A router-on-a-stick separates VLANs on one physical port — which answer best fits?",
+    "options": [
+      "Loopback only",
+      "802.1Q subinterfaces",
+      "SPAN",
+      "One untagged interface only"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "802.1Q subinterfaces is the best match for this situation. Forwarding uses longest prefix first. For competing routes to the same prefix, administrative distance selects the source and protocol metrics select paths within a protocol. OSPF uses link state, EIGRP uses DUAL, BGP exchanges policy-based reachability. NAT translates addresses; PAT also distinguishes flows by ports. FHRP provides a shared gateway IP."
+  },
+  {
+    "id": "n10-v06-2.1-10",
+    "objective": "2.1",
+    "prompt": "A destination matches no specific route but a default exists — which answer best fits?",
+    "options": [
+      "Drop always",
+      "Query DNS for route",
+      "Use default route",
+      "Broadcast packet"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Use default route is the best match for this situation. Forwarding uses longest prefix first. For competing routes to the same prefix, administrative distance selects the source and protocol metrics select paths within a protocol. OSPF uses link state, EIGRP uses DUAL, BGP exchanges policy-based reachability. NAT translates addresses; PAT also distinguishes flows by ports. FHRP provides a shared gateway IP."
+  },
+  {
+    "id": "n10-v06-2.2-01",
+    "objective": "2.2",
+    "prompt": "A PC port should carry only VLAN 20 data — which answer best fits?",
+    "options": [
+      "Access VLAN 20",
+      "Trunk all VLANs",
+      "SPAN destination",
+      "Routed WAN port"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Access VLAN 20 is the best match for this situation. Access ports associate endpoints with one data VLAN; trunks carry tagged VLANs and may carry native untagged traffic. An SVI provides a logical layer-3 interface. STP blocks redundant layer-2 paths; LACP negotiates bundles. MTU mismatch can cause drops. Voice VLANs separate phone traffic."
+  },
+  {
+    "id": "n10-v06-2.2-02",
+    "objective": "2.2",
+    "prompt": "Two switches must carry VLANs 10 and 20 over one link — which answer best fits?",
+    "options": [
+      "Loopback",
+      "Console",
+      "802.1Q trunk",
+      "Access VLAN 10 only"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "802.1Q trunk is the best match for this situation. Access ports associate endpoints with one data VLAN; trunks carry tagged VLANs and may carry native untagged traffic. An SVI provides a logical layer-3 interface. STP blocks redundant layer-2 paths; LACP negotiates bundles. MTU mismatch can cause drops. Voice VLANs separate phone traffic."
+  },
+  {
+    "id": "n10-v06-2.2-03",
+    "objective": "2.2",
+    "prompt": "A multilayer switch routes for VLAN 30 — which answer best fits?",
+    "options": [
+      "LACP system ID",
+      "Native VLAN only",
+      "SVI for VLAN 30",
+      "SPAN session"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "SVI for VLAN 30 is the best match for this situation. Access ports associate endpoints with one data VLAN; trunks carry tagged VLANs and may carry native untagged traffic. An SVI provides a logical layer-3 interface. STP blocks redundant layer-2 paths; LACP negotiates bundles. MTU mismatch can cause drops. Voice VLANs separate phone traffic."
+  },
+  {
+    "id": "n10-v06-2.2-04",
+    "objective": "2.2",
+    "prompt": "Redundant links create a layer-2 loop — which answer best fits?",
+    "options": [
+      "PAT",
+      "DNS",
+      "STP",
+      "NTP"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "STP is the best match for this situation. Access ports associate endpoints with one data VLAN; trunks carry tagged VLANs and may carry native untagged traffic. An SVI provides a logical layer-3 interface. STP blocks redundant layer-2 paths; LACP negotiates bundles. MTU mismatch can cause drops. Voice VLANs separate phone traffic."
+  },
+  {
+    "id": "n10-v06-2.2-05",
+    "objective": "2.2",
+    "prompt": "Two physical links should negotiate one logical bundle — which answer best fits?",
+    "options": [
+      "LACP",
+      "BGP",
+      "DHCP",
+      "SIP"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "LACP is the best match for this situation. Access ports associate endpoints with one data VLAN; trunks carry tagged VLANs and may carry native untagged traffic. An SVI provides a logical layer-3 interface. STP blocks redundant layer-2 paths; LACP negotiates bundles. MTU mismatch can cause drops. Voice VLANs separate phone traffic."
+  },
+  {
+    "id": "n10-v06-2.2-06",
+    "objective": "2.2",
+    "prompt": "A phone and PC share one switch port with separate traffic classes — which answer best fits?",
+    "options": [
+      "Single WAN subnet",
+      "Port mirroring only",
+      "Voice VLAN and data VLAN",
+      "Disable VLANs"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Voice VLAN and data VLAN is the best match for this situation. Access ports associate endpoints with one data VLAN; trunks carry tagged VLANs and may carry native untagged traffic. An SVI provides a logical layer-3 interface. STP blocks redundant layer-2 paths; LACP negotiates bundles. MTU mismatch can cause drops. Voice VLANs separate phone traffic."
+  },
+  {
+    "id": "n10-v06-2.2-07",
+    "objective": "2.2",
+    "prompt": "Untagged frames on a trunk map to which configured VLAN — which answer best fits?",
+    "options": [
+      "Highest VLAN ID",
+      "Management VLAN always",
+      "All VLANs",
+      "Native VLAN"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Native VLAN is the best match for this situation. Access ports associate endpoints with one data VLAN; trunks carry tagged VLANs and may carry native untagged traffic. An SVI provides a logical layer-3 interface. STP blocks redundant layer-2 paths; LACP negotiates bundles. MTU mismatch can cause drops. Voice VLANs separate phone traffic."
+  },
+  {
+    "id": "n10-v06-2.2-08",
+    "objective": "2.2",
+    "prompt": "Large frames fail across a path with inconsistent frame limits — which answer best fits?",
+    "options": [
+      "MTU mismatch",
+      "DNS cache",
+      "NTP drift",
+      "SSID mismatch"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "MTU mismatch is the best match for this situation. Access ports associate endpoints with one data VLAN; trunks carry tagged VLANs and may carry native untagged traffic. An SVI provides a logical layer-3 interface. STP blocks redundant layer-2 paths; LACP negotiates bundles. MTU mismatch can cause drops. Voice VLANs separate phone traffic."
+  },
+  {
+    "id": "n10-v06-2.2-09",
+    "objective": "2.2",
+    "prompt": "A new VLAN is missing from an uplink allowed list — which answer best fits?",
+    "options": [
+      "Increase PoE",
+      "Change DNS suffix",
+      "Permit the required VLAN on the trunk",
+      "Disable routing globally"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Permit the required VLAN on the trunk is the best match for this situation. Access ports associate endpoints with one data VLAN; trunks carry tagged VLANs and may carry native untagged traffic. An SVI provides a logical layer-3 interface. STP blocks redundant layer-2 paths; LACP negotiates bundles. MTU mismatch can cause drops. Voice VLANs separate phone traffic."
+  },
+  {
+    "id": "n10-v06-2.2-10",
+    "objective": "2.2",
+    "prompt": "One side is forced full duplex and the other falls back to half — which answer best fits?",
+    "options": [
+      "DNS poisoning",
+      "Duplex mismatch",
+      "DHCP relay",
+      "VLAN hopping"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "Duplex mismatch is the best match for this situation. Access ports associate endpoints with one data VLAN; trunks carry tagged VLANs and may carry native untagged traffic. An SVI provides a logical layer-3 interface. STP blocks redundant layer-2 paths; LACP negotiates bundles. MTU mismatch can cause drops. Voice VLANs separate phone traffic."
+  },
+  {
+    "id": "n10-v06-2.3-01",
+    "objective": "2.3",
+    "prompt": "Three 20 MHz 2.4 GHz APs in the US need nonoverlapping channels — which answer best fits?",
+    "options": [
+      "4, 5, 6",
+      "1, 2, 3",
+      "1, 6, 11",
+      "8, 9, 10"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "1, 6, 11 is the best match for this situation. 2.4 GHz generally reaches farther but has fewer nonoverlapping channels; 5 and 6 GHz offer more capacity subject to regulations and client support. WPA3 uses stronger authentication modes; enterprise Wi-Fi commonly uses 802.1X. Channel width trades capacity for interference exposure. Survey coverage, SNR and channel utilization."
+  },
+  {
+    "id": "n10-v06-2.3-02",
+    "objective": "2.3",
+    "prompt": "Enterprise Wi-Fi requires per-user authentication — which answer best fits?",
+    "options": [
+      "WPS only",
+      "802.1X with RADIUS",
+      "MAC filtering only",
+      "Shared open SSID"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "802.1X with RADIUS is the best match for this situation. 2.4 GHz generally reaches farther but has fewer nonoverlapping channels; 5 and 6 GHz offer more capacity subject to regulations and client support. WPA3 uses stronger authentication modes; enterprise Wi-Fi commonly uses 802.1X. Channel width trades capacity for interference exposure. Survey coverage, SNR and channel utilization."
+  },
+  {
+    "id": "n10-v06-2.3-03",
+    "objective": "2.3",
+    "prompt": "A dense deployment has overlapping wide channels — which answer best fits?",
+    "options": [
+      "Maximize every channel width",
+      "Disable encryption",
+      "Consider narrower channels after survey",
+      "Change DNS"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Consider narrower channels after survey is the best match for this situation. 2.4 GHz generally reaches farther but has fewer nonoverlapping channels; 5 and 6 GHz offer more capacity subject to regulations and client support. WPA3 uses stronger authentication modes; enterprise Wi-Fi commonly uses 802.1X. Channel width trades capacity for interference exposure. Survey coverage, SNR and channel utilization."
+  },
+  {
+    "id": "n10-v06-2.3-04",
+    "objective": "2.3",
+    "prompt": "A client sees strong signal but high noise — which answer best fits?",
+    "options": [
+      "Low SNR may impair service",
+      "Fiber attenuation",
+      "Strong RSSI guarantees speed",
+      "DHCP always fails"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Low SNR may impair service is the best match for this situation. 2.4 GHz generally reaches farther but has fewer nonoverlapping channels; 5 and 6 GHz offer more capacity subject to regulations and client support. WPA3 uses stronger authentication modes; enterprise Wi-Fi commonly uses 802.1X. Channel width trades capacity for interference exposure. Survey coverage, SNR and channel utilization."
+  },
+  {
+    "id": "n10-v06-2.3-05",
+    "objective": "2.3",
+    "prompt": "An AP needs to cover a long narrow outdoor path — which answer best fits?",
+    "options": [
+      "Omnidirectional only",
+      "Patch panel",
+      "Optical splitter",
+      "Directional antenna"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Directional antenna is the best match for this situation. 2.4 GHz generally reaches farther but has fewer nonoverlapping channels; 5 and 6 GHz offer more capacity subject to regulations and client support. WPA3 uses stronger authentication modes; enterprise Wi-Fi commonly uses 802.1X. Channel width trades capacity for interference exposure. Survey coverage, SNR and channel utilization."
+  },
+  {
+    "id": "n10-v06-2.3-06",
+    "objective": "2.3",
+    "prompt": "A guest network must not reach internal servers — which answer best fits?",
+    "options": [
+      "Increase transmit power",
+      "Disable authentication",
+      "Same unrestricted VLAN",
+      "Guest isolation and firewall policy"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Guest isolation and firewall policy is the best match for this situation. 2.4 GHz generally reaches farther but has fewer nonoverlapping channels; 5 and 6 GHz offer more capacity subject to regulations and client support. WPA3 uses stronger authentication modes; enterprise Wi-Fi commonly uses 802.1X. Channel width trades capacity for interference exposure. Survey coverage, SNR and channel utilization."
+  },
+  {
+    "id": "n10-v06-2.3-07",
+    "objective": "2.3",
+    "prompt": "A modern personal network needs SAE authentication — which answer best fits?",
+    "options": [
+      "Open Wi-Fi",
+      "WEP",
+      "WPA2 Enterprise only",
+      "WPA3-Personal"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "WPA3-Personal is the best match for this situation. 2.4 GHz generally reaches farther but has fewer nonoverlapping channels; 5 and 6 GHz offer more capacity subject to regulations and client support. WPA3 uses stronger authentication modes; enterprise Wi-Fi commonly uses 802.1X. Channel width trades capacity for interference exposure. Survey coverage, SNR and channel utilization."
+  },
+  {
+    "id": "n10-v06-2.3-08",
+    "objective": "2.3",
+    "prompt": "A 6 GHz-only SSID is invisible to an older 2.4 GHz client — which answer best fits?",
+    "options": [
+      "DNS cache stale",
+      "Wrong fiber type",
+      "TCP window",
+      "Client lacks band support"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "Client lacks band support is the best match for this situation. 2.4 GHz generally reaches farther but has fewer nonoverlapping channels; 5 and 6 GHz offer more capacity subject to regulations and client support. WPA3 uses stronger authentication modes; enterprise Wi-Fi commonly uses 802.1X. Channel width trades capacity for interference exposure. Survey coverage, SNR and channel utilization."
+  },
+  {
+    "id": "n10-v06-2.3-09",
+    "objective": "2.3",
+    "prompt": "A wireless bridge connects two buildings — which answer best fits?",
+    "options": [
+      "Point-to-point wireless",
+      "SAN zoning",
+      "DHCP reservation",
+      "Ad hoc printer queue"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "Point-to-point wireless is the best match for this situation. 2.4 GHz generally reaches farther but has fewer nonoverlapping channels; 5 and 6 GHz offer more capacity subject to regulations and client support. WPA3 uses stronger authentication modes; enterprise Wi-Fi commonly uses 802.1X. Channel width trades capacity for interference exposure. Survey coverage, SNR and channel utilization."
+  },
+  {
+    "id": "n10-v06-2.3-10",
+    "objective": "2.3",
+    "prompt": "Clients remain attached to a distant AP despite closer coverage — which answer best fits?",
+    "options": [
+      "Change IPv4 class",
+      "Disable all nearby APs",
+      "Replace DNS server",
+      "Investigate roaming and cell design"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "Investigate roaming and cell design is the best match for this situation. 2.4 GHz generally reaches farther but has fewer nonoverlapping channels; 5 and 6 GHz offer more capacity subject to regulations and client support. WPA3 uses stronger authentication modes; enterprise Wi-Fi commonly uses 802.1X. Channel width trades capacity for interference exposure. Survey coverage, SNR and channel utilization."
+  },
+  {
+    "id": "n10-v06-2.4-01",
+    "objective": "2.4",
+    "prompt": "A switch has 120 W PoE budget and eight 20 W devices — which answer best fits?",
+    "options": [
+      "Budget insufficient for all eight",
+      "PoE unrelated",
+      "40 W spare",
+      "Exactly sufficient"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Budget insufficient for all eight is the best match for this situation. MDF and IDF organize distribution; patch panels provide termination. Calculate PoE demand against switch budget and UPS capacity against load/runtime. Maintain airflow, temperature, humidity and grounding per code. Use labels, cable management and physical access control."
+  },
+  {
+    "id": "n10-v06-2.4-02",
+    "objective": "2.4",
+    "prompt": "A rack needs temporary power during utility failure — which answer best fits?",
+    "options": [
+      "DNS server",
+      "UPS",
+      "SFP",
+      "Patch panel"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "UPS is the best match for this situation. MDF and IDF organize distribution; patch panels provide termination. Calculate PoE demand against switch budget and UPS capacity against load/runtime. Maintain airflow, temperature, humidity and grounding per code. Use labels, cable management and physical access control."
+  },
+  {
+    "id": "n10-v06-2.4-03",
+    "objective": "2.4",
+    "prompt": "A building floor needs local cable distribution — which answer best fits?",
+    "options": [
+      "IDF",
+      "Cloud VPC",
+      "Internet gateway",
+      "DNS zone"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "IDF is the best match for this situation. MDF and IDF organize distribution; patch panels provide termination. Calculate PoE demand against switch budget and UPS capacity against load/runtime. Maintain airflow, temperature, humidity and grounding per code. Use labels, cable management and physical access control."
+  },
+  {
+    "id": "n10-v06-2.4-04",
+    "objective": "2.4",
+    "prompt": "Permanent horizontal cables terminate in a rack — which answer best fits?",
+    "options": [
+      "Patch panel",
+      "Antenna",
+      "Firewall rule",
+      "UPS battery"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Patch panel is the best match for this situation. MDF and IDF organize distribution; patch panels provide termination. Calculate PoE demand against switch budget and UPS capacity against load/runtime. Maintain airflow, temperature, humidity and grounding per code. Use labels, cable management and physical access control."
+  },
+  {
+    "id": "n10-v06-2.4-05",
+    "objective": "2.4",
+    "prompt": "A rack exhaust faces another rack intake causing overheating — which answer best fits?",
+    "options": [
+      "Correct airflow arrangement",
+      "Increase DHCP scope",
+      "Change VLAN tag",
+      "Disable NTP"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Correct airflow arrangement is the best match for this situation. MDF and IDF organize distribution; patch panels provide termination. Calculate PoE demand against switch budget and UPS capacity against load/runtime. Maintain airflow, temperature, humidity and grounding per code. Use labels, cable management and physical access control."
+  },
+  {
+    "id": "n10-v06-2.4-06",
+    "objective": "2.4",
+    "prompt": "A cabinet needs protection from unauthorized physical access — which answer best fits?",
+    "options": [
+      "DNSSEC only",
+      "Port mirroring",
+      "Lock and access logging",
+      "Public SSID"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Lock and access logging is the best match for this situation. MDF and IDF organize distribution; patch panels provide termination. Calculate PoE demand against switch budget and UPS capacity against load/runtime. Maintain airflow, temperature, humidity and grounding per code. Use labels, cable management and physical access control."
+  },
+  {
+    "id": "n10-v06-2.4-07",
+    "objective": "2.4",
+    "prompt": "A fiber cable exceeds minimum bend radius constraints — which answer best fits?",
+    "options": [
+      "Increase transmit power blindly",
+      "Reroute within specified bend radius",
+      "Pull tighter",
+      "Change IP mask"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Reroute within specified bend radius is the best match for this situation. MDF and IDF organize distribution; patch panels provide termination. Calculate PoE demand against switch budget and UPS capacity against load/runtime. Maintain airflow, temperature, humidity and grounding per code. Use labels, cable management and physical access control."
+  },
+  {
+    "id": "n10-v06-2.4-08",
+    "objective": "2.4",
+    "prompt": "A new rack requires electrical bonding — which answer best fits?",
+    "options": [
+      "Ignore grounding",
+      "Use DNS record",
+      "Use Ethernet shield as sole ground",
+      "Follow code and qualified installation"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "Follow code and qualified installation is the best match for this situation. MDF and IDF organize distribution; patch panels provide termination. Calculate PoE demand against switch budget and UPS capacity against load/runtime. Maintain airflow, temperature, humidity and grounding per code. Use labels, cable management and physical access control."
+  },
+  {
+    "id": "n10-v06-2.4-09",
+    "objective": "2.4",
+    "prompt": "A UPS must support a 500 W load — which answer best fits?",
+    "options": [
+      "Use cable length",
+      "Check watt rating and runtime at 500 W",
+      "Use VA rating alone as runtime",
+      "Count Ethernet ports"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "Check watt rating and runtime at 500 W is the best match for this situation. MDF and IDF organize distribution; patch panels provide termination. Calculate PoE demand against switch budget and UPS capacity against load/runtime. Maintain airflow, temperature, humidity and grounding per code. Use labels, cable management and physical access control."
+  },
+  {
+    "id": "n10-v06-2.4-10",
+    "objective": "2.4",
+    "prompt": "Technicians cannot identify both ends of a cable — which answer best fits?",
+    "options": [
+      "Change SSID",
+      "Randomly unplug links",
+      "Apply consistent labels and update records",
+      "Disable STP"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Apply consistent labels and update records is the best match for this situation. MDF and IDF organize distribution; patch panels provide termination. Calculate PoE demand against switch budget and UPS capacity against load/runtime. Maintain airflow, temperature, humidity and grounding per code. Use labels, cable management and physical access control."
+  },
+  {
+    "id": "n10-v06-3.1-01",
+    "objective": "3.1",
+    "prompt": "An engineer needs rack and cable locations — which answer best fits?",
+    "options": [
+      "DNS zone only",
+      "Physical diagram",
+      "Logical routing table only",
+      "SLA only"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Physical diagram is the best match for this situation. Physical and logical diagrams serve different purposes. IPAM records address allocation; inventory records assets and lifecycle. Baselines describe expected behavior. Change management defines scope, approval, validation and rollback. Configuration backups should be secured and tested. EOL and EOS dates guide replacement."
+  },
+  {
+    "id": "n10-v06-3.1-02",
+    "objective": "3.1",
+    "prompt": "An engineer needs VLAN and subnet relationships — which answer best fits?",
+    "options": [
+      "Asset serial alone",
+      "Logical diagram",
+      "Power bill",
+      "Rack elevation only"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Logical diagram is the best match for this situation. Physical and logical diagrams serve different purposes. IPAM records address allocation; inventory records assets and lifecycle. Baselines describe expected behavior. Change management defines scope, approval, validation and rollback. Configuration backups should be secured and tested. EOL and EOS dates guide replacement."
+  },
+  {
+    "id": "n10-v06-3.1-03",
+    "objective": "3.1",
+    "prompt": "Two teams allocate overlapping subnets — which answer best fits?",
+    "options": [
+      "SPAN",
+      "IPAM",
+      "UPS",
+      "NTP"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "IPAM is the best match for this situation. Physical and logical diagrams serve different purposes. IPAM records address allocation; inventory records assets and lifecycle. Baselines describe expected behavior. Change management defines scope, approval, validation and rollback. Configuration backups should be secured and tested. EOL and EOS dates guide replacement."
+  },
+  {
+    "id": "n10-v06-3.1-04",
+    "objective": "3.1",
+    "prompt": "A firmware update may disrupt production — which answer best fits?",
+    "options": [
+      "Approved change with rollback plan",
+      "Unlogged immediate deployment",
+      "Disable backups",
+      "Delete inventory"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Approved change with rollback plan is the best match for this situation. Physical and logical diagrams serve different purposes. IPAM records address allocation; inventory records assets and lifecycle. Baselines describe expected behavior. Change management defines scope, approval, validation and rollback. Configuration backups should be secured and tested. EOL and EOS dates guide replacement."
+  },
+  {
+    "id": "n10-v06-3.1-05",
+    "objective": "3.1",
+    "prompt": "A device will no longer receive vendor support — which answer best fits?",
+    "options": [
+      "Ignore support date",
+      "Change hostname only",
+      "Increase TTL",
+      "Lifecycle replacement planning"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Lifecycle replacement planning is the best match for this situation. Physical and logical diagrams serve different purposes. IPAM records address allocation; inventory records assets and lifecycle. Baselines describe expected behavior. Change management defines scope, approval, validation and rollback. Configuration backups should be secured and tested. EOL and EOS dates guide replacement."
+  },
+  {
+    "id": "n10-v06-3.1-06",
+    "objective": "3.1",
+    "prompt": "A team needs expected normal utilization — which answer best fits?",
+    "options": [
+      "Password list",
+      "Performance baseline",
+      "Cable color",
+      "DHCP reservation only"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Performance baseline is the best match for this situation. Physical and logical diagrams serve different purposes. IPAM records address allocation; inventory records assets and lifecycle. Baselines describe expected behavior. Change management defines scope, approval, validation and rollback. Configuration backups should be secured and tested. EOL and EOS dates guide replacement."
+  },
+  {
+    "id": "n10-v06-3.1-07",
+    "objective": "3.1",
+    "prompt": "A switch fails after a configuration change — which answer best fits?",
+    "options": [
+      "Disable monitoring",
+      "Randomly change ports",
+      "Delete logs",
+      "Restore validated configuration per rollback plan"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Restore validated configuration per rollback plan is the best match for this situation. Physical and logical diagrams serve different purposes. IPAM records address allocation; inventory records assets and lifecycle. Baselines describe expected behavior. Change management defines scope, approval, validation and rollback. Configuration backups should be secured and tested. EOL and EOS dates guide replacement."
+  },
+  {
+    "id": "n10-v06-3.1-08",
+    "objective": "3.1",
+    "prompt": "A new device must be tracked by serial and owner — which answer best fits?",
+    "options": [
+      "Routing metric",
+      "DNS PTR only",
+      "Asset inventory",
+      "ARP cache only"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Asset inventory is the best match for this situation. Physical and logical diagrams serve different purposes. IPAM records address allocation; inventory records assets and lifecycle. Baselines describe expected behavior. Change management defines scope, approval, validation and rollback. Configuration backups should be secured and tested. EOL and EOS dates guide replacement."
+  },
+  {
+    "id": "n10-v06-3.1-09",
+    "objective": "3.1",
+    "prompt": "A provider promises monthly availability — which answer best fits?",
+    "options": [
+      "MAC table",
+      "SLA",
+      "Cable map",
+      "VLAN database"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "SLA is the best match for this situation. Physical and logical diagrams serve different purposes. IPAM records address allocation; inventory records assets and lifecycle. Baselines describe expected behavior. Change management defines scope, approval, validation and rollback. Configuration backups should be secured and tested. EOL and EOS dates guide replacement."
+  },
+  {
+    "id": "n10-v06-3.1-10",
+    "objective": "3.1",
+    "prompt": "A technician needs the approved sequence for routine work — which answer best fits?",
+    "options": [
+      "Packet payload",
+      "Random notes",
+      "Standard operating procedure",
+      "ARP request"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Standard operating procedure is the best match for this situation. Physical and logical diagrams serve different purposes. IPAM records address allocation; inventory records assets and lifecycle. Baselines describe expected behavior. Change management defines scope, approval, validation and rollback. Configuration backups should be secured and tested. EOL and EOS dates guide replacement."
+  },
+  {
+    "id": "n10-v06-3.2-01",
+    "objective": "3.2",
+    "prompt": "A manager needs interface octet counters periodically — which answer best fits?",
+    "options": [
+      "ARP probe",
+      "DNS query",
+      "SNMP polling",
+      "DHCP discover"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "SNMP polling is the best match for this situation. SNMP polls counters and receives notifications; v3 supports authentication and privacy. Flow telemetry summarizes conversations, while packet capture provides packet detail. Syslog centralizes events; synchronized time enables correlation. Baselines and thresholds should reflect normal patterns and alert severity."
+  },
+  {
+    "id": "n10-v06-3.2-02",
+    "objective": "3.2",
+    "prompt": "A device should notify a manager when a link goes down — which answer best fits?",
+    "options": [
+      "SIP invite",
+      "FTP upload only",
+      "NTP query",
+      "SNMP trap or inform"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "SNMP trap or inform is the best match for this situation. SNMP polls counters and receives notifications; v3 supports authentication and privacy. Flow telemetry summarizes conversations, while packet capture provides packet detail. Syslog centralizes events; synchronized time enables correlation. Baselines and thresholds should reflect normal patterns and alert severity."
+  },
+  {
+    "id": "n10-v06-3.2-03",
+    "objective": "3.2",
+    "prompt": "A team needs top talkers without full packet payloads — which answer best fits?",
+    "options": [
+      "Flow telemetry",
+      "DNS PTR",
+      "UPS monitor only",
+      "Cable tester"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Flow telemetry is the best match for this situation. SNMP polls counters and receives notifications; v3 supports authentication and privacy. Flow telemetry summarizes conversations, while packet capture provides packet detail. Syslog centralizes events; synchronized time enables correlation. Baselines and thresholds should reflect normal patterns and alert severity."
+  },
+  {
+    "id": "n10-v06-3.2-04",
+    "objective": "3.2",
+    "prompt": "A team needs TCP retransmission packet details — which answer best fits?",
+    "options": [
+      "Packet capture",
+      "Rack diagram",
+      "IPAM only",
+      "Asset inventory"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Packet capture is the best match for this situation. SNMP polls counters and receives notifications; v3 supports authentication and privacy. Flow telemetry summarizes conversations, while packet capture provides packet detail. Syslog centralizes events; synchronized time enables correlation. Baselines and thresholds should reflect normal patterns and alert severity."
+  },
+  {
+    "id": "n10-v06-3.2-05",
+    "objective": "3.2",
+    "prompt": "Logs from devices differ by several minutes — which answer best fits?",
+    "options": [
+      "Synchronize clocks with NTP",
+      "Increase MTU",
+      "Change VLAN",
+      "Disable logging"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Synchronize clocks with NTP is the best match for this situation. SNMP polls counters and receives notifications; v3 supports authentication and privacy. Flow telemetry summarizes conversations, while packet capture provides packet detail. Syslog centralizes events; synchronized time enables correlation. Baselines and thresholds should reflect normal patterns and alert severity."
+  },
+  {
+    "id": "n10-v06-3.2-06",
+    "objective": "3.2",
+    "prompt": "SNMP monitoring requires authentication and encryption — which answer best fits?",
+    "options": [
+      "SNMPv1 community",
+      "Open Telnet",
+      "SNMPv2c community",
+      "SNMPv3 authPriv"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "SNMPv3 authPriv is the best match for this situation. SNMP polls counters and receives notifications; v3 supports authentication and privacy. Flow telemetry summarizes conversations, while packet capture provides packet detail. Syslog centralizes events; synchronized time enables correlation. Baselines and thresholds should reflect normal patterns and alert severity."
+  },
+  {
+    "id": "n10-v06-3.2-07",
+    "objective": "3.2",
+    "prompt": "A recurring backup spike triggers unnecessary alerts — which answer best fits?",
+    "options": [
+      "Tune threshold using baseline and schedule",
+      "Replace all cables",
+      "Ignore all spikes",
+      "Disable all monitoring"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Tune threshold using baseline and schedule is the best match for this situation. SNMP polls counters and receives notifications; v3 supports authentication and privacy. Flow telemetry summarizes conversations, while packet capture provides packet detail. Syslog centralizes events; synchronized time enables correlation. Baselines and thresholds should reflect normal patterns and alert severity."
+  },
+  {
+    "id": "n10-v06-3.2-08",
+    "objective": "3.2",
+    "prompt": "A security team needs centralized device event messages — which answer best fits?",
+    "options": [
+      "Syslog collector",
+      "Optical meter",
+      "DHCP relay",
+      "Patch panel"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "Syslog collector is the best match for this situation. SNMP polls counters and receives notifications; v3 supports authentication and privacy. Flow telemetry summarizes conversations, while packet capture provides packet detail. Syslog centralizes events; synchronized time enables correlation. Baselines and thresholds should reflect normal patterns and alert severity."
+  },
+  {
+    "id": "n10-v06-3.2-09",
+    "objective": "3.2",
+    "prompt": "A switch must copy traffic to an analyzer port — which answer best fits?",
+    "options": [
+      "VLSM",
+      "Port mirroring",
+      "PAT",
+      "FHRP"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "Port mirroring is the best match for this situation. SNMP polls counters and receives notifications; v3 supports authentication and privacy. Flow telemetry summarizes conversations, while packet capture provides packet detail. Syslog centralizes events; synchronized time enables correlation. Baselines and thresholds should reflect normal patterns and alert severity."
+  },
+  {
+    "id": "n10-v06-3.2-10",
+    "objective": "3.2",
+    "prompt": "A team needs notification when service latency exceeds a threshold — which answer best fits?",
+    "options": [
+      "Cable label",
+      "Static asset list",
+      "Active monitoring alert",
+      "DNS suffix"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Active monitoring alert is the best match for this situation. SNMP polls counters and receives notifications; v3 supports authentication and privacy. Flow telemetry summarizes conversations, while packet capture provides packet detail. Syslog centralizes events; synchronized time enables correlation. Baselines and thresholds should reflect normal patterns and alert severity."
+  },
+  {
+    "id": "n10-v06-3.3-01",
+    "objective": "3.3",
+    "prompt": "A business can lose at most 15 minutes of data — which answer best fits?",
+    "options": [
+      "MTBF 15 minutes",
+      "RPO 15 minutes",
+      "RTO 15 minutes",
+      "TTL 15 minutes"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "RPO 15 minutes is the best match for this situation. RPO is tolerable data loss measured in time; RTO is target restoration time. MTTR measures repair/recovery duration; MTBF measures operating time between failures. Hot sites are ready sooner than cold sites. HA reduces interruption but does not replace backups. Test restores and failover."
+  },
+  {
+    "id": "n10-v06-3.3-02",
+    "objective": "3.3",
+    "prompt": "A service must resume within two hours — which answer best fits?",
+    "options": [
+      "RTO two hours",
+      "RPO two hours",
+      "DHCP lease two hours",
+      "MTBF two hours"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "RTO two hours is the best match for this situation. RPO is tolerable data loss measured in time; RTO is target restoration time. MTTR measures repair/recovery duration; MTBF measures operating time between failures. Hot sites are ready sooner than cold sites. HA reduces interruption but does not replace backups. Test restores and failover."
+  },
+  {
+    "id": "n10-v06-3.3-03",
+    "objective": "3.3",
+    "prompt": "A recovery site has equipment running and current data — which answer best fits?",
+    "options": [
+      "Hot site",
+      "Empty rack",
+      "Offline tape only",
+      "Cold site"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Hot site is the best match for this situation. RPO is tolerable data loss measured in time; RTO is target restoration time. MTTR measures repair/recovery duration; MTBF measures operating time between failures. Hot sites are ready sooner than cold sites. HA reduces interruption but does not replace backups. Test restores and failover."
+  },
+  {
+    "id": "n10-v06-3.3-04",
+    "objective": "3.3",
+    "prompt": "A recovery site has space and utilities but no ready systems — which answer best fits?",
+    "options": [
+      "Hot site",
+      "Active-active cluster",
+      "Live replica",
+      "Cold site"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Cold site is the best match for this situation. RPO is tolerable data loss measured in time; RTO is target restoration time. MTTR measures repair/recovery duration; MTBF measures operating time between failures. Hot sites are ready sooner than cold sites. HA reduces interruption but does not replace backups. Test restores and failover."
+  },
+  {
+    "id": "n10-v06-3.3-05",
+    "objective": "3.3",
+    "prompt": "A team needs average time to repair failures — which answer best fits?",
+    "options": [
+      "TTL",
+      "MTTR",
+      "RPO",
+      "MTBF"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "MTTR is the best match for this situation. RPO is tolerable data loss measured in time; RTO is target restoration time. MTTR measures repair/recovery duration; MTBF measures operating time between failures. Hot sites are ready sooner than cold sites. HA reduces interruption but does not replace backups. Test restores and failover."
+  },
+  {
+    "id": "n10-v06-3.3-06",
+    "objective": "3.3",
+    "prompt": "A team needs average operating interval between failures — which answer best fits?",
+    "options": [
+      "Jitter",
+      "MTBF",
+      "RTO",
+      "MTTR"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "MTBF is the best match for this situation. RPO is tolerable data loss measured in time; RTO is target restoration time. MTTR measures repair/recovery duration; MTBF measures operating time between failures. Hot sites are ready sooner than cold sites. HA reduces interruption but does not replace backups. Test restores and failover."
+  },
+  {
+    "id": "n10-v06-3.3-07",
+    "objective": "3.3",
+    "prompt": "A redundant gateway fails and standby takes over — which answer best fits?",
+    "options": [
+      "High availability failover",
+      "Backup retention only",
+      "VLAN hopping",
+      "DNS poisoning"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "High availability failover is the best match for this situation. RPO is tolerable data loss measured in time; RTO is target restoration time. MTTR measures repair/recovery duration; MTBF measures operating time between failures. Hot sites are ready sooner than cold sites. HA reduces interruption but does not replace backups. Test restores and failover."
+  },
+  {
+    "id": "n10-v06-3.3-08",
+    "objective": "3.3",
+    "prompt": "A backup job reports success; how verify recoverability — which answer best fits?",
+    "options": [
+      "Disable checksums",
+      "Delete source",
+      "Trust job status alone",
+      "Perform test restore"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "Perform test restore is the best match for this situation. RPO is tolerable data loss measured in time; RTO is target restoration time. MTTR measures repair/recovery duration; MTBF measures operating time between failures. Hot sites are ready sooner than cold sites. HA reduces interruption but does not replace backups. Test restores and failover."
+  },
+  {
+    "id": "n10-v06-3.3-09",
+    "objective": "3.3",
+    "prompt": "A regional outage could affect both local copies — which answer best fits?",
+    "options": [
+      "Same rack duplicate only",
+      "Same switch port",
+      "Geographically separate recovery resources",
+      "Same power strip"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Geographically separate recovery resources is the best match for this situation. RPO is tolerable data loss measured in time; RTO is target restoration time. MTTR measures repair/recovery duration; MTBF measures operating time between failures. Hot sites are ready sooner than cold sites. HA reduces interruption but does not replace backups. Test restores and failover."
+  },
+  {
+    "id": "n10-v06-3.3-10",
+    "objective": "3.3",
+    "prompt": "A recovery plan must be exercised without disrupting production — which answer best fits?",
+    "options": [
+      "Unannounced production shutdown",
+      "Controlled tabletop or isolated test",
+      "Disable monitoring",
+      "Delete backups"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "Controlled tabletop or isolated test is the best match for this situation. RPO is tolerable data loss measured in time; RTO is target restoration time. MTTR measures repair/recovery duration; MTBF measures operating time between failures. Hot sites are ready sooner than cold sites. HA reduces interruption but does not replace backups. Test restores and failover."
+  },
+  {
+    "id": "n10-v06-3.4-01",
+    "objective": "3.4",
+    "prompt": "A DHCP client broadcasts its first message — which answer best fits?",
+    "options": [
+      "Offer",
+      "ACK",
+      "Release",
+      "Discover"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Discover is the best match for this situation. DHCPv4 uses discover, offer, request, acknowledge; relays forward requests across routed boundaries. IPv6 router advertisements supply default-router information and may enable SLAAC; DHCPv6 can supply addresses or other options. DNS A/AAAA map names, PTR reverses, MX directs mail, CNAME aliases. NTP aligns time."
+  },
+  {
+    "id": "n10-v06-3.4-02",
+    "objective": "3.4",
+    "prompt": "A DHCP server proposes an address — which answer best fits?",
+    "options": [
+      "NAK always",
+      "Offer",
+      "Request",
+      "Discover"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Offer is the best match for this situation. DHCPv4 uses discover, offer, request, acknowledge; relays forward requests across routed boundaries. IPv6 router advertisements supply default-router information and may enable SLAAC; DHCPv6 can supply addresses or other options. DNS A/AAAA map names, PTR reverses, MX directs mail, CNAME aliases. NTP aligns time."
+  },
+  {
+    "id": "n10-v06-3.4-03",
+    "objective": "3.4",
+    "prompt": "A client selects an offered lease — which answer best fits?",
+    "options": [
+      "Discover",
+      "Offer",
+      "PTR",
+      "Request"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Request is the best match for this situation. DHCPv4 uses discover, offer, request, acknowledge; relays forward requests across routed boundaries. IPv6 router advertisements supply default-router information and may enable SLAAC; DHCPv6 can supply addresses or other options. DNS A/AAAA map names, PTR reverses, MX directs mail, CNAME aliases. NTP aligns time."
+  },
+  {
+    "id": "n10-v06-3.4-04",
+    "objective": "3.4",
+    "prompt": "A server confirms a lease — which answer best fits?",
+    "options": [
+      "Discover",
+      "Offer",
+      "SYN",
+      "ACK"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "ACK is the best match for this situation. DHCPv4 uses discover, offer, request, acknowledge; relays forward requests across routed boundaries. IPv6 router advertisements supply default-router information and may enable SLAAC; DHCPv6 can supply addresses or other options. DNS A/AAAA map names, PTR reverses, MX directs mail, CNAME aliases. NTP aligns time."
+  },
+  {
+    "id": "n10-v06-3.4-05",
+    "objective": "3.4",
+    "prompt": "A DHCP server is on another routed subnet — which answer best fits?",
+    "options": [
+      "SPAN",
+      "NTP peer",
+      "DNS CNAME",
+      "DHCP relay"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "DHCP relay is the best match for this situation. DHCPv4 uses discover, offer, request, acknowledge; relays forward requests across routed boundaries. IPv6 router advertisements supply default-router information and may enable SLAAC; DHCPv6 can supply addresses or other options. DNS A/AAAA map names, PTR reverses, MX directs mail, CNAME aliases. NTP aligns time."
+  },
+  {
+    "id": "n10-v06-3.4-06",
+    "objective": "3.4",
+    "prompt": "A DNS record maps a name to IPv6 — which answer best fits?",
+    "options": [
+      "A",
+      "PTR",
+      "MX",
+      "AAAA"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "AAAA is the best match for this situation. DHCPv4 uses discover, offer, request, acknowledge; relays forward requests across routed boundaries. IPv6 router advertisements supply default-router information and may enable SLAAC; DHCPv6 can supply addresses or other options. DNS A/AAAA map names, PTR reverses, MX directs mail, CNAME aliases. NTP aligns time."
+  },
+  {
+    "id": "n10-v06-3.4-07",
+    "objective": "3.4",
+    "prompt": "A DNS record identifies mail exchangers — which answer best fits?",
+    "options": [
+      "AAAA",
+      "MX",
+      "SRV only",
+      "PTR"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "MX is the best match for this situation. DHCPv4 uses discover, offer, request, acknowledge; relays forward requests across routed boundaries. IPv6 router advertisements supply default-router information and may enable SLAAC; DHCPv6 can supply addresses or other options. DNS A/AAAA map names, PTR reverses, MX directs mail, CNAME aliases. NTP aligns time."
+  },
+  {
+    "id": "n10-v06-3.4-08",
+    "objective": "3.4",
+    "prompt": "A reverse lookup needs a name for an IP — which answer best fits?",
+    "options": [
+      "PTR",
+      "TXT",
+      "MX",
+      "CNAME"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "PTR is the best match for this situation. DHCPv4 uses discover, offer, request, acknowledge; relays forward requests across routed boundaries. IPv6 router advertisements supply default-router information and may enable SLAAC; DHCPv6 can supply addresses or other options. DNS A/AAAA map names, PTR reverses, MX directs mail, CNAME aliases. NTP aligns time."
+  },
+  {
+    "id": "n10-v06-3.4-09",
+    "objective": "3.4",
+    "prompt": "An IPv6 host learns its default router — which answer best fits?",
+    "options": [
+      "ARP",
+      "Router advertisement",
+      "DNS A record",
+      "DHCPv6 default-router option"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "Router advertisement is the best match for this situation. DHCPv4 uses discover, offer, request, acknowledge; relays forward requests across routed boundaries. IPv6 router advertisements supply default-router information and may enable SLAAC; DHCPv6 can supply addresses or other options. DNS A/AAAA map names, PTR reverses, MX directs mail, CNAME aliases. NTP aligns time."
+  },
+  {
+    "id": "n10-v06-3.4-10",
+    "objective": "3.4",
+    "prompt": "A host forms its own IPv6 address from advertised prefix — which answer best fits?",
+    "options": [
+      "STP",
+      "PAT",
+      "FTP",
+      "SLAAC"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "SLAAC is the best match for this situation. DHCPv4 uses discover, offer, request, acknowledge; relays forward requests across routed boundaries. IPv6 router advertisements supply default-router information and may enable SLAAC; DHCPv6 can supply addresses or other options. DNS A/AAAA map names, PTR reverses, MX directs mail, CNAME aliases. NTP aligns time."
+  },
+  {
+    "id": "n10-v06-3.5-01",
+    "objective": "3.5",
+    "prompt": "A router loses all IP connectivity but is physically accessible — which answer best fits?",
+    "options": [
+      "SSH over failed network",
+      "Console",
+      "DNS query",
+      "HTTPS over failed network"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Console is the best match for this situation. In-band management shares production connectivity; out-of-band uses a separate path such as console or dedicated management network. SSH protects CLI traffic; HTTPS protects web administration. APIs enable automation but require scoped credentials and audit. Console access is useful when IP configuration is broken."
+  },
+  {
+    "id": "n10-v06-3.5-02",
+    "objective": "3.5",
+    "prompt": "A remote management path must survive production routing failure — which answer best fits?",
+    "options": [
+      "Public guest Wi-Fi",
+      "In-band only",
+      "Same failed uplink",
+      "Out-of-band management"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Out-of-band management is the best match for this situation. In-band management shares production connectivity; out-of-band uses a separate path such as console or dedicated management network. SSH protects CLI traffic; HTTPS protects web administration. APIs enable automation but require scoped credentials and audit. Console access is useful when IP configuration is broken."
+  },
+  {
+    "id": "n10-v06-3.5-03",
+    "objective": "3.5",
+    "prompt": "A CLI session requires encryption — which answer best fits?",
+    "options": [
+      "HTTP",
+      "SSH",
+      "TFTP",
+      "Telnet"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "SSH is the best match for this situation. In-band management shares production connectivity; out-of-band uses a separate path such as console or dedicated management network. SSH protects CLI traffic; HTTPS protects web administration. APIs enable automation but require scoped credentials and audit. Console access is useful when IP configuration is broken."
+  },
+  {
+    "id": "n10-v06-3.5-04",
+    "objective": "3.5",
+    "prompt": "A web management session requires TLS — which answer best fits?",
+    "options": [
+      "FTP",
+      "HTTPS",
+      "SNMPv1",
+      "HTTP"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "HTTPS is the best match for this situation. In-band management shares production connectivity; out-of-band uses a separate path such as console or dedicated management network. SSH protects CLI traffic; HTTPS protects web administration. APIs enable automation but require scoped credentials and audit. Console access is useful when IP configuration is broken."
+  },
+  {
+    "id": "n10-v06-3.5-05",
+    "objective": "3.5",
+    "prompt": "An automation tool needs limited programmatic access — which answer best fits?",
+    "options": [
+      "Disable audit",
+      "Scoped API credentials",
+      "Anonymous write access",
+      "Shared root password"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Scoped API credentials is the best match for this situation. In-band management shares production connectivity; out-of-band uses a separate path such as console or dedicated management network. SSH protects CLI traffic; HTTPS protects web administration. APIs enable automation but require scoped credentials and audit. Console access is useful when IP configuration is broken."
+  },
+  {
+    "id": "n10-v06-3.5-06",
+    "objective": "3.5",
+    "prompt": "A management interface shares production network — which answer best fits?",
+    "options": [
+      "Out-of-band console",
+      "Offline backup",
+      "Air gap",
+      "In-band management"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "In-band management is the best match for this situation. In-band management shares production connectivity; out-of-band uses a separate path such as console or dedicated management network. SSH protects CLI traffic; HTTPS protects web administration. APIs enable automation but require scoped credentials and audit. Console access is useful when IP configuration is broken."
+  },
+  {
+    "id": "n10-v06-3.5-07",
+    "objective": "3.5",
+    "prompt": "A technician needs remote access to a serial console — which answer best fits?",
+    "options": [
+      "DNS resolver",
+      "Load balancer only",
+      "CDN",
+      "Console server"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Console server is the best match for this situation. In-band management shares production connectivity; out-of-band uses a separate path such as console or dedicated management network. SSH protects CLI traffic; HTTPS protects web administration. APIs enable automation but require scoped credentials and audit. Console access is useful when IP configuration is broken."
+  },
+  {
+    "id": "n10-v06-3.5-08",
+    "objective": "3.5",
+    "prompt": "A device must be configured centrally using structured requests — which answer best fits?",
+    "options": [
+      "Management API",
+      "Optical meter",
+      "Patch panel",
+      "Cable tester"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "Management API is the best match for this situation. In-band management shares production connectivity; out-of-band uses a separate path such as console or dedicated management network. SSH protects CLI traffic; HTTPS protects web administration. APIs enable automation but require scoped credentials and audit. Console access is useful when IP configuration is broken."
+  },
+  {
+    "id": "n10-v06-3.5-09",
+    "objective": "3.5",
+    "prompt": "An administrator should access devices only from approved management subnet — which answer best fits?",
+    "options": [
+      "Disable authentication",
+      "Open all source addresses",
+      "Management ACL",
+      "Public port forwarding"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Management ACL is the best match for this situation. In-band management shares production connectivity; out-of-band uses a separate path such as console or dedicated management network. SSH protects CLI traffic; HTTPS protects web administration. APIs enable automation but require scoped credentials and audit. Console access is useful when IP configuration is broken."
+  },
+  {
+    "id": "n10-v06-3.5-10",
+    "objective": "3.5",
+    "prompt": "A configuration change risks locking out remote access — which answer best fits?",
+    "options": [
+      "Verify alternate console path first",
+      "Delete backup",
+      "Disable console",
+      "Remove all routes"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "Verify alternate console path first is the best match for this situation. In-band management shares production connectivity; out-of-band uses a separate path such as console or dedicated management network. SSH protects CLI traffic; HTTPS protects web administration. APIs enable automation but require scoped credentials and audit. Console access is useful when IP configuration is broken."
+  },
+  {
+    "id": "n10-v06-4.1-01",
+    "objective": "4.1",
+    "prompt": "An encrypted tunnel prevents passive reading — which answer best fits?",
+    "options": [
+      "Confidentiality",
+      "Availability",
+      "Accounting",
+      "Inventory"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Confidentiality is the best match for this situation. Confidentiality limits disclosure, integrity protects against unauthorized modification, availability supports access. Authentication verifies identity, authorization grants permissions, accounting records activity. PKI binds identities to public keys through certificates. Segmentation and least privilege reduce exposure; physical controls and data classification complement logical controls."
+  },
+  {
+    "id": "n10-v06-4.1-02",
+    "objective": "4.1",
+    "prompt": "A signed configuration detects unauthorized changes — which answer best fits?",
+    "options": [
+      "Availability",
+      "Elasticity",
+      "Routing",
+      "Integrity"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Integrity is the best match for this situation. Confidentiality limits disclosure, integrity protects against unauthorized modification, availability supports access. Authentication verifies identity, authorization grants permissions, accounting records activity. PKI binds identities to public keys through certificates. Segmentation and least privilege reduce exposure; physical controls and data classification complement logical controls."
+  },
+  {
+    "id": "n10-v06-4.1-03",
+    "objective": "4.1",
+    "prompt": "Redundant infrastructure keeps a service reachable — which answer best fits?",
+    "options": [
+      "Nonrepudiation only",
+      "Availability",
+      "Classification",
+      "Confidentiality only"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Availability is the best match for this situation. Confidentiality limits disclosure, integrity protects against unauthorized modification, availability supports access. Authentication verifies identity, authorization grants permissions, accounting records activity. PKI binds identities to public keys through certificates. Segmentation and least privilege reduce exposure; physical controls and data classification complement logical controls."
+  },
+  {
+    "id": "n10-v06-4.1-04",
+    "objective": "4.1",
+    "prompt": "A login verifies a claimed identity — which answer best fits?",
+    "options": [
+      "Accounting",
+      "Authentication",
+      "Aggregation",
+      "Authorization"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Authentication is the best match for this situation. Confidentiality limits disclosure, integrity protects against unauthorized modification, availability supports access. Authentication verifies identity, authorization grants permissions, accounting records activity. PKI binds identities to public keys through certificates. Segmentation and least privilege reduce exposure; physical controls and data classification complement logical controls."
+  },
+  {
+    "id": "n10-v06-4.1-05",
+    "objective": "4.1",
+    "prompt": "A policy grants read-only access to a verified user — which answer best fits?",
+    "options": [
+      "Encryption only",
+      "Authentication only",
+      "Authorization",
+      "Accounting only"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Authorization is the best match for this situation. Confidentiality limits disclosure, integrity protects against unauthorized modification, availability supports access. Authentication verifies identity, authorization grants permissions, accounting records activity. PKI binds identities to public keys through certificates. Segmentation and least privilege reduce exposure; physical controls and data classification complement logical controls."
+  },
+  {
+    "id": "n10-v06-4.1-06",
+    "objective": "4.1",
+    "prompt": "A log records which administrator changed a setting — which answer best fits?",
+    "options": [
+      "VLSM",
+      "NAT",
+      "Accounting",
+      "QoS"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Accounting is the best match for this situation. Confidentiality limits disclosure, integrity protects against unauthorized modification, availability supports access. Authentication verifies identity, authorization grants permissions, accounting records activity. PKI binds identities to public keys through certificates. Segmentation and least privilege reduce exposure; physical controls and data classification complement logical controls."
+  },
+  {
+    "id": "n10-v06-4.1-07",
+    "objective": "4.1",
+    "prompt": "A user supplies password and hardware security key — which answer best fits?",
+    "options": [
+      "Open access",
+      "Multifactor authentication",
+      "Single-factor authentication",
+      "Two passwords only"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Multifactor authentication is the best match for this situation. Confidentiality limits disclosure, integrity protects against unauthorized modification, availability supports access. Authentication verifies identity, authorization grants permissions, accounting records activity. PKI binds identities to public keys through certificates. Segmentation and least privilege reduce exposure; physical controls and data classification complement logical controls."
+  },
+  {
+    "id": "n10-v06-4.1-08",
+    "objective": "4.1",
+    "prompt": "A certificate binds a public key to a named service — which answer best fits?",
+    "options": [
+      "STP",
+      "PoE",
+      "PKI",
+      "DHCP"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "PKI is the best match for this situation. Confidentiality limits disclosure, integrity protects against unauthorized modification, availability supports access. Authentication verifies identity, authorization grants permissions, accounting records activity. PKI binds identities to public keys through certificates. Segmentation and least privilege reduce exposure; physical controls and data classification complement logical controls."
+  },
+  {
+    "id": "n10-v06-4.1-09",
+    "objective": "4.1",
+    "prompt": "A contractor needs only one application for a week — which answer best fits?",
+    "options": [
+      "Shared root account",
+      "Unrestricted VLAN",
+      "Least privilege with time-limited access",
+      "Permanent administrator access"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Least privilege with time-limited access is the best match for this situation. Confidentiality limits disclosure, integrity protects against unauthorized modification, availability supports access. Authentication verifies identity, authorization grants permissions, accounting records activity. PKI binds identities to public keys through certificates. Segmentation and least privilege reduce exposure; physical controls and data classification complement logical controls."
+  },
+  {
+    "id": "n10-v06-4.1-10",
+    "objective": "4.1",
+    "prompt": "A business labels records according to sensitivity — which answer best fits?",
+    "options": [
+      "Port aggregation",
+      "Channel bonding",
+      "Data classification",
+      "Route summarization"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Data classification is the best match for this situation. Confidentiality limits disclosure, integrity protects against unauthorized modification, availability supports access. Authentication verifies identity, authorization grants permissions, accounting records activity. PKI binds identities to public keys through certificates. Segmentation and least privilege reduce exposure; physical controls and data classification complement logical controls."
+  },
+  {
+    "id": "n10-v06-4.2-01",
+    "objective": "4.2",
+    "prompt": "Clients receive an unexpected gateway from an unauthorized DHCP server — which answer best fits?",
+    "options": [
+      "MTU mismatch",
+      "NTP drift",
+      "Fiber attenuation",
+      "Rogue DHCP"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Rogue DHCP is the best match for this situation. Spoofing falsifies identity information; ARP poisoning can redirect local IPv4 traffic. Rogue DHCP may supply malicious gateway or DNS settings. Evil twin APs imitate trusted Wi-Fi. DoS exhausts resources; DDoS uses distributed sources. Social engineering targets human decisions. VLAN hopping crosses intended layer-2 boundaries. Validate evidence before attribution."
+  },
+  {
+    "id": "n10-v06-4.2-02",
+    "objective": "4.2",
+    "prompt": "An attacker associates the gateway IP with an incorrect MAC in client caches — which answer best fits?",
+    "options": [
+      "ARP poisoning",
+      "DNS recursion",
+      "STP convergence",
+      "PoE overload"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "ARP poisoning is the best match for this situation. Spoofing falsifies identity information; ARP poisoning can redirect local IPv4 traffic. Rogue DHCP may supply malicious gateway or DNS settings. Evil twin APs imitate trusted Wi-Fi. DoS exhausts resources; DDoS uses distributed sources. Social engineering targets human decisions. VLAN hopping crosses intended layer-2 boundaries. Validate evidence before attribution."
+  },
+  {
+    "id": "n10-v06-4.2-03",
+    "objective": "4.2",
+    "prompt": "An unauthorized AP imitates a trusted SSID to attract users — which answer best fits?",
+    "options": [
+      "Evil twin",
+      "Legitimate roaming",
+      "LACP",
+      "NAT64"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Evil twin is the best match for this situation. Spoofing falsifies identity information; ARP poisoning can redirect local IPv4 traffic. Rogue DHCP may supply malicious gateway or DNS settings. Evil twin APs imitate trusted Wi-Fi. DoS exhausts resources; DDoS uses distributed sources. Social engineering targets human decisions. VLAN hopping crosses intended layer-2 boundaries. Validate evidence before attribution."
+  },
+  {
+    "id": "n10-v06-4.2-04",
+    "objective": "4.2",
+    "prompt": "Many distributed sources flood a public service — which answer best fits?",
+    "options": [
+      "DNS alias",
+      "Normal DHCP renewal",
+      "DDoS",
+      "Single local cable fault"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "DDoS is the best match for this situation. Spoofing falsifies identity information; ARP poisoning can redirect local IPv4 traffic. Rogue DHCP may supply malicious gateway or DNS settings. Evil twin APs imitate trusted Wi-Fi. DoS exhausts resources; DDoS uses distributed sources. Social engineering targets human decisions. VLAN hopping crosses intended layer-2 boundaries. Validate evidence before attribution."
+  },
+  {
+    "id": "n10-v06-4.2-05",
+    "objective": "4.2",
+    "prompt": "An email impersonates IT to request passwords — which answer best fits?",
+    "options": [
+      "Port aggregation",
+      "Route summarization",
+      "Phishing",
+      "Cable crosstalk"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Phishing is the best match for this situation. Spoofing falsifies identity information; ARP poisoning can redirect local IPv4 traffic. Rogue DHCP may supply malicious gateway or DNS settings. Evil twin APs imitate trusted Wi-Fi. DoS exhausts resources; DDoS uses distributed sources. Social engineering targets human decisions. VLAN hopping crosses intended layer-2 boundaries. Validate evidence before attribution."
+  },
+  {
+    "id": "n10-v06-4.2-06",
+    "objective": "4.2",
+    "prompt": "A DNS response points users to an unauthorized IP — which answer best fits?",
+    "options": [
+      "DNS poisoning",
+      "SLAAC",
+      "STP blocking",
+      "Normal PTR lookup"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "DNS poisoning is the best match for this situation. Spoofing falsifies identity information; ARP poisoning can redirect local IPv4 traffic. Rogue DHCP may supply malicious gateway or DNS settings. Evil twin APs imitate trusted Wi-Fi. DoS exhausts resources; DDoS uses distributed sources. Social engineering targets human decisions. VLAN hopping crosses intended layer-2 boundaries. Validate evidence before attribution."
+  },
+  {
+    "id": "n10-v06-4.2-07",
+    "objective": "4.2",
+    "prompt": "An attacker claims another device's source address — which answer best fits?",
+    "options": [
+      "QoS",
+      "Spoofing",
+      "Load balancing",
+      "Encryption"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Spoofing is the best match for this situation. Spoofing falsifies identity information; ARP poisoning can redirect local IPv4 traffic. Rogue DHCP may supply malicious gateway or DNS settings. Evil twin APs imitate trusted Wi-Fi. DoS exhausts resources; DDoS uses distributed sources. Social engineering targets human decisions. VLAN hopping crosses intended layer-2 boundaries. Validate evidence before attribution."
+  },
+  {
+    "id": "n10-v06-4.2-08",
+    "objective": "4.2",
+    "prompt": "Traffic crosses VLAN boundaries by exploiting switching configuration — which answer best fits?",
+    "options": [
+      "VLAN hopping",
+      "NTP sync",
+      "Normal authorized routing",
+      "DNS forwarding"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "VLAN hopping is the best match for this situation. Spoofing falsifies identity information; ARP poisoning can redirect local IPv4 traffic. Rogue DHCP may supply malicious gateway or DNS settings. Evil twin APs imitate trusted Wi-Fi. DoS exhausts resources; DDoS uses distributed sources. Social engineering targets human decisions. VLAN hopping crosses intended layer-2 boundaries. Validate evidence before attribution."
+  },
+  {
+    "id": "n10-v06-4.2-09",
+    "objective": "4.2",
+    "prompt": "A malicious program encrypts files and demands payment — which answer best fits?",
+    "options": [
+      "Firmware validation",
+      "DHCP renewal",
+      "Routine backup",
+      "Ransomware"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "Ransomware is the best match for this situation. Spoofing falsifies identity information; ARP poisoning can redirect local IPv4 traffic. Rogue DHCP may supply malicious gateway or DNS settings. Evil twin APs imitate trusted Wi-Fi. DoS exhausts resources; DDoS uses distributed sources. Social engineering targets human decisions. VLAN hopping crosses intended layer-2 boundaries. Validate evidence before attribution."
+  },
+  {
+    "id": "n10-v06-4.2-10",
+    "objective": "4.2",
+    "prompt": "A person follows an authorized employee through a secured door — which answer best fits?",
+    "options": [
+      "Anycast",
+      "Certificate renewal",
+      "Tailgating",
+      "Packet loss"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Tailgating is the best match for this situation. Spoofing falsifies identity information; ARP poisoning can redirect local IPv4 traffic. Rogue DHCP may supply malicious gateway or DNS settings. Evil twin APs imitate trusted Wi-Fi. DoS exhausts resources; DDoS uses distributed sources. Social engineering targets human decisions. VLAN hopping crosses intended layer-2 boundaries. Validate evidence before attribution."
+  },
+  {
+    "id": "n10-v06-4.3-01",
+    "objective": "4.3",
+    "prompt": "A switch must authenticate endpoints before granting access — which answer best fits?",
+    "options": [
+      "NTP",
+      "802.1X",
+      "STP",
+      "LACP"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "802.1X is the best match for this situation. Use explicit ACL policy, segmentation, secure management, patching and disable unused services. 802.1X controls port access; RADIUS commonly supports network access authentication, TACACS+ commonly supports device administration. DHCP snooping and dynamic ARP inspection mitigate specific local threats when correctly configured. DMZs isolate exposed services; NAC can assess endpoint compliance."
+  },
+  {
+    "id": "n10-v06-4.3-02",
+    "objective": "4.3",
+    "prompt": "A public web server should be isolated from internal clients — which answer best fits?",
+    "options": [
+      "Console network",
+      "Unrestricted internal VLAN",
+      "Shared management subnet",
+      "DMZ"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "DMZ is the best match for this situation. Use explicit ACL policy, segmentation, secure management, patching and disable unused services. 802.1X controls port access; RADIUS commonly supports network access authentication, TACACS+ commonly supports device administration. DHCP snooping and dynamic ARP inspection mitigate specific local threats when correctly configured. DMZs isolate exposed services; NAC can assess endpoint compliance."
+  },
+  {
+    "id": "n10-v06-4.3-03",
+    "objective": "4.3",
+    "prompt": "A switch must reject DHCP offers from untrusted access ports — which answer best fits?",
+    "options": [
+      "DNS forwarding",
+      "Port mirroring",
+      "QoS",
+      "DHCP snooping"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "DHCP snooping is the best match for this situation. Use explicit ACL policy, segmentation, secure management, patching and disable unused services. 802.1X controls port access; RADIUS commonly supports network access authentication, TACACS+ commonly supports device administration. DHCP snooping and dynamic ARP inspection mitigate specific local threats when correctly configured. DMZs isolate exposed services; NAC can assess endpoint compliance."
+  },
+  {
+    "id": "n10-v06-4.3-04",
+    "objective": "4.3",
+    "prompt": "A switch validates ARP messages against trusted bindings — which answer best fits?",
+    "options": [
+      "NTP authentication",
+      "NAT64",
+      "Dynamic ARP inspection",
+      "LACP"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Dynamic ARP inspection is the best match for this situation. Use explicit ACL policy, segmentation, secure management, patching and disable unused services. 802.1X controls port access; RADIUS commonly supports network access authentication, TACACS+ commonly supports device administration. DHCP snooping and dynamic ARP inspection mitigate specific local threats when correctly configured. DMZs isolate exposed services; NAC can assess endpoint compliance."
+  },
+  {
+    "id": "n10-v06-4.3-05",
+    "objective": "4.3",
+    "prompt": "An unused access port presents unnecessary exposure — which answer best fits?",
+    "options": [
+      "Enable open trunk",
+      "Set public IP",
+      "Administratively disable it",
+      "Disable logging"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Administratively disable it is the best match for this situation. Use explicit ACL policy, segmentation, secure management, patching and disable unused services. 802.1X controls port access; RADIUS commonly supports network access authentication, TACACS+ commonly supports device administration. DHCP snooping and dynamic ARP inspection mitigate specific local threats when correctly configured. DMZs isolate exposed services; NAC can assess endpoint compliance."
+  },
+  {
+    "id": "n10-v06-4.3-06",
+    "objective": "4.3",
+    "prompt": "A firewall should permit only required application flows — which answer best fits?",
+    "options": [
+      "Least-privilege ACL",
+      "Disable inspection",
+      "Allow all inbound ports",
+      "Permit all"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Least-privilege ACL is the best match for this situation. Use explicit ACL policy, segmentation, secure management, patching and disable unused services. 802.1X controls port access; RADIUS commonly supports network access authentication, TACACS+ commonly supports device administration. DHCP snooping and dynamic ARP inspection mitigate specific local threats when correctly configured. DMZs isolate exposed services; NAC can assess endpoint compliance."
+  },
+  {
+    "id": "n10-v06-4.3-07",
+    "objective": "4.3",
+    "prompt": "A device administration system needs centralized command authorization — which answer best fits?",
+    "options": [
+      "TFTP",
+      "DHCP",
+      "DNS",
+      "TACACS+"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "TACACS+ is the best match for this situation. Use explicit ACL policy, segmentation, secure management, patching and disable unused services. 802.1X controls port access; RADIUS commonly supports network access authentication, TACACS+ commonly supports device administration. DHCP snooping and dynamic ARP inspection mitigate specific local threats when correctly configured. DMZs isolate exposed services; NAC can assess endpoint compliance."
+  },
+  {
+    "id": "n10-v06-4.3-08",
+    "objective": "4.3",
+    "prompt": "Enterprise network access authentication commonly uses — which answer best fits?",
+    "options": [
+      "ICMP",
+      "RADIUS",
+      "ARP",
+      "FTP"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "RADIUS is the best match for this situation. Use explicit ACL policy, segmentation, secure management, patching and disable unused services. 802.1X controls port access; RADIUS commonly supports network access authentication, TACACS+ commonly supports device administration. DHCP snooping and dynamic ARP inspection mitigate specific local threats when correctly configured. DMZs isolate exposed services; NAC can assess endpoint compliance."
+  },
+  {
+    "id": "n10-v06-4.3-09",
+    "objective": "4.3",
+    "prompt": "An endpoint must satisfy security posture before access — which answer best fits?",
+    "options": [
+      "NAC",
+      "SPAN only",
+      "VLSM",
+      "CDN"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "NAC is the best match for this situation. Use explicit ACL policy, segmentation, secure management, patching and disable unused services. 802.1X controls port access; RADIUS commonly supports network access authentication, TACACS+ commonly supports device administration. DHCP snooping and dynamic ARP inspection mitigate specific local threats when correctly configured. DMZs isolate exposed services; NAC can assess endpoint compliance."
+  },
+  {
+    "id": "n10-v06-4.3-10",
+    "objective": "4.3",
+    "prompt": "A device runs vulnerable firmware — which answer best fits?",
+    "options": [
+      "Increase TTL",
+      "Disable backups",
+      "Change cable color",
+      "Test and apply approved security update"
+    ],
+    "answer": 3,
+    "difficulty": "analysis",
+    "explanation": "Test and apply approved security update is the best match for this situation. Use explicit ACL policy, segmentation, secure management, patching and disable unused services. 802.1X controls port access; RADIUS commonly supports network access authentication, TACACS+ commonly supports device administration. DHCP snooping and dynamic ARP inspection mitigate specific local threats when correctly configured. DMZs isolate exposed services; NAC can assess endpoint compliance."
+  },
+  {
+    "id": "n10-v06-5.1-01",
+    "objective": "5.1",
+    "prompt": "A user reports intermittent connectivity; what comes first — which answer best fits?",
+    "options": [
+      "Disable security",
+      "Close ticket",
+      "Gather symptoms and scope",
+      "Replace every switch"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Gather symptoms and scope is the best match for this situation. Identify scope and symptoms, establish a probable cause, test the theory, plan and implement a fix, verify full functionality and document findings. Escalate when evidence or authorization is insufficient. Change one variable at a time and use rollback plans. Verify with affected users and monitoring."
+  },
+  {
+    "id": "n10-v06-5.1-02",
+    "objective": "5.1",
+    "prompt": "Only one floor is affected; what should be established next — which answer best fits?",
+    "options": [
+      "Delete logs",
+      "Evidence-based probable cause",
+      "Unrelated global redesign",
+      "Declare resolution"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Evidence-based probable cause is the best match for this situation. Identify scope and symptoms, establish a probable cause, test the theory, plan and implement a fix, verify full functionality and document findings. Escalate when evidence or authorization is insufficient. Change one variable at a time and use rollback plans. Verify with affected users and monitoring."
+  },
+  {
+    "id": "n10-v06-5.1-03",
+    "objective": "5.1",
+    "prompt": "A suspected bad patch cable is identified — which answer best fits?",
+    "options": [
+      "Replace all routers",
+      "Test with a known-good cable",
+      "Ignore hypothesis",
+      "Change DNS globally"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Test with a known-good cable is the best match for this situation. Identify scope and symptoms, establish a probable cause, test the theory, plan and implement a fix, verify full functionality and document findings. Escalate when evidence or authorization is insufficient. Change one variable at a time and use rollback plans. Verify with affected users and monitoring."
+  },
+  {
+    "id": "n10-v06-5.1-04",
+    "objective": "5.1",
+    "prompt": "A theory is disproved — which answer best fits?",
+    "options": [
+      "Close ticket",
+      "Apply disproved fix anyway",
+      "Develop another theory or escalate",
+      "Delete evidence"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Develop another theory or escalate is the best match for this situation. Identify scope and symptoms, establish a probable cause, test the theory, plan and implement a fix, verify full functionality and document findings. Escalate when evidence or authorization is insufficient. Change one variable at a time and use rollback plans. Verify with affected users and monitoring."
+  },
+  {
+    "id": "n10-v06-5.1-05",
+    "objective": "5.1",
+    "prompt": "A proposed fix affects production — which answer best fits?",
+    "options": [
+      "Remove backups",
+      "Change without approval",
+      "Disable monitoring",
+      "Plan change and rollback before implementation"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Plan change and rollback before implementation is the best match for this situation. Identify scope and symptoms, establish a probable cause, test the theory, plan and implement a fix, verify full functionality and document findings. Escalate when evidence or authorization is insufficient. Change one variable at a time and use rollback plans. Verify with affected users and monitoring."
+  },
+  {
+    "id": "n10-v06-5.1-06",
+    "objective": "5.1",
+    "prompt": "A fix restores ping but users still cannot access email — which answer best fits?",
+    "options": [
+      "Close ticket based on ping",
+      "Delete mail records",
+      "Ignore user report",
+      "Verify full service functionality"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Verify full service functionality is the best match for this situation. Identify scope and symptoms, establish a probable cause, test the theory, plan and implement a fix, verify full functionality and document findings. Escalate when evidence or authorization is insufficient. Change one variable at a time and use rollback plans. Verify with affected users and monitoring."
+  },
+  {
+    "id": "n10-v06-5.1-07",
+    "objective": "5.1",
+    "prompt": "A fix succeeds and preventive action is identified — which answer best fits?",
+    "options": [
+      "Avoid recording changes",
+      "Disable alerts",
+      "Erase ticket",
+      "Document findings and actions"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Document findings and actions is the best match for this situation. Identify scope and symptoms, establish a probable cause, test the theory, plan and implement a fix, verify full functionality and document findings. Escalate when evidence or authorization is insufficient. Change one variable at a time and use rollback plans. Verify with affected users and monitoring."
+  },
+  {
+    "id": "n10-v06-5.1-08",
+    "objective": "5.1",
+    "prompt": "A technician lacks authorization for a risky change — which answer best fits?",
+    "options": [
+      "Share administrator password",
+      "Disable audit",
+      "Escalate to authorized personnel",
+      "Bypass approval"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Escalate to authorized personnel is the best match for this situation. Identify scope and symptoms, establish a probable cause, test the theory, plan and implement a fix, verify full functionality and document findings. Escalate when evidence or authorization is insufficient. Change one variable at a time and use rollback plans. Verify with affected users and monitoring."
+  },
+  {
+    "id": "n10-v06-5.1-09",
+    "objective": "5.1",
+    "prompt": "A problem began after a change — which answer best fits?",
+    "options": [
+      "Assume coincidence always",
+      "Replace unrelated endpoints",
+      "Review change history and test correlation",
+      "Delete configuration"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Review change history and test correlation is the best match for this situation. Identify scope and symptoms, establish a probable cause, test the theory, plan and implement a fix, verify full functionality and document findings. Escalate when evidence or authorization is insufficient. Change one variable at a time and use rollback plans. Verify with affected users and monitoring."
+  },
+  {
+    "id": "n10-v06-5.1-10",
+    "objective": "5.1",
+    "prompt": "A test changes several variables simultaneously — which answer best fits?",
+    "options": [
+      "Ignore results",
+      "Change more variables",
+      "Isolate variables for interpretable evidence",
+      "Declare root cause immediately"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Isolate variables for interpretable evidence is the best match for this situation. Identify scope and symptoms, establish a probable cause, test the theory, plan and implement a fix, verify full functionality and document findings. Escalate when evidence or authorization is insufficient. Change one variable at a time and use rollback plans. Verify with affected users and monitoring."
+  },
+  {
+    "id": "n10-v06-5.2-01",
+    "objective": "5.2",
+    "prompt": "A copper cable has a broken conductor — which answer best fits?",
+    "options": [
+      "DNS lookup",
+      "NTP query",
+      "Route table",
+      "Wiremap tester"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Wiremap tester is the best match for this situation. CRC/FCS errors can indicate corrupted frames from cabling, optics or duplex issues. Check link state, speed, duplex, error trends and transceiver compatibility. Cable testers identify wire faults; certification validates performance; optical power meters measure light. PoE budget and standards must match device demand."
+  },
+  {
+    "id": "n10-v06-5.2-02",
+    "objective": "5.2",
+    "prompt": "A fiber link has low received optical power — which answer best fits?",
+    "options": [
+      "DHCP release",
+      "DNS query",
+      "ARP cache",
+      "Optical power measurement"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Optical power measurement is the best match for this situation. CRC/FCS errors can indicate corrupted frames from cabling, optics or duplex issues. Check link state, speed, duplex, error trends and transceiver compatibility. Cable testers identify wire faults; certification validates performance; optical power meters measure light. PoE budget and standards must match device demand."
+  },
+  {
+    "id": "n10-v06-5.2-03",
+    "objective": "5.2",
+    "prompt": "A copper link negotiates 100 Mbps instead of expected 1 Gbps — which answer best fits?",
+    "options": [
+      "Increase TTL",
+      "Disable NTP",
+      "Change DNS zone",
+      "Inspect cable pairs and negotiation"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Inspect cable pairs and negotiation is the best match for this situation. CRC/FCS errors can indicate corrupted frames from cabling, optics or duplex issues. Check link state, speed, duplex, error trends and transceiver compatibility. Cable testers identify wire faults; certification validates performance; optical power meters measure light. PoE budget and standards must match device demand."
+  },
+  {
+    "id": "n10-v06-5.2-04",
+    "objective": "5.2",
+    "prompt": "A switch reports rising CRC errors — which answer best fits?",
+    "options": [
+      "Clear browser cache",
+      "Increase DHCP lease",
+      "Change hostname",
+      "Inspect physical link and duplex"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Inspect physical link and duplex is the best match for this situation. CRC/FCS errors can indicate corrupted frames from cabling, optics or duplex issues. Check link state, speed, duplex, error trends and transceiver compatibility. Cable testers identify wire faults; certification validates performance; optical power meters measure light. PoE budget and standards must match device demand."
+  },
+  {
+    "id": "n10-v06-5.2-05",
+    "objective": "5.2",
+    "prompt": "A PoE phone powers off when more devices connect — which answer best fits?",
+    "options": [
+      "Disable routing",
+      "Change DNS record",
+      "Increase TCP window",
+      "Check PoE budget"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Check PoE budget is the best match for this situation. CRC/FCS errors can indicate corrupted frames from cabling, optics or duplex issues. Check link state, speed, duplex, error trends and transceiver compatibility. Cable testers identify wire faults; certification validates performance; optical power meters measure light. PoE budget and standards must match device demand."
+  },
+  {
+    "id": "n10-v06-5.2-06",
+    "objective": "5.2",
+    "prompt": "A cable exceeds supported Ethernet channel length — which answer best fits?",
+    "options": [
+      "Change VLAN name",
+      "Use compliant length or suitable alternate medium",
+      "Increase DNS TTL",
+      "Disable STP"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Use compliant length or suitable alternate medium is the best match for this situation. CRC/FCS errors can indicate corrupted frames from cabling, optics or duplex issues. Check link state, speed, duplex, error trends and transceiver compatibility. Cable testers identify wire faults; certification validates performance; optical power meters measure light. PoE budget and standards must match device demand."
+  },
+  {
+    "id": "n10-v06-5.2-07",
+    "objective": "5.2",
+    "prompt": "A fiber connector is contaminated — which answer best fits?",
+    "options": [
+      "Inspect and clean with approved tools",
+      "Touch ferrule",
+      "Increase power blindly",
+      "Look into live fiber"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Inspect and clean with approved tools is the best match for this situation. CRC/FCS errors can indicate corrupted frames from cabling, optics or duplex issues. Check link state, speed, duplex, error trends and transceiver compatibility. Cable testers identify wire faults; certification validates performance; optical power meters measure light. PoE budget and standards must match device demand."
+  },
+  {
+    "id": "n10-v06-5.2-08",
+    "objective": "5.2",
+    "prompt": "A cable has correct continuity but fails high-speed operation — which answer best fits?",
+    "options": [
+      "Ping localhost only",
+      "Cable certification test",
+      "NTP sync",
+      "DNS lookup"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "Cable certification test is the best match for this situation. CRC/FCS errors can indicate corrupted frames from cabling, optics or duplex issues. Check link state, speed, duplex, error trends and transceiver compatibility. Cable testers identify wire faults; certification validates performance; optical power meters measure light. PoE budget and standards must match device demand."
+  },
+  {
+    "id": "n10-v06-5.2-09",
+    "objective": "5.2",
+    "prompt": "A transceiver is not supported by the switch — which answer best fits?",
+    "options": [
+      "Change subnet mask",
+      "Change SSID",
+      "Check compatibility and replace appropriately",
+      "Disable logging"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Check compatibility and replace appropriately is the best match for this situation. CRC/FCS errors can indicate corrupted frames from cabling, optics or duplex issues. Check link state, speed, duplex, error trends and transceiver compatibility. Cable testers identify wire faults; certification validates performance; optical power meters measure light. PoE budget and standards must match device demand."
+  },
+  {
+    "id": "n10-v06-5.2-10",
+    "objective": "5.2",
+    "prompt": "A link has late collisions and mismatched duplex settings — which answer best fits?",
+    "options": [
+      "Correct duplex negotiation on both ends",
+      "Increase TTL",
+      "Add DHCP relay",
+      "Change DNS server"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "Correct duplex negotiation on both ends is the best match for this situation. CRC/FCS errors can indicate corrupted frames from cabling, optics or duplex issues. Check link state, speed, duplex, error trends and transceiver compatibility. Cable testers identify wire faults; certification validates performance; optical power meters measure light. PoE budget and standards must match device demand."
+  },
+  {
+    "id": "n10-v06-5.3-01",
+    "objective": "5.3",
+    "prompt": "A host reaches local peers but no remote networks; its gateway is wrong — which answer best fits?",
+    "options": [
+      "Change DNS MX",
+      "Replace monitor",
+      "Correct default gateway",
+      "Increase PoE"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Correct default gateway is the best match for this situation. Check local address, mask, gateway, VLAN, DHCP and DNS separately. A duplicate IP may cause intermittent ARP changes. A missing VLAN on a trunk isolates that VLAN. STP changes can interrupt forwarding. Routing loops consume TTL; wrong default routes break remote reachability. Exhausted DHCP pools affect new leases."
+  },
+  {
+    "id": "n10-v06-5.3-02",
+    "objective": "5.3",
+    "prompt": "A host reaches remote IPs but cannot resolve names — which answer best fits?",
+    "options": [
+      "Replace fiber immediately",
+      "Disable routing",
+      "Investigate DNS",
+      "Change duplex blindly"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Investigate DNS is the best match for this situation. Check local address, mask, gateway, VLAN, DHCP and DNS separately. A duplicate IP may cause intermittent ARP changes. A missing VLAN on a trunk isolates that VLAN. STP changes can interrupt forwarding. Routing loops consume TTL; wrong default routes break remote reachability. Exhausted DHCP pools affect new leases."
+  },
+  {
+    "id": "n10-v06-5.3-03",
+    "objective": "5.3",
+    "prompt": "New clients fail leases while existing clients work and pool is full — which answer best fits?",
+    "options": [
+      "DHCP exhaustion",
+      "DNS poisoning necessarily",
+      "NTP drift",
+      "STP loop necessarily"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "DHCP exhaustion is the best match for this situation. Check local address, mask, gateway, VLAN, DHCP and DNS separately. A duplicate IP may cause intermittent ARP changes. A missing VLAN on a trunk isolates that VLAN. STP changes can interrupt forwarding. Routing loops consume TTL; wrong default routes break remote reachability. Exhausted DHCP pools affect new leases."
+  },
+  {
+    "id": "n10-v06-5.3-04",
+    "objective": "5.3",
+    "prompt": "Two hosts use the same static address — which answer best fits?",
+    "options": [
+      "Normal anycast design",
+      "Duplicate IP conflict",
+      "Expected DHCP relay",
+      "QoS policy"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "Duplicate IP conflict is the best match for this situation. Check local address, mask, gateway, VLAN, DHCP and DNS separately. A duplicate IP may cause intermittent ARP changes. A missing VLAN on a trunk isolates that VLAN. STP changes can interrupt forwarding. Routing loops consume TTL; wrong default routes break remote reachability. Exhausted DHCP pools affect new leases."
+  },
+  {
+    "id": "n10-v06-5.3-05",
+    "objective": "5.3",
+    "prompt": "Only VLAN 40 fails across a trunk; allowed list omits 40 — which answer best fits?",
+    "options": [
+      "Change all host DNS",
+      "Disable DHCP",
+      "Replace WAN router",
+      "Correct trunk allowed VLANs"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "Correct trunk allowed VLANs is the best match for this situation. Check local address, mask, gateway, VLAN, DHCP and DNS separately. A duplicate IP may cause intermittent ARP changes. A missing VLAN on a trunk isolates that VLAN. STP changes can interrupt forwarding. Routing loops consume TTL; wrong default routes break remote reachability. Exhausted DHCP pools affect new leases."
+  },
+  {
+    "id": "n10-v06-5.3-06",
+    "objective": "5.3",
+    "prompt": "A host has /16 mask but intended subnet is /24 — which answer best fits?",
+    "options": [
+      "Change SSID only",
+      "Increase PoE",
+      "Correct subnet mask",
+      "Change NTP server"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Correct subnet mask is the best match for this situation. Check local address, mask, gateway, VLAN, DHCP and DNS separately. A duplicate IP may cause intermittent ARP changes. A missing VLAN on a trunk isolates that VLAN. STP changes can interrupt forwarding. Routing loops consume TTL; wrong default routes break remote reachability. Exhausted DHCP pools affect new leases."
+  },
+  {
+    "id": "n10-v06-5.3-07",
+    "objective": "5.3",
+    "prompt": "Traceroute repeatedly shows the same routers until TTL expires — which answer best fits?",
+    "options": [
+      "Investigate routing loop",
+      "Expected NAT",
+      "Normal DNS resolution",
+      "Cable label issue"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Investigate routing loop is the best match for this situation. Check local address, mask, gateway, VLAN, DHCP and DNS separately. A duplicate IP may cause intermittent ARP changes. A missing VLAN on a trunk isolates that VLAN. STP changes can interrupt forwarding. Routing loops consume TTL; wrong default routes break remote reachability. Exhausted DHCP pools affect new leases."
+  },
+  {
+    "id": "n10-v06-5.3-08",
+    "objective": "5.3",
+    "prompt": "A switch port is administratively down — which answer best fits?",
+    "options": [
+      "Change DNS record",
+      "Verify intended configuration before enabling",
+      "Renew certificate",
+      "Increase MTU"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "Verify intended configuration before enabling is the best match for this situation. Check local address, mask, gateway, VLAN, DHCP and DNS separately. A duplicate IP may cause intermittent ARP changes. A missing VLAN on a trunk isolates that VLAN. STP changes can interrupt forwarding. Routing loops consume TTL; wrong default routes break remote reachability. Exhausted DHCP pools affect new leases."
+  },
+  {
+    "id": "n10-v06-5.3-09",
+    "objective": "5.3",
+    "prompt": "A client self-assigns link-local IPv4 after DHCP timeout — which answer best fits?",
+    "options": [
+      "Treat as normal internet address",
+      "Change browser",
+      "Investigate DHCP path and scope",
+      "Disable ARP"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Investigate DHCP path and scope is the best match for this situation. Check local address, mask, gateway, VLAN, DHCP and DNS separately. A duplicate IP may cause intermittent ARP changes. A missing VLAN on a trunk isolates that VLAN. STP changes can interrupt forwarding. Routing loops consume TTL; wrong default routes break remote reachability. Exhausted DHCP pools affect new leases."
+  },
+  {
+    "id": "n10-v06-5.3-10",
+    "objective": "5.3",
+    "prompt": "A newly connected redundant switch link causes broadcast storm — which answer best fits?",
+    "options": [
+      "Investigate layer-2 loop and STP",
+      "Change DNS suffix",
+      "Increase DHCP pool only",
+      "Increase NTP polling"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "Investigate layer-2 loop and STP is the best match for this situation. Check local address, mask, gateway, VLAN, DHCP and DNS separately. A duplicate IP may cause intermittent ARP changes. A missing VLAN on a trunk isolates that VLAN. STP changes can interrupt forwarding. Routing loops consume TTL; wrong default routes break remote reachability. Exhausted DHCP pools affect new leases."
+  },
+  {
+    "id": "n10-v06-5.4-01",
+    "objective": "5.4",
+    "prompt": "Voice packets arrive with highly variable delay — which answer best fits?",
+    "options": [
+      "Jitter",
+      "IP conflict necessarily",
+      "Cable length alone",
+      "DNS TTL"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Jitter is the best match for this situation. Latency is delay, jitter is delay variation, loss is missing packets, throughput is delivered rate. Congestion causes queues and drops; errors suggest physical problems. Wireless interference reduces effective airtime. Compare baseline, utilization, errors and application timing; avoid assuming high bandwidth guarantees low latency."
+  },
+  {
+    "id": "n10-v06-5.4-02",
+    "objective": "5.4",
+    "prompt": "A WAN link runs near capacity and output drops rise — which answer best fits?",
+    "options": [
+      "DNS alias",
+      "Normal idle link",
+      "Congestion",
+      "Certificate expiry"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Congestion is the best match for this situation. Latency is delay, jitter is delay variation, loss is missing packets, throughput is delivered rate. Congestion causes queues and drops; errors suggest physical problems. Wireless interference reduces effective airtime. Compare baseline, utilization, errors and application timing; avoid assuming high bandwidth guarantees low latency."
+  },
+  {
+    "id": "n10-v06-5.4-03",
+    "objective": "5.4",
+    "prompt": "A transfer achieves 80 Mbps on a 100 Mbps link — which answer best fits?",
+    "options": [
+      "Throughput is 80 Mbps",
+      "Latency is 80 Mbps",
+      "Jitter is 80 Mbps",
+      "Loss is 80 Mbps"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Throughput is 80 Mbps is the best match for this situation. Latency is delay, jitter is delay variation, loss is missing packets, throughput is delivered rate. Congestion causes queues and drops; errors suggest physical problems. Wireless interference reduces effective airtime. Compare baseline, utilization, errors and application timing; avoid assuming high bandwidth guarantees low latency."
+  },
+  {
+    "id": "n10-v06-5.4-04",
+    "objective": "5.4",
+    "prompt": "A ping round trip takes 150 ms — which answer best fits?",
+    "options": [
+      "Round-trip latency",
+      "Throughput",
+      "Bandwidth",
+      "PoE budget"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Round-trip latency is the best match for this situation. Latency is delay, jitter is delay variation, loss is missing packets, throughput is delivered rate. Congestion causes queues and drops; errors suggest physical problems. Wireless interference reduces effective airtime. Compare baseline, utilization, errors and application timing; avoid assuming high bandwidth guarantees low latency."
+  },
+  {
+    "id": "n10-v06-5.4-05",
+    "objective": "5.4",
+    "prompt": "A test sends 100 packets and receives 95 — which answer best fits?",
+    "options": [
+      "5 ms jitter",
+      "100 Mbps throughput",
+      "95 percent loss",
+      "5 percent loss"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "5 percent loss is the best match for this situation. Latency is delay, jitter is delay variation, loss is missing packets, throughput is delivered rate. Congestion causes queues and drops; errors suggest physical problems. Wireless interference reduces effective airtime. Compare baseline, utilization, errors and application timing; avoid assuming high bandwidth guarantees low latency."
+  },
+  {
+    "id": "n10-v06-5.4-06",
+    "objective": "5.4",
+    "prompt": "A Wi-Fi channel has high utilization from neighboring APs — which answer best fits?",
+    "options": [
+      "Investigate airtime contention",
+      "Increase DHCP lease",
+      "Change DNS MX",
+      "Replace UPS"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Investigate airtime contention is the best match for this situation. Latency is delay, jitter is delay variation, loss is missing packets, throughput is delivered rate. Congestion causes queues and drops; errors suggest physical problems. Wireless interference reduces effective airtime. Compare baseline, utilization, errors and application timing; avoid assuming high bandwidth guarantees low latency."
+  },
+  {
+    "id": "n10-v06-5.4-07",
+    "objective": "5.4",
+    "prompt": "A link has low utilization but rising CRC errors — which answer best fits?",
+    "options": [
+      "Investigate physical corruption",
+      "Assume congestion only",
+      "Increase DNS TTL",
+      "Disable logging"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "Investigate physical corruption is the best match for this situation. Latency is delay, jitter is delay variation, loss is missing packets, throughput is delivered rate. Congestion causes queues and drops; errors suggest physical problems. Wireless interference reduces effective airtime. Compare baseline, utilization, errors and application timing; avoid assuming high bandwidth guarantees low latency."
+  },
+  {
+    "id": "n10-v06-5.4-08",
+    "objective": "5.4",
+    "prompt": "A server responds slowly despite fast network RTT — which answer best fits?",
+    "options": [
+      "Change VLAN randomly",
+      "Investigate application/server timing",
+      "Assume cable fault",
+      "Increase PoE"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "Investigate application/server timing is the best match for this situation. Latency is delay, jitter is delay variation, loss is missing packets, throughput is delivered rate. Congestion causes queues and drops; errors suggest physical problems. Wireless interference reduces effective airtime. Compare baseline, utilization, errors and application timing; avoid assuming high bandwidth guarantees low latency."
+  },
+  {
+    "id": "n10-v06-5.4-09",
+    "objective": "5.4",
+    "prompt": "A voice class needs priority during verified congestion — which answer best fits?",
+    "options": [
+      "Appropriate QoS policy",
+      "Change DNS suffix",
+      "Increase TTL",
+      "Disable encryption"
+    ],
+    "answer": 0,
+    "difficulty": "analysis",
+    "explanation": "Appropriate QoS policy is the best match for this situation. Latency is delay, jitter is delay variation, loss is missing packets, throughput is delivered rate. Congestion causes queues and drops; errors suggest physical problems. Wireless interference reduces effective airtime. Compare baseline, utilization, errors and application timing; avoid assuming high bandwidth guarantees low latency."
+  },
+  {
+    "id": "n10-v06-5.4-10",
+    "objective": "5.4",
+    "prompt": "A speed test is slow only during scheduled backups — which answer best fits?",
+    "options": [
+      "Change subnet class",
+      "Compare traffic flows and schedule or shape backups",
+      "Replace all switches immediately",
+      "Disable monitoring"
+    ],
+    "answer": 1,
+    "difficulty": "analysis",
+    "explanation": "Compare traffic flows and schedule or shape backups is the best match for this situation. Latency is delay, jitter is delay variation, loss is missing packets, throughput is delivered rate. Congestion causes queues and drops; errors suggest physical problems. Wireless interference reduces effective airtime. Compare baseline, utilization, errors and application timing; avoid assuming high bandwidth guarantees low latency."
+  },
+  {
+    "id": "n10-v06-5.5-01",
+    "objective": "5.5",
+    "prompt": "A Windows host needs its assigned gateway and DNS settings displayed — which answer best fits?",
+    "options": [
+      "nslookup alone",
+      "netstat alone",
+      "tracert alone",
+      "ipconfig /all"
+    ],
+    "answer": 3,
+    "difficulty": "application",
+    "explanation": "ipconfig /all is the best match for this situation. Ping tests ICMP reachability but filtering can hide responses. Traceroute reveals responding hops, not necessarily the exact return path. ipconfig/ip addr show addressing; arp/ip neigh show neighbor mappings; netstat/ss show sockets; dig/nslookup query DNS. Packet analyzers inspect protocols. LLDP/CDP reveal adjacent devices. Cable and optical tools test physical media."
+  },
+  {
+    "id": "n10-v06-5.5-02",
+    "objective": "5.5",
+    "prompt": "A Linux host needs its neighbor cache displayed — which answer best fits?",
+    "options": [
+      "ip neigh",
+      "curl",
+      "dig",
+      "hostname"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "ip neigh is the best match for this situation. Ping tests ICMP reachability but filtering can hide responses. Traceroute reveals responding hops, not necessarily the exact return path. ipconfig/ip addr show addressing; arp/ip neigh show neighbor mappings; netstat/ss show sockets; dig/nslookup query DNS. Packet analyzers inspect protocols. LLDP/CDP reveal adjacent devices. Cable and optical tools test physical media."
+  },
+  {
+    "id": "n10-v06-5.5-03",
+    "objective": "5.5",
+    "prompt": "A technician needs responding hops toward a destination — which answer best fits?",
+    "options": [
+      "ipconfig only",
+      "arp only",
+      "traceroute or tracert",
+      "nslookup only"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "traceroute or tracert is the best match for this situation. Ping tests ICMP reachability but filtering can hide responses. Traceroute reveals responding hops, not necessarily the exact return path. ipconfig/ip addr show addressing; arp/ip neigh show neighbor mappings; netstat/ss show sockets; dig/nslookup query DNS. Packet analyzers inspect protocols. LLDP/CDP reveal adjacent devices. Cable and optical tools test physical media."
+  },
+  {
+    "id": "n10-v06-5.5-04",
+    "objective": "5.5",
+    "prompt": "A technician needs DNS MX records — which answer best fits?",
+    "options": [
+      "Cable tester",
+      "dig MX or nslookup type MX",
+      "ping only",
+      "netstat only"
+    ],
+    "answer": 1,
+    "difficulty": "application",
+    "explanation": "dig MX or nslookup type MX is the best match for this situation. Ping tests ICMP reachability but filtering can hide responses. Traceroute reveals responding hops, not necessarily the exact return path. ipconfig/ip addr show addressing; arp/ip neigh show neighbor mappings; netstat/ss show sockets; dig/nslookup query DNS. Packet analyzers inspect protocols. LLDP/CDP reveal adjacent devices. Cable and optical tools test physical media."
+  },
+  {
+    "id": "n10-v06-5.5-05",
+    "objective": "5.5",
+    "prompt": "A technician needs active TCP sockets on Linux — which answer best fits?",
+    "options": [
+      "ss",
+      "Optical meter",
+      "traceroute",
+      "dig"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "ss is the best match for this situation. Ping tests ICMP reachability but filtering can hide responses. Traceroute reveals responding hops, not necessarily the exact return path. ipconfig/ip addr show addressing; arp/ip neigh show neighbor mappings; netstat/ss show sockets; dig/nslookup query DNS. Packet analyzers inspect protocols. LLDP/CDP reveal adjacent devices. Cable and optical tools test physical media."
+  },
+  {
+    "id": "n10-v06-5.5-06",
+    "objective": "5.5",
+    "prompt": "A technician needs packet-level TCP handshake evidence — which answer best fits?",
+    "options": [
+      "Cable label",
+      "UPS display",
+      "Wireshark or tcpdump",
+      "IPAM only"
+    ],
+    "answer": 2,
+    "difficulty": "application",
+    "explanation": "Wireshark or tcpdump is the best match for this situation. Ping tests ICMP reachability but filtering can hide responses. Traceroute reveals responding hops, not necessarily the exact return path. ipconfig/ip addr show addressing; arp/ip neigh show neighbor mappings; netstat/ss show sockets; dig/nslookup query DNS. Packet analyzers inspect protocols. LLDP/CDP reveal adjacent devices. Cable and optical tools test physical media."
+  },
+  {
+    "id": "n10-v06-5.5-07",
+    "objective": "5.5",
+    "prompt": "A technician needs adjacent switch identity via standards-based discovery — which answer best fits?",
+    "options": [
+      "LLDP",
+      "NTP",
+      "DHCP release",
+      "DNS MX"
+    ],
+    "answer": 0,
+    "difficulty": "application",
+    "explanation": "LLDP is the best match for this situation. Ping tests ICMP reachability but filtering can hide responses. Traceroute reveals responding hops, not necessarily the exact return path. ipconfig/ip addr show addressing; arp/ip neigh show neighbor mappings; netstat/ss show sockets; dig/nslookup query DNS. Packet analyzers inspect protocols. LLDP/CDP reveal adjacent devices. Cable and optical tools test physical media."
+  },
+  {
+    "id": "n10-v06-5.5-08",
+    "objective": "5.5",
+    "prompt": "A technician needs Cisco neighbor information — which answer best fits?",
+    "options": [
+      "nslookup",
+      "show clock only",
+      "show cdp neighbors",
+      "ping localhost"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "show cdp neighbors is the best match for this situation. Ping tests ICMP reachability but filtering can hide responses. Traceroute reveals responding hops, not necessarily the exact return path. ipconfig/ip addr show addressing; arp/ip neigh show neighbor mappings; netstat/ss show sockets; dig/nslookup query DNS. Packet analyzers inspect protocols. LLDP/CDP reveal adjacent devices. Cable and optical tools test physical media."
+  },
+  {
+    "id": "n10-v06-5.5-09",
+    "objective": "5.5",
+    "prompt": "A technician needs switch interface error counters — which answer best fits?",
+    "options": [
+      "DNS lookup",
+      "show users only",
+      "show interfaces",
+      "ARP request only"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "show interfaces is the best match for this situation. Ping tests ICMP reachability but filtering can hide responses. Traceroute reveals responding hops, not necessarily the exact return path. ipconfig/ip addr show addressing; arp/ip neigh show neighbor mappings; netstat/ss show sockets; dig/nslookup query DNS. Packet analyzers inspect protocols. LLDP/CDP reveal adjacent devices. Cable and optical tools test physical media."
+  },
+  {
+    "id": "n10-v06-5.5-10",
+    "objective": "5.5",
+    "prompt": "A technician needs locate an unlabeled copper cable among many — which answer best fits?",
+    "options": [
+      "Packet capture only",
+      "NTP client",
+      "Tone generator and probe",
+      "DNS resolver"
+    ],
+    "answer": 2,
+    "difficulty": "analysis",
+    "explanation": "Tone generator and probe is the best match for this situation. Ping tests ICMP reachability but filtering can hide responses. Traceroute reveals responding hops, not necessarily the exact return path. ipconfig/ip addr show addressing; arp/ip neigh show neighbor mappings; netstat/ss show sockets; dig/nslookup query DNS. Packet analyzers inspect protocols. LLDP/CDP reveal adjacent devices. Cable and optical tools test physical media."
   }
 ]

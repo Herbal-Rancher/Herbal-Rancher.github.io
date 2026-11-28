@@ -35,4 +35,4 @@ Independent CompTIA N10-009 learning resource. Follow your Udemy course, review 
 
 ## Development status
 
-v0.5 includes 500 practice questions, expanded objective notes, rapid review and interactive exercises. Progress is export-only. Udemy section mapping is provisional, especially section 2; section 27 is practical labs.
+v0.6 includes 750 practice questions, technical deep dives for all 25 objectives, adaptive study recommendations, rapid review and interactive exercises. Progress is export-only. Udemy section mapping is provisional, especially section 2; section 27 is practical labs.
